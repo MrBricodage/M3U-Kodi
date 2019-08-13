@@ -1,5 +1,6 @@
 # M3U-Kodi
 
+The only file to load on LSPro is ChannelsProd.xml
 
 Access to raw files : 
 
@@ -8,5 +9,4 @@ Access to raw files :
 [https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/TV-FR.m3u]
 
 [https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/m3u-Kodi.m3u]
-
 
