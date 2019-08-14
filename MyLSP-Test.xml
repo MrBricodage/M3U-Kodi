@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
@@ -10,7 +8,7 @@
 <fanart></fanart>
 </item>
 
-
+<!-- 
 <item>
 <title>[COLOR orange][B]F[/B][/COLOR][COLOR white][B]ree Sports[/B] Always?[/COLOR]</title>
 <info>Reliquat d'une ancienne diffusion?
@@ -34,18 +32,30 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 <link>http://103.194.171.4:1935/abr/abr-S-1/live/S-1_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
 <thumbnail></thumbnail>
 </item>
+ -->
 
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u Link[/B][/COLOR]</title>
-<link>http://watch.gotdark.com:80/richard/richard123/11094</link>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 Link[/B][/COLOR]</title>
+<link>http://194.88.104.169:8081/dfdftt11jl/canal+/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
+<link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Link to flow[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11093</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y InputStream Link[/B][/COLOR]</title>
 <info>Pas de son avec InputStream?</info>
-<inputstream>http://194.88.104.169:8081/dfdftt11jl/canal+/playlist.m3u8|User-Agent=245sdee654ereaa</inputstream>
+<inputstream>http://watch.gotdark.com:80/richard/richard123/11093</inputstream>
 <thumbnail></thumbnail>
 </item>
 
@@ -57,7 +67,7 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 </item>
 
 <!-- <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Menu[/B][/COLOR] [COLOR orange][B]SubMenus...[/B][/COLOR]</title>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Multisources item[/B][/COLOR]</title>
 <!-- importance du parametre dans le premier element de liste pour ne pas afficher tous les liens
 seul le premier lien est pris en compte la plupart du temps
 <link>http://bnk.bankai.stream/espn4.m3u8$$LSPlayOnlyOne$$|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
@@ -65,30 +75,53 @@ seul le premier lien est pris en compte la plupart du temps
 </item>
  -->
  
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link via f4mTester[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11093</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
-<link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
-<thumbnail></thumbnail>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Sub Menu[/B][/COLOR]</title>
+<link>
+	sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link1[/COLOR]::#
+    sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link2[/COLOR]::#
+    sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link3[/COLOR]::#
+</link>
 </item>
 
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y External Link[/B][/COLOR]</title>
+<title>[COLOR yellow][B]M[/B][/COLOR][COLOR white][B]y External Link[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11xmk/raw</externallink>
+<externallink>https://pastebin.com/raw/AucEqvnz</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR purple][B]E[/B][/COLOR][COLOR white][B]xternal To Internal[/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch5/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 01[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/AucEqvnz</externallink>
 <thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 02[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/fE5Sec8a</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 03[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/4ZUnmeYJ</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 04[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/M3y8ZAjK</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
 
