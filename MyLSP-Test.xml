@@ -97,7 +97,8 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 <thumbnail></thumbnail>
 </item>
 
-<!-- <item>
+<!-- 
+<item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Multisources item[/B][/COLOR]</title>
 <!-- importance du parametre dans le premier element de liste pour ne pas afficher tous les liens
 seul le premier lien est pris en compte la plupart du temps
@@ -106,6 +107,8 @@ seul le premier lien est pris en compte la plupart du temps
 </item>
  -->
  
+<!--  
+<item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Sub Menu[/B][/COLOR]</title>
 <link>
 	sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link1[/COLOR]::#
@@ -113,6 +116,7 @@ seul le premier lien est pris en compte la plupart du temps
     sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link3[/COLOR]::#
 </link>
 </item>
+ -->
 
 <item>
 <title>[COLOR yellow][B]M[/B][/COLOR][COLOR white][B]y External Link[/B][/COLOR]</title>
@@ -123,36 +127,42 @@ seul le premier lien est pris en compte la plupart du temps
 </item>
 
 <item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 01[/B][/COLOR]</title>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 01[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/AucEqvnz</externallink>
+<!-- <externallink>
+https://gist.githubusercontent.com/MrBricodage/4f2ae43854404267357b3a669ddd784b/raw/83a4e80d8e28085adce4ea7c7630dc681ad54a73/IPTV%2520List%252001
+</externallink> -->
+<externallink>https://frama.link/PVdnfUpe</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 02[/B][/COLOR]</title>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 02[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/fE5Sec8a</externallink>
+<!-- <externallink>
+https://gist.githubusercontent.com/MrBricodage/82242d8a6adcb1c488b25bed3f619e79/raw/3a6e0ade8bc390acd7fbe3665f1215b0b0442131/IPTV%2520List%252002
+</externallink> -->
+<externallink>https://frama.link/9ED6Eoj2</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 03[/B][/COLOR]</title>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 03[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/4ZUnmeYJ</externallink>
+<!-- <externallink>https://gist.githubusercontent.com/MrBricodage/48a2f48621ffa6d2cd6f6ed3252658d6/raw/d747cfaa7648c4737c710cfd0b495577b24ee674/IPTV%2520List%252003
+</externallink> -->
+<externallink>https://frama.link/HAXqvcT2</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR orange][B] 04[/B][/COLOR]</title>
+<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 04[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/M3y8ZAjK</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<!-- <externallink>https://gist.githubusercontent.com/MrBricodage/c75ae0a0d3bf6f252763a5cc2c342178/raw/70284a30f8132194a213f93df584ec6ce7afbdfb/IPTV%2520List%252004</externallink> -->
+<externallink>https://frama.link/dzaW_5Na</externallink>
 </item>
 
-</items>
 
