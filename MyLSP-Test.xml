@@ -41,6 +41,37 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 </item>
 
 <item>
+<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT[/B][/COLOR] 720p</title>
+<link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT2[/B][/COLOR] 720p</title>
+<link>http://jhdfkdfuiemevn.rgdjb.me/t/chunks.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT3[/B][/COLOR] 720p</title>
+<link>http://jhdfkdfuiemevn.rgdjb.me/t/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT4[/B][/COLOR] 720p</title>
+<link>https://testream.global.ssl.fastly.net/live/1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c2f60c0a696dffe5c2dff6c937e0bff436513a4e</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
@@ -62,7 +93,7 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y ACESTREAM Link[/B][/COLOR]</title>
 <info></info>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://eca2b0559912d5df82f683ca215fc399c90e9112&amp;name=[COLOR white][B][/B][/COLOR] ::LISTNAME:[COLOR gold][B]ACESTREAM   [HD]  [NBCSN]  [EN][/B][/COLOR]::#</link>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://eca2b0559912d5df82f683ca215fc399c90e9112</link>
 <thumbnail></thumbnail>
 </item>
 
