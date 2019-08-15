@@ -8,7 +8,7 @@
 <fanart></fanart>
 </item>
 
-<!-- 
+
 <item>
 <title>[COLOR orange][B]F[/B][/COLOR][COLOR white][B]ree Sports[/B] Always?[/COLOR]</title>
 <info>Reliquat d'une ancienne diffusion?
@@ -32,7 +32,7 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 <link>http://103.194.171.4:1935/abr/abr-S-1/live/S-1_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
 <thumbnail></thumbnail>
 </item>
- -->
+
 
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 Link[/B][/COLOR]</title>
@@ -43,24 +43,6 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 <item>
 <title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT[/B][/COLOR] 720p</title>
 <link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT2[/B][/COLOR] 720p</title>
-<link>http://jhdfkdfuiemevn.rgdjb.me/t/chunks.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT3[/B][/COLOR] 720p</title>
-<link>http://jhdfkdfuiemevn.rgdjb.me/t/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT4[/B][/COLOR] 720p</title>
-<link>https://testream.global.ssl.fastly.net/live/1/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -118,50 +100,4 @@ seul le premier lien est pris en compte la plupart du temps
 </item>
  -->
 
-<item>
-<title>[COLOR yellow][B]M[/B][/COLOR][COLOR white][B]y External Link[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/AucEqvnz</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 01[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<!-- <externallink>
-https://gist.githubusercontent.com/MrBricodage/4f2ae43854404267357b3a669ddd784b/raw/83a4e80d8e28085adce4ea7c7630dc681ad54a73/IPTV%2520List%252001
-</externallink> -->
-<externallink>https://frama.link/PVdnfUpe</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 02[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<!-- <externallink>
-https://gist.githubusercontent.com/MrBricodage/82242d8a6adcb1c488b25bed3f619e79/raw/3a6e0ade8bc390acd7fbe3665f1215b0b0442131/IPTV%2520List%252002
-</externallink> -->
-<externallink>https://frama.link/9ED6Eoj2</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 03[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<!-- <externallink>https://gist.githubusercontent.com/MrBricodage/48a2f48621ffa6d2cd6f6ed3252658d6/raw/d747cfaa7648c4737c710cfd0b495577b24ee674/IPTV%2520List%252003
-</externallink> -->
-<externallink>https://frama.link/HAXqvcT2</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][B] IPTV List [/B][/COLOR][COLOR yellow][B] 04[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<!-- <externallink>https://gist.githubusercontent.com/MrBricodage/c75ae0a0d3bf6f252763a5cc2c342178/raw/70284a30f8132194a213f93df584ec6ce7afbdfb/IPTV%2520List%252004</externallink> -->
-<externallink>https://frama.link/dzaW_5Na</externallink>
-</item>
 
