@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0,AF: CanalSport 1_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,AF: CanalSport 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4237
 #EXTINF:0,Vietnam: Foxsports1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/7086
-#EXTINF:0,Vietnam: Foxsports2_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Vietnam: Foxsports2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/7087
 #EXTINF:0,BR:; Fox Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5011
@@ -11,13 +11,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5012
 #EXTINF:0,BR:; Fox Sports 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5013
-#EXTINF:0,BR:; Fox Sports HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,BR:; Fox Sports HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5014
 #EXTINF:0,Canada: SPORTSNET (East) | UHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10941
 #EXTINF:0,Canada: SPORTSNET 360 | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10940
-#EXTINF:0,Canada: SPORTSNET 360 | SD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: SPORTSNET 360 | SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10939
 #EXTINF:0,Canada: SPORTSNET 360 | UHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10938
@@ -25,7 +25,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10937
 #EXTINF:0,Canada: SPORTSNET EAST | HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10936
-#EXTINF:0,Canada: SPORTSNET ONE | HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: SPORTSNET ONE | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10935
 #EXTINF:0,Canada: SPORTSNET ONE | HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10934
@@ -33,33 +33,33 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10933
 #EXTINF:0,Canada: SPORTSNET ONTARIO | HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10932
-#EXTINF:0,Canada: SPORTSNET ONTARIO | HD**_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: SPORTSNET ONTARIO | HD**
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10931
 #EXTINF:0,Canada: SPORTSNET PACIFIC | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10930
-#EXTINF:0,Canada: SPORTSNET PACIFIC | HD*_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: SPORTSNET PACIFIC | HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10929
 #EXTINF:0,Canada: SPORTSNET PACIFIC | SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10928
 #EXTINF:0,Canada: SPORTSNET WEST | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10927
-#EXTINF:0,Canada: SPORTSNET WEST | HD*_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: SPORTSNET WEST | HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10926
 #EXTINF:0,Canada: SportsNet WEST | SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10925
-#EXTINF:0,Canada: Sportsnet World | HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,Canada: Sportsnet World | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10924
 #EXTINF:0,RedHatUnion: Fox Sports 1 FHD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11191
 #EXTINF:0,RedHatUnion: Fox Sports Arizona HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11190
-#EXTINF:0,RedHatUnion: Fox Sports Carolina HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,RedHatUnion: Fox Sports Carolina HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11189
 #EXTINF:0,RedHatUnion: Fox Sports Florida HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11188
 #EXTINF:0,RedHatUnion: Fox Sports North HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11187
-#EXTINF:0,RedHatUnion: Fox Sports Ohio HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,RedHatUnion: Fox Sports Ohio HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11186
 #EXTINF:0,RedHatUnion: Fox Sports Plus FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11185
@@ -71,7 +71,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11182
 #EXTINF:0,RedHatUnion: Fox Sports Sun HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11179
-#EXTINF:0,RedHatUnion: Fox Sports West HD_FOLLOW : twitter.com/dailyfreeiptv
+#EXTINF:0,RedHatUnion: Fox Sports West HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11181
 #EXTINF:0,RedHatUnion: Fox Sports Wisconsin HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11180
