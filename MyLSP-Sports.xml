@@ -425,14 +425,6 @@ Validité dans le temps à vérifier
 <thumbnail></thumbnail>
 </item>
 
-<!-- <item>
-<title>[COLOR gold][B]B[/B][/COLOR][COLOR white][B]T Sports 1 HD Backup[/B][/COLOR]</title>
-<info>Flux tournant? 
-D'autres chaines à côté?</info>
-<link>http://22.rogend.xyz/hls2/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
- -->
 
 <item>
 <title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 1 HD[/B][/COLOR]</title>
@@ -962,6 +954,27 @@ Validité dans le temps à vérifier
 Validité dans le temps à vérifier
 </info>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/16632</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 1 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 2 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://22.rogend.xyz/hls2/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 3 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://ovh1.rogend.xyz/hls3/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
