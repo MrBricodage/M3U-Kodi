@@ -9,7 +9,7 @@
 <item>
     <title>Sélection Chaines [COLOR blue][B]Sports[/B][/COLOR]</title>
     <link>http://Ignoreme</link>
-    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/MyLSP-Sports.xml</externallink>
+    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/IPTV-Sport.xml</externallink>
 </item>
 
 <item>
@@ -25,7 +25,13 @@
 </item>
 
 <item>
+    <title>Toutes Chaines [COLOR blue][B]Cinéma[/B][/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/IPTV-Movies.xml</externallink>
+</item>
+
+<item>
     <title>Chaines [COLOR blue][B]Test[/B][/COLOR]</title>
     <link>http://Ignoreme</link>
-    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/MyLSP-Test.xml</externallink>
+    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/IPTV-Test.xml</externallink>
 </item>

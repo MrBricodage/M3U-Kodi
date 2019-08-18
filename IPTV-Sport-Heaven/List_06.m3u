@@ -1,61 +1,161 @@
 #EXTM3U
-#EXTINF:0,SPORTTV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/253
-#EXTINF:0,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/205
-#EXTINF:0,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/204
-#EXTINF:0,SPORTTV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/23
-#EXTINF:0,SPORTTV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/22
-#EXTINF:0,SPORTTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/21
-#EXTINF:0,SPORTTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/20
-#EXTINF:0,SPORTTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/19
-#EXTINF:0,SPORTINGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/18
-#EXTINF:0,BENFICA TV 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/303
-#EXTINF:0,SPORT TV 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/302
-#EXTINF:0,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/334
-#EXTINF:0,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/333
-#EXTINF:0,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/332
-#EXTINF:0,ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/607
-#EXTINF:0,ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/606
-#EXTINF:0,ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/605
-#EXTINF:0,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/604
-#EXTINF:0,ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/614
-#EXTINF:0,ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/603
-#EXTINF:0,ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/613
-#EXTINF:0,ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/612
-#EXTINF:0,ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/611
-#EXTINF:0,ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/610
-#EXTINF:0,ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/609
-#EXTINF:0,ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/608
-#EXTINF:0,[FUBO] BEIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/758
-#EXTINF:0,[FUBO] BEIN SPORTS CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/759
-#EXTINF:0,[FUBO] BEIN SPORTS ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/757
-#EXTINF:0,SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/767
+#EXTINF:0,UK | BT Sports 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1245
+#EXTINF:0,UK | BT Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1244
+#EXTINF:0,UK | BT Sports 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1243
+#EXTINF:0,UK | BT SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22634
+#EXTINF:0,UK | Celtic TV (Match time only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30767
+#EXTINF:0,UK | Dundee TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30784
+#EXTINF:0,UK : ELEVEN LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11094
+#EXTINF:0,UK : ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11093
+#EXTINF:0,UK : ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11092
+#EXTINF:0,UK | Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1213
+#EXTINF:0,UK | Eurosport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1214
+#EXTINF:0,UK | EIR Sports 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/18180
+#EXTINF:0,UK | FREESPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/18178
+#EXTINF:0,UK | Kilmarnock TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30783
+#EXTINF:0,UK: Premier Sport | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/28331
+#EXTINF:0,UK: Premier Sports 1 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/28329
+#EXTINF:0,UK: Premier Sports 1| UHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/28328
+#EXTINF:0,UK | Rangers TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30780
+#EXTINF:0,UK | Sky Sports Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1173
+#EXTINF:0,UK | Sky Sports Arena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1172
+#EXTINF:0,UK | Sky Sports Cricket FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1171
+#EXTINF:0,UK | Sky Sports F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1170
+#EXTINF:0,UK | Sky Sports Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1169
+#EXTINF:0,UK | Sky Sports Golf FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1168
+#EXTINF:0,UK | Sky Sports Main Event FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1167
+#EXTINF:0,UK | Sky Sports Mix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1166
+#EXTINF:0,UK | Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1165
+#EXTINF:0,UK | SKY Sports Premier League FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/3203
+#EXTINF:0,UK: SKY SPORTS RACING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/26963
+#EXTINF:0,UK: Premier Sport | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/28332
+#EXTINF:0,UK: Premier Sports 2 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/28327
+#EXTINF:0,UK: PDC Darts (Event Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30599
+#EXTINF:0,UK | SKY SPORTS ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22645
+#EXTINF:0,UK | SKY SPORTS ARENA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22644
+#EXTINF:0,UK | SKY SPORTS CRICKET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22643
+#EXTINF:0,UK | SKY SPORTS F1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22642
+#EXTINF:0,UK | SKY SPORTS FOOTBALL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22641
+#EXTINF:0,UK | SKY SPORTS GOLF (THE OPEN) SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22640
+#EXTINF:0,UK | SKY SPORTS MAIN EVENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22639
+#EXTINF:0,UK | SKY SPORTS NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22638
+#EXTINF:0,UK | SKY SPORTS PREMIER LEAGUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/22637
+#EXTINF:0,USA | BEIN SORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1266
+#EXTINF:0,USA | BEIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29790
+#EXTINF:0,USA | BEIN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29791
+#EXTINF:0,USA | BEIN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29792
+#EXTINF:0,USA | BEIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29793
+#EXTINF:0,USA | BEIN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29794
+#EXTINF:0,USA | BIG TEN NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1323
+#EXTINF:0,USA | CBS Sports Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30537
+#EXTINF:0,USA | Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/1932
+#EXTINF:0,USA | FOX Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/930
+#EXTINF:0,USA | FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/929
+#EXTINF:0,USA | Fox Sports Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29738
+#EXTINF:0,USA | Fox Sports Detroit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29734
+#EXTINF:0,USA | Fox Sports Florida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29732
+#EXTINF:0,USA | Fox Sports Indiana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29729
+#EXTINF:0,USA | Fox Sports Indiana Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29728
+#EXTINF:0,USA | Fox Sports Kansas City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29727
+#EXTINF:0,USA | Fox Sports Kansas City Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29726
+#EXTINF:0,USA | Fox Sports Midwest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29725
+#EXTINF:0,USA | Fox Sports New Orleans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29724
+#EXTINF:0,USA | Fox Sports New Orleans Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29723
+#EXTINF:0,USA | Fox Sports North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29722
+#EXTINF:0,USA | Fox Sports North Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29721
+#EXTINF:0,USA | Fox Sports Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29720
+#EXTINF:0,USA | Fox Sports Ohio Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29719
+#EXTINF:0,USA | Fox Sports Oklahoma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/30373
+#EXTINF:0,USA | Fox Sports Prime Ticket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29716
+#EXTINF:0,USA | Fox Sports San Antonio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29715
+#EXTINF:0,USA | Fox Sports San Diego
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29714
+#EXTINF:0,USA | Fox Sports South
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29712
+#EXTINF:0,USA | Fox Sports Southeast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29711
+#EXTINF:0,USA | Fox Sports Southwest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29708
+#EXTINF:0,USA | Fox Sports Southwest Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29707
+#EXTINF:0,USA | Fox Sports Sun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29706
+#EXTINF:0,USA | Fox Sports Tennesse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29705
+#EXTINF:0,USA | Fox Sports West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29704
+#EXTINF:0,USA | Fox Sports Wisconsin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29703
+#EXTINF:0,USA | Fox Sports Yes Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/29701
+#EXTINF:0,USA | GINX ESPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/23202

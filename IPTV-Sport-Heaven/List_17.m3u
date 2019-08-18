@@ -1,23 +1,379 @@
 #EXTM3U
-#EXTINF:0,Mexico | Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/97
-#EXTINF:0,Mexico | Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/96
-#EXTINF:0,Mexico | Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/95
-#EXTINF:0,Latinos | Fox Sports 1 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/327
-#EXTINF:0,Latinos | Fox Sports 1 Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/324
-#EXTINF:0,Latinos | Fox Sports 2 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/321
-#EXTINF:0,Latinos | Fox Sports 2 Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/318
-#EXTINF:0,Latinos | Fox Sports 3 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/315
-#EXTINF:0,Latinos | Fox Sports 3 Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/312
-#EXTINF:0,24 Horas | WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/566
-#EXTINF:0,Argentina | TNT Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/535
+#EXTINF:0,ARENA SPORT BIH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/58097
+#EXTINF:0,MOJA TV SPORT (BIH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52511
+#EXTINF:0,ARENA SPORT 1 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52510
+#EXTINF:0,ARENA SPORT 2 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52508
+#EXTINF:0,ARENA SPORT 3 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52506
+#EXTINF:0,ARENA SPORT 4 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52504
+#EXTINF:0,ARENA SPORT 5 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52502
+#EXTINF:0,ARENA SPORT 6 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52500
+#EXTINF:0,ARENA SPORT 1 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52498
+#EXTINF:0,ARENA SPORT 2 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52496
+#EXTINF:0,ARENA SPORT 3 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52494
+#EXTINF:0,ARENA SPORT 4 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52492
+#EXTINF:0,ARENA SPORT 5 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52490
+#EXTINF:0,SPORT KLUB 1 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52485
+#EXTINF:0,SPORT KLUB 2 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52483
+#EXTINF:0,SPORT KLUB 3 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52481
+#EXTINF:0,SPORT KLUB 4 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52479
+#EXTINF:0,SPORT KLUB 5 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52478
+#EXTINF:0,SPORT KLUB 6 HD (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52477
+#EXTINF:0,SPORT KLUB 1  HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52476
+#EXTINF:0,SPORT KLUB 2 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52474
+#EXTINF:0,SPORT KLUB 3 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52472
+#EXTINF:0,SPORT KLUB 4 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52470
+#EXTINF:0,SPORT KLUB 5 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52469
+#EXTINF:0,SPORT KLUB 6 HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52468
+#EXTINF:0,SPORT KLUB 7 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52467
+#EXTINF:0,SPORT KLUB 8 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52466
+#EXTINF:0,SPORT KLUB 9 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52465
+#EXTINF:0,SPORT KLUB 10 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52464
+#EXTINF:0,SPORT KLUB CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52487
+#EXTINF:0,SPORT KLUB GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52486
+#EXTINF:0,SPORT KLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52488
+#EXTINF:0,PLANET SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52522
+#EXTINF:0,PLANET SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52520
+#EXTINF:0,PLANET SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52518
+#EXTINF:0,PLANET SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52516
+#EXTINF:0,PLANET SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52514
+#EXTINF:0,|IT| SKY SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57878
+#EXTINF:0,|IT| SKY SPORT 251 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57828
+#EXTINF:0,|IT| SKY SPORT ARENA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57877
+#EXTINF:0,|IT| SKY SPORT FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57876
+#EXTINF:0,|IT| SKY SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57875
+#EXTINF:0,|IT| SKY SPORT SERIE A HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57874
+#EXTINF:0,|IT| SKY SPORT UNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57873
+#EXTINF:0,|IT| SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57872
+#EXTINF:0,|IT| SKY SPORTS FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57871
+#EXTINF:0,|IT| SKY SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57870
+#EXTINF:0,|IT| SKY CALCIO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57902
+#EXTINF:0,|IT| SKY CALCIO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57901
+#EXTINF:0,|IT| SKY CALCIO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57900
+#EXTINF:0,|IT| SKY CALCIO 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57899
+#EXTINF:0,|IT| SKY CALCIO 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57898
+#EXTINF:0,|IT| SKY CALCIO 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57897
+#EXTINF:0,|IT| SKY CALCIO 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57896
+#EXTINF:0,|IT| SKY FORMULA 1  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57830
+#EXTINF:0,|IT| SKY FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57883
+#EXTINF:0,|IT| SKY GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57881
+#EXTINF:0,|IT| SKY MOTO GP  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57829
+#EXTINF:0,|IT| SKY MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57880
+#EXTINF:0,|IT| SKY PRIMAFILA WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57879
+#EXTINF:0,FR EQUIDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53148
+#EXTINF:0,FR EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53150
+#EXTINF:0,FR EURONEWS (FRENCH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53109
+#EXTINF:0,FR EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53167
+#EXTINF:0,FR EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53166
+#EXTINF:0,FR EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53149
+#EXTINF:0,FR RMC ACCESS SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53158
+#EXTINF:0,FR RMC ACCESS SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53157
+#EXTINF:0,FR RMC ACCESS SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53156
+#EXTINF:0,FR RMC ACCESS SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53155
+#EXTINF:0,FR RMC ACCESS SPORT1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52986
+#EXTINF:0,FR RMC ACCESS SPORT2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52985
+#EXTINF:0,FR RMC ACCESS SPORT3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52984
+#EXTINF:0,FR RMC ACCESS SPORT4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52983
+#EXTINF:0,FR RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53124
+#EXTINF:0,FR RMC DECOVERTE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53123
+#EXTINF:0,FR RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53163
+#EXTINF:0,FR RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53162
+#EXTINF:0,FR RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53161
+#EXTINF:0,FR RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53160
+#EXTINF:0,FR RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53159
+#EXTINF:0,FR RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53164
+#EXTINF:0,FR RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53215
+#EXTINF:0,NL EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32419
+#EXTINF:0,NL EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32418
+#EXTINF:0,NL EXTREME SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32420
+#EXTINF:0,NL FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32433
+#EXTINF:0,NL FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32432
+#EXTINF:0,NL FOX SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32431
+#EXTINF:0,NL FOX SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32430
+#EXTINF:0,NL FOX SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32429
+#EXTINF:0,NL FOX SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32428
+#EXTINF:0,NL ZIGGO SPORT EXTRA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32422
+#EXTINF:0,NL ZIGGO SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32421
+#EXTINF:0,NL ZIGGO SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32423
+#EXTINF:0,NL ZIGGO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32427
+#EXTINF:0,NL ZIGGO SPORT RACING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32424
+#EXTINF:0,NL ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32425
+#EXTINF:0,NL ZIGGO SPORT VOETBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32426
+#EXTINF:0, DAZN 1 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31198
+#EXTINF:0, DAZN 2 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31197
+#EXTINF:0, EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31229
+#EXTINF:0, SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31194
+#EXTINF:0, SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31196
+#EXTINF:0, SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31193
+#EXTINF:0, SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31195
+#EXTINF:0, SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31204
+#EXTINF:0, SPORT 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31203
+#EXTINF:0, EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31202
+#EXTINF:0, EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31200
+#EXTINF:0, EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31201
+#EXTINF:0, SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31192
+#EXTINF:0, SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31191
+#EXTINF:0, SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31190
+#EXTINF:0, SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31189
+#EXTINF:0, SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31188
+#EXTINF:0, SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31187
+#EXTINF:0, SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31186
+#EXTINF:0, SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31185
+#EXTINF:0, SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31184
+#EXTINF:0, SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31183
+#EXTINF:0,TR TIVIBU SPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50986
+#EXTINF:0,TR TIVIBU SPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50985
+#EXTINF:0,TR TIVIBU SPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50984
+#EXTINF:0,TR TIVIBU SPOR HD PLUS.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50987
+#EXTINF:0,TR TLC HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/51160
+#EXTINF:0,CH TV 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33845
+#EXTINF:0,CH MY SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33839
+#EXTINF:0,CH MY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33838
+#EXTINF:0,CH MY SPORTS 2 HD/SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33837
+#EXTINF:0,CH MY SPORTS 3 HD/SKY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33836
+#EXTINF:0,CH MY SPORTS 4 HD/SKY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33835
+#EXTINF:0,CH MY SPORTS 5 HD/SKY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33834
+#EXTINF:0,CH MY SPORTS 6 HD/SKY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33833
+#EXTINF:0,CH MY SPORTS 7 HD/SKY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33832
+#EXTINF:0,CH MY SPORTS 8 HD/SKY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33831
+#EXTINF:0,CH MY SPORTS 9 HD/SKY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/33830
+#EXTINF:0,ALB ART SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48615
+#EXTINF:0,ALB ART SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48614
+#EXTINF:0,ALB ART SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48613
+#EXTINF:0,ALB BABY BOX TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48704
+#EXTINF:0,ALB K SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48623
+#EXTINF:0,ALB K SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48622
+#EXTINF:0,ALB K SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48621
+#EXTINF:0,ALB K SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48620
+#EXTINF:0,ALB K SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48619
+#EXTINF:0,ALB SUPER SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48641
+#EXTINF:0,ALB SUPER SPORT 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48639
+#EXTINF:0,ALB SUPER SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48640
+#EXTINF:0,ALB SUPER SPORT 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48637
+#EXTINF:0,ALB SUPER SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48638
+#EXTINF:0,ALB SUPER SPORT 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48635
+#EXTINF:0,ALB SUPER SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48636
+#EXTINF:0,ALB SUPER SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48634
+#EXTINF:0,ALB SUPER SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48633
+#EXTINF:0,ALB SUPER SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48632
+#EXTINF:0,ALB SYRI BLU MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/48662
+#EXTINF:0,RO DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50666
+#EXTINF:0,RO DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50665
+#EXTINF:0,RO DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50664
+#EXTINF:0,RO DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/50663
+#EXTINF:0,UK BT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49737
+#EXTINF:0,UK BT SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49753
+#EXTINF:0,UK BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49756
+#EXTINF:0,UK BT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49736
+#EXTINF:0,UK BT SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49752
+#EXTINF:0,UK BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49755
+#EXTINF:0,UK BT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49735
+#EXTINF:0,UK BT SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49751
+#EXTINF:0,UK BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49754
+#EXTINF:0,UK BT SPORTS ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49757
+#EXTINF:0,UK BT SPORTS EXTRA 1 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49734
+#EXTINF:0,UK BT SPORTS EXTRA 2 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49733
+#EXTINF:0,UK BT SPORTS EXTRA 3 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49732
+#EXTINF:0,UK BT SPORTS EXTRA 4 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49731
+#EXTINF:0,UK BT SPORTS EXTRA 5 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49730
+#EXTINF:0,UK BT SPORTS EXTRA 6 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/49729
+#EXTINF:0,BEIN SPORTS 1 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59190
+#EXTINF:0,BEIN SPORTS 5 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59186
+#EXTINF:0,BEIN SPORTS 2 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59189
+#EXTINF:0,BEIN SPORTS 3 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59188
+#EXTINF:0,BEIN SPORTS 4 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59187
+#EXTINF:0,BEIN SPORTS 6 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59185
+#EXTINF:0,BEIN SPORTS 7 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59184
+#EXTINF:0,BEIN SPORTS 8 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59183
+#EXTINF:0,BEIN SPORTS 9 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59182
+#EXTINF:0,BEIN SPORTS 10 HD ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59181
+#EXTINF:0,|UK| 4K - BEIN SPORTS 1 HD (ONLY FOR UK CLIENTS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59209
+#EXTINF:0,|UK| 4K - BEIN SPORTS 2 HD (ONLY FOR UK CLIENTS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/59207

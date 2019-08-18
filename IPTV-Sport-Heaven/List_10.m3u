@@ -1,39 +1,65 @@
 #EXTM3U
-#EXTINF:0,Flow Sport 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53054
-#EXTINF:0,Flow Sport 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53053
-#EXTINF:0,Flow Sport 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53052
-#EXTINF:0,Flow Sport 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53051
-#EXTINF:0,Flow Sport 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53050
-#EXTINF:0,Flow Sport 6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53049
-#EXTINF:0,Flow Sport PL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53055
-#EXTINF:0,Sony Ten Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53038
-#EXTINF:0,Sony Ten Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53039
-#EXTINF:0,Sony Ten Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/53037
-#EXTINF:0,UK:BT Sport 2 HDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/23628
-#EXTINF:0,UK:BT Sports 1 HDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35389
-#EXTINF:0,UK:BT Sport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35390
-#EXTINF:0,UK:BT Sport 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35391
-#EXTINF:0,UK:BT Sport Extra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35384
-#EXTINF:0,UK:BT Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35385
-#EXTINF:0,UK:BT Sport Extra 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35386
-#EXTINF:0,UK:BT Sport Extra 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35387
-#EXTINF:0,UK:BT Sport Extra 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sghub.ml:80/ron/ron/35388
+#EXTINF:0,(TR) EUROSPORT 2 (TR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
+#EXTINF:0,(TR) EUROSPORT 1 (TR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
+#EXTINF:0,(TR) DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
+#EXTINF:0,(TR) BURSA SPOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
+#EXTINF:0,(TR) BJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
+#EXTINF:0,(TR) AKTIF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
+#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
+#EXTINF:0,DESP | Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
+#EXTINF:0,DESP | Sky Bundesliga 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
+#EXTINF:0,DESP | Sky Bundesliga 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
+#EXTINF:0,DESP | Sky Bundesliga 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
+#EXTINF:0,DESP | Sky Bundesliga 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
+#EXTINF:0,DESP | Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
+#EXTINF:0,DESP |Sky Sport 2  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
+#EXTINF:0,DESP | Sport1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
+#EXTINF:0,DESP | Dazn Bar 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
+#EXTINF:0,DESP | Dazn Bar 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
+#EXTINF:0,DESP | Sport Digital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
+#EXTINF:0,DESP | Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
+#EXTINF:0,DESP | EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
+#EXTINF:0,DESP | Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
+#EXTINF:0,DESP | Eurosport 2 HD Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
+#EXTINF:0,(AR) BEINSPORT HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
+#EXTINF:0,(AR) BEINSPORT HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
+#EXTINF:0,(AR) BEINSPORT HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
+#EXTINF:0,(AR) BEINSPORT HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
+#EXTINF:0,(AR) BEINSPORT HD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
+#EXTINF:0,(AR) BEINSPORT HD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
+#EXTINF:0,(AR) BEINSPORT HD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
+#EXTINF:0,(AR) BEINSPORT HD 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
+#EXTINF:0,(AR) BEINSPORT HD 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
+#EXTINF:0,(AR) BEINSPORT HD 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts

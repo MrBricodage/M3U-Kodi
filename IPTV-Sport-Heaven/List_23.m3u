@@ -1,77 +1,355 @@
 #EXTM3U
-#EXTINF:0,AF: CanalSport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4237
-#EXTINF:0,Vietnam: Foxsports1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/7086
-#EXTINF:0,Vietnam: Foxsports2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/7087
-#EXTINF:0,BR:; Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5011
-#EXTINF:0,BR:; Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5012
-#EXTINF:0,BR:; Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5013
-#EXTINF:0,BR:; Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5014
-#EXTINF:0,Canada: SPORTSNET (East) | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10941
-#EXTINF:0,Canada: SPORTSNET 360 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10940
-#EXTINF:0,Canada: SPORTSNET 360 | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10939
-#EXTINF:0,Canada: SPORTSNET 360 | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10938
-#EXTINF:0,Canada: SPORTSNET 360| UHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10937
-#EXTINF:0,Canada: SPORTSNET EAST | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10936
-#EXTINF:0,Canada: SPORTSNET ONE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10935
-#EXTINF:0,Canada: SPORTSNET ONE | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10934
-#EXTINF:0,Canada: SPORTSNET ONTARIO | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10933
-#EXTINF:0,Canada: SPORTSNET ONTARIO | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10932
-#EXTINF:0,Canada: SPORTSNET ONTARIO | HD**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10931
-#EXTINF:0,Canada: SPORTSNET PACIFIC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10930
-#EXTINF:0,Canada: SPORTSNET PACIFIC | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10929
-#EXTINF:0,Canada: SPORTSNET PACIFIC | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10928
-#EXTINF:0,Canada: SPORTSNET WEST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10927
-#EXTINF:0,Canada: SPORTSNET WEST | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10926
-#EXTINF:0,Canada: SportsNet WEST | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10925
-#EXTINF:0,Canada: Sportsnet World | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/10924
-#EXTINF:0,RedHatUnion: Fox Sports 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11191
-#EXTINF:0,RedHatUnion: Fox Sports Arizona HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11190
-#EXTINF:0,RedHatUnion: Fox Sports Carolina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11189
-#EXTINF:0,RedHatUnion: Fox Sports Florida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11188
-#EXTINF:0,RedHatUnion: Fox Sports North HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11187
-#EXTINF:0,RedHatUnion: Fox Sports Ohio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11186
-#EXTINF:0,RedHatUnion: Fox Sports Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11185
-#EXTINF:0,RedHatUnion: Fox Sports San Diego HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11184
-#EXTINF:0,RedHatUnion: Fox Sports South East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11183
-#EXTINF:0,RedHatUnion: Fox Sports South HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11182
-#EXTINF:0,RedHatUnion: Fox Sports Sun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11179
-#EXTINF:0,RedHatUnion: Fox Sports West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11181
-#EXTINF:0,RedHatUnion: Fox Sports Wisconsin HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11180
+#EXTINF:-1,Bein Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch400?code=100131314976912&key=23063
+#EXTINF:-1,BeInSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch111?code=100131314976912&key=45798
+#EXTINF:-1,BeInSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch112?code=100131314976912&key=37144
+#EXTINF:-1,BeInSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch113?code=100131314976912&key=25990
+#EXTINF:-1,BeInSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch114?code=100131314976912&key=46725
+#EXTINF:-1,BeInSport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch115?code=100131314976912&key=42605
+#EXTINF:-1,BeInSport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch116?code=100131314976912&key=39358
+#EXTINF:-1,BeInSport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch117?code=100131314976912&key=25726
+#EXTINF:-1,BeInSport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch118?code=100131314976912&key=59166
+#EXTINF:-1,BeInSport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch510?code=100131314976912&key=39668
+#EXTINF:-1,BeInSport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch511?code=100131314976912&key=60005
+#EXTINF:-1,BeInSport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch512?code=100131314976912&key=30458
+#EXTINF:-1,BeInSport 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch513?code=100131314976912&key=33064
+#EXTINF:-1,BeInSport 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch514?code=100131314976912&key=26152
+#EXTINF:-1,BeInSport 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch515?code=100131314976912&key=32656
+#EXTINF:-1,BeInSport 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch516?code=100131314976912&key=43492
+#EXTINF:-1,BeInSport 16 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch517?code=100131314976912&key=35206
+#EXTINF:-1,BeInSport NBA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch522?code=100131314976912&key=28040
+#EXTINF:-1,Canal+ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch202?code=100131314976912&key=13437
+#EXTINF:-1,Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch269?code=100131314976912&key=49485
+#EXTINF:-1,AB Moteur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch268?code=100131314976912&key=40150
+#EXTINF:-1,Golf Plus FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1299?code=100131314976912&key=43353
+#EXTINF:-1,Golf Channel FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch290?code=100131314976912&key=37595
+#EXTINF:-1,EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch743?code=100131314976912&key=20209
+#EXTINF:-1,EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch744?code=100131314976912&key=45848
+#EXTINF:-1,Foot Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch266?code=100131314976912&key=32117
+#EXTINF:-1,Infosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch250?code=100131314976912&key=23393
+#EXTINF:-1,BFM Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch244?code=100131314976912&key=32784
+#EXTINF:-1,Eleven Sport 1 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1648?code=100131314976912&key=51319
+#EXTINF:-1,Eleven Sport 2 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1649?code=100131314976912&key=51249
+#EXTINF:-1,RMC Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch255?code=100131314976912&key=16794
+#EXTINF:-1,RMC Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch253?code=100131314976912&key=14594
+#EXTINF:-1,RMC Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch254?code=100131314976912&key=18644
+#EXTINF:-1,RMC Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch243?code=100131314976912&key=42437
+#EXTINF:-1,BeInSport 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch119?code=100131314976912&key=53869
+#EXTINF:-1,BeInSport 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch120?code=100131314976912&key=24478
+#EXTINF:-1,BeInSport 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch206?code=100131314976912&key=12768
+#EXTINF:-1,BeInSport Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch340?code=100131314976912&key=58864
+#EXTINF:-1,BeInSport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch341?code=100131314976912&key=59021
+#EXTINF:-1,BeInSport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch342?code=100131314976912&key=44704
+#EXTINF:-1,BeInSport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch343?code=100131314976912&key=42711
+#EXTINF:-1,BeInSport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch344?code=100131314976912&key=36365
+#EXTINF:-1,BeInSport Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch345?code=100131314976912&key=11212
+#EXTINF:-1,BeInSport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch346?code=100131314976912&key=17504
+#EXTINF:-1,Sky Sport 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch405?code=100131314976912&key=19976
+#EXTINF:-1,Sky Sport 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch406?code=100131314976912&key=58727
+#EXTINF:-1,Dazn 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1657?code=100131314976912&key=61299
+#EXTINF:-1,Dazn 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1658?code=100131314976912&key=49185
+#EXTINF:-1,Sport1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1520?code=100131314976912&key=18316
+#EXTINF:-1,EuroSport1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch420?code=100131314976912&key=26007
+#EXTINF:-1,Eurosport2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1519?code=100131314976912&key=41574
+#EXTINF:-1,SKY Sport news UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1053?code=100131314976912&key=21420
+#EXTINF:-1,SKY Sport Football UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch922?code=100131314976912&key=55686
+#EXTINF:-1,Sky Sport Premium UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch937?code=100131314976912&key=53010
+#EXTINF:-1,SKY Sport Golf UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch914?code=100131314976912&key=18951
+#EXTINF:-1,SKY Sport Action UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch915?code=100131314976912&key=31276
+#EXTINF:-1,SKY Sport Criket UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch916?code=100131314976912&key=35385
+#EXTINF:-1,Sport Mix UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch931?code=100131314976912&key=35210
+#EXTINF:-1,BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1828?code=100131314976912&key=29625
+#EXTINF:-1,BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1829?code=100131314976912&key=14881
+#EXTINF:-1,BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1830?code=100131314976912&key=14517
+#EXTINF:-1,BT Sport Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1831?code=100131314976912&key=34454
+#EXTINF:-1,Setana Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1832?code=100131314976912&key=48852
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1833?code=100131314976912&key=10970
+#EXTINF:-1,Premiere Sport UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1834?code=100131314976912&key=16559
+#EXTINF:-1,Sky Sport F1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch930?code=100131314976912&key=51801
+#EXTINF:-1,Eurosport 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch929?code=100131314976912&key=33398
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch918?code=100131314976912&key=32123
+#EXTINF:-1,Fight Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1100?code=100131314976912&key=23154
+#EXTINF:-1,KSA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch823?code=100131314976912&key=23507
+#EXTINF:-1,KSA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch824?code=100131314976912&key=44416
+#EXTINF:-1,KSA SPORT +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch825?code=100131314976912&key=46484
+#EXTINF:-1,KSA SPORT +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch826?code=100131314976912&key=53577
+#EXTINF:-1,AD Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch122?code=100131314976912&key=64986
+#EXTINF:-1,AD Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch603?code=100131314976912&key=50249
+#EXTINF:-1,AD Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch5519?code=100131314976912&key=39616
+#EXTINF:-1,Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch183?code=100131314976912&key=25770
+#EXTINF:-1,Kuwait Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch792?code=100131314976912&key=41422
+#EXTINF:-1,Jordan Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch773?code=100131314976912&key=13306
+#EXTINF:-1,Al Kaas 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch497?code=100131314976912&key=56054
+#EXTINF:-1,Al Kaas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch442?code=100131314976912&key=61599
+#EXTINF:-1,Al Kaas 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch545?code=100131314976912&key=44427
+#EXTINF:-1,Yas Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch629?code=100131314976912&key=28166
+#EXTINF:-1,Ahly Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch783?code=100131314976912&key=23674
+#EXTINF:-1,Nahar Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch179?code=100131314976912&key=27232
+#EXTINF:-1,Dubai Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch154?code=100131314976912&key=46684
+#EXTINF:-1,Dubai Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch155?code=100131314976912&key=48035
+#EXTINF:-1,Dubai Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1533?code=100131314976912&key=36153
+#EXTINF:-1,Dubai Racing 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1531?code=100131314976912&key=61134
+#EXTINF:-1,Dubai Racing 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1031?code=100131314976912&key=35918
+#EXTINF:-1,Dubai Racing 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1532?code=100131314976912&key=42951
+#EXTINF:-1,Saudie Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch747?code=100131314976912&key=43111
+#EXTINF:-1,Al Iraqya Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch841?code=100131314976912&key=60497
+#EXTINF:-1,Rai Sport 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1315?code=100131314976912&key=28092
+#EXTINF:-1,SKY Sport 24 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch955?code=100131314976912&key=55621
+#EXTINF:-1,SKY Sport Uno IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch953?code=100131314976912&key=35026
+#EXTINF:-1,SKY Sport Serie A IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch954?code=100131314976912&key=63477
+#EXTINF:-1,Sky Sport Football IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1910?code=100131314976912&key=43879
+#EXTINF:-1,Sky Sport Arena IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1927?code=100131314976912&key=51582
+#EXTINF:-1,Sky Sport Golf IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1990?code=100131314976912&key=55665
+#EXTINF:-1,Sky Sport NBA IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1991?code=100131314976912&key=32029
+#EXTINF:-1,Sky Sport MotoGp IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1992?code=100131314976912&key=39878
+#EXTINF:-1,Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1325?code=100131314976912&key=37309
+#EXTINF:-1,Sky Calcio 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1306?code=100131314976912&key=13088
+#EXTINF:-1,Sky Calcio 2 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1307?code=100131314976912&key=62085
+#EXTINF:-1,Sky Calcio 3 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1308?code=100131314976912&key=30324
+#EXTINF:-1,Sky Calcio 4 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1926?code=100131314976912&key=45485
+#EXTINF:-1,Sky Calcio 5 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1911?code=100131314976912&key=46442
+#EXTINF:-1,Sky Calcio 6 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1912?code=100131314976912&key=54153
+#EXTINF:-1,Sky Calcio 7 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1913?code=100131314976912&key=37982
+#EXTINF:-1,Sky Calcio 8 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1914?code=100131314976912&key=23821
+#EXTINF:-1,Sky Calcio 9 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1915?code=100131314976912&key=14033
+#EXTINF:-1,Sky Calcio 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1921?code=100131314976912&key=25041
+#EXTINF:-1,Sport Italia IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1933?code=100131314976912&key=58657
+#EXTINF:-1,Eurosport 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1924?code=100131314976912&key=35371
+#EXTINF:-1,Eurosport 2 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1925?code=100131314976912&key=51638
+#EXTINF:-1,Inter Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1989?code=100131314976912&key=32687
+#EXTINF:-1,Lazio Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1988?code=100131314976912&key=47376
+#EXTINF:-1,Milan Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1987?code=100131314976912&key=29150
+#EXTINF:-1,Roma Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1986?code=100131314976912&key=29397
+#EXTINF:-1,Motor Trend IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch993?code=100131314976912&key=49495
+#EXTINF:-1,Zelig Sport IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch994?code=100131314976912&key=39200
+#EXTINF:-1,Super Tennis IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1544?code=100131314976912&key=34052
+#EXTINF:-1,La Liga 123 HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1282?code=100131314976912&key=46235
+#EXTINF:-1,La Liga HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1286?code=100131314976912&key=34129
+#EXTINF:-1,Bein Sport SPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1220?code=100131314976912&key=49759
+#EXTINF:-1,Canal+ Liga SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1221?code=100131314976912&key=30539
+#EXTINF:-1,Canal+ Deporte 2 SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1222?code=100131314976912&key=55567
+#EXTINF:-1,Canal+ Futbol SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1224?code=100131314976912&key=49597
+#EXTINF:-1,Real Madrid CH.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1223?code=100131314976912&key=20023
+#EXTINF:-1,Barca Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1225?code=100131314976912&key=18259
+#EXTINF:-1,Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1226?code=100131314976912&key=25788
+#EXTINF:-1,Canal+ Golf SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1227?code=100131314976912&key=43623
+#EXTINF:-1,TELE DEPORTE SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1208?code=100131314976912&key=36517
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1202?code=100131314976912&key=10553
+#EXTINF:-1,Canal Panda SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1228?code=100131314976912&key=38376
+#EXTINF:-1,Neox SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1229?code=100131314976912&key=24734
+#EXTINF:-1,Moto GP HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1284?code=100131314976912&key=30374
+#EXTINF:-1,Formula1 HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1285?code=100131314976912&key=62251
+#EXTINF:-1,Beinsports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3529?code=100131314976912&key=26664
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3522?code=100131314976912&key=16320
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3525?code=100131314976912&key=17005
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3523?code=100131314976912&key=61301
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3524?code=100131314976912&key=22059
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3526?code=100131314976912&key=40148
+#EXTINF:-1,NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3521?code=100131314976912&key=50881
+#EXTINF:-1,WWE net.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3518?code=100131314976912&key=64853
+#EXTINF:-1,NHL net. HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3517?code=100131314976912&key=58980
+#EXTINF:-1,NBC Sports net.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3516?code=100131314976912&key=19098
+#EXTINF:-1,NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3515?code=100131314976912&key=47149
+#EXTINF:-1,Fox Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3513?code=100131314976912&key=56748
+#EXTINF:-1,Fox Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3514?code=100131314976912&key=32505
+#EXTINF:-1,ESPN2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3512?code=100131314976912&key=51786
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3511?code=100131314976912&key=13130
+#EXTINF:-1,ESPN News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch3510?code=100131314976912&key=62417
+#EXTINF:-1,Fox sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch867?code=100131314976912&key=30085
+#EXTINF:-1,Fox sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch891?code=100131314976912&key=61330
+#EXTINF:-1,Eurosport 1 NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1969?code=100131314976912&key=30427
+#EXTINF:-1,Extreme sports NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1968?code=100131314976912&key=18405
+#EXTINF:-1,Sport TV 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2123?code=100131314976912&key=55190
+#EXTINF:-1,Sport TV 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2124?code=100131314976912&key=32342
+#EXTINF:-1,Sport TV 3 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2125?code=100131314976912&key=23615
+#EXTINF:-1,Sport TV 4 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2126?code=100131314976912&key=26504
+#EXTINF:-1,Sport TV 5 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2127?code=100131314976912&key=13691
+#EXTINF:-1,Eurosport 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2128?code=100131314976912&key=11238
+#EXTINF:-1,Eurosport 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2129?code=100131314976912&key=28832
+#EXTINF:-1,TRT Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1363?code=100131314976912&key=23446
+#EXTINF:-1,BeinSport 1 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1353?code=100131314976912&key=23797
+#EXTINF:-1,BeinSport 2 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2355?code=100131314976912&key=24219
+#EXTINF:-1,BeinSport 3 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2356?code=100131314976912&key=60425
+#EXTINF:-1,BeinSport 4 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2360?code=100131314976912&key=43838
+#EXTINF:-1,BeinSport Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2358?code=100131314976912&key=44509
+#EXTINF:-1,BeinSport Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2359?code=100131314976912&key=49265
+#EXTINF:-1,Tivibu Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2361?code=100131314976912&key=59512
+#EXTINF:-1,Tivibu Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch2362?code=100131314976912&key=22939
+#EXTINF:-1,Tivibu Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1356?code=100131314976912&key=63876
+#EXTINF:-1,Smart Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch1355?code=100131314976912&key=23964

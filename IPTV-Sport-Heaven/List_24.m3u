@@ -1,77 +1,641 @@
 #EXTM3U
-#EXTINF:0,SPORTTV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/23
-#EXTINF:0,SPORTTV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/22
-#EXTINF:0,SPORTTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/21
-#EXTINF:0,SPORTTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/20
-#EXTINF:0,SPORTTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/19
-#EXTINF:0,SPORTINGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/18
-#EXTINF:0,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/334
-#EXTINF:0,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/333
-#EXTINF:0,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/332
-#EXTINF:0,ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/607
-#EXTINF:0,ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/606
-#EXTINF:0,ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/605
-#EXTINF:0,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/604
-#EXTINF:0,ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/614
-#EXTINF:0,ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/603
-#EXTINF:0,ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/613
-#EXTINF:0,ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/612
-#EXTINF:0,ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/611
-#EXTINF:0,ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/610
-#EXTINF:0,ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/609
-#EXTINF:0,ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/608
-#EXTINF:0,CA: SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/549
-#EXTINF:0,CA: SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/636
-#EXTINF:0,CA: SPORTSNET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/548
-#EXTINF:0,CA: SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/635
-#EXTINF:0,CA: SPORTSNET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/547
-#EXTINF:0,CA: SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/546
-#EXTINF:0,USA: BEIN SPORTS (ENG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/592
-#EXTINF:0,USA: BEIN SPORTS (ESP)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/591
-#EXTINF:0,USA: ESPN GOAL LINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/595
-#EXTINF:0,USA: FOX DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/593
-#EXTINF:0,ELEVEN SPORTS MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/765
-#EXTINF:0,SPORT TV MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/764
-#EXTINF:0,[FUBO] BEIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/758
-#EXTINF:0,[FUBO] BEIN SPORTS CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/759
-#EXTINF:0,[FUBO] BEIN SPORTS ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/757
-#EXTINF:0,SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/766
-#EXTINF:0,SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/767
+#EXTINF:-1,BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18114
+#EXTINF:-1,BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18113
+#EXTINF:-1,BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18112
+#EXTINF:-1,BEIN SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18111
+#EXTINF:-1,BEIN SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18110
+#EXTINF:-1,BEIN SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18109
+#EXTINF:-1,BEIN SPORT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18108
+#EXTINF:-1,BEIN SPORT 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18107
+#EXTINF:-1,BEIN SPORT 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18106
+#EXTINF:-1,BEIN SPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/18105
+#EXTINF:-1,BEIN SPORT 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63818
+#EXTINF:-1,BEIN SPORT 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63817
+#EXTINF:-1,BEIN SPORT 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63816
+#EXTINF:-1,BEIN SPORT 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63814
+#EXTINF:-1,BEIN SPORT 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63813
+#EXTINF:-1,BEIN SPORT 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63815
+#EXTINF:-1,BEIN SPORT NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63812
+#EXTINF:-1,##### BEIN SPORT 4K #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27903
+#EXTINF:-1,BEINSPORT 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45631
+#EXTINF:-1,BEINSPORT 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43180
+#EXTINF:-1,BEINSPORT 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43179
+#EXTINF:-1,BEINSPORT 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43178
+#EXTINF:-1,BEINSPORT 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43177
+#EXTINF:-1,BEINSPORT 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43176
+#EXTINF:-1,BEINSPORT 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43175
+#EXTINF:-1,BEINSPORT 8 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43174
+#EXTINF:-1,BEINSPORT 9 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43173
+#EXTINF:-1,BEINSPORT 10 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43172
+#EXTINF:-1,BEINSPORT 11 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43171
+#EXTINF:-1,BEINSPORT 12 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43170
+#EXTINF:-1,BEINSPORT 13 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43169
+#EXTINF:-1,QHD BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27923
+#EXTINF:-1,QHD BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27922
+#EXTINF:-1,QHD BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27921
+#EXTINF:-1,QHD BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27920
+#EXTINF:-1,QHD BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27919
+#EXTINF:-1,QHD BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27918
+#EXTINF:-1,QHD BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27917
+#EXTINF:-1,QHD BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27916
+#EXTINF:-1,QHD BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27915
+#EXTINF:-1,QHD BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27914
+#EXTINF:-1,QHD BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27913
+#EXTINF:-1,QHD BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27912
+#EXTINF:-1,QHD BEIN SPORTS 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27911
+#EXTINF:-1,QHD BEIN SPORTS 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27910
+#EXTINF:-1,QHD BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27909
+#EXTINF:-1,QHD BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27907
+#EXTINF:-1,QHD BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27906
+#EXTINF:-1,QHD BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27904
+#EXTINF:-1,BEIN  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27902
+#EXTINF:-1,BEIN SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27925
+#EXTINF:-1,BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27901
+#EXTINF:-1,BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27900
+#EXTINF:-1,BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27899
+#EXTINF:-1,BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27898
+#EXTINF:-1,BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27897
+#EXTINF:-1,BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27896
+#EXTINF:-1,BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27895
+#EXTINF:-1,BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27894
+#EXTINF:-1,BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27893
+#EXTINF:-1,BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27892
+#EXTINF:-1,BEIN SPORTS 11 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27891
+#EXTINF:-1,BEIN SPORTS 12 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63876
+#EXTINF:-1,BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27889
+#EXTINF:-1,BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49357
+#EXTINF:-1,BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27887
+#EXTINF:-1,BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27886
+#EXTINF:-1,BEIN SPORTS 17 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27885
+#EXTINF:-1,BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27884
+#EXTINF:-1,##### BEOUTQ SPORTS ######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55945
+#EXTINF:-1,BEOUTQ SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55944
+#EXTINF:-1,BEOUTQ SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55943
+#EXTINF:-1,BEOUTQ SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55942
+#EXTINF:-1,BEOUTQ SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55941
+#EXTINF:-1,BEOUTQ SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55940
+#EXTINF:-1,BEOUTQ SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55939
+#EXTINF:-1,BEOUTQ SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55938
+#EXTINF:-1,BEOUTQ SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55937
+#EXTINF:-1,BEOUTQ SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55936
+#EXTINF:-1,BEOUTQ SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55935
+#EXTINF:-1,AL KASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57102
+#EXTINF:-1,AL KASS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57103
+#EXTINF:-1,AL KASS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57104
+#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31250
+#EXTINF:-1,ABUDHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22039
+#EXTINF:-1,ABUDHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22038
+#EXTINF:-1,ABUDHABI SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22037
+#EXTINF:-1,ABUDHABI SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22036
+#EXTINF:-1,ABUDHABI SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22035
+#EXTINF:-1,ABUDHABI SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22034
+#EXTINF:-1,OSN - OSN SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48904
+#EXTINF:-1,OSN-VIP SPORTS FHD  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42989
+#EXTINF:-1,OSN-VIP SPORTS FHD  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42990
+#EXTINF:-1,SAUDI SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/904
+#EXTINF:-1,KSA SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19164
+#EXTINF:-1,KSA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26603
+#EXTINF:-1,KSA SPORTS PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26602
+#EXTINF:-1,KSA SPORTS PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26601
+#EXTINF:-1,##### GR - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54962
+#EXTINF:-1,GR - NOVA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54961
+#EXTINF:-1,GR - NOVA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54960
+#EXTINF:-1,GR - NOVA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54959
+#EXTINF:-1,GR - NOVA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54958
+#EXTINF:-1,GR - NOVA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54957
+#EXTINF:-1,GR - NOVA SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54956
+#EXTINF:-1,GR - EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54955
+#EXTINF:-1,GR - EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54954
+#EXTINF:-1,GR - GINIX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54953
+#EXTINF:-1,GR - FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54952
+#EXTINF:-1,GR - ERT SPORT.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54951
+#EXTINF:-1,GR - ERT SPORT HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54950
+#EXTINF:-1,GR - EDGE SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54949
+#EXTINF:-1,GR - MOTORVISON CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54948
+#EXTINF:-1,GR - COSMOTE SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54947
+#EXTINF:-1,GR - COSMOTE SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54946
+#EXTINF:-1,GR - COSMOTE SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54945
+#EXTINF:-1,GR - COSMOTE SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54944
+#EXTINF:-1,GR - COSMOTE SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54943
+#EXTINF:-1,GR - COSMOTE SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54942
+#EXTINF:-1,GR - COSMOTE SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54941
+#EXTINF:-1,GR - COSMOTE SPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54940
+#EXTINF:-1,GR - COSMOTE SPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54939
+#EXTINF:-1,GR - COSMOTE SPORT HIGHLIGHTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/54938
+#EXTINF:-1,EUROSPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/17274
+#EXTINF:-1,EUROSPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/17273
+#EXTINF:-1,##### SW - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,SW - TV 3 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44122
+#EXTINF:-1,SW - C MORE FOTBOLL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44164
+#EXTINF:-1,SW - C MORE GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44163
+#EXTINF:-1,SW - C MORE HOCKEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44162
+#EXTINF:-1,SW - EUROSPORT 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44147
+#EXTINF:-1,SW - EUROSPORT 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44146
+#EXTINF:-1,SW - VIASAT FOTBOLL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44108
+#EXTINF:-1,SW - VIASAT GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44107
+#EXTINF:-1,SW - VIASAT HOCKEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44105
+#EXTINF:-1,SW - VIASAT MOTOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44104
+#EXTINF:-1,SW - VIASAT SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44101
+#EXTINF:-1,SW - VIASAT SPORT PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44100
+#EXTINF:-1,##### NO - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,NO - TV2 SPORT PREMIUM  HD VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44317
+#EXTINF:-1,NO -  TV2 SPORT PREMIUM 2 HD VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44316
+#EXTINF:-1,NO - VIASPORT PLUS  HD VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44315
+#EXTINF:-1,NO - EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44299
+#EXTINF:-1,NO - EUROSPORT N FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44297
+#EXTINF:-1,NO - EUROSPORT PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44296
+#EXTINF:-1,NO - EUROSPORT PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44295
+#EXTINF:-1,NO - EUROSPORT PLUS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44294
+#EXTINF:-1,NO - EUROSPORT PLUS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44293
+#EXTINF:-1,##### DK - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,DK - EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44212
+#EXTINF:-1,DK - EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44211
+#EXTINF:-1,DK - DANTOTO RACING LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44225
+#EXTINF:-1,DK - DR ULTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44216
+#EXTINF:-1,DK - TV3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44190
+#EXTINF:-1,DK - VH1 DANMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44189
+#EXTINF:-1,DK - VIASAT GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44183
+#EXTINF:-1,##### FI - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44092
+#EXTINF:-1,FI - C MORE SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44086
+#EXTINF:-1,FI - C MORE SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44085
+#EXTINF:-1,FI - C MORE SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44084
+#EXTINF:-1,FI - VIASAT HOCKEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44071
+#EXTINF:-1,FI - Viasat Sport Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44070
+#EXTINF:-1,##### SPORTS - EXYU #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,SPORTS - ARENA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39910
+#EXTINF:-1,SPORTS - ARENA SPORT 1 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39909
+#EXTINF:-1,SPORTS - ARENA SPORT 1 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39908
+#EXTINF:-1,SPORTS - ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39907
+#EXTINF:-1,SPORTS - ARENA SPORT 2 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39906
+#EXTINF:-1,SPORTS - ARENA SPORT 2 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39905
+#EXTINF:-1,SPORTS - ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39904
+#EXTINF:-1,SPORTS - ARENA SPORT 3 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39903
+#EXTINF:-1,SPORTS - ARENA SPORT 3 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39902
+#EXTINF:-1,SPORTS - ARENA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39901
+#EXTINF:-1,SPORTS - ARENA SPORT 4 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39900
+#EXTINF:-1,SPORTS - ARENA SPORT 4 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39899
+#EXTINF:-1,SPORTS - ARENA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39898
+#EXTINF:-1,SPORTS - EUROSPORT 1 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39896
+#EXTINF:-1,SPORTS - EUROSPORT 2 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39895
+#EXTINF:-1,SPORTS - SPORT KLUB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39892
+#EXTINF:-1,SPORTS - SPORT KLUB 1 SLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39891
+#EXTINF:-1,SPORTS - SPORT KLUB 1 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39890
+#EXTINF:-1,SPORTS - SPORT KLUB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39889
+#EXTINF:-1,SPORTS - SPORT KLUB 2 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39888
+#EXTINF:-1,SPORTS - SPORT KLUB 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39887
+#EXTINF:-1,SPORTS - SPORT KLUB 3 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39886
+#EXTINF:-1,SPORTS - SPORT KLUB 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39885
+#EXTINF:-1,SPORTS - SPORT KLUB 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39884
+#EXTINF:-1,SPORTS - SPORT KLUB 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39883
+#EXTINF:-1,SPORTS - SPORT KLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39882
+#EXTINF:-1,SPORT KLUB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39859
+#EXTINF:-1,SPORT KLUB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39858
+#EXTINF:-1,SPORT KLUB  3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39857
+#EXTINF:-1,##### RO - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45121
+#EXTINF:-1,DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49331
+#EXTINF:-1,DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45119
+#EXTINF:-1,DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45118
+#EXTINF:-1,SPORT.RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45117
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45116
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45115
+#EXTINF:-1,DIEMA SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21571
+#EXTINF:-1,DIEMA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21570
+#EXTINF:-1,##### ALB - SUPER SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,ALB - SUPER SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53770
+#EXTINF:-1,ALB - SUPER SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53769
+#EXTINF:-1,ALB - SUPER SPORT 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53768
+#EXTINF:-1,ALB - SUPER SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53767
+#EXTINF:-1,ALB - SUPER SPORT 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53766
+#EXTINF:-1,ALB - SUPER SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53765
+#EXTINF:-1,ALB - SUPER SPORT 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53764
+#EXTINF:-1,ALB - SUPER SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53763
+#EXTINF:-1,ALB - SUPER SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53762
+#EXTINF:-1,ALB - SUPER SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53761
+#EXTINF:-1,##### ALB - TRING SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53760
+#EXTINF:-1,ALB - TRING SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53759
+#EXTINF:-1,ALB - TRING SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53758
+#EXTINF:-1,ALB - TRING SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53757
+#EXTINF:-1,ALB - TRING SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53756
+#EXTINF:-1,##### ALB - KUJTESA SPORT #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53753
+#EXTINF:-1,ALB - K SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53752
+#EXTINF:-1,ALB - K SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53751
+#EXTINF:-1,ALB - K SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53750
+#EXTINF:-1,ALB - K SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53749
+#EXTINF:-1,ALB - K SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53748
+#EXTINF:-1,##### ALB - ART MOTION SPORT #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,ALB - ART SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53746
+#EXTINF:-1,ALB - ART SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53745
+#EXTINF:-1,ALB - ART SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53744
+#EXTINF:-1,ALB - FIGHT BOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53743
+#EXTINF:-1,ALB - RTSH SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/53742
+#EXTINF:-1,CH - TELECLUB SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63858
+#EXTINF:-1,CH - TELECLUB SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63857
+#EXTINF:-1,CH - TELECLUB STAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63859
+#EXTINF:-1,CH - MY SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63856
+#EXTINF:-1,CH - MY SPORTS 1 HD/SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63855
+#EXTINF:-1,CH - MY SPORTS 2 HD/SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63854
+#EXTINF:-1,CH - MY SPORTS 3 HD/SKY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63853
+#EXTINF:-1,CH - MY SPORTS 4 HD/SKY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63852
+#EXTINF:-1,CH - MY SPORTS 5 HD/SKY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63851
+#EXTINF:-1,CH - MY SPORTS 6 HD/SKY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63850
+#EXTINF:-1,CH - MY SPORTS 7 HD/SKY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63849
+#EXTINF:-1,CH - MY SPORTS 8 HD/SKY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63848
+#EXTINF:-1,CH - MY SPORTS 9 HD/SKY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63847
+#EXTINF:-1,POLSAT SPORT EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19334
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19333
+#EXTINF:-1,POLSAT SPORT FIGHT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19332
+#EXTINF:-1,POLSAT SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19330
+#EXTINF:-1,##### DE - SPORT #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33453
+#EXTINF:-1,SPORT 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33452
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33451
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33450
+#EXTINF:-1,EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33449
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33448
+#EXTINF:-1,DAZN 1 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45656
+#EXTINF:-1,DAZN 2 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/45657
+#EXTINF:-1,SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33445
+#EXTINF:-1,SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33444
+#EXTINF:-1,SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33443
+#EXTINF:-1,SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33442
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/33441
+#EXTINF:-1,##### SP - SPORTS #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,BAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21314
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21319
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21320
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21318
+#EXTINF:-1,FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21317
+#EXTINF:-1,GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21316
+#EXTINF:-1,LA LIGA 123 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/29851
+#EXTINF:-1,LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21310
+#EXTINF:-1,LA LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21311
+#EXTINF:-1,M. FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21299
+#EXTINF:-1,M. FTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21298
+#EXTINF:-1,M.WIMBLEDON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57099
+#EXTINF:-1,M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21309
+#EXTINF:-1,M.CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21321
+#EXTINF:-1,MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21288
+#EXTINF:-1,R. MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21313
+#EXTINF:-1,TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21312
+#EXTINF:-1,FOX SPORTS 1 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6060
+#EXTINF:-1,FOX SPORTS 2 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6059
+#EXTINF:-1,FOX SPORTS 3 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6058
+#EXTINF:-1,FOX SPORTS 4 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6057
+#EXTINF:-1,FOX SPORTS 5 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6056
+#EXTINF:-1,FOX SPORTS 6 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6055
+#EXTINF:-1,EUROSPORT 1 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6073
+#EXTINF:-1,EUROSPORT 2 HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6072
+#EXTINF:-1,ZIGGO SPORT GOLF HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6063
+#EXTINF:-1,ZIGGO SPORT RACING HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6064
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/6062
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1084
+#EXTINF:-1,FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1092
+#EXTINF:-1,FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1091
+#EXTINF:-1,FOX SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1090
+#EXTINF:-1,FOX SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1089
+#EXTINF:-1,FOX SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1088
+#EXTINF:-1,FOX SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1087
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1094
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1093
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1080
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1082
+#EXTINF:-1,ZIGGO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1086
+#EXTINF:-1,ZIGGO SPORT RACING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1083
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1085
+#EXTINF:-1,##### IT - SKY SPORT HD #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62817
+#EXTINF:-1,IT - SKY SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62814
+#EXTINF:-1,IT - SKY SPORT UNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62809
+#EXTINF:-1,IT - SKY SPORT ARENA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62813
+#EXTINF:-1,IT - SKY SPORT FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62812
+#EXTINF:-1,IT - SKY SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62806
+#EXTINF:-1,IT - SKY SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62811
+#EXTINF:-1,IT - SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62808
+#EXTINF:-1,IT - SKY MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62815
+#EXTINF:-1,IT - EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62884
+#EXTINF:-1,IT - EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62883
+#EXTINF:-1,IT - SUPERTENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62798
+#EXTINF:-1,IT - BIKE CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62886
+#EXTINF:-1,IT - AUTOMOTO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62885
+#EXTINF:-1,IT - HORSE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62912
+#EXTINF:-1,IT - MOTORTREND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/62887

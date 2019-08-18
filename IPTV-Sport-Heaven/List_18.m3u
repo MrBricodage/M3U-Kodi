@@ -1,65 +1,211 @@
 #EXTM3U
-#EXTINF:0,(TR) EUROSPORT 2 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
-#EXTINF:0,(TR) EUROSPORT 1 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
-#EXTINF:0,(TR) DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
-#EXTINF:0,(TR) BURSA SPOR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
-#EXTINF:0,(TR) BJK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
-#EXTINF:0,(TR) AKTIF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
-#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:0,DESP | Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:0,DESP | Sky Bundesliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:0,DESP | Sky Bundesliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:0,DESP | Sky Bundesliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
-#EXTINF:0,DESP | Sky Bundesliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
-#EXTINF:0,DESP | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:0,DESP |Sky Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:0,DESP | Sport1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:0,DESP | Dazn Bar 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:0,DESP | Dazn Bar 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
-#EXTINF:0,DESP | Sport Digital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:0,DESP | Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:0,DESP | EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:0,DESP | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:0,DESP | Eurosport 2 HD Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:0,(AR) BEINSPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
-#EXTINF:0,(AR) BEINSPORT HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
-#EXTINF:0,(AR) BEINSPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
-#EXTINF:0,(AR) BEINSPORT HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
-#EXTINF:0,(AR) BEINSPORT HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
-#EXTINF:0,(AR) BEINSPORT HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
-#EXTINF:0,(AR) BEINSPORT HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
-#EXTINF:0,(AR) BEINSPORT HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
-#EXTINF:0,(AR) BEINSPORT HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
-#EXTINF:0,(AR) BEINSPORT HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:0,Argentina | Fox Sports 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1618
+#EXTINF:0,Argentina | Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1619
+#EXTINF:0,Argentina | Fox Sports Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2709
+#EXTINF:0,Argentina | Fox Sports Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2710
+#EXTINF:0,Argentina | TyC Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2707
+#EXTINF:0,Argentina | TyC Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2708
+#EXTINF:0,Argentina | TyC Sports Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2711
+#EXTINF:0,Brasil | Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3794
+#EXTINF:0,Brasil | Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3793
+#EXTINF:0,Brasil | Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3694
+#EXTINF:0,Brasil | Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3693
+#EXTINF:0,Brasil | Fox Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3692
+#EXTINF:0,Brasil | Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3691
+#EXTINF:0,Brasil | Fox Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/3690
+#EXTINF:0,EE. UU. | Fox Sports Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/919
+#EXTINF:0,EE. UU. | Fox Sports Detroit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/918
+#EXTINF:0,EE. UU. | Fox Sports Netbase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/915
+#EXTINF:0,EE. UU. | Fox Sports North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/914
+#EXTINF:0,EE. UU. | Fox Sports Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/913
+#EXTINF:0,EE. UU. | Fox Sports San Diego
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/910
+#EXTINF:0,EE. UU. | Fox Sports South
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/909
+#EXTINF:0,EE. UU. | Fox Sports SP Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/911
+#EXTINF:0,EE. UU. | Fox Sports Sun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/908
+#EXTINF:0,EE. UU. | Fox Sports West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/907
+#EXTINF:0,EE. UU. | Fox Sports Wisconsin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/906
+#EXTINF:0,EE. UU. | Gnix Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/903
+#EXTINF:0,Latinos | Fox Sports 1 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/317
+#EXTINF:0,Latinos | Fox Sports 1 MX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/315
+#EXTINF:0,Latinos | Fox Sports 1 MX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/316
+#EXTINF:0,Latinos | Fox Sports 1 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/314
+#EXTINF:0,Latinos | Fox Sports 1 Sur FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/312
+#EXTINF:0,Latinos | Fox Sports 1 Sur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/313
+#EXTINF:0,Latinos | Fox Sports 2 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/308
+#EXTINF:0,Latinos | Fox Sports 2 MX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/306
+#EXTINF:0,Latinos | Fox Sports 2 MX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/307
+#EXTINF:0,Latinos | Fox Sports 2 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/311
+#EXTINF:0,Latinos | Fox Sports 2 Sur FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/309
+#EXTINF:0,Latinos | Fox Sports 2 Sur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/310
+#EXTINF:0,Latinos | Fox Sports 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/305
+#EXTINF:0,Latinos | Fox Sports 3 MX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/303
+#EXTINF:0,Latinos | Fox Sports 3 MX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/304
+#EXTINF:0,Latinos | Fox Sports 3 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/302
+#EXTINF:0,Latinos | Fox Sports 3 Sur FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/300
+#EXTINF:0,Latinos | Fox Sports 3 Sur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/301
+#EXTINF:0,Arabe | Ad Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13846
+#EXTINF:0,Arabe | Ad Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13845
+#EXTINF:0,Arabe | Ad Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13844
+#EXTINF:0,Arabe | Ad Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13843
+#EXTINF:0,Arabe | Ad Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13842
+#EXTINF:0,Arabe | Bein Series Hd1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/14001
+#EXTINF:0,Arabe | Bein Series Hd2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/14000
+#EXTINF:0,Arabe | Bein Sports 10Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13944
+#EXTINF:0,Arabe | Bein Sports 11Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13943
+#EXTINF:0,Arabe | Bein Sports 12Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13942
+#EXTINF:0,Arabe | Bein Sports 13Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13941
+#EXTINF:0,Arabe | Bein Sports 14Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13940
+#EXTINF:0,Arabe | Bein Sports 15Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13939
+#EXTINF:0,Arabe | Bein Sports 16Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13938
+#EXTINF:0,Arabe | Bein Sports 17Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13937
+#EXTINF:0,Arabe | Bein Sports 1Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13953
+#EXTINF:0,Arabe | Bein Sports 2Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13952
+#EXTINF:0,Arabe | Bein Sports 3Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13951
+#EXTINF:0,Arabe | Bein Sports 4Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13950
+#EXTINF:0,Arabe | Bein Sports 5Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13949
+#EXTINF:0,Arabe | Bein Sports 6Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13948
+#EXTINF:0,Arabe | Bein Sports 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13947
+#EXTINF:0,Arabe | Bein Sports 8Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13946
+#EXTINF:0,Arabe | Bein Sports 9Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13945
+#EXTINF:0,Arabe | Bein Sports Global Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13979
+#EXTINF:0,Arabe | Bein Sports Hd1 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13926
+#EXTINF:0,Arabe | Bein Sports Hd1 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13963
+#EXTINF:0,Arabe | Bein Sports Hd1 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13973
+#EXTINF:0,Arabe | Bein Sports Hd10 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13917
+#EXTINF:0,Arabe | Bein Sports Hd10 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13954
+#EXTINF:0,Arabe | Bein Sports Hd10 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13964
+#EXTINF:0,Arabe | Bein Sports Hd2 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13925
+#EXTINF:0,Arabe | Bein Sports Hd2 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13962
+#EXTINF:0,Arabe | Bein Sports Hd2 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13972
+#EXTINF:0,Arabe | Bein Sports Hd3 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13924
+#EXTINF:0,Arabe | Bein Sports Hd3 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13961
+#EXTINF:0,Arabe | Bein Sports Hd3 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13971
+#EXTINF:0,Arabe | Bein Sports Hd4 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13923
+#EXTINF:0,Arabe | Bein Sports Hd4 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13960
+#EXTINF:0,Arabe | Bein Sports Hd4 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13970
+#EXTINF:0,Arabe | Bein Sports Hd5 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13922
+#EXTINF:0,Arabe | Bein Sports Hd5 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13959
+#EXTINF:0,Arabe | Bein Sports Hd5 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13969
+#EXTINF:0,Arabe | Bein Sports Hd6 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13921
+#EXTINF:0,Arabe | Bein Sports Hd6 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13958
+#EXTINF:0,Arabe | Bein Sports Hd6 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13968
+#EXTINF:0,Arabe | Bein Sports Hd7 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13920
+#EXTINF:0,Arabe | Bein Sports Hd7 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13957
+#EXTINF:0,Arabe | Bein Sports Hd7 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13967
+#EXTINF:0,Arabe | Bein Sports Hd8 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13919
+#EXTINF:0,Arabe | Bein Sports Hd8 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13956
+#EXTINF:0,Arabe | Bein Sports Hd8 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13966
+#EXTINF:0,Arabe | Bein Sports Hd9 Hevc Vip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13918
+#EXTINF:0,Arabe | Bein Sports Hd9 Hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13955
+#EXTINF:0,Arabe | Bein Sports Hd9 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13965
+#EXTINF:0,Arabe | Bein Sports Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13977
+#EXTINF:0,Arabe | Bein Sports Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13976
+#EXTINF:0,Arabe | Bein Sports Max 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13975
+#EXTINF:0,Arabe | Bein Sports Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13974
+#EXTINF:0,Arabe | Bein Sports Nba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13978
+#EXTINF:0,Arabe | Bein Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13980
