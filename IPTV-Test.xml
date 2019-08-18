@@ -41,10 +41,19 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 </item>
 
 <item>
-<title>[COLOR orange][B]T[/B][/COLOR][COLOR white][B]NT[/B][/COLOR] 720p</title>
-<link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
+<title>[COLOR orange][B]H[/B][/COLOR][COLOR white][B]D Streams Channel 21[/B][/COLOR] 720p</title>
+<link>http://hdstreams.club/livetv/ch21.php</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 21 [/B][/COLOR]</title>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info>
+<link>http://cdn3.hdstreams.club/live/ch21/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
