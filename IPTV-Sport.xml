@@ -95,7 +95,7 @@
 
 
 <item>
-<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]UTO MOTO[/B][/COLOR]</title>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]uto Moto[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -851,22 +851,6 @@ Validité dans le temps à vérifier
 <title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Network HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 82 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/82.ts|User-Agent=lolllololollol</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]O[/B][/COLOR][COLOR white][B]CS CHOC HD[/B][/COLOR]</title>
-<info>Diffusion avec débit limité. Coupe souvent
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnn.ryzas.tn/iptv/ch226?code=100131314976912&key=37208</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]aramount Network 720p[/B][/COLOR]</title>
-<link>http://bnk.bankai.stream/espn6.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
 </item>
 
