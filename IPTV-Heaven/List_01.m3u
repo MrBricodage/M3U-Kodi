@@ -1,2071 +1,365 @@
 #EXTM3U
-#EXTINF:-1,UFC FIGHT NIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70308.m3u8
-#EXTINF:-1,SKY SPORTS ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50189.m3u8
-#EXTINF:-1,SKY SPORTS ARENA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50188.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50187.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50186.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50185.m3u8
-#EXTINF:-1,SKY SPORTS GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50184.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50183.m3u8
-#EXTINF:-1,SKY SPORTS MIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50182.m3u8
-#EXTINF:-1,SKY SPORTS NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50181.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50180.m3u8
-#EXTINF:-1,SKY SPORTS RACING FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79691.m3u8
-#EXTINF:-1,SKY SPORTS ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50178.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50177.m3u8
-#EXTINF:-1,SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50176.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50175.m3u8
-#EXTINF:-1,SKY SPORTS GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50174.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50173.m3u8
-#EXTINF:-1,SKY SPORTS MIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50172.m3u8
-#EXTINF:-1,SKY SPORTS NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50171.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50170.m3u8
-#EXTINF:-1,SKY SPORTS ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50169.m3u8
-#EXTINF:-1,SKY SPORTS ARENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50168.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50167.m3u8
-#EXTINF:-1,SKY SPORTS F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50166.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50165.m3u8
-#EXTINF:-1,SKY SPORTS GOLF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50164.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50163.m3u8
-#EXTINF:-1,SKY SPORTS MIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50162.m3u8
-#EXTINF:-1,SKY SPORTS NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50161.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50160.m3u8
-#EXTINF:-1,BT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/14391.m3u8
-#EXTINF:-1,BT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17508.m3u8
-#EXTINF:-1,BT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16934.m3u8
-#EXTINF:-1,BT SPORTS ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15152.m3u8
-#EXTINF:-1,BT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13846.m3u8
-#EXTINF:-1,BT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13809.m3u8
-#EXTINF:-1,BT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13877.m3u8
-#EXTINF:-1,BT SPORTS ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16910.m3u8
-#EXTINF:-1,BOX NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16943.m3u8
-#EXTINF:-1,EIR SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16931.m3u8
-#EXTINF:-1,EIR SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16930.m3u8
-#EXTINF:-1,CHELSEA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/22127.m3u8
-#EXTINF:-1,LFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/22126.m3u8
-#EXTINF:-1,MUFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16926.m3u8
-#EXTINF:-1,PREMIER SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13955.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13581.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16928.m3u8
-#EXTINF:-1,At The Races
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13736.m3u8
-#EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16694.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50390.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Comedy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50389.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Disney FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50388.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Drama & Romance FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50387.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50386.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Hits FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50385.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Premiere FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50384.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Select FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50383.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema SciFi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50382.m3u8
-#EXTINF:-1,UK FHD | Sky Cinema Thriller FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50381.m3u8
-#EXTINF:-1,Sky Movies Modern Greats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13766.m3u8
-#EXTINF:-1,Sky Movies SciFi & Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13765.m3u8
-#EXTINF:-1,Sky Movies Showcase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13764.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17256.m3u8
-#EXTINF:-1,Sky Cinema Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17254.m3u8
-#EXTINF:-1,Sky Cinema Sci Fi Hor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17253.m3u8
-#EXTINF:-1,Sky Cinema Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17252.m3u8
-#EXTINF:-1,Sky Cinema Thriller HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17251.m3u8
-#EXTINF:-1,Sky Movies Modern Great HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17250.m3u8
-#EXTINF:-1,Discovery History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17659.m3u8
-#EXTINF:-1,Discovery Shed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17657.m3u8
-#EXTINF:-1,Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17668.m3u8
-#EXTINF:-1,Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17669.m3u8
-#EXTINF:-1,History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17679.m3u8
-#EXTINF:-1,Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17678.m3u8
-#EXTINF:-1,Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17662.m3u8
-#EXTINF:-1,Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17661.m3u8
-#EXTINF:-1,Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17660.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19809.m3u8
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19808.m3u8
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19807.m3u8
-#EXTINF:-1,Sky Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15947.m3u8
-#EXTINF:-1,Sky Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15944.m3u8
-#EXTINF:-1,Sky Crime Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15943.m3u8
-#EXTINF:-1,Sky Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15942.m3u8
-#EXTINF:-1,Sky Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15941.m3u8
-#EXTINF:-1,Sky Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15937.m3u8
-#EXTINF:-1,Sky Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15936.m3u8
-#EXTINF:-1,BBC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17615.m3u8
-#EXTINF:-1,BBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17626.m3u8
-#EXTINF:-1,BBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17624.m3u8
-#EXTINF:-1,BBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17623.m3u8
-#EXTINF:-1,BBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/61295.m3u8
-#EXTINF:-1,CHANNEL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17622.m3u8
-#EXTINF:-1,CHANNEL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17621.m3u8
-#EXTINF:-1,ITV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17597.m3u8
-#EXTINF:-1,ITV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17619.m3u8
-#EXTINF:-1,ITV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17618.m3u8
-#EXTINF:-1,ITV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17617.m3u8
-#EXTINF:-1,ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17616.m3u8
-#EXTINF:-1,CBS Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17536.m3u8
-#EXTINF:-1,CBS Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17535.m3u8
-#EXTINF:-1,Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17557.m3u8
-#EXTINF:-1,Eden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17613.m3u8
-#EXTINF:-1,GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17599.m3u8
-#EXTINF:-1,Pick TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17610.m3u8
-#EXTINF:-1,Sky 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17579.m3u8
-#EXTINF:-1,Sky 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17578.m3u8
-#EXTINF:-1,Sky Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17576.m3u8
-#EXTINF:-1,Sky Wtiness
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17575.m3u8
-#EXTINF:-1,Spike
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17574.m3u8
-#EXTINF:-1,Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17614.m3u8
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17570.m3u8
-#EXTINF:-1,Watch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17563.m3u8
-#EXTINF:-1,Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17689.m3u8
-#EXTINF:-1,Disney HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17703.m3u8
-#EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17690.m3u8
-#EXTINF:-1,CBBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17688.m3u8
-#EXTINF:-1,Disney Chnl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17691.m3u8
-#EXTINF:-1,Tiny Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17694.m3u8
-#EXTINF:-1,Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17687.m3u8
-#EXTINF:-1,Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17686.m3u8
-#EXTINF:-1,Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17685.m3u8
-#EXTINF:-1,Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19812.m3u8
-#EXTINF:-1,Cnn News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19814.m3u8
-#EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20100.m3u8
-#EXTINF:-1,MTV Base HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20115.m3u8
-#EXTINF:-1,MTV Base UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20114.m3u8
-#EXTINF:-1,MTV Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20113.m3u8
-#EXTINF:-1,MTV Dance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20112.m3u8
-#EXTINF:-1,MTV Dance HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20111.m3u8
-#EXTINF:-1,Mtv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20110.m3u8
-#EXTINF:-1,MTV Hits HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20109.m3u8
-#EXTINF:-1,MTV Hits!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20108.m3u8
-#EXTINF:-1,MTV Rocks HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20107.m3u8
-#EXTINF:-1,MTV Rocks UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/20106.m3u8
-#EXTINF:-1,.UK_=_Absolute_00s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23322.m3u8
-#EXTINF:-1,.UK_=_Absolute_60s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23318.m3u8
-#EXTINF:-1,.UK_=_Absolute_70s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23319.m3u8
-#EXTINF:-1,.UK_=_Absolute_80s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23320.m3u8
-#EXTINF:-1,.UK_=_Absolute_90s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23321.m3u8
-#EXTINF:-1,.UK_=_Absolute_Classic_Rock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23336.m3u8
-#EXTINF:-1,.UK_=_Absolute_Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23296.m3u8
-#EXTINF:-1,.UK_=_Bang_Radio_103.6FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23287.m3u8
-#EXTINF:-1,.UK_=_BBC_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23333.m3u8
-#EXTINF:-1,.UK_=_BBC_1_Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23327.m3u8
-#EXTINF:-1,.UK_=_BBC_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23332.m3u8
-#EXTINF:-1,.UK_=_BBC_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23331.m3u8
-#EXTINF:-1,.UK_=_BBC_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23330.m3u8
-#EXTINF:-1,.UK_=_BBC_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23329.m3u8
-#EXTINF:-1,.UK_=_BBC_6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23328.m3u8
-#EXTINF:-1,.UK_=_BBC_Scotland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23323.m3u8
-#EXTINF:-1,.UK_=_BBC_Wales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23324.m3u8
-#EXTINF:-1,.UK_=_BBC_World_Service
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23291.m3u8
-#EXTINF:-1,.UK_=_Bridge_106.3_FM_Wales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23285.m3u8
-#EXTINF:-1,.UK_=_Capital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23317.m3u8
-#EXTINF:-1,.UK_=_Capital_Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23288.m3u8
-#EXTINF:-1,.UK_=_Classic_FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23289.m3u8
-#EXTINF:-1,.UK_=_Cool
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23307.m3u8
-#EXTINF:-1,.UK_=_Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23302.m3u8
-#EXTINF:-1,.UK_=_Heart
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23314.m3u8
-#EXTINF:-1,.UK_=_Jazz_FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23290.m3u8
-#EXTINF:-1,.UK_=_Kiss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23313.m3u8
-#EXTINF:-1,.UK_=_Kisstory
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23334.m3u8
-#EXTINF:-1,.UK_=_LBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23312.m3u8
-#EXTINF:-1,.UK_=_Magic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23311.m3u8
-#EXTINF:-1,.UK_=_Manx_Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23293.m3u8
-#EXTINF:-1,.UK_=_Nation_Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23301.m3u8
-#EXTINF:-1,.UK_=_Planet_Rock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23292.m3u8
-#EXTINF:-1,.UK_=_Smooth
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23310.m3u8
-#EXTINF:-1,.UK_=_Sunrise_Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23286.m3u8
-#EXTINF:-1,.UK_=_TalkSport.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23309.m3u8
-#EXTINF:-1,.UK_=_The_Arrow_All_Rock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23295.m3u8
-#EXTINF:-1,.UK_=_The_Breeze_FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23294.m3u8
-#EXTINF:-1,.UK_=_The_Wave_96.4_FM_Wales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23284.m3u8
-#EXTINF:-1,.UK_=_Virgin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/23308.m3u8
-#EXTINF:-1,E4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/27333.m3u8
-#EXTINF:-1,Film 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/27334.m3u8
-#EXTINF:-1,Nick Jrr Too
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/30764.m3u8
-#EXTINF:-1,PAK-apple: ARY DIGITAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44242.m3u8
-#EXTINF:-1,PAK-apple: Ary News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44241.m3u8
-#EXTINF:-1,PAK-apple: ARY Qtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44240.m3u8
-#EXTINF:-1,PAK-apple: ATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44238.m3u8
-#EXTINF:-1,PAK-apple: Capital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44235.m3u8
-#EXTINF:-1,PAK-apple: Dawn News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44232.m3u8
-#EXTINF:-1,PAK-apple: DUNYA News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44231.m3u8
-#EXTINF:-1,PAK-apple: EXPRESS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44229.m3u8
-#EXTINF:-1,PAK-apple: Express TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44228.m3u8
-#EXTINF:-1,PAK-apple: GEO ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44226.m3u8
-#EXTINF:-1,PAK-apple: Geo Kahani
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44225.m3u8
-#EXTINF:-1,PAK-apple: GEO SUPER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44223.m3u8
-#EXTINF:-1,PAK-apple: Hum Sitaray
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44219.m3u8
-#EXTINF:-1,PAK-apple: HUM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44218.m3u8
-#EXTINF:-1,PAK-apple: PTV HOME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44212.m3u8
-#EXTINF:-1,PAK-apple: PTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44211.m3u8
-#EXTINF:-1,PAK-apple: PTV SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44210.m3u8
-#EXTINF:-1,PAK-apple: Samaa News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/44209.m3u8
-#EXTINF:-1,Cartoonio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47104.m3u8
-#EXTINF:-1,Abp News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47051.m3u8
-#EXTINF:-1,And Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47050.m3u8
-#EXTINF:-1,And Tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47049.m3u8
-#EXTINF:-1,B4u Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47046.m3u8
-#EXTINF:-1,B4u Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47047.m3u8
-#EXTINF:-1,Colors
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47044.m3u8
-#EXTINF:-1,Life Uk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47042.m3u8
-#EXTINF:-1,Rishtey
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47041.m3u8
-#EXTINF:-1,Rishteyy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47027.m3u8
-#EXTINF:-1,Sony Entertainment HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47038.m3u8
-#EXTINF:-1,Star Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47037.m3u8
-#EXTINF:-1,Star Gold HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47026.m3u8
-#EXTINF:-1,Star Jalsa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47036.m3u8
-#EXTINF:-1,Star Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47035.m3u8
-#EXTINF:-1,Star Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47025.m3u8
-#EXTINF:-1,Zee Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47034.m3u8
-#EXTINF:-1,Zee Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47024.m3u8
-#EXTINF:-1,Zee Tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47032.m3u8
-#EXTINF:-1,Zing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47031.m3u8
-#EXTINF:-1,E ! (IR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/41412.m3u8
-#EXTINF:-1,TV3 (IR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/41391.m3u8
-#EXTINF:-1,RTE ONE (IR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48357.m3u8
-#EXTINF:-1,RTE TWO (IR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48358.m3u8
-#EXTINF:-1,Madani Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47177.m3u8
-#EXTINF:-1,Noor Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47176.m3u8
-#EXTINF:-1,Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47181.m3u8
-#EXTINF:-1,Comedy Central Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47184.m3u8
-#EXTINF:-1,Dave
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47180.m3u8
-#EXTINF:-1,Alibi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47185.m3u8
-#EXTINF:-1,Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47183.m3u8
-#EXTINF:-1,5usa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47190.m3u8
-#EXTINF:-1,More4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47186.m3u8
-#EXTINF:-1,Quest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47187.m3u8
-#EXTINF:-1,Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47182.m3u8
-#EXTINF:-1,Viceland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47188.m3u8
-#EXTINF:-1,Hum Europe PK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/47191.m3u8
-#EXTINF:-1,WIllow bu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48271.m3u8
-#EXTINF:-1,AND PICTURES HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48325.m3u8
-#EXTINF:-1,AND TV HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48324.m3u8
-#EXTINF:-1,B4U MUSIC (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48295.m3u8
-#EXTINF:-1,RISHTEY (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48301.m3u8
-#EXTINF:-1,RISHTEY CINEPLEX (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48292.m3u8
-#EXTINF:-1,SONY HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48316.m3u8
-#EXTINF:-1,SONY MAX 2 (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48290.m3u8
-#EXTINF:-1,SONY MAX FHD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48326.m3u8
-#EXTINF:-1,SONY MAX HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48315.m3u8
-#EXTINF:-1,STAR GOLD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48289.m3u8
-#EXTINF:-1,STAR GOLD HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48300.m3u8
-#EXTINF:-1,STAR PLUS FHD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48302.m3u8
-#EXTINF:-1,ZEE CINEMA HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48309.m3u8
-#EXTINF:-1,ZEE TV HD (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/48308.m3u8
-#EXTINF:-1,ZEE CLASSIC (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/49703.m3u8
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50054.m3u8
-#EXTINF:-1,CELTIC FC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62701.m3u8
-#EXTINF:-1,ABERDEEN FC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62699.m3u8
-#EXTINF:-1,Discovery Home
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/61296.m3u8
-#EXTINF:-1,DUNDEE FC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62698.m3u8
-#EXTINF:-1,DUNDEE UTD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69725.m3u8
-#EXTINF:-1,DUNFERMLINE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69726.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69441.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69436.m3u8
-#EXTINF:-1,Everton TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69449.m3u8
-#EXTINF:-1,FORMULA 1 Brendon Hartley Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69798.m3u8
-#EXTINF:-1,FORMULA 1 Carlos Sainz Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69797.m3u8
-#EXTINF:-1,FORMULA 1 Charles Leclerc Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69796.m3u8
-#EXTINF:-1,FORMULA 1 Daniel Ricciardo Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69795.m3u8
-#EXTINF:-1,FORMULA 1 Esteban Ocon Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69794.m3u8
-#EXTINF:-1,FORMULA 1 Fernando Alonso Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69793.m3u8
-#EXTINF:-1,FORMULA 1 GP Race
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69792.m3u8
-#EXTINF:-1,FORMULA 1 Kevin Magnussen Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69791.m3u8
-#EXTINF:-1,FORMULA 1 Kimi Raikkonen Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69790.m3u8
-#EXTINF:-1,FORMULA 1 Lance Stroll Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69789.m3u8
-#EXTINF:-1,FORMULA 1 Lewis Hamilton Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69788.m3u8
-#EXTINF:-1,FORMULA 1 Max Verstappen Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69787.m3u8
-#EXTINF:-1,FORMULA 1 Nico Hulkenberg Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69786.m3u8
-#EXTINF:-1,FORMULA 1 Pierre Gasly Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69785.m3u8
-#EXTINF:-1,FORMULA 1 Practise 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69784.m3u8
-#EXTINF:-1,FORMULA 1 Practise 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69783.m3u8
-#EXTINF:-1,FORMULA 1 Practise 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69782.m3u8
-#EXTINF:-1,FORMULA 1 Qualifying
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69781.m3u8
-#EXTINF:-1,FORMULA 1 Romain Grosjean Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69780.m3u8
-#EXTINF:-1,FORMULA 1 Sebastian Vettel Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69779.m3u8
-#EXTINF:-1,FORMULA 1 Sergey Sirotkin Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69778.m3u8
-#EXTINF:-1,FORMULA 1 Sergio Perez Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69777.m3u8
-#EXTINF:-1,FORMULA 1 Stoffel Vandoorne Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69776.m3u8
-#EXTINF:-1,FORMULA 1 Valtteri Bottas Helmet Camera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69775.m3u8
-#EXTINF:-1,HEARTS FC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62697.m3u8
-#EXTINF:-1,HIBS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62700.m3u8
-#EXTINF:-1,Le Sports FHD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69733.m3u8
-#EXTINF:-1,Le Sports FHD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69732.m3u8
-#EXTINF:-1,Le Sports FHD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69731.m3u8
-#EXTINF:-1,Le Sports FHD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69730.m3u8
-#EXTINF:-1,Le Sports FHD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69729.m3u8
-#EXTINF:-1,Le Sports FHD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69728.m3u8
-#EXTINF:-1,Le Sports FHD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69727.m3u8
-#EXTINF:-1,PARTICK THISLTE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69450.m3u8
-#EXTINF:-1,RANGERS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/62702.m3u8
-#EXTINF:-1,NBC GOLD FHD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78383.m3u8
-#EXTINF:-1,NBC GOLD FHD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78382.m3u8
-#EXTINF:-1,NBC GOLD FHD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78381.m3u8
-#EXTINF:-1,NBC GOLD FHD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78380.m3u8
-#EXTINF:-1,NBC GOLD FHD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78379.m3u8
-#EXTINF:-1,NBC GOLD FHD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78378.m3u8
-#EXTINF:-1,NBC GOLD FHD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78377.m3u8
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78525.m3u8
-#EXTINF:-1,Manmarziyaan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78604.mkv
-#EXTINF:-1,Jalebi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78603.mkv
-#EXTINF:-1,Helicopter Eela
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78601.mkv
-#EXTINF:-1,Sooryavansham
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78598.mkv
-#EXTINF:-1,Badhaaiho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78599.mkv
-#EXTINF:-1,PAK-apple: AVT KHYBER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78672.m3u8
-#EXTINF:-1,PAK-apple: GEO NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78670.m3u8
-#EXTINF:-1,PAK-apple: GEO TEZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78669.m3u8
-#EXTINF:-1,PAK-apple: Health TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78704.m3u8
-#EXTINF:-1,PAK-apple: Hum TV Masala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78698.m3u8
-#EXTINF:-1,PAK-apple: Hum World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78703.m3u8
-#EXTINF:-1,PAK-apple: Jalwa TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78702.m3u8
-#EXTINF:-1,PAK-apple: Khyber News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78700.m3u8
-#EXTINF:-1,PAK-apple: Peace TV Urdu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78695.m3u8
-#EXTINF:-1,PAK-apple: Pushto ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78694.m3u8
-#EXTINF:-1,PAK-apple: ROZE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78693.m3u8
-#EXTINF:-1,PAK-apple: Tehzeeb TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78692.m3u8
-#EXTINF:-1,PAK-apple: URDU 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78689.m3u8
-#EXTINF:-1,PAK-apple: 92 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78681.m3u8
-#EXTINF:-1,PAK-apple: 92 News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78680.m3u8
-#EXTINF:-1,PAK-apple: A PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78679.m3u8
-#EXTINF:-1,PAK-apple: AAJ NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78678.m3u8
-#EXTINF:-1,PAK-apple: Abb Tak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78677.m3u8
-#EXTINF:-1,PAK-apple: Ajj News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78676.m3u8
-#EXTINF:-1,PAK-apple: APNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78675.m3u8
-#EXTINF:-1,PAK-apple: ARY ZAIQA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78673.m3u8
-#EXTINF:-1,PAK-apple: ARY Zindgi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78684.m3u8
-#EXTINF:-1,PAK: Lahore News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78686.m3u8
-#EXTINF:-1,PAK:PTV Global
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78685.m3u8
-#EXTINF:-1,STAR GOLD SELECT (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78663.m3u8
-#EXTINF:-1,SONY MIX (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78662.m3u8
-#EXTINF:-1,SONY SAB (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78660.m3u8
-#EXTINF:-1,SONY SIX (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78661.m3u8
-#EXTINF:-1,ZEE ACTION (IN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/78665.m3u8
-#EXTINF:-1,5 Weddings
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/73670.mkv
-#EXTINF:-1,7 Din Mohabbat In
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78443.mkv
-#EXTINF:-1,Amar Prem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78707.mkv
-#EXTINF:-1,Aśoka
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78708.mkv
-#EXTINF:-1,Batti Gul Meter Chalu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/73672.mkv
-#EXTINF:-1,Bhaiaji Superhitt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78589.mkv
-#EXTINF:-1,Bodied
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78486.mkv
-#EXTINF:-1,Chalte Chalte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78711.mkv
-#EXTINF:-1,Chotay Shah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78445.mkv
-#EXTINF:-1,English Babu Desi Mem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78705.mkv
-#EXTINF:-1,Aitraaz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79117.mkv
-#EXTINF:-1,Anna And The Apocalypse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79151.mkv
-#EXTINF:-1,Aradhana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78748.mkv
-#EXTINF:-1,Arjun Pandit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79149.mkv
-#EXTINF:-1,Ashes In The Snow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79162.mkv
-#EXTINF:-1,Baazaar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79146.mkv
-#EXTINF:-1,Baazigar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79171.mkv
-#EXTINF:-1,Barsaat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79172.mkv
-#EXTINF:-1,Biwi No  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79175.mkv
-#EXTINF:-1,Chamatkar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79115.mkv
-#EXTINF:-1,Chandni Chowk To China
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79128.mkv
-#EXTINF:-1,Deewana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79173.mkv
-#EXTINF:-1,Deewane
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78744.mkv
-#EXTINF:-1,Diksha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79176.mkv
-#EXTINF:-1,Dil Hai Tumhaara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79174.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78373.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78374.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78375.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78376.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78372.mkv
-#EXTINF:-1,Dirilis Season 5  Episode 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78529.mkv
-#EXTINF:-1,Disney Classic - 01 - Snow White And The Seven Dwarfs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78763.mkv
-#EXTINF:-1,Disney Classic - 04 - Dumbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78765.mkv
-#EXTINF:-1,Disney Classic - 05 - Bambi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78766.mkv
-#EXTINF:-1,Disney Classic - 07 - The Three Caballeros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78768.mkv
-#EXTINF:-1,Disney Classic - 10 - Melody Time
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78771.mkv
-#EXTINF:-1,Disney Classic - 13 - Alice In Wonderland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78774.mkv
-#EXTINF:-1,Disney Classic - 15 - Lady And The Tramp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78776.mkv
-#EXTINF:-1,Disney Classic - 16 - Sleeping Beauty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78777.mkv
-#EXTINF:-1,Disney Classic - 20 - The Aristocats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78781.mkv
-#EXTINF:-1,Disney Classic - 21 - Robin Hood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78782.mkv
-#EXTINF:-1,Disney Classic - 23 - The Rescuers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78784.mkv
-#EXTINF:-1,TAMIL dig vijay tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79278.m3u8
-#EXTINF:-1,TAMIL etv cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79277.m3u8
-#EXTINF:-1,TAMIL maa gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79272.m3u8
-#EXTINF:-1,TAMIL maa music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79271.m3u8
-#EXTINF:-1,TAMIL power vision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79268.m3u8
-#EXTINF:-1,Hum News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79285.m3u8
-#EXTINF:-1,TAMIL udaya tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79263.m3u8
-#EXTINF:-1,TAMIL velicham tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79262.m3u8
-#EXTINF:-1,TAMIL vijay super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79261.m3u8
-#EXTINF:-1,TAMIL zee cinemalu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79258.m3u8
-#EXTINF:-1,Punjabi -5 AAB TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79317.m3u8
-#EXTINF:-1,Punjabi -AASTHA BHAJAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79316.m3u8
-#EXTINF:-1,Punjabi -BRIT ASIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79315.m3u8
-#EXTINF:-1,Punjabi -Chakde Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79314.m3u8
-#EXTINF:-1,Punjabi -Chardikla Time
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79313.m3u8
-#EXTINF:-1,Punjabi -Cine voice Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79312.m3u8
-#EXTINF:-1,Punjabi -DESI CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79310.m3u8
-#EXTINF:-1,Punjabi -Dhur Ki Baani
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79309.m3u8
-#EXTINF:-1,Punjabi -FATEH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79307.m3u8
-#EXTINF:-1,Punjabi -GULISTAN NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79306.m3u8
-#EXTINF:-1,Punjabi -PB: Jus Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79301.m3u8
-#EXTINF:-1,Punjabi -PB: PTC CHUKDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79300.m3u8
-#EXTINF:-1,Punjabi -PBN MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79299.m3u8
-#EXTINF:-1,Punjabi -PRIME ASIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79298.m3u8
-#EXTINF:-1,Punjabi -PTC PUNJABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79297.m3u8
-#EXTINF:-1,Punjabi -Punjabi TV Canada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79296.m3u8
-#EXTINF:-1,Punjabi -Sanjha Punjab canada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79292.m3u8
-#EXTINF:-1,Punjabi -Sardari Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79291.m3u8
-#EXTINF:-1,Punjabi -SIKH CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79290.m3u8
-#EXTINF:-1,Punjabi -ZEE PUNJABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79289.m3u8
-#EXTINF:-1,BG: ATN Bangla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79355.m3u8
-#EXTINF:-1,BG: ATN Bangla UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79354.m3u8
-#EXTINF:-1,BG: ATN Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79352.m3u8
-#EXTINF:-1,BG: ATN News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79351.m3u8
-#EXTINF:-1,BG: Boishaki Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79346.m3u8
-#EXTINF:-1,BG: BTV World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79345.m3u8
-#EXTINF:-1,BG: Channel 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79344.m3u8
-#EXTINF:-1,BG: Channel Uk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79341.m3u8
-#EXTINF:-1,BG: Digi Bangla TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79337.m3u8
-#EXTINF:-1,BG: Ekattor TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79336.m3u8
-#EXTINF:-1,BG: Iqra Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79331.m3u8
-#EXTINF:-1,BG: Movie Bangla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79327.m3u8
-#EXTINF:-1,BG: News 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79324.m3u8
-#EXTINF:-1,BG: Ntv Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79322.m3u8
-#EXTINF:-1,PL:-GS  NSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79391.m3u8
-#EXTINF:-1,PL:-GS 13ULICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79390.m3u8
-#EXTINF:-1,PL:-GS ALIE KINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79389.m3u8
-#EXTINF:-1,PL:-GS AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79388.m3u8
-#EXTINF:-1,PL:-GS AXN BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79387.m3u8
-#EXTINF:-1,PL:-GS AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79386.m3u8
-#EXTINF:-1,PL:-GS BBC EARTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79384.m3u8
-#EXTINF:-1,PL:-GS Canal  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79383.m3u8
-#EXTINF:-1,PL:-GS Canal Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79379.m3u8
-#EXTINF:-1,PL:-GS CANAL FILM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79376.m3u8
-#EXTINF:-1,PL:-GS CANAL SERIALE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79375.m3u8
-#EXTINF:-1,PL:-GS CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79372.m3u8
-#EXTINF:-1,PL:-GS CINEMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79371.m3u8
-#EXTINF:-1,PL:-GS COMEDT CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79369.m3u8
-#EXTINF:-1,PL:-GS ELEVEN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79368.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79365.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79364.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79363.m3u8
-#EXTINF:-1,PL:-GS Extreme Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79362.m3u8
-#EXTINF:-1,PL:-GS FILMBOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79361.m3u8
-#EXTINF:-1,PL:-GS FILMBOX ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79360.m3u8
-#EXTINF:-1,PL:-GS FILMBOX FAMILI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79359.m3u8
-#EXTINF:-1,PL:-GS FILMBOX FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79358.m3u8
-#EXTINF:-1,PL:-GS FILMBOX PREIMUIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79357.m3u8
-#EXTINF:-1,PL:-GS FILMBOX PREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79356.m3u8
-#EXTINF:-1,PL:-GS HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79425.m3u8
-#EXTINF:-1,PL:-GS KINO POLSKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79421.m3u8
-#EXTINF:-1,PL:-GS N SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79420.m3u8
-#EXTINF:-1,PL:-GS NATINAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79419.m3u8
-#EXTINF:-1,PL:-GS NATIONALGEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79418.m3u8
-#EXTINF:-1,PL:-GS NICLEODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79416.m3u8
-#EXTINF:-1,PL:-GS NSport Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79415.m3u8
-#EXTINF:-1,PL:-GS POLSAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79414.m3u8
-#EXTINF:-1,PL:-GS POLSAT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79413.m3u8
-#EXTINF:-1,PL:-GS POLSAT CAFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79412.m3u8
-#EXTINF:-1,PL:-GS POLSAT FILM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79411.m3u8
-#EXTINF:-1,PL:-GS POLSAT NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79410.m3u8
-#EXTINF:-1,PL:-GS POLSAT NEWS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79409.m3u8
-#EXTINF:-1,PL:-GS POLSAT PLAY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79408.m3u8
-#EXTINF:-1,PL:-GS POLSAT ROMANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79407.m3u8
-#EXTINF:-1,PL:-GS POLSAT SPORT EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79406.m3u8
-#EXTINF:-1,PL:-GS Polsat Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79405.m3u8
-#EXTINF:-1,PL:-GS POLSAT SPORTS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79404.m3u8
-#EXTINF:-1,PL:-GS POLSAT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79403.m3u8
-#EXTINF:-1,PL:-GS TVN TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79401.m3u8
-#EXTINF:-1,PL:-GS TVP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79400.m3u8
-#EXTINF:-1,PL:-GS TVP SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79397.m3u8
-#EXTINF:-1,PL:-GS TVP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79395.m3u8
-#EXTINF:-1,PL:-GS TVP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79394.m3u8
-#EXTINF:-1,PL:-GS TVPSERIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79393.m3u8
-#EXTINF:-1,PL:-GS TVPSTYLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79392.m3u8
-#EXTINF:-1,If Beale Street Could Talk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79256.mkv
-#EXTINF:-1,Irada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78713.mkv
-#EXTINF:-1,Ek Ladki Ko Dekha Toh Aisa Laga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79553.mkv
-#EXTINF:-1,Geo tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81039.m3u8
-#EXTINF:-1,Gupt: The Hidden Truth
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79125.mkv
-#EXTINF:-1,Guru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79132.mkv
-#EXTINF:-1,Haseena Maan Jaayegi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79177.mkv
-#EXTINF:-1,Hero
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79126.mkv
-#EXTINF:-1,Himmatwala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78712.mkv
-#EXTINF:-1,Hum Dil De Chuke Sanam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78721.mkv
-#EXTINF:-1,Hum Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81038.m3u8
-#EXTINF:-1,Hum Masala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81037.m3u8
-#EXTINF:-1,Rishtey Cineplex
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79693.m3u8
-#EXTINF:-1,FryDay
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78441.mkv
-#EXTINF:-1,Gadar: Ek Prem Katha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79124.mkv
-#EXTINF:-1,Gully Boy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/81053.mkv
-#EXTINF:-1,In Like Flynn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79667.mkv
-#EXTINF:-1,London Fields
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/81042.mkv
-#EXTINF:-1,Maan Jao Na
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78449.mkv
-#EXTINF:-1,Mann
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79180.mkv
-#EXTINF:-1,Manto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78620.mkv
-#EXTINF:-1,Mirzapur EP  (1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78651.mkv
-#EXTINF:-1,Mirzapur EP  (2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78652.mkv
-#EXTINF:-1,Mirzapur EP  (3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78653.mkv
-#EXTINF:-1,Mirzapur EP  (4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78654.mkv
-#EXTINF:-1,Mirzapur EP  (5)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78655.mkv
-#EXTINF:-1,Mirzapur EP  (6)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78656.mkv
-#EXTINF:-1,Mirzapur EP  (7)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78657.mkv
-#EXTINF:-1,Mirzapur EP  (8)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78658.mkv
-#EXTINF:-1,Mirzapur EP  (9)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78659.mkv
-#EXTINF:-1,Mohabbat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78716.mkv
-#EXTINF:-1,Mohalla Assi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/73675.mkv
-#EXTINF:-1,Mortal Engines
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79247.mkv
-#EXTINF:-1,Motorcycle Girl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78452.mkv
-#EXTINF:-1,Mr  India
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78718.mkv
-#EXTINF:-1,Mujhse Shaadi Karogi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78726.mkv
-#EXTINF:-1,Namaste England
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79137.mkv
-#EXTINF:-1,Naqaab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78719.mkv
-#EXTINF:-1,Overlord
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79631.mkv
-#EXTINF:-1,Paap
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78706.mkv
-#EXTINF:-1,Pehchaan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78442.mkv
-#EXTINF:-1,Point Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79632.mkv
-#EXTINF:-1,Police Officer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78747.mkv
-#EXTINF:-1,Prem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79136.mkv
-#EXTINF:-1,Prospect
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79633.mkv
-#EXTINF:-1,Pukar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78720.mkv
-#EXTINF:-1,Pyaar Tune Kya Kiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79148.mkv
-#EXTINF:-1,Raanjhanaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79464.mkv
-#EXTINF:-1,Raja Babu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79168.mkv
-#EXTINF:-1,Raju Ban Gaya Gentleman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79169.mkv
-#EXTINF:-1,Rangeela Raja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79245.mkv
-#EXTINF:-1,Robin Hood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79249.mkv
-#EXTINF:-1,Rockaway
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79251.mkv
-#EXTINF:-1,Roja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79133.mkv
-#EXTINF:-1,Sadak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79182.mkv
-#EXTINF:-1,Saudagar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79165.mkv
-#EXTINF:-1,Sawal 700 Crore Dollar Ka
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78444.mkv
-#EXTINF:-1,Scooby-Doo! And The Curse Of The 13th Ghost
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79634.mkv
-#EXTINF:-1,Shaadi No  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78750.mkv
-#EXTINF:-1,Sooryavansham
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78591.mkv
-#EXTINF:-1,St  Agatha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79669.mkv
-#EXTINF:-1,Stree
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/73678.mkv
-#EXTINF:-1,Sui Dhaaga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/73676.mkv
-#EXTINF:-1,Velvet Buzzsaw
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79483.mkv
-#EXTINF:-1,White Boy Rick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/78480.mkv
-#EXTINF:-1,Why Cheat India
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79244.mkv
-#EXTINF:-1,Widows
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79253.mkv
-#EXTINF:-1,Ladbrokes {Horse Racing Flats}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81423.m3u8
-#EXTINF:-1,Ladbrokes {Horse Racing Jumps}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81422.m3u8
-#EXTINF:-1,Ladbrokes {Virtual Football}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81421.m3u8
-#EXTINF:-1,Ladbrokes {Virtual Greyhound}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81420.m3u8
-#EXTINF:-1,Ladbrokes {Virtual Motor Racing}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81419.m3u8
-#EXTINF:-1,Ladbrokes {Virtual Speedway}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81418.m3u8
-#EXTINF:-1,Paddy Power {Greyhound Racing}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81417.m3u8
-#EXTINF:-1,Paddy Power {Horse Racing Flat}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81416.m3u8
-#EXTINF:-1,Paddy Power {Horse Racing Jumps}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81415.m3u8
-#EXTINF:-1,Paddy Power {Horse Racing Sprint}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81414.m3u8
-#EXTINF:-1,Paddy Power {Motor Sports}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81413.m3u8
-#EXTINF:-1,Paddy Power {Super League Football}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81412.m3u8
-#EXTINF:-1,Paddy Power {World Cup Football}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81411.m3u8
-#EXTINF:-1,William Hill TV backup
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/81424.m3u8
-#EXTINF:-1,Destroyer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79690.mkv
-#EXTINF:-1,Don't Come Back From The Moon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79250.mkv
-#EXTINF:-1,BR Live 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85330.m3u8
-#EXTINF:-1,BR Live 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85329.m3u8
-#EXTINF:-1,BR Live 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85328.m3u8
-#EXTINF:-1,BR Live 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85327.m3u8
-#EXTINF:-1,BR Live 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85326.m3u8
-#EXTINF:-1,BR Live 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85325.m3u8
-#EXTINF:-1,BR Live 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85324.m3u8
-#EXTINF:-1,BR Live 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85323.m3u8
-#EXTINF:-1,BR Live 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85322.m3u8
-#EXTINF:-1,BR Live 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85321.m3u8
-#EXTINF:-1,BR Live 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85320.m3u8
-#EXTINF:-1,BR Live 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85319.m3u8
-#EXTINF:-1,BR Live 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85318.m3u8
-#EXTINF:-1,BR Live 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85317.m3u8
-#EXTINF:-1,BR Live 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85316.m3u8
-#EXTINF:-1,BR Live 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85315.m3u8
-#EXTINF:-1,BR Live 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85314.m3u8
-#EXTINF:-1,BR Live 18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85313.m3u8
-#EXTINF:-1,BR Live 19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85312.m3u8
-#EXTINF:-1,BR Live 20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85311.m3u8
-#EXTINF:-1,BR Live 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85310.m3u8
-#EXTINF:-1,BR Live 22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85309.m3u8
-#EXTINF:-1,BR Live 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85308.m3u8
-#EXTINF:-1,BR Live 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85307.m3u8
-#EXTINF:-1,BR Live 25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85306.m3u8
-#EXTINF:-1,*PK - AAJ NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85493.m3u8
-#EXTINF:-1,*PK - ABB TAK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85470.m3u8
-#EXTINF:-1,*PK - Ary News UK  AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85490.m3u8
-#EXTINF:-1,*PK - ATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85469.m3u8
-#EXTINF:-1,*PK - AVT KHYBER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85468.m3u8
-#EXTINF:-1,*PK - AWAZ TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85467.m3u8
-#EXTINF:-1,*PK - CHANNEL 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85474.m3u8
-#EXTINF:-1,*PK - CHANNEL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85463.m3u8
-#EXTINF:-1,*PK - CITY 42
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85471.m3u8
-#EXTINF:-1,*PK - DAWN NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85495.m3u8
-#EXTINF:-1,*PK - DIN NEWS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85494.m3u8
-#EXTINF:-1,*PK - DUNYA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85492.m3u8
-#EXTINF:-1,*PK - EXPRESS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85491.m3u8
-#EXTINF:-1,*PK - Geo News UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85483.m3u8
-#EXTINF:-1,*PK - GEO NEWS UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85484.m3u8
-#EXTINF:-1,*PK - GEO TEZZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85479.m3u8
-#EXTINF:-1,*PK - KHYBER NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85465.m3u8
-#EXTINF:-1,*PK - KOHENOOR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85475.m3u8
-#EXTINF:-1,*PK - MEHRAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85473.m3u8
-#EXTINF:-1,*PK - METRO ONE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85472.m3u8
-#EXTINF:-1,*Pk - NEWS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85496.m3u8
-#EXTINF:-1,*PK - NEWS ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85462.m3u8
-#EXTINF:-1,*PK - PTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85478.m3u8
-#EXTINF:-1,*PK - ROYAL NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85461.m3u8
-#EXTINF:-1,*PK - SAMA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85477.m3u8
-#EXTINF:-1,*PK - SINDH NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85466.m3u8
-#EXTINF:-1,*PK - WAQT NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85476.m3u8
-#EXTINF:-1,*PK - WASEEB*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85464.m3u8
-#EXTINF:-1,*PK- 92 NEWS UK AF*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85485.m3u8
-#EXTINF:-1,*PK- CHANNEL44  UK AF*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85486.m3u8
-#EXTINF:-1,*PK- Dunya News UK AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85487.m3u8
-#EXTINF:-1,*PK- Geo News  UK AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85489.m3u8
-#EXTINF:-1,*PK- Samaa TV UK AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85488.m3u8
-#EXTINF:-1,P2 BOL NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85497.m3u8
-#EXTINF:-1,P2 CAPITAL NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85460.m3u8
-#EXTINF:-1,P2 CITY 41 NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85480.m3u8
-#EXTINF:-1,P2 GEO NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85459.m3u8
-#EXTINF:-1,P2 GEO TEZ NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85458.m3u8
-#EXTINF:-1,P2 LAHORE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85481.m3u8
-#EXTINF:-1,P2 NEO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85482.m3u8
-#EXTINF:-1,P2 NEWS ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85457.m3u8
-#EXTINF:-1,P2 PTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85456.m3u8
-#EXTINF:-1,P2 PTV WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85455.m3u8
-#EXTINF:-1,P2 SAMMA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85454.m3u8
-#EXTINF:-1,OSN_Animal_Planet_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85751.m3u8
-#EXTINF:-1,OSN_BOX_Office_01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85768.m3u8
-#EXTINF:-1,OSN_BOX_Office_02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85767.m3u8
-#EXTINF:-1,OSN_BOX_Office_03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85766.m3u8
-#EXTINF:-1,OSN_BOX_Office_1_FHD (1920 x 1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85765.m3u8
-#EXTINF:-1,OSN_BOX_Office_2_FHD (1920 x 1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85764.m3u8
-#EXTINF:-1,OSN_BOX_Office_3_FHD (1920 x 1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85763.m3u8
-#EXTINF:-1,OSN_Comedy_Central_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85769.m3u8
-#EXTINF:-1,OSN_Discovery_Channel_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85750.m3u8
-#EXTINF:-1,OSN_Discovery_Family_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85749.m3u8
-#EXTINF:-1,OSN_Discovery_IDX_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85748.m3u8
-#EXTINF:-1,OSN_Discovery_Science_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85747.m3u8
-#EXTINF:-1,OSN_Disney_Channel_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85773.m3u8
-#EXTINF:-1,OSN_Disney_Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85772.m3u8
-#EXTINF:-1,OSN_FINE_LIVING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85761.m3u8
-#EXTINF:-1,OSN_Food_Network_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85757.m3u8
-#EXTINF:-1,OSN_History_Channel_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85756.m3u8
-#EXTINF:-1,OSN_Kid_Zone_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85775.m3u8
-#EXTINF:-1,OSN_Living_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85746.m3u8
-#EXTINF:-1,OSN_Movies_ 2h_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85787.m3u8
-#EXTINF:-1,OSN_Movies_Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85786.m3u8
-#EXTINF:-1,OSN_Movies_Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85781.m3u8
-#EXTINF:-1,OSN_Movies_Comedy 2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85780.m3u8
-#EXTINF:-1,OSN_Movies_First_ 2h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85782.m3u8
-#EXTINF:-1,OSN_Movies_First_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85783.m3u8
-#EXTINF:-1,OSN_Movies_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85788.m3u8
-#EXTINF:-1,OSN_Movies_Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85779.m3u8
-#EXTINF:-1,OSN_Movies_Thriller_ 2h_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85784.m3u8
-#EXTINF:-1,OSN_Movies_Thriller_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85785.m3u8
-#EXTINF:-1,OSN_NAT_GEO_People_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85754.m3u8
-#EXTINF:-1,OSN_Nat_GEO_Wild_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85753.m3u8
-#EXTINF:-1,OSN_National_Geographic_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85755.m3u8
-#EXTINF:-1,OSN_Nickelodeon_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85774.m3u8
-#EXTINF:-1,OSN_Series_Comedy_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85778.m3u8
-#EXTINF:-1,OSN_Series_First_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85777.m3u8
-#EXTINF:-1,OSN_Series_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85776.m3u8
-#EXTINF:-1,OSN_Sports_Action_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85752.m3u8
-#EXTINF:-1,OSN_Star_Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85771.m3u8
-#EXTINF:-1,OSN_Star_World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85770.m3u8
-#EXTINF:-1,OSN_Sundance_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85759.m3u8
-#EXTINF:-1,OSN_Syfy_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85758.m3u8
-#EXTINF:-1,OSN: Discovery Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85760.m3u8
-#EXTINF:-1,OSN: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85762.m3u8
-#EXTINF:-1,Second Act
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/81282.mkv
-#EXTINF:-1,Serenity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/81232.mkv
-#EXTINF:-1,Simmba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/85545.mkv
-#EXTINF:-1,IND - ZOOM UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85961.m3u8
-#EXTINF:-1,IND - ZOOM*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85960.m3u8
-#EXTINF:-1,St Mirren Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85994.m3u8
-#EXTINF:-1,PDC DARTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/86180.m3u8
-#EXTINF:-1,IR:3E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87151.m3u8
-#EXTINF:-1,IR:3E (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87150.m3u8
-#EXTINF:-1,IR:Alibi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87149.m3u8
-#EXTINF:-1,IR:Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87148.m3u8
-#EXTINF:-1,IR:Comedy Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87147.m3u8
-#EXTINF:-1,IR:Dave
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87146.m3u8
-#EXTINF:-1,IR:DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87145.m3u8
-#EXTINF:-1,IR:Eden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87143.m3u8
-#EXTINF:-1,IR:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87142.m3u8
-#EXTINF:-1,IR:Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87141.m3u8
-#EXTINF:-1,IR:Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87140.m3u8
-#EXTINF:-1,IR:Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87139.m3u8
-#EXTINF:-1,IR:Oireachtas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87138.m3u8
-#EXTINF:-1,IR:RTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87137.m3u8
-#EXTINF:-1,IR:RTE 1 (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87136.m3u8
-#EXTINF:-1,IR:RTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87135.m3u8
-#EXTINF:-1,IR:RTE 2 (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87134.m3u8
-#EXTINF:-1,IR:RTE News Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87133.m3u8
-#EXTINF:-1,IR:RTE News Now (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87132.m3u8
-#EXTINF:-1,IR:Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87131.m3u8
-#EXTINF:-1,IR:Sky Sport Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87130.m3u8
-#EXTINF:-1,IR:Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87129.m3u8
-#EXTINF:-1,IR:Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87128.m3u8
-#EXTINF:-1,IR:Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87127.m3u8
-#EXTINF:-1,IR:Sky Sports Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87126.m3u8
-#EXTINF:-1,IR:Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87125.m3u8
-#EXTINF:-1,IR:Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87124.m3u8
-#EXTINF:-1,IR:Sky Sports Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87123.m3u8
-#EXTINF:-1,IR:Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87122.m3u8
-#EXTINF:-1,IR:Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87121.m3u8
-#EXTINF:-1,IR:Sky1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87120.m3u8
-#EXTINF:-1,IR:Sky2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87119.m3u8
-#EXTINF:-1,IR:SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87118.m3u8
-#EXTINF:-1,IR:TG4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87117.m3u8
-#EXTINF:-1,IR:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87116.m3u8
-#EXTINF:-1,IR:TnaG 4 (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87115.m3u8
-#EXTINF:-1,IR:TV 3 (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87114.m3u8
-#EXTINF:-1,IR:Tv3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87113.m3u8
-#EXTINF:-1,IR:Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87112.m3u8
-#EXTINF:-1,IR:Watch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87111.m3u8
-#EXTINF:-1,IND -  STAR PLUS  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98664.m3u8
-#EXTINF:-1,IND - &TV HD UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98655.m3u8
-#EXTINF:-1,IND - 1st INDIA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98637.m3u8
-#EXTINF:-1,IND - 9X  JALWA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98636.m3u8
-#EXTINF:-1,IND - 9X JHAKASS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98634.m3u8
-#EXTINF:-1,IND - 9X MUSIC*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98633.m3u8
-#EXTINF:-1,IND - 9X Tashan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98635.m3u8
-#EXTINF:-1,IND - 9XM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98638.m3u8
-#EXTINF:-1,IND - 9XM*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98632.m3u8
-#EXTINF:-1,IND - AAJ TAK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98631.m3u8
-#EXTINF:-1,IND - AND TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98639.m3u8
-#EXTINF:-1,IND - ANIMAL PLANET*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98630.m3u8
-#EXTINF:-1,IND - B4U MOVIES*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98629.m3u8
-#EXTINF:-1,IND - B4U MUSIC*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98628.m3u8
-#EXTINF:-1,IND - COLORS EUROPE*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98657.m3u8
-#EXTINF:-1,IND - COLORS TV ME*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98652.m3u8
-#EXTINF:-1,IND - COLORS TV UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98658.m3u8
-#EXTINF:-1,IND - COLORS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98659.m3u8
-#EXTINF:-1,IND - DD INDIA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98627.m3u8
-#EXTINF:-1,IND - DD NEWS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98626.m3u8
-#EXTINF:-1,IND - DESI BEATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98625.m3u8
-#EXTINF:-1,IND - LIFE OK IND*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98647.m3u8
-#EXTINF:-1,IND - LIFE OK MENA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98646.m3u8
-#EXTINF:-1,IND - LIFE OK STAR*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98645.m3u8
-#EXTINF:-1,IND - LIFE OK USA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98644.m3u8
-#EXTINF:-1,IND - LIFE OK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98648.m3u8
-#EXTINF:-1,IND - MTV INDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98701.m3u8
-#EXTINF:-1,IND - MUSIC INDIA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98700.m3u8
-#EXTINF:-1,IND - MUSIC XPRESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98699.m3u8
-#EXTINF:-1,IND - NDTV 24x7*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98698.m3u8
-#EXTINF:-1,IND - NDTV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98624.m3u8
-#EXTINF:-1,IND - RISHTAY ASIA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98697.m3u8
-#EXTINF:-1,IND - RISHTAY EU*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98696.m3u8
-#EXTINF:-1,IND - RISHTEY ASIA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98694.m3u8
-#EXTINF:-1,IND - Rishtey CinePlex UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98668.m3u8
-#EXTINF:-1,IND - RISHTEY*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98695.m3u8
-#EXTINF:-1,IND - SAB TV IND*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98642.m3u8
-#EXTINF:-1,IND - SAB TV UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98641.m3u8
-#EXTINF:-1,IND - SAB TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98643.m3u8
-#EXTINF:-1,IND - SET MAX UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98692.m3u8
-#EXTINF:-1,IND - SET MAX*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98693.m3u8
-#EXTINF:-1,IND - SETMAX AUS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98691.m3u8
-#EXTINF:-1,IND - SONY MAX 2*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98690.m3u8
-#EXTINF:-1,IND - SONY PAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98656.m3u8
-#EXTINF:-1,IND - Sony Sab UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98640.m3u8
-#EXTINF:-1,IND - SONY TV AUD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98649.m3u8
-#EXTINF:-1,IND - Sony Tv UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98650.m3u8
-#EXTINF:-1,IND - STAR GOLD IND*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98689.m3u8
-#EXTINF:-1,IND - Star Gold UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98667.m3u8
-#EXTINF:-1,IND - STAR MOVIES*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98688.m3u8
-#EXTINF:-1,IND - STAR PLUS IND*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98662.m3u8
-#EXTINF:-1,IND - STAR PLUS ME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98661.m3u8
-#EXTINF:-1,IND - Star Plus UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98663.m3u8
-#EXTINF:-1,IND - STAR PLUS USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98660.m3u8
-#EXTINF:-1,IND - TIME NOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98687.m3u8
-#EXTINF:-1,IND - UMP MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98686.m3u8
-#EXTINF:-1,IND - UTV ACTION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98685.m3u8
-#EXTINF:-1,IND - UTV BINDASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98684.m3u8
-#EXTINF:-1,IND - UTV MOVIES INTERNATIONAL*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98683.m3u8
-#EXTINF:-1,IND - VAA MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98682.m3u8
-#EXTINF:-1,IND - ZEE  CINEMA UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98681.m3u8
-#EXTINF:-1,IND - ZEE  KANNADA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98680.m3u8
-#EXTINF:-1,IND - ZEE  TV UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98653.m3u8
-#EXTINF:-1,IND - ZEE ACTION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98679.m3u8
-#EXTINF:-1,IND - ZEE ANMOL*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98678.m3u8
-#EXTINF:-1,IND - ZEE BOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98677.m3u8
-#EXTINF:-1,IND - ZEE BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98676.m3u8
-#EXTINF:-1,IND - ZEE CINEMA APAC*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98674.m3u8
-#EXTINF:-1,IND - ZEE CINEMA ME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98673.m3u8
-#EXTINF:-1,IND - Zee cinema UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98666.m3u8
-#EXTINF:-1,IND - ZEE CINEMA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98675.m3u8
-#EXTINF:-1,IND - ZEE CLASSIC*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98672.m3u8
-#EXTINF:-1,IND - ZEE ETC BOLLYWOOD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98671.m3u8
-#EXTINF:-1,IND - ZEE TV ME*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98651.m3u8
-#EXTINF:-1,IND - Zee TV Uk*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98654.m3u8
-#EXTINF:-1,IND - ZING  UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98669.m3u8
-#EXTINF:-1,IND - Zing Music UK*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98665.m3u8
-#EXTINF:-1,IND - ZING*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/98670.m3u8
-#EXTINF:-1,US:  NFL Network | FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101292.m3u8
-#EXTINF:-1,US: 5 STAR MAX | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101291.m3u8
-#EXTINF:-1,US: A&E | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101290.m3u8
-#EXTINF:-1,US: AMC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101289.m3u8
-#EXTINF:-1,US: AMERICAN HERO | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101288.m3u8
-#EXTINF:-1,US: ANIMAL PLANET (East) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101287.m3u8
-#EXTINF:-1,US: ANIMAL PLANET | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101286.m3u8
-#EXTINF:-1,US: AXS TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101285.m3u8
-#EXTINF:-1,US: BABY TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101284.m3u8
-#EXTINF:-1,US: BBC AMERICA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101283.m3u8
-#EXTINF:-1,US: BEIN SPORT | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101282.m3u8
-#EXTINF:-1,US: BEIN SPORTS ? | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101280.m3u8
-#EXTINF:-1,US: BEIN SPORTS (espa?ol) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101281.m3u8
-#EXTINF:-1,US: BET (East) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101279.m3u8
-#EXTINF:-1,US: BET (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101278.m3u8
-#EXTINF:-1,US: BET HER | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101277.m3u8
-#EXTINF:-1,US: BET INTERNATIONAL | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101276.m3u8
-#EXTINF:-1,US: BET JAMZ | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101275.m3u8
-#EXTINF:-1,US: BIG TEN NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101274.m3u8
-#EXTINF:-1,US: Bloomberg TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101273.m3u8
-#EXTINF:-1,US: BOOMERANG | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101272.m3u8
-#EXTINF:-1,US: BOUNCE TV | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101271.m3u8
-#EXTINF:-1,US: BRAVO (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101270.m3u8
-#EXTINF:-1,US: BRAVO | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101269.m3u8
-#EXTINF:-1,US: BUZZER TV | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101268.m3u8
-#EXTINF:-1,US: BYU TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101267.m3u8
-#EXTINF:-1,US: CARTOON NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101266.m3u8
-#EXTINF:-1,US: CINEMAX (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101265.m3u8
-#EXTINF:-1,US: CINEMAX ACTION | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101264.m3u8
-#EXTINF:-1,US: CINEMAX ACTION | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101263.m3u8
-#EXTINF:-1,US: CINEMAX EAST | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101262.m3u8
-#EXTINF:-1,US: CINEMAX MOREMAX | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101261.m3u8
-#EXTINF:-1,US: CINEMAX OUTERMAX | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101260.m3u8
-#EXTINF:-1,US: CINEMAX THRILLER | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101259.m3u8
-#EXTINF:-1,US: CMT | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101258.m3u8
-#EXTINF:-1,US: CNBC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101257.m3u8
-#EXTINF:-1,US: CNBC WORLD | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101256.m3u8
-#EXTINF:-1,US: CNN | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101255.m3u8
-#EXTINF:-1,US: CNN | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101254.m3u8
-#EXTINF:-1,US: COMEDY CENTRAL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101253.m3u8
-#EXTINF:-1,US: COOKING CHANNEL | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101252.m3u8
-#EXTINF:-1,US: COUNTRY MUSIC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101251.m3u8
-#EXTINF:-1,US: CW (Central PA) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101250.m3u8
-#EXTINF:-1,US: CW | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101249.m3u8
-#EXTINF:-1,US: DESTINATION AMERICA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101330.m3u8
-#EXTINF:-1,US: DESTINATION AMERICA | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101329.m3u8
-#EXTINF:-1,US: DISCOVERY CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101328.m3u8
-#EXTINF:-1,US: DISCOVERY FAMILY | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101327.m3u8
-#EXTINF:-1,US: DISCOVERY LIFE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101326.m3u8
-#EXTINF:-1,US: DISCOVERY SCIENCE | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101325.m3u8
-#EXTINF:-1,US: DISCOVERY VELOCITY | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101324.m3u8
-#EXTINF:-1,US: DISNEY CHANNEL | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101323.m3u8
-#EXTINF:-1,US: DISNEY JR (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101322.m3u8
-#EXTINF:-1,US: DISNEY JR. | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101321.m3u8
-#EXTINF:-1,US: DISNEY XD (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101320.m3u8
-#EXTINF:-1,US: DISNEY XD | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101319.m3u8
-#EXTINF:-1,US: DISNEY XD | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101318.m3u8
-#EXTINF:-1,US: DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101317.m3u8
-#EXTINF:-1,US: E! (East) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101316.m3u8
-#EXTINF:-1,US: E! (West) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101315.m3u8
-#EXTINF:-1,US: E! | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101314.m3u8
-#EXTINF:-1,US: EL REY NETWORK | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101313.m3u8
-#EXTINF:-1,US: EPIX | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101312.m3u8
-#EXTINF:-1,US: EPIX DRIVE IN | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101311.m3u8
-#EXTINF:-1,US: EPIX HITS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101310.m3u8
-#EXTINF:-1,US: ESPN | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101309.m3u8
-#EXTINF:-1,US: ESPN 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101308.m3u8
-#EXTINF:-1,US: ESPN 3 | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101307.m3u8
-#EXTINF:-1,US: ESPN CLASSIC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101306.m3u8
-#EXTINF:-1,US: ESPN News | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101305.m3u8
-#EXTINF:-1,US: ESPN U | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101304.m3u8
-#EXTINF:-1,US: FANTASY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101303.m3u8
-#EXTINF:-1,US: FIGHT BOX | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101302.m3u8
-#EXTINF:-1,US: FIGHT NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101301.m3u8
-#EXTINF:-1,US: FOOD NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101300.m3u8
-#EXTINF:-1,US: FOX SOCCER PLUS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101299.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101298.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101297.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101296.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101295.m3u8
-#EXTINF:-1,US: FUSE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101294.m3u8
-#EXTINF:-1,US: FUSION | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101293.m3u8
-#EXTINF:-1,US: FX | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101368.m3u8
-#EXTINF:-1,US: FXM | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101367.m3u8
-#EXTINF:-1,US: FXM RETRO | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101366.m3u8
-#EXTINF:-1,US: FXX | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101365.m3u8
-#EXTINF:-1,US: FXX WEST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101364.m3u8
-#EXTINF:-1,US: FYI | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101363.m3u8
-#EXTINF:-1,US: GOL TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101362.m3u8
-#EXTINF:-1,US: GRIT TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101361.m3u8
-#EXTINF:-1,US: GSN | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101360.m3u8
-#EXTINF:-1,US: HALLMARK CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101359.m3u8
-#EXTINF:-1,US: HALLMARK DRAMA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101358.m3u8
-#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101357.m3u8
-#EXTINF:-1,US: HBO ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101356.m3u8
-#EXTINF:-1,US: HBO | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101355.m3u8
-#EXTINF:-1,US: HBO 2 | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101354.m3u8
-#EXTINF:-1,US: HBO COMEDY | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101353.m3u8
-#EXTINF:-1,US: HBO FAMILY | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101352.m3u8
-#EXTINF:-1,US: HBO SIGNATURE (West) | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101351.m3u8
-#EXTINF:-1,US: HBO ZONE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101350.m3u8
-#EXTINF:-1,US: HBO ZONE | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101349.m3u8
-#EXTINF:-1,US: HDNET MOVIES | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101348.m3u8
-#EXTINF:-1,US: HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101347.m3u8
-#EXTINF:-1,US: ION | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101346.m3u8
-#EXTINF:-1,US: LIFETIME | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101345.m3u8
-#EXTINF:-1,US: LIFETIME | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101344.m3u8
-#EXTINF:-1,US: LIFETIME MOVIES | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101343.m3u8
-#EXTINF:-1,US: LOGO | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101342.m3u8
-#EXTINF:-1,US: NAT GEO ( WEST ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101341.m3u8
-#EXTINF:-1,US: NAT GEO | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101340.m3u8
-#EXTINF:-1,US: NAT GEO WILD | FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101339.m3u8
-#EXTINF:-1,US: NBA TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101338.m3u8
-#EXTINF:-1,US: NBC GOLF CHANNEL | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101337.m3u8
-#EXTINF:-1,US: NBC SPORTS (Chicago) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101336.m3u8
-#EXTINF:-1,US: NBC SPORTS BAY AREA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101335.m3u8
-#EXTINF:-1,US: NBC Sports Network | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101334.m3u8
-#EXTINF:-1,US: NFL NOW | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101333.m3u8
-#EXTINF:-1,US: NFL REDZONE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101332.m3u8
-#EXTINF:-1,US: NHL NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101331.m3u8
-#EXTINF:-1,US: NICKELODEON | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101419.m3u8
-#EXTINF:-1,US: NICKTOONS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101418.m3u8
-#EXTINF:-1,US: OLYMPIC CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101417.m3u8
-#EXTINF:-1,US: OWN | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101416.m3u8
-#EXTINF:-1,US: OWN | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101415.m3u8
-#EXTINF:-1,US: OXYGEN | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101414.m3u8
-#EXTINF:-1,US: PARAMOUNT NETWORK | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101413.m3u8
-#EXTINF:-1,US: PBS KIDS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101412.m3u8
-#EXTINF:-1,US: PBS KIDS 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101411.m3u8
-#EXTINF:-1,US: PEOPLE TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101410.m3u8
-#EXTINF:-1,US: POP TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101409.m3u8
-#EXTINF:-1,US: PURSUIT CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101408.m3u8
-#EXTINF:-1,US: QVC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101407.m3u8
-#EXTINF:-1,US: RED BULL TV | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101406.m3u8
-#EXTINF:-1,US: REVOLT | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101405.m3u8
-#EXTINF:-1,US: SONY MOVIE CHANNEL | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101404.m3u8
-#EXTINF:-1,US: SPORTS NETWORK (NY) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101403.m3u8
-#EXTINF:-1,US: SPORTSMAN CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101402.m3u8
-#EXTINF:-1,US: SPORTSNET LA (Los Angeles) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101401.m3u8
-#EXTINF:-1,US: STARZ | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101400.m3u8
-#EXTINF:-1,US: STARZ CINEMA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101399.m3u8
-#EXTINF:-1,US: STARZ COMEDY | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101398.m3u8
-#EXTINF:-1,US: STARZ EDGE | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101397.m3u8
-#EXTINF:-1,US: STARZ ENCORE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101396.m3u8
-#EXTINF:-1,US: STARZ KIDS & FAMILY | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101395.m3u8
-#EXTINF:-1,US: STARZ KIDS & FAMILY | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101394.m3u8
-#EXTINF:-1,US: STARZ SUSPENSE | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101393.m3u8
-#EXTINF:-1,US: STARZ WESTERNS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101392.m3u8
-#EXTINF:-1,US: SUNDANCE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101391.m3u8
-#EXTINF:-1,US: SYFY ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101390.m3u8
-#EXTINF:-1,US: SYFY | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101389.m3u8
-#EXTINF:-1,US: TLC ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101388.m3u8
-#EXTINF:-1,US: TLC | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101387.m3u8
-#EXTINF:-1,US: TLC | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101386.m3u8
-#EXTINF:-1,US: TNT ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101385.m3u8
-#EXTINF:-1,US: TNT (East) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101384.m3u8
-#EXTINF:-1,US: TRU TV ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101383.m3u8
-#EXTINF:-1,US: TRU TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101382.m3u8
-#EXTINF:-1,US: TUFF TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101381.m3u8
-#EXTINF:-1,US: UFC FIGHT PASS | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101380.m3u8
-#EXTINF:-1,US: UFC NETWORK | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101379.m3u8
-#EXTINF:-1,US: UFC TV | 720
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101378.m3u8
-#EXTINF:-1,US: UNIMAS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101377.m3u8
-#EXTINF:-1,US: UNIVERSAL KIDS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101376.m3u8
-#EXTINF:-1,US: UNIVISION | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101375.m3u8
-#EXTINF:-1,US: Univision Deportes | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101374.m3u8
-#EXTINF:-1,US: USA NETWORK ( West ) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101373.m3u8
-#EXTINF:-1,US: USA NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101372.m3u8
-#EXTINF:-1,US: VH1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101371.m3u8
-#EXTINF:-1,US: VICE LAND | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101370.m3u8
-#EXTINF:-1,US: WE TV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101369.m3u8
-#EXTINF:-1,24/7 | ADVENTURE TIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103730.m3u8
-#EXTINF:-1,24/7 | AMERICAN DAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103729.m3u8
-#EXTINF:-1,24/7 | AMERICAN GODS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103708.m3u8
-#EXTINF:-1,24/7 | AMERICAN HORROR STORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103728.m3u8
-#EXTINF:-1,24/7 | ANCIENT ALIENS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103726.m3u8
-#EXTINF:-1,24/7 | BARBIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103725.m3u8
-#EXTINF:-1,24/7 | BLAZE & THE MONSTER MACHINES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103724.m3u8
-#EXTINF:-1,24/7 | BOB'S BURGERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103721.m3u8
-#EXTINF:-1,24/7 | BOXING MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103703.m3u8
-#EXTINF:-1,24/7 | BUBBLE GUPPIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103701.m3u8
-#EXTINF:-1,24/7 | CARS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103714.m3u8
-#EXTINF:-1,24/7 | DEATH RACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103717.m3u8
-#EXTINF:-1,24/7 | FRIENDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103713.m3u8
-#EXTINF:-1,24/7 | G.I.JOE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103715.m3u8
-#EXTINF:-1,24/7 | GAME OF THRONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103711.m3u8
-#EXTINF:-1,24/7 | HAPPY ENDINGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103716.m3u8
-#EXTINF:-1,24/7 | HARDCORE PAWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103692.m3u8
-#EXTINF:-1,24/7 | HIGH SCHOOL MUSICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103709.m3u8
-#EXTINF:-1,24/7 | ICARLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103710.m3u8
-#EXTINF:-1,24/7 | IRON MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103727.m3u8
-#EXTINF:-1,24/7 | LINE OF DUTY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103753.m3u8
-#EXTINF:-1,24/7 | LITTLE BRITAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103699.m3u8
-#EXTINF:-1,24/7 | MARVEL'S AVERNGERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103722.m3u8
-#EXTINF:-1,24/7 | MAX & PADDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103752.m3u8
-#EXTINF:-1,24/7 | MICKEY MOUSE CLUB HOUSE*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103712.m3u8
-#EXTINF:-1,24/7 | MICKY AND THE ROADSTER RACER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103695.m3u8
-#EXTINF:-1,24/7 | MR ROBOT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103697.m3u8
-#EXTINF:-1,24/7 | MRS BROWN BOYS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103700.m3u8
-#EXTINF:-1,24/7 | MY HERO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103696.m3u8
-#EXTINF:-1,24/7 | NAT GEO KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103719.m3u8
-#EXTINF:-1,24/7 | ONLY FOOLS AND HORSES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103731.m3u8
-#EXTINF:-1,24/7 | ONLY FOOT IN THE GRAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103718.m3u8
-#EXTINF:-1,24/7 | ORANGE IS THE NEW BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103694.m3u8
-#EXTINF:-1,24/7 | PAW PATROL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103693.m3u8
-#EXTINF:-1,24/7 | PEAKY BLINDERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103698.m3u8
-#EXTINF:-1,24/7 | PETER KAY'S CAR SHARE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103691.m3u8
-#EXTINF:-1,24/7 | PETER KAY'S PHOENIX NIGHT'S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103690.m3u8
-#EXTINF:-1,24/7 | PHINEAS AND FERB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103689.m3u8
-#EXTINF:-1,24/7 | RAY DONOVAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103688.m3u8
-#EXTINF:-1,24/7 | RECESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103749.m3u8
-#EXTINF:-1,24/7 | SAW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103720.m3u8
-#EXTINF:-1,24/7 | SHAMELESS UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103758.m3u8
-#EXTINF:-1,24/7 | STAND UP COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103740.m3u8
-#EXTINF:-1,24/7 | STAR TREK ENTERPRISE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103754.m3u8
-#EXTINF:-1,24/7 | STARGATE ATLANTIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103757.m3u8
-#EXTINF:-1,24/7 | STITCHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103755.m3u8
-#EXTINF:-1,24/7 | STITCHERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103741.m3u8
-#EXTINF:-1,24/7 | SUPERMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103751.m3u8
-#EXTINF:-1,24/7 | TAKEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103756.m3u8
-#EXTINF:-1,24/7 | THE BEVERLY HILLBILLIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103750.m3u8
-#EXTINF:-1,24/7 | THE FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103748.m3u8
-#EXTINF:-1,24/7 | THE FRESH PRINCE OF BEL-AIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103747.m3u8
-#EXTINF:-1,24/7 | THE HITCHHIKER'S GUIDE TO THE GALAXY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103746.m3u8
-#EXTINF:-1,24/7 | THE HONEYMOONERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103735.m3u8
-#EXTINF:-1,24/7 | THE JEFFERSON'S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103745.m3u8
-#EXTINF:-1,24/7 | THE MATRIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103702.m3u8
-#EXTINF:-1,24/7 | THE MUNSTERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103744.m3u8
-#EXTINF:-1,24/7 | THE PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103743.m3u8
-#EXTINF:-1,24/7 | THE ROYLE FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103742.m3u8
-#EXTINF:-1,24/7 | THE TERMINATOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103705.m3u8
-#EXTINF:-1,24/7 | THE THUNDERBIRDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103723.m3u8
-#EXTINF:-1,24/7 | TIMMY TIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103739.m3u8
-#EXTINF:-1,24/7 | TOM & JERRY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103738.m3u8
-#EXTINF:-1,24/7 | TOM CLANCY'S JACK RYAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103704.m3u8
-#EXTINF:-1,24/7 | TWO AND A HALF MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103736.m3u8
-#EXTINF:-1,24/7 | TWO PINTS OF LAGER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103737.m3u8
-#EXTINF:-1,24/7 | UNDERWORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103706.m3u8
-#EXTINF:-1,24/7 | VIKINGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103733.m3u8
-#EXTINF:-1,24/7 | WESTWORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103734.m3u8
-#EXTINF:-1,24/7 | YOUNG GUNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/103707.m3u8
+#EXTINF:-1,Animaux FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4469.m3u8
+#EXTINF:-1,Animaux HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13119.m3u8
+#EXTINF:-1,Arte HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3726.m3u8
+#EXTINF:-1,BE Curious HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20165.m3u8
+#EXTINF:-1,BET FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/16831.m3u8
+#EXTINF:-1,BFM Business FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20121.m3u8
+#EXTINF:-1,RMC Sport News FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18252.m3u8
+#EXTINF:-1,13ème RUE HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2250.m3u8
+#EXTINF:-1,6ter HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3723.m3u8
+#EXTINF:-1,A+ FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18249.m3u8
+#EXTINF:-1,Automoto la chaîne HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18248.m3u8
+#EXTINF:-1,AB1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3731.m3u8
+#EXTINF:-1,AB1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13144.m3u8
+#EXTINF:-1,Action HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4507.m3u8
+#EXTINF:-1,Altice Studio FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18250.m3u8
+#EXTINF:-1,BFM TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3607.m3u8
+#EXTINF:-1,Boing HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13176.m3u8
+#EXTINF:-1,Boomerang FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2240.m3u8
+#EXTINF:-1,C8 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2227.m3u8
+#EXTINF:-1,CNews HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13154.m3u8
+#EXTINF:-1,COMEDIE+ FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3746.m3u8
+#EXTINF:-1,COMEDIE+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13146.m3u8
+#EXTINF:-1,CSTAR HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4459.m3u8
+#EXTINF:-1,Canal J HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2239.m3u8
+#EXTINF:-1,Canal+ Cinéma FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/15283.m3u8
+#EXTINF:-1,Canal+ Cinéma FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2207.m3u8
+#EXTINF:-1,Canal+ Cinéma HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13131.m3u8
+#EXTINF:-1,Canal+ Décalé FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3733.m3u8
+#EXTINF:-1,Canal+ Décalé HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13134.m3u8
+#EXTINF:-1,Canal+ Family FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3735.m3u8
+#EXTINF:-1,Canal+ Family HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13132.m3u8
+#EXTINF:-1,Canal+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2206.m3u8
+#EXTINF:-1,Canal+ Sport FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2210.m3u8
+#EXTINF:-1,Canal+ Sport HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13149.m3u8
+#EXTINF:-1,Canal+ Séries HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2211.m3u8
+#EXTINF:-1,CanalPlay 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6448.m3u8
+#EXTINF:-1,CanalPlay 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6447.m3u8
+#EXTINF:-1,CanalPlay 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6446.m3u8
+#EXTINF:-1,CanalPlay 4 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6445.m3u8
+#EXTINF:-1,CanalPlay 5 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6444.m3u8
+#EXTINF:-1,Cartoon Network HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2246.m3u8
+#EXTINF:-1,Chasse et Pêche FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2257.m3u8
+#EXTINF:-1,Chérie 25 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13158.m3u8
+#EXTINF:-1,Cine+ Classic HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2217.m3u8
+#EXTINF:-1,Cine+ Club HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/16830.m3u8
+#EXTINF:-1,Cine+ Famiz HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2215.m3u8
+#EXTINF:-1,Cine+ Frisson HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2212.m3u8
+#EXTINF:-1,Cine+ Premier HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2213.m3u8
+#EXTINF:-1,Cine+ Émotion HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2214.m3u8
+#EXTINF:-1,Crime District FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20265.m3u8
+#EXTINF:-1,Discovery Channel HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7579.m3u8
+#EXTINF:-1,Discovery Science HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7578.m3u8
+#EXTINF:-1,Disney Channel FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2241.m3u8
+#EXTINF:-1,Disney Channel HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13126.m3u8
+#EXTINF:-1,Disney Cinema HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13169.m3u8
+#EXTINF:-1,Disney Junior HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13170.m3u8
+#EXTINF:-1,Disney XD HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13171.m3u8
+#EXTINF:-1,Djazz TV FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/17885.m3u8
+#EXTINF:-1,E! HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2229.m3u8
+#EXTINF:-1,Equidia Live HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13181.m3u8
+#EXTINF:-1,EuroNews English HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/17301.m3u8
+#EXTINF:-1,Euronews FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3751.m3u8
+#EXTINF:-1,Eurosport 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2013.m3u8
+#EXTINF:-1,Eurosport 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7572.m3u8
+#EXTINF:-1,Extreme Sports Channel FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21904.m3u8
+#EXTINF:-1,France 2 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14907.m3u8
+#EXTINF:-1,France 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2200.m3u8
+#EXTINF:-1,France 24 Arabic FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/6287.m3u8
+#EXTINF:-1,France 24 English FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/17303.m3u8
+#EXTINF:-1,France 24 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/17302.m3u8
+#EXTINF:-1,France 24 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3753.m3u8
+#EXTINF:-1,France 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2201.m3u8
+#EXTINF:-1,France 4 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20166.m3u8
+#EXTINF:-1,France 4 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2202.m3u8
+#EXTINF:-1,France 5 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2203.m3u8
+#EXTINF:-1,France Ô FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3752.m3u8
+#EXTINF:-1,Franceinfo: FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21900.m3u8
+#EXTINF:-1,Game One HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7574.m3u8
+#EXTINF:-1,Golf+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13179.m3u8
+#EXTINF:-1,Gulli HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4465.m3u8
+#EXTINF:-1,HD1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13159.m3u8
+#EXTINF:-1,Histoire HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13166.m3u8
+#EXTINF:-1,Infosport+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7571.m3u8
+#EXTINF:-1,Investigation Discovery FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20266.m3u8
+#EXTINF:-1,J-One FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21530.m3u8
+#EXTINF:-1,L'Equipe 21 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4468.m3u8
+#EXTINF:-1,LCI HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/16834.m3u8
+#EXTINF:-1,LCP FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18215.m3u8
+#EXTINF:-1,M6 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3758.m3u8
+#EXTINF:-1,M6 Music FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4476.m3u8
+#EXTINF:-1,MCM FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18106.m3u8
+#EXTINF:-1,MCM Top FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/19013.m3u8
+#EXTINF:-1,MTV France HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21902.m3u8
+#EXTINF:-1,MTV Hits HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21903.m3u8
+#EXTINF:-1,Mangas FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2245.m3u8
+#EXTINF:-1,Mezzo FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/16832.m3u8
+#EXTINF:-1,Mezzo Live HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/16833.m3u8
+#EXTINF:-1,Motorsport TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3252.m3u8
+#EXTINF:-1,My Cuisine FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18255.m3u8
+#EXTINF:-1,NRJ 12 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3760.m3u8
+#EXTINF:-1,NRJ Hits HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20429.m3u8
+#EXTINF:-1,NT1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7561.m3u8
+#EXTINF:-1,National Geographic FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4467.m3u8
+#EXTINF:-1,National Geographic Wild HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3606.m3u8
+#EXTINF:-1,Nick Jr. FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13173.m3u8
+#EXTINF:-1,Nickelodeon 4Teen FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/15638.m3u8
+#EXTINF:-1,Nickelodeon HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13172.m3u8
+#EXTINF:-1,Nollywood TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18256.m3u8
+#EXTINF:-1,Novelas TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21899.m3u8
+#EXTINF:-1,RMC Story FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3750.m3u8
+#EXTINF:-1,RMC Story FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13141.m3u8
+#EXTINF:-1,OCS Choc HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7576.m3u8
+#EXTINF:-1,OCS City HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3763.m3u8
+#EXTINF:-1,OCS Geants HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3762.m3u8
+#EXTINF:-1,OCS Go Cine 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18107.m3u8
+#EXTINF:-1,OCS Go Cine 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18108.m3u8
+#EXTINF:-1,OCS Go Cine 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18109.m3u8
+#EXTINF:-1,OCS Go Cine 4 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18110.m3u8
+#EXTINF:-1,OCS Go Cine 5 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18111.m3u8
+#EXTINF:-1,OCS Go Cine 6 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18112.m3u8
+#EXTINF:-1,OCS Go Cine 7 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18113.m3u8
+#EXTINF:-1,OCS Go Cine 8 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18114.m3u8
+#EXTINF:-1,OCS Max HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3761.m3u8
+#EXTINF:-1,OL TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20122.m3u8
+#EXTINF:-1,PIWI+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13174.m3u8
+#EXTINF:-1,Paramount Channel HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13163.m3u8
+#EXTINF:-1,Paris Première HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2224.m3u8
+#EXTINF:-1,Planète+ Action & Experience HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13124.m3u8
+#EXTINF:-1,Planète+ Action & Expérience FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2248.m3u8
+#EXTINF:-1,Planète+ Crime Investigation FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/15639.m3u8
+#EXTINF:-1,Planète+ Crime Investigation HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2249.m3u8
+#EXTINF:-1,Planète+ FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2247.m3u8
+#EXTINF:-1,Polar FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7805.m3u8
+#EXTINF:-1,RFM TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18258.m3u8
+#EXTINF:-1,RMC Découverte HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13157.m3u8
+#EXTINF:-1,RTL9 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3771.m3u8
+#EXTINF:-1,RMC Sport 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13182.m3u8
+#EXTINF:-1,RMC Sport 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2251.m3u8
+#EXTINF:-1,RMC Sport 3 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/21522.m3u8
+#EXTINF:-1,RMC Sport 4 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13148.m3u8
+#EXTINF:-1,Science & Vie TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7799.m3u8
+#EXTINF:-1,Science & Vie TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13115.m3u8
+#EXTINF:-1,Seasons HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13186.m3u8
+#EXTINF:-1,Sundance TV FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18259.m3u8
+#EXTINF:-1,Syfy HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2228.m3u8
+#EXTINF:-1,Série Club HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2221.m3u8
+#EXTINF:-1,TCM Cinéma FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2218.m3u8
+#EXTINF:-1,TF1 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14906.m3u8
+#EXTINF:-1,TF1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2204.m3u8
+#EXTINF:-1,TIJI HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2237.m3u8
+#EXTINF:-1,TMC FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13164.m3u8
+#EXTINF:-1,TV Breizh FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2244.m3u8
+#EXTINF:-1,TV Breizh HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13125.m3u8
+#EXTINF:-1,TV5MONDE Europe FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3769.m3u8
+#EXTINF:-1,TeleToon+ HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4466.m3u8
+#EXTINF:-1,Toonami FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18104.m3u8
+#EXTINF:-1,Toute l'histoire FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/7798.m3u8
+#EXTINF:-1,Trace Africa HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18260.m3u8
+#EXTINF:-1,Trace Urban FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18261.m3u8
+#EXTINF:-1,Trek HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13185.m3u8
+#EXTINF:-1,Téva FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2225.m3u8
+#EXTINF:-1,Ushuaïa TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4491.m3u8
+#EXTINF:-1,Viceland FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18262.m3u8
+#EXTINF:-1,Voyage HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13167.m3u8
+#EXTINF:-1,W9 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3770.m3u8
+#EXTINF:-1,Wéo TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/4464.m3u8
+#EXTINF:-1,ZouZous FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18105.m3u8
+#EXTINF:-1,Baby TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/22304.m3u8
+#EXTINF:-1,TF 1 Séries Films FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23326.m3u8
+#EXTINF:-1,TFX FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23351.m3u8
+#EXTINF:-1,Discovery Family HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23439.m3u8
+#EXTINF:-1,Trace Mziki HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/24151.m3u8
+#EXTINF:-1,Trace Naija HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/24153.m3u8
+#EXTINF:-1,Trace Sport Stars FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/24152.m3u8
+#EXTINF:-1,Trace Tropical FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/24150.m3u8
+#EXTINF:-1,Foot+ 24/24 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/17245.m3u8
+#EXTINF:-1,MyZen TV FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18254.m3u8
+#EXTINF:-1,Ultra Nature UHD 4K FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27225.m3u8
+#EXTINF:-1,Golf Channel FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27631.m3u8
+#EXTINF:-1,Trace Latina HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27928.m3u8
+#EXTINF:-1,Gong Max FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/28188.m3u8
+#EXTINF:-1,Gong TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/live/Argent/AdviVY579/28187.m3u8

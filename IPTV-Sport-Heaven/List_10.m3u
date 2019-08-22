@@ -1,65 +1,543 @@
 #EXTM3U
-#EXTINF:0,(TR) EUROSPORT 2 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
-#EXTINF:0,(TR) EUROSPORT 1 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
-#EXTINF:0,(TR) DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
-#EXTINF:0,(TR) BURSA SPOR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
-#EXTINF:0,(TR) BJK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
-#EXTINF:0,(TR) AKTIF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
-#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:0,DESP | Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:0,DESP | Sky Bundesliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:0,DESP | Sky Bundesliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:0,DESP | Sky Bundesliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
-#EXTINF:0,DESP | Sky Bundesliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
-#EXTINF:0,DESP | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:0,DESP |Sky Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:0,DESP | Sport1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:0,DESP | Dazn Bar 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:0,DESP | Dazn Bar 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
-#EXTINF:0,DESP | Sport Digital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:0,DESP | Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:0,DESP | EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:0,DESP | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:0,DESP | Eurosport 2 HD Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:0,(AR) BEINSPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
-#EXTINF:0,(AR) BEINSPORT HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
-#EXTINF:0,(AR) BEINSPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
-#EXTINF:0,(AR) BEINSPORT HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
-#EXTINF:0,(AR) BEINSPORT HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
-#EXTINF:0,(AR) BEINSPORT HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
-#EXTINF:0,(AR) BEINSPORT HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
-#EXTINF:0,(AR) BEINSPORT HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
-#EXTINF:0,(AR) BEINSPORT HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
-#EXTINF:0,(AR) BEINSPORT HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:0,TR | VIP BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/56738
+#EXTINF:0,TR | VIP BeIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/2903
+#EXTINF:0,TR | VIP BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/2902
+#EXTINF:0,TR | VIP BeIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/89976
+#EXTINF:0,TR | BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/107152
+#EXTINF:0,TR | BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/107151
+#EXTINF:0,TR | BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/107150
+#EXTINF:0,TR | BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/107149
+#EXTINF:0,TR | BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117661
+#EXTINF:0,TR | BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117660
+#EXTINF:0,TR | BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117659
+#EXTINF:0,TR | BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117658
+#EXTINF:0,TR | BEIN SPORT 1 |360p|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123708
+#EXTINF:0,TR | BEIN SPORT 1 |480p|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123737
+#EXTINF:0,TR | BEIN SPORT 1 |720p|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123738
+#EXTINF:0,TR | BEIN SPORT 1 |1080p|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123739
+#EXTINF:0,TR | BEIN SPORTS 1 |Y|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117655
+#EXTINF:0,TR | BEIN SPORTS 2 |Y|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117654
+#EXTINF:0,TR | BEIN SPORTS 3 |Y|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117653
+#EXTINF:0,TR | BEIN SPORTS 4 |Y|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117652
+#EXTINF:0,TR | VIP BeIN SPORT MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117663
+#EXTINF:0,TR | VIP BeIN SPORT MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117662
+#EXTINF:0,TR | BEIN SPORTS 1 max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117657
+#EXTINF:0,TR | BEIN SPORTS 2 max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117656
+#EXTINF:0,TR | VIP BeIN SPORT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117664
+#EXTINF:0,TR | beIN Sports HABER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117665
+#EXTINF:0,TR | beINSPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/92368
+#EXTINF:0,TR | SARAN SPORT SDV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/114
+#EXTINF:0,TR | SARAN SPORT HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/74915
+#EXTINF:0,TR | S SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/124966
+#EXTINF:0,TR | SPORTS TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/74964
+#EXTINF:0,TR | SMART SPOR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/74470
+#EXTINF:0,TR | TIVIBU SPOR 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/109
+#EXTINF:0,TR | TIVIBU SPOR 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/110
+#EXTINF:0,TR | TIVIBU SPOR 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/2772
+#EXTINF:0,TR | TIVIBU SPOR 1 YEDEK HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/106067
+#EXTINF:0,TR | TIVIBU SPOR 2 YEDEK HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/106068
+#EXTINF:0,TR | TIVIBU SPOR 3 YEDEK HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/106069
+#EXTINF:0,TR | EUROSPORT 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/932
+#EXTINF:0,TR | EUROSPORT 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/1219
+#EXTINF:0,TR | A SPOR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/50438
+#EXTINF:0,TR | A SPOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/36396
+#EXTINF:0,TR | TRT SPOR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/36395
+#EXTINF:0,TR | GS TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/47
+#EXTINF:0,TR | FB TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/49
+#EXTINF:0,TR | BJK TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/48
+#EXTINF:0,TR | TJK TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/1325
+#EXTINF:0,DE |  FC BAYERN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122508
+#EXTINF:0,DE | BAYERN FC TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122507
+#EXTINF:0,DE | Dazn 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122506
+#EXTINF:0,DE | Dazn 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122505
+#EXTINF:0,DE | Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122504
+#EXTINF:0,DE | EuroSport 2 Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122503
+#EXTINF:0,DE | Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122502
+#EXTINF:0,DE | Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122501
+#EXTINF:0,DE | Sky Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122500
+#EXTINF:0,DE | Sky Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122499
+#EXTINF:0,DE | Sky Bundesliga 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122498
+#EXTINF:0,DE | Sky Bundesliga 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122497
+#EXTINF:0,DE | Sky Bundesliga 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122496
+#EXTINF:0,DE | Sky Bundesliga 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122495
+#EXTINF:0,DE | Sky Bundesliga 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122494
+#EXTINF:0,DE | Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122493
+#EXTINF:0,DE | Sky Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122492
+#EXTINF:0,DE | Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122491
+#EXTINF:0,DE | Sport Digital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122490
+#EXTINF:0,DE. |  AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122516
+#EXTINF:0,DE. |  Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122515
+#EXTINF:0,DE. |  Sky 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122541
+#EXTINF:0,DE. |  Sky Action HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122540
+#EXTINF:0,DE. |  Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122539
+#EXTINF:0,DE. |  Sky Cinema  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122538
+#EXTINF:0,DE. |  SKY CINEMA 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122537
+#EXTINF:0,DE. |  Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122536
+#EXTINF:0,DE. |  Sky Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122535
+#EXTINF:0,DE. |  Sky Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122534
+#EXTINF:0,DE. |  Sky Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122533
+#EXTINF:0,DE. |  Sky Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122532
+#EXTINF:0,DE. |  Sky Krimi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122531
+#EXTINF:0,DE. |  Sky Nostalgie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122530
+#EXTINF:0,DE. | Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122513
+#EXTINF:0,DE. | Motorvision TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122512
+#EXTINF:0,DE. | Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122511
+#EXTINF:0,DE. | Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122510
+#EXTINF:0,DE. | Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122509
+#EXTINF:0,DE | Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117719
+#EXTINF:0,DE | Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117717
+#EXTINF:0,DE | Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117718
+#EXTINF:0,DE | Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117716
+#EXTINF:0,DE | Sky Sport 11 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117701
+#EXTINF:0,DE | Sky Sport 11 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117700
+#EXTINF:0,DE | Sky Sport 10 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117702
+#EXTINF:0,DE | Sky Sport 3 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117715
+#EXTINF:0,DE | Sky Sport 3 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117714
+#EXTINF:0,DE | Sky Sport 4 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117713
+#EXTINF:0,DE | Sky Sport 4 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117712
+#EXTINF:0,DE | Sky Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117708
+#EXTINF:0,DE | Sky Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117710
+#EXTINF:0,DE | Sky Sport 5HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117711
+#EXTINF:0,DE | Sky Sport 6 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117709
+#EXTINF:0,DE | Sky Sport 6 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117707
+#EXTINF:0,DE | Sky Sport 7 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117706
+#EXTINF:0,DE | Sky Sport 7 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117705
+#EXTINF:0,DE | Sky Sport 8 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117704
+#EXTINF:0,DE | Sky Sport 9 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117703
+#EXTINF:0,DE | Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117728
+#EXTINF:0,DE | Sky Sport Bundesliga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117699
+#EXTINF:0,DE | Sky Sport Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117698
+#EXTINF:0,DE | Sky Sport Bundesliga 10 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117684
+#EXTINF:0,DE | Sky Sport Bundesliga 10 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117683
+#EXTINF:0,DE | Sky Sport Bundesliga 2 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117697
+#EXTINF:0,DE | Sky Sport Bundesliga 2 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117696
+#EXTINF:0,DE | Sky Sport Bundesliga 3 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117695
+#EXTINF:0,DE | Sky Sport Bundesliga 3 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117694
+#EXTINF:0,DE | Sky Sport Bundesliga 4 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117693
+#EXTINF:0,DE | Sky Sport Bundesliga 4 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117692
+#EXTINF:0,DE | Sky Sport Bundesliga 5 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117691
+#EXTINF:0,DE | Sky Sport Bundesliga 5 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117690
+#EXTINF:0,DE | Sky Sport Bundesliga 6 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117689
+#EXTINF:0,DE | Sky Sport Bundesliga 6 HD ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117688
+#EXTINF:0,DE | Sky Sport Bundesliga 7 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117687
+#EXTINF:0,DE | Sky Sport Bundesliga 8 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117686
+#EXTINF:0,DE | Sky Sport Bundesliga 9 ( Match time )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117685
+#EXTINF:0,DE | Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117721
+#EXTINF:0,FR | BEINSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122391
+#EXTINF:0,FR | BEINSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122392
+#EXTINF:0,FR | BEINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122393
+#EXTINF:0,FR | BEINSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122388
+#EXTINF:0,FR | BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122389
+#EXTINF:0,FR | BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122390
+#EXTINF:0,FR | BEINSPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122385
+#EXTINF:0,FR | BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122386
+#EXTINF:0,FR | BEINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122387
+#EXTINF:0,FR | BEINSPORT MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122371
+#EXTINF:0,FR | BEINSPORT MAX 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122372
+#EXTINF:0,FR | BEINSPORT MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122383
+#EXTINF:0,FR | BEINSPORT MAX 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122384
+#EXTINF:0,FR | BEINSPORT MAX 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122381
+#EXTINF:0,FR | BEINSPORT MAX 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122382
+#EXTINF:0,FR | BEINSPORT MAX 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122379
+#EXTINF:0,FR | BEINSPORT MAX 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122380
+#EXTINF:0,FR | BEINSPORT MAX 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122377
+#EXTINF:0,FR | BEINSPORT MAX 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122378
+#EXTINF:0,FR | BEINSPORT MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122375
+#EXTINF:0,FR | BEINSPORT MAX 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122376
+#EXTINF:0,FR | BEINSPORT MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122373
+#EXTINF:0,FR | BEINSPORT MAX 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122374
+#EXTINF:0,FR | RMC SPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122436
+#EXTINF:0,FR | RMC SPORT3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122434
+#EXTINF:0,FR | RMC SPORT4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122433
+#EXTINF:0,FR | RMC SPORT5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122432
+#EXTINF:0,NL | Fox Sports 2 International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120390
+#EXTINF:0,NL | Fox Sports 4 International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120388
+#EXTINF:0,NL | Fox Sports 5 Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120387
+#EXTINF:0,NL | Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120386
+#EXTINF:0,NL | Ziggo Sport Extra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120382
+#EXTINF:0,NL | Ziggo Sport Extra2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120383
+#EXTINF:0,NL | Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120384
+#EXTINF:0,NL | Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120385
+#EXTINF:0,NL:Fox Sports 1 Eredivisie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120391
+#EXTINF:0,NL:Fox Sports 3 Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120389
+#EXTINF:0,UK | BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119879
+#EXTINF:0,UK | BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119878
+#EXTINF:0,UK | BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119877
+#EXTINF:0,UK | BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119876
+#EXTINF:0,UK | BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119875
+#EXTINF:0,UK | BT Sport ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119874
+#EXTINF:0,UK | BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119873
+#EXTINF:0,UK | BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119872
+#EXTINF:0,UK | BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119871
+#EXTINF:0,UK | BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119870
+#EXTINF:0,UK | BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119869
+#EXTINF:0,UK | World Fight Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119643
+#EXTINF:0,UK | WWE Raw Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119642
+#EXTINF:0,AR | Abu Dhabi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/126121
+#EXTINF:0,AR | Abu Dhabi Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/126120
+#EXTINF:0,AR | BEIN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125539
+#EXTINF:0,AR | BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125538
+#EXTINF:0,AR | BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125537
+#EXTINF:0,AR | BEIN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125536
+#EXTINF:0,AR | BEIN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125535
+#EXTINF:0,AR | BEIN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125534
+#EXTINF:0,AR | BEIN SPORTS 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125533
+#EXTINF:0,AR | BEIN SPORTS 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125532
+#EXTINF:0,AR| BEIN SPORTS 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125531
+#EXTINF:0,AR | BEIN SPORTS 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125530
+#EXTINF:0,AR | BEIN SPORTS 11 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125529
+#EXTINF:0,AR | BEIN SPORTS 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125528
+#EXTINF:0,AR | BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125576
+#EXTINF:0,AR | BEIN SPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125575
+#EXTINF:0,AR | BEIN SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125549
+#EXTINF:0,AR | BEIN SPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125548
+#EXTINF:0,AR | BEIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125547
+#EXTINF:0,AR | BEIN SPORTS 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125546
+#EXTINF:0,AR | BEIN SPORTS 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125545
+#EXTINF:0,AR | BEIN SPORTS 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125544
+#EXTINF:0,AR | BEIN SPORTS 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125543
+#EXTINF:0,AR | BEIN SPORTS 8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125542
+#EXTINF:0,AR | BEIN SPORTS 9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125541
+#EXTINF:0,AR | BEIN SPORTS 10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125540
+#EXTINF:0,AR | BEIN SPORTS 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125574
+#EXTINF:0,AR | BEIN SPORTS 2 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125573
+#EXTINF:0,AR | BEIN SPORTS 3 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125572
+#EXTINF:0,AR | BEIN SPORTS 4 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125571
+#EXTINF:0,AR | BEIN SPORTS 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125570
+#EXTINF:0,AR | BEIN SPORTS 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125569
+#EXTINF:0,AR | BEIN SPORTS 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125568
+#EXTINF:0,AR | BEIN SPORTS 8 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125567
+#EXTINF:0,AR | BEIN SPORTS 9 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125566
+#EXTINF:0,AR | BEIN SPORTS 10 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125565
+#EXTINF:0,AR | BEIN SPORTS 11 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125564
+#EXTINF:0,AR | BEIN SPORTS 12 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125563
+#EXTINF:0,AR | BEIN SPORTS 13 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125562
+#EXTINF:0,AR | BEIN SPORTS 14 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125561
+#EXTINF:0,AR | BEIN SPORTS 15  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125560
+#EXTINF:0,BEIN:SPORTS.1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125559
+#EXTINF:0,BEIN:SPORTS.2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125558
+#EXTINF:0,BEIN:SPORTS.3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125557
+#EXTINF:0,BEIN:SPORTS.4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125556
+#EXTINF:0,BEIN:SPORTS.5 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125555
+#EXTINF:0,BEIN:SPORTS.6 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125554
+#EXTINF:0,BEIN:SPORTS.7 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125553
+#EXTINF:0,BEIN:SPORTS.8 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125552
+#EXTINF:0,BEIN:SPORTS.9 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125551
+#EXTINF:0,BEIN:SPORTS.10 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125550
+#EXTINF:0,AR| BeIN Sports 4K 1 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125520
+#EXTINF:0,AR| BeIN Sports 4K 2 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125519
+#EXTINF:0,AR| BeIN Sports 4K 3 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125518
+#EXTINF:0,AR| BeIN Sports 4K 4 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125517
+#EXTINF:0,AR| BeIN Sports 4K 5 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125516
+#EXTINF:0,AR| BeIN Sports 4K 6 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125515
+#EXTINF:0,AR| BeIN Sports 4K 7 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125514
+#EXTINF:0,AR| BeIN Sports 4K 8 H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125513
+#EXTINF:0,AR |  AD SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125501
+#EXTINF:0,AR |  AD SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125500
+#EXTINF:0,AR |  AD SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125499
+#EXTINF:0,AR |  AD SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125498
+#EXTINF:0,AR |  AD SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125497
+#EXTINF:0,AR |  AD SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125496
+#EXTINF:0,AR | Abu Dhabi Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125512
+#EXTINF:0,AR | ABU DHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125503
+#EXTINF:0,AR | Abu Dhabi Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125511
+#EXTINF:0,AR | ABU DHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125502
+#EXTINF:0,AR | Abu Dhabi Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125510
+#EXTINF:0,AR | Abu Dhabi Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125509
+#EXTINF:0,AR | Abu Dhabi Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125508
+#EXTINF:0,AR | Abu Dhabi Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125507
+#EXTINF:0,AR | Abu Dhabi Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125506
+#EXTINF:0,AR | Abu Dhabi Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125505
+#EXTINF:0,AR | Abu Dhabi Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125504
+#EXTINF:0,AR | Al Kass Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125489
+#EXTINF:0,AR | Al Kass Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125488
+#EXTINF:0,AR | Al Kass Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125487
+#EXTINF:0,AR | Al Kass Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125486
+#EXTINF:0,AR | Al Kass Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125485
+#EXTINF:0,AR | DUBAI SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125494
+#EXTINF:0,AR | DUBAI SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125493
+#EXTINF:0,AR | DUBAI SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125492
+#EXTINF:0,AR | DUBAI SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125491
+#EXTINF:0,AR | Dubai Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125495
+#EXTINF:0,AR | DZ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125490
+#EXTINF:0,AR.| OSN  AD SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125655
+#EXTINF:0,AR.| OSN  AD SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125654
+#EXTINF:0,AR.| OSN  AD SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125653
+#EXTINF:0,AR.| OSN  AD SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125652
+#EXTINF:0,AR.| OSN  AD SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125651
+#EXTINF:0,AR.| OSN  AD SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/125650
+#EXTINF:0,RU | EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/118560
+#EXTINF:0,RU | EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/118559
+#EXTINF:0,RU | EUROSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/118558
+#EXTINF:0,RU | EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/118557

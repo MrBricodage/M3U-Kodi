@@ -1,31 +1,435 @@
 #EXTM3U
-#EXTINF:0,Kujtesa Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/859.ts
-#EXTINF:0,Kujtesa Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/858.ts
-#EXTINF:0,Kujtesa Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/857.ts
-#EXTINF:0,Kujtesa Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/856.ts
-#EXTINF:0,Super Sport Kosova 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/55.ts
-#EXTINF:0,Super Sport Kosova 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/54.ts
-#EXTINF:0,Super SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/48.ts
-#EXTINF:0,Super SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/49.ts
-#EXTINF:0,Super SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/50.ts
-#EXTINF:0,Super SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/51.ts
-#EXTINF:0,Super SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/52.ts
-#EXTINF:0,Tring Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/44.ts
-#EXTINF:0,Tring Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/45.ts
-#EXTINF:0,Tring Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/46.ts
-#EXTINF:0,Tring Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.229:8000/live/sula/sula123/47.ts
+#EXTINF:-1,Beln-Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20691.m3u8
+#EXTINF:-1,Beln-Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20666.m3u8
+#EXTINF:-1,Beln-Sport 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20665.m3u8
+#EXTINF:-1,Beln-Sport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20664.m3u8
+#EXTINF:-1,Beln-Sport 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20663.m3u8
+#EXTINF:-1,Beln-Sport 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20662.m3u8
+#EXTINF:-1,Beln-Sport 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20661.m3u8
+#EXTINF:-1,Beln-Sport 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20660.m3u8
+#EXTINF:-1,Beln-Sport 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20659.m3u8
+#EXTINF:-1,Beln-Sport 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20658.m3u8
+#EXTINF:-1,Beln-Sport 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20657.m3u8
+#EXTINF:-1,Beln-Sport 1 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20678.m3u8
+#EXTINF:-1,Beln-Sport 2 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20677.m3u8
+#EXTINF:-1,Beln-Sport 3 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20676.m3u8
+#EXTINF:-1,Beln-Sport 4 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20675.m3u8
+#EXTINF:-1,Beln-Sport 5 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20674.m3u8
+#EXTINF:-1,Beln-Sport 6 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20673.m3u8
+#EXTINF:-1,Beln-Sport 7 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20672.m3u8
+#EXTINF:-1,Beln-Sport 8 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20671.m3u8
+#EXTINF:-1,Beln-Sport 9 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20670.m3u8
+#EXTINF:-1,Beln-Sport 10 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20669.m3u8
+#EXTINF:-1,Beln-Sport 1 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20690.m3u8
+#EXTINF:-1,Beln-Sport 2 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20689.m3u8
+#EXTINF:-1,Beln-Sport 3 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20688.m3u8
+#EXTINF:-1,Beln-Sport 4 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20687.m3u8
+#EXTINF:-1,Beln-Sport 5 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20686.m3u8
+#EXTINF:-1,Beln-Sport 6 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20685.m3u8
+#EXTINF:-1,Beln-Sport 7 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20684.m3u8
+#EXTINF:-1,Beln-Sport 8 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20683.m3u8
+#EXTINF:-1,Beln-Sport 9 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20682.m3u8
+#EXTINF:-1,Beln-Sport 10 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20681.m3u8
+#EXTINF:-1,Beln-Sport 11 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20680.m3u8
+#EXTINF:-1,Beln-Sport 12 FULL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20679.m3u8
+#EXTINF:-1,Beln-Sport 11 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20667.m3u8
+#EXTINF:-1,Beln-Sport 12 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20668.m3u8
+#EXTINF:-1,FRANCE - BFM SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20807.m3u8
+#EXTINF:-1,FRANCE - CANAL  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20760.m3u8
+#EXTINF:-1,FRANCE - CANAL  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20761.m3u8
+#EXTINF:-1,FR CANAL   - CANAL  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20880.m3u8
+#EXTINF:-1,FR CANAL   - CANAL  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20881.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20918.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20915.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20917.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20914.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20916.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20913.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20912.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20911.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20910.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20909.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20908.m3u8
+#EXTINF:-1,FR SPOR - belN-SPORT MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20907.m3u8
+#EXTINF:-1,FR SPOR - ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20901.m3u8
+#EXTINF:-1,FR SPOR - ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20900.m3u8
+#EXTINF:-1,FR SPOR - ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20899.m3u8
+#EXTINF:-1,FR SPOR - EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20893.m3u8
+#EXTINF:-1,FR SPOR - EQUIDIA LIVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20894.m3u8
+#EXTINF:-1,FR SPOR - EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20892.m3u8
+#EXTINF:-1,FR SPOR - EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20891.m3u8
+#EXTINF:-1,FR SPOR - FOOT  24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20896.m3u8
+#EXTINF:-1,FR SPOR - GOLF CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20890.m3u8
+#EXTINF:-1,FR SPOR - INFOSPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20898.m3u8
+#EXTINF:-1,FR SPOR - L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20895.m3u8
+#EXTINF:-1,FR SPOR - LA CHAINE L'EQUIPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20897.m3u8
+#EXTINF:-1,FR SPOR - RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20906.m3u8
+#EXTINF:-1,FR SPOR - RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20905.m3u8
+#EXTINF:-1,FR SPOR - RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20904.m3u8
+#EXTINF:-1,FR SPOR - RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20903.m3u8
+#EXTINF:-1,FR SPOR - RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20902.m3u8
+#EXTINF:-1,FR: SFR SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20348.m3u8
+#EXTINF:-1,SP SPORT - beiN SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21091.m3u8
+#EXTINF:-1,SP SPORT- #VAMOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21086.m3u8
+#EXTINF:-1,SP SPORT- BarCa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21079.m3u8
+#EXTINF:-1,SP SPORT- beiN SPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21089.m3u8
+#EXTINF:-1,SP SPORT- beiN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21092.m3u8
+#EXTINF:-1,SP SPORT- beiN SPORT LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21088.m3u8
+#EXTINF:-1,SP SPORT- Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21080.m3u8
+#EXTINF:-1,SP SPORT- GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21084.m3u8
+#EXTINF:-1,SP SPORT- LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21087.m3u8
+#EXTINF:-1,SP SPORT- M  Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21082.m3u8
+#EXTINF:-1,SP SPORT- MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21076.m3u8
+#EXTINF:-1,SP SPORT- Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21083.m3u8
+#EXTINF:-1,SP SPORT- Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21075.m3u8
+#EXTINF:-1,SP SPORT- MOVISTAR MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21077.m3u8
+#EXTINF:-1,SP SPORT- MOVISTAR PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21085.m3u8
+#EXTINF:-1,SP SPORT- MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21090.m3u8
+#EXTINF:-1,SP SPORT- TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21081.m3u8
+#EXTINF:-1,SP SPORT- TOROS tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21074.m3u8
+#EXTINF:-1,SP SPORT- Real Madrid Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21078.m3u8
+#EXTINF:-1,SP CINEMA- beiN SPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21040.m3u8
+#EXTINF:-1,SP CINEMA- beiN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21043.m3u8
+#EXTINF:-1,SP CINEMA- beiN SPORT LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21039.m3u8
+#EXTINF:-1,SP CINEMA- beiN SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21042.m3u8
+#EXTINF:-1,SP CINEMA- Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21031.m3u8
+#EXTINF:-1,SP CINEMA- GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21035.m3u8
+#EXTINF:-1,OSN - OSN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21739.m3u8
+#EXTINF:-1,OSN - OSN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21738.m3u8
+#EXTINF:-1,OSN - OSN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21737.m3u8
+#EXTINF:-1,OSN - OSN WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21736.m3u8
+#EXTINF:-1,OSN - OSN WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21735.m3u8
+#EXTINF:-1,OSN - WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21734.m3u8
+#EXTINF:-1,OSN AD SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21733.m3u8
+#EXTINF:-1,OSN AD SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21732.m3u8
+#EXTINF:-1,OSN AD SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21731.m3u8
+#EXTINF:-1,OSN AD SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21730.m3u8
+#EXTINF:-1,OSN AD SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21729.m3u8
+#EXTINF:-1,OSN AD SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21728.m3u8
+#EXTINF:-1,AR: DUBAI - Dubai Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21608.m3u8
+#EXTINF:-1,AR: DUBAI - Dubai Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21607.m3u8
+#EXTINF:-1,AR: DUBAI - Dubai Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21606.m3u8
+#EXTINF:-1,AR: Dubai Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20150.m3u8
+#EXTINF:-1,AR: Dubai Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20151.m3u8
+#EXTINF:-1,AR: MBC PRO SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20180.m3u8
+#EXTINF:-1,AR: MBC PRO SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20179.m3u8
+#EXTINF:-1,AR: SPORT LIVE - ad sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21568.m3u8
+#EXTINF:-1,AR: SPORT LIVE - KOL NAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21567.m3u8
+#EXTINF:-1,AR: SPORT LIVE - ON-SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21569.m3u8
+#EXTINF:-1,AR: AD SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/20184.m3u8
+#EXTINF:-1,ITALY - EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21420.m3u8
+#EXTINF:-1,ITALY - EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21419.m3u8
+#EXTINF:-1,ITALY - Premium Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21402.m3u8
+#EXTINF:-1,ITALY - PREMIUM SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21401.m3u8
+#EXTINF:-1,ITALY - Premium Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21400.m3u8
+#EXTINF:-1,ITALY - RAI SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21412.m3u8
+#EXTINF:-1,ITALY - RAI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21397.m3u8
+#EXTINF:-1,ITALY - RAI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21396.m3u8
+#EXTINF:-1,ITALY - SKY SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21410.m3u8
+#EXTINF:-1,ITALY - Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21394.m3u8
+#EXTINF:-1,ITALY - SKY SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21409.m3u8
+#EXTINF:-1,ITALY - Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21393.m3u8
+#EXTINF:-1,ITALY - SKY SPORT 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21408.m3u8
+#EXTINF:-1,ITALY - Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21392.m3u8
+#EXTINF:-1,ITALY - SKY SPORT F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21407.m3u8
+#EXTINF:-1,ITALY - Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21395.m3u8
+#EXTINF:-1,ITALY - SKY Sport Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21406.m3u8
+#EXTINF:-1,ITALY - SKY SPORT MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21391.m3u8
+#EXTINF:-1,ITALY - Sky Sports Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21411.m3u8
+#EXTINF:-1,ITALY - SKY SUPERCALCIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21405.m3u8
+#EXTINF:-1,ITALY - STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21464.m3u8
+#EXTINF:-1,ITALY - SUPER TENNIS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21399.m3u8
+#EXTINF:-1,ITALY - SUPER TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21404.m3u8
+#EXTINF:-1,ITALY - TELEVENEZIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21472.m3u8
+#EXTINF:-1,ITALY - TG NORBA 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21398.m3u8
+#EXTINF:-1,ITALY - TOP CALCIO 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21403.m3u8
+#EXTINF:-1,SKY-  Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21355.m3u8
+#EXTINF:-1,SKY-  Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21356.m3u8
+#EXTINF:-1,SKY- SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21359.m3u8
+#EXTINF:-1,SKY- Sky SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21358.m3u8
+#EXTINF:-1,SKY- SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21357.m3u8
+#EXTINF:-1,Deutschland - DAZN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21251.m3u8
+#EXTINF:-1,Deutschland - DAZN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21255.m3u8
+#EXTINF:-1,Deutschland - Sky SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21331.m3u8
+#EXTINF:-1,Deutschland - Sky Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21323.m3u8
+#EXTINF:-1,Deutschland - Sky Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21322.m3u8
+#EXTINF:-1,Deutschland - Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21321.m3u8
+#EXTINF:-1,NL - FOX SPORTS 1 HD Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21230.m3u8
+#EXTINF:-1,NL - FOX SPORTS 2 HD International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21229.m3u8
+#EXTINF:-1,NL - FOX SPORTS 3 HD Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21228.m3u8
+#EXTINF:-1,NL - FOX SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21227.m3u8
+#EXTINF:-1,NL - FOX SPORTS 5 HD Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21226.m3u8
+#EXTINF:-1,NL - FOX SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21225.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21218.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT DOCU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21223.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21222.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21221.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21219.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21224.m3u8
+#EXTINF:-1,NL - ZIGGO SPORT VOETBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21220.m3u8
+#EXTINF:-1,UK - BT Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21125.m3u8
+#EXTINF:-1,UK - BT Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21124.m3u8
+#EXTINF:-1,UK - BT SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21139.m3u8
+#EXTINF:-1,UK - BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21123.m3u8
+#EXTINF:-1,UK - BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21122.m3u8
+#EXTINF:-1,UK - BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21121.m3u8
+#EXTINF:-1,UK - BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21120.m3u8
+#EXTINF:-1,SUISSE- TV3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/23004.m3u8
+#EXTINF:-1,SUISSE- TV3 SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/23003.m3u8
+#EXTINF:-1,BULGARIA - DIEMA SPORT 2 LVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22878.m3u8
+#EXTINF:-1,BULGARIA - DIEMA SPORT LVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22877.m3u8
+#EXTINF:-1,ALBANIA - K-SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22502.m3u8
+#EXTINF:-1,ALBANIA - K-SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22501.m3u8
+#EXTINF:-1,ALBANIA - K-SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22500.m3u8
+#EXTINF:-1,ALBANIA - K-SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22499.m3u8
+#EXTINF:-1,ALBANIA - Super Sport 1 News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22498.m3u8
+#EXTINF:-1,ALBANIA - Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22497.m3u8
+#EXTINF:-1,ALBANIA - Super Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22496.m3u8
+#EXTINF:-1,ALBANIA - Super Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22495.m3u8
+#EXTINF:-1,ALBANIA - Super Sport Kosova 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22494.m3u8
+#EXTINF:-1,ALBANIA - Super Sport Kosova 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22493.m3u8
+#EXTINF:-1,ALBANIA - Tring Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22598.m3u8
+#EXTINF:-1,ALBANIA - Tring Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22597.m3u8
+#EXTINF:-1,ALBANIA - TRING SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22596.m3u8
+#EXTINF:-1,CZ - NOVA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22445.m3u8
+#EXTINF:-1,CZ - NOVA SPORT 1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22444.m3u8
+#EXTINF:-1,PL -  POLSAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22701.m3u8
+#EXTINF:-1,PL -  Polsat Sport Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22700.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 1 HD-HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22363.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 1 HD-SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22362.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 2 HD-HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22361.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 2 HD-SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22360.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 3 HD-HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22359.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 3 HD-SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22358.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 4 HD-HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22357.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 4 HD-SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22356.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 5 HD-HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22355.m3u8
+#EXTINF:-1,ARENA - ARENA SPORT 5 HD-SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22354.m3u8
+#EXTINF:-1,USA - bEIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22315.m3u8
+#EXTINF:-1,PORTUGAL - SPORT 1 TV  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22294.m3u8
+#EXTINF:-1,PORTUGAL - SPORT 2 TV  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22293.m3u8
+#EXTINF:-1,PORTUGAL - SPORT 3 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22292.m3u8
+#EXTINF:-1,PORTUGAL - SPORT 4 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22291.m3u8
+#EXTINF:-1,PORTUGAL - SPORT 5 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22290.m3u8
+#EXTINF:-1,PORTUGAL - Sporting TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/22287.m3u8
+#EXTINF:-1,Ro - Digi Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21907.m3u8
+#EXTINF:-1,Ro - Digi Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21906.m3u8
+#EXTINF:-1,Ro - Digi Sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21905.m3u8
+#EXTINF:-1,Ro - Digi Sport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zinebox.pro:8880/live/55555/55555/21904.m3u8

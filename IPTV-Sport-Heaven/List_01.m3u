@@ -1,229 +1,175 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORTS ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50189.m3u8
-#EXTINF:-1,SKY SPORTS ARENA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50188.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50187.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50186.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50185.m3u8
-#EXTINF:-1,SKY SPORTS GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50184.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50183.m3u8
-#EXTINF:-1,SKY SPORTS MIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50182.m3u8
-#EXTINF:-1,SKY SPORTS NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50181.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50180.m3u8
-#EXTINF:-1,SKY SPORTS RACING FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79691.m3u8
-#EXTINF:-1,SKY SPORTS ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50178.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50177.m3u8
-#EXTINF:-1,SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50176.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50175.m3u8
-#EXTINF:-1,SKY SPORTS GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50174.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50173.m3u8
-#EXTINF:-1,SKY SPORTS MIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50172.m3u8
-#EXTINF:-1,SKY SPORTS NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50171.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50170.m3u8
-#EXTINF:-1,SKY SPORTS ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50169.m3u8
-#EXTINF:-1,SKY SPORTS ARENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50168.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50167.m3u8
-#EXTINF:-1,SKY SPORTS F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50166.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50165.m3u8
-#EXTINF:-1,SKY SPORTS GOLF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50164.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50163.m3u8
-#EXTINF:-1,SKY SPORTS MIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50162.m3u8
-#EXTINF:-1,SKY SPORTS NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50161.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50160.m3u8
-#EXTINF:-1,BT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/14391.m3u8
-#EXTINF:-1,BT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/17508.m3u8
-#EXTINF:-1,BT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16934.m3u8
-#EXTINF:-1,BT SPORTS ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15152.m3u8
-#EXTINF:-1,BT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13846.m3u8
-#EXTINF:-1,BT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13809.m3u8
-#EXTINF:-1,BT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13877.m3u8
-#EXTINF:-1,BT SPORTS ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16910.m3u8
-#EXTINF:-1,BOX NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16943.m3u8
-#EXTINF:-1,EIR SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16931.m3u8
-#EXTINF:-1,EIR SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16930.m3u8
-#EXTINF:-1,CHELSEA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/22127.m3u8
-#EXTINF:-1,LFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/22126.m3u8
-#EXTINF:-1,MUFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16926.m3u8
-#EXTINF:-1,PREMIER SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13955.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13581.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16928.m3u8
-#EXTINF:-1,At The Races
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13736.m3u8
-#EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16694.m3u8
-#EXTINF:-1,UFC FIGHT NIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70308.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70481.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70480.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70479.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70478.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70477.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70476.m3u8
-#EXTINF:-1,BT SPORTS EXTRA 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/70475.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69441.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69436.m3u8
-#EXTINF:-1,Le Sports FHD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69733.m3u8
-#EXTINF:-1,Le Sports FHD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69732.m3u8
-#EXTINF:-1,Le Sports FHD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69731.m3u8
-#EXTINF:-1,Le Sports FHD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69730.m3u8
-#EXTINF:-1,Le Sports FHD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69729.m3u8
-#EXTINF:-1,Le Sports FHD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69728.m3u8
-#EXTINF:-1,Le Sports FHD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69727.m3u8
-#EXTINF:-1,PL:-GS ELEVEN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79368.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79365.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79364.m3u8
-#EXTINF:-1,PL:-GS EUROSPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79363.m3u8
-#EXTINF:-1,PL:-GS Extreme Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79362.m3u8
-#EXTINF:-1,PL:-GS POLSAT SPORT EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79406.m3u8
-#EXTINF:-1,PL:-GS Polsat Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79405.m3u8
-#EXTINF:-1,PL:-GS POLSAT SPORTS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79404.m3u8
-#EXTINF:-1,PL:-GS POLSAT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79403.m3u8
-#EXTINF:-1,PL:-GS TVN TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79401.m3u8
-#EXTINF:-1,PL:-GS TVP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79400.m3u8
-#EXTINF:-1,PL:-GS TVP SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79397.m3u8
-#EXTINF:-1,OSN_Sports_Action_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/85752.m3u8
-#EXTINF:-1,IR:Sky Sport Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87130.m3u8
-#EXTINF:-1,IR:Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87129.m3u8
-#EXTINF:-1,IR:Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87128.m3u8
-#EXTINF:-1,IR:Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87127.m3u8
-#EXTINF:-1,IR:Sky Sports Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87126.m3u8
-#EXTINF:-1,IR:Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87125.m3u8
-#EXTINF:-1,IR:Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87124.m3u8
-#EXTINF:-1,IR:Sky Sports Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87123.m3u8
-#EXTINF:-1,IR:Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87122.m3u8
-#EXTINF:-1,IR:Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87121.m3u8
-#EXTINF:-1,beIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91311.m3u8
-#EXTINF:-1,beIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91310.m3u8
-#EXTINF:-1,beIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91309.m3u8
-#EXTINF:-1,beIN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91308.m3u8
-#EXTINF:-1,beIN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91307.m3u8
-#EXTINF:-1,beIN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91306.m3u8
-#EXTINF:-1,beIN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91305.m3u8
-#EXTINF:-1,beIN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91304.m3u8
-#EXTINF:-1,beIN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91303.m3u8
-#EXTINF:-1,beIN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91302.m3u8
-#EXTINF:-1,beIN SPORTS 11 EN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91301.m3u8
-#EXTINF:-1,beIN SPORTS 12 EN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91300.m3u8
-#EXTINF:-1,beIN SPORTS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91312.m3u8
-#EXTINF:-1,US: BEIN SPORT | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101282.m3u8
-#EXTINF:-1,US: BEIN SPORTS ? | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101280.m3u8
-#EXTINF:-1,US: BEIN SPORTS (espa?ol) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101281.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101298.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101297.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101296.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101295.m3u8
-#EXTINF:-1,US: NBC SPORTS (Chicago) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101336.m3u8
-#EXTINF:-1,US: NBC SPORTS BAY AREA | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101335.m3u8
-#EXTINF:-1,US: NBC Sports Network | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101334.m3u8
-#EXTINF:-1,FREESPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/104194.m3u8
-#EXTINF:-1,PREMIER SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/104195.m3u8
+#EXTINF:-1,BEIN-MAX-LOW-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10827
+#EXTINF:-1,BEIN-MAX-LOW-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10826
+#EXTINF:-1,BEIN-MAX-LOW-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10825
+#EXTINF:-1,BEIN-MAX-LOW-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10824
+#EXTINF:-1,BEIN-MAX-512-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10823
+#EXTINF:-1,BEIN-MAX-512-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10822
+#EXTINF:-1,BEIN-MAX-512-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10821
+#EXTINF:-1,BEIN-MAX-512-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10820
+#EXTINF:-1,BEIN-MAX-SD-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10831
+#EXTINF:-1,BEIN-MAX-SD-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10830
+#EXTINF:-1,BEIN-MAX-SD-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10829
+#EXTINF:-1,BEIN-MAX-SD-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10828
+#EXTINF:-1,BEIN-MAX-HD-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/8538
+#EXTINF:-1,BEIN-MAX-HD-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/8539
+#EXTINF:-1,BEIN-MAX-HD-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10818
+#EXTINF:-1,BEIN-MAX-HD-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10819
+#EXTINF:-1,BEIN-SPORT-1=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4937
+#EXTINF:-1,BEIN-SPORT-2=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4936
+#EXTINF:-1,BEIN-SPORT-3=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4935
+#EXTINF:-1,BEIN-SPORT-4=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4934
+#EXTINF:-1,BEIN-SPORT-5=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4933
+#EXTINF:-1,BEIN-SPORT-6=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4932
+#EXTINF:-1,BEIN-SPORT-7=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4931
+#EXTINF:-1,BEIN-SPORT-8=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4930
+#EXTINF:-1,BEIN-SPORT-9=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4929
+#EXTINF:-1,BEIN-SPORT-10=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4928
+#EXTINF:-1,BEIN-SPORT-1=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/2
+#EXTINF:-1,BEIN-SPORT-2=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/3
+#EXTINF:-1,BEIN-SPORT-3=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4
+#EXTINF:-1,BEIN-SPORT-4=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/6
+#EXTINF:-1,BEIN-SPORT-5=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/7
+#EXTINF:-1,BEIN-SPORT-6=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/8
+#EXTINF:-1,BEIN-SPORT-7=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/9
+#EXTINF:-1,BEIN-SPORT-8=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/10
+#EXTINF:-1,BEIN-SPORT-9=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/11
+#EXTINF:-1,BEIN-SPORT-10=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/12
+#EXTINF:-1,BEIN-SPORT-1=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/22
+#EXTINF:-1,BEIN-SPORT-2=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/21
+#EXTINF:-1,BEIN-SPORT-3=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/20
+#EXTINF:-1,BEIN-SPORT-4=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/19
+#EXTINF:-1,BEIN-SPORT-5=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/18
+#EXTINF:-1,BEIN-SPORT-6=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/17
+#EXTINF:-1,BEIN-SPORT-7=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/16
+#EXTINF:-1,BEIN-SPORT-8=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/15
+#EXTINF:-1,BEIN-SPORT-9=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/14
+#EXTINF:-1,BEIN-SPORT-10=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/13
+#EXTINF:-1,BEIN-SPORT-1=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4555
+#EXTINF:-1,BEIN-SPORT-2=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4554
+#EXTINF:-1,BEIN-SPORT-3=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4553
+#EXTINF:-1,BEIN-SPORT-4=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4552
+#EXTINF:-1,BEIN-SPORT-5=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4551
+#EXTINF:-1,BEIN-SPORT-6=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4550
+#EXTINF:-1,BEIN-SPORT-7=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4549
+#EXTINF:-1,BEIN-SPORT-8=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4548
+#EXTINF:-1,BEIN-SPORT-9=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4547
+#EXTINF:-1,BEIN-SPORT-10=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4546
+#EXTINF:-1,BEIN-SPORT-1=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4885
+#EXTINF:-1,BEIN-SPORT-2=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4884
+#EXTINF:-1,BEIN-SPORT-3=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4883
+#EXTINF:-1,BEIN-SPORT-4=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4882
+#EXTINF:-1,BEIN-SPORT-5=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4881
+#EXTINF:-1,BEIN-SPORT-6=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4880
+#EXTINF:-1,BEIN-SPORT-7=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4879
+#EXTINF:-1,BEIN-SPORT-8=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4878
+#EXTINF:-1,BEIN-SPORT-9=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4877
+#EXTINF:-1,BEIN-SPORT-10=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4876
+#EXTINF:-1,BEIN-SPORT-1=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4609
+#EXTINF:-1,BEIN-SPORT-2=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4610
+#EXTINF:-1,BEIN-SPORT-3=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4611
+#EXTINF:-1,BEIN-SPORT-4=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4612
+#EXTINF:-1,BEIN-SPORT-5=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4613
+#EXTINF:-1,BEIN-SPORT-6=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4614
+#EXTINF:-1,BEIN-SPORT-7=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4615
+#EXTINF:-1,BEIN-SPORT-8=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4616
+#EXTINF:-1,BEIN-SPORT-9=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4617
+#EXTINF:-1,BEIN-SPORT-10=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4618
+#EXTINF:-1,AD SPORT HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/6859
+#EXTINF:-1,AD SPORT HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/6860
+#EXTINF:-1,AD SPORT HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/6861
+#EXTINF:-1,AD SPORT HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/6862
+#EXTINF:-1,AR:-OSN-WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4556
+#EXTINF:-1,OSN-SPORT-1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4559
+#EXTINF:-1,OSN-SPORT-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4558
+#EXTINF:-1,OSN-SPORT-3-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/4573
+#EXTINF:-1,NILE:ON_SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/9406
+#EXTINF:-1,NILE:ON_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/9415
+#EXTINF:-1,MAR:Arryadia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/zaza10/zaza10/9374

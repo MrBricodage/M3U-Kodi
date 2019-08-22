@@ -1,399 +1,101 @@
-#EXTM3U
-#EXTINF:-1,S* | Sky Sports Main Event FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/357.m3u8
-#EXTINF:-1,S* | Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4588.m3u8
-#EXTINF:-1,Sp || Sky Sports Main Event SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/346.m3u8
-#EXTINF:-1,S* | Sky Sports Cricket FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/356.m3u8
-#EXTINF:-1,Sp** | Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4589.m3u8
-#EXTINF:-1,Sp || Sky Sports Cricket SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/345.m3u8
-#EXTINF:-1,S* | Sky Sports Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/355.m3u8
-#EXTINF:-1,Sp** | Sky Sports Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4590.m3u8
-#EXTINF:-1,Sp || Sky Sports Action SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/344.m3u8
-#EXTINF:-1,S* | Sky Sports Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/354.m3u8
-#EXTINF:-1,S* | Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4591.m3u8
-#EXTINF:-1,Sp || Sky Sports Golf SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/343.m3u8
-#EXTINF:-1,S* | Sky Sports Premier League FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4592.m3u8
-#EXTINF:-1,S* | Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/15652.m3u8
-#EXTINF:-1,Sp || Sky Sports Premier League SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/342.m3u8
-#EXTINF:-1,Sp** | Sky Sports Arena FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/352.m3u8
-#EXTINF:-1,Sp** | Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4593.m3u8
-#EXTINF:-1,Sp || Sky Sports Arena SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/341.m3u8
-#EXTINF:-1,S* | Sky Sports Football FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/351.m3u8
-#EXTINF:-1,S* | Sky Sports Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4329.m3u8
-#EXTINF:-1,Sp || Sky Sports Football SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/340.m3u8
-#EXTINF:-1,S* | Sky Sports F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/350.m3u8
-#EXTINF:-1,S* | Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4594.m3u8
-#EXTINF:-1,Sp || Sky Sports F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/339.m3u8
-#EXTINF:-1,S* | Sky Sports Racing FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88152.m3u8
-#EXTINF:-1,S* | Sky Sports Racing HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88153.m3u8
-#EXTINF:-1,Sp* |  Sky Sports Racing SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88151.m3u8
-#EXTINF:-1,Sp** | Sky Sports Mix FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/349.m3u8
-#EXTINF:-1,Sp** | Sky Sports Mix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4595.m3u8
-#EXTINF:-1,Sp | Sky Sports Mix SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/338.m3u8
-#EXTINF:-1,S* | Sky Sports News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/348.m3u8
-#EXTINF:-1,S* | Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4596.m3u8
-#EXTINF:-1,Sp | Sky Sports News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/337.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43828.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43829.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 24/7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/44177.m3u8
-#EXTINF:-1,Sp** | Eurosport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/32750.m3u8
-#EXTINF:-1,Sp* | Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4613.m3u8
-#EXTINF:-1,Sp || Eurosport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/336.m3u8
-#EXTINF:-1,Sp** | Eurosport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/32751.m3u8
-#EXTINF:-1,Sp* | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4614.m3u8
-#EXTINF:-1,Sp || Eurosport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/335.m3u8
-#EXTINF:-1,S* | BT Sports 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4615.m3u8
-#EXTINF:-1,S* | BT Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43618.m3u8
-#EXTINF:-1,Sp || BT Sports 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/333.m3u8
-#EXTINF:-1,S* | BT Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4616.m3u8
-#EXTINF:-1,S* | BT Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43619.m3u8
-#EXTINF:-1,Sp || BT Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/331.m3u8
-#EXTINF:-1,S* | BT Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4617.m3u8
-#EXTINF:-1,S* | BT Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43620.m3u8
-#EXTINF:-1,Sp || BT Sports 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/329.m3u8
-#EXTINF:-1,Sp** | BT Sports ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4618.m3u8
-#EXTINF:-1,Sp** | BT Sports ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43621.m3u8
-#EXTINF:-1,Sp | BT Sports ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/327.m3u8
-#EXTINF:-1,S* | BT Sport Extra 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/326.m3u8
-#EXTINF:-1,S* | BT Sport Extra 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/325.m3u8
-#EXTINF:-1,S* | BT Sport Extra 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/324.m3u8
-#EXTINF:-1,S* | BT Sport Extra 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/323.m3u8
-#EXTINF:-1,S* | BT Sport Extra 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/322.m3u8
-#EXTINF:-1,S* | BT Sport Extra 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/321.m3u8
-#EXTINF:-1,Sp* | MUTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4619.m3u8
-#EXTINF:-1,Sp* | MUTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/320.m3u8
-#EXTINF:-1,Sp* | LFCTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4620.m3u8
-#EXTINF:-1,Sp* | LFC TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/319.m3u8
-#EXTINF:-1,Sp* | Everton TV HD (Live Events Only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43237.m3u8
-#EXTINF:-1,Sp* | NUFC TV HD (Live Events only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/40810.m3u8
-#EXTINF:-1,Sp* | Leeds TV (Live Events Only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/40834.m3u8
-#EXTINF:-1,Sp* | Wolves TV HD (Live Events Only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/42268.m3u8
-#EXTINF:-1,Sp* | Sky Sports Racing  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104793.m3u8
-#EXTINF:-1,Sp | Sky Sports Racing SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/317.m3u8
-#EXTINF:-1,Sp* | Eir Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/315.m3u8
-#EXTINF:-1,Sp || Eir Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/314.m3u8
-#EXTINF:-1,Sp* | Eir Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/313.m3u8
-#EXTINF:-1,Sp || Eir Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/4218.m3u8
-#EXTINF:-1,Sp* | Premier Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/18567.m3u8
-#EXTINF:-1,Sp | Premier Sports 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/312.m3u8
-#EXTINF:-1,Sp* | Premier Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116645.m3u8
-#EXTINF:-1,Sp | Premier Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/43401.m3u8
-#EXTINF:-1,Sp* | Freesports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116658.m3u8
-#EXTINF:-1,Sp | Freesports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/28604.m3u8
-#EXTINF:-1,Sp* | Box Nation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/311.m3u8
-#EXTINF:-1,Sp | Box Nation SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/310.m3u8
-#EXTINF:-1,Sp* | TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/149.m3u8
-#EXTINF:-1,Sp* | TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/148.m3u8
-#EXTINF:-1,Sp* | TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/147.m3u8
-#EXTINF:-1,Sp* | TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/146.m3u8
-#EXTINF:-1,Sp* | TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/145.m3u8
-#EXTINF:-1,AS* | Bein Sport Max HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116203.m3u8
-#EXTINF:-1,AS* | Bein Sport Max HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116204.m3u8
-#EXTINF:-1,AS* | Bein Sport Max HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116565.m3u8
-#EXTINF:-1,AS* | Bein Sport Max HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/116564.m3u8
-#EXTINF:-1,AS* | Bein Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104915.m3u8
-#EXTINF:-1,AS* | Bein Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46315.m3u8
-#EXTINF:-1,AS* | Bein Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46314.m3u8
-#EXTINF:-1,AS* | Bein Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46313.m3u8
-#EXTINF:-1,AS* | Bein Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46312.m3u8
-#EXTINF:-1,AS* | Bein Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46311.m3u8
-#EXTINF:-1,AS* | Bein Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46310.m3u8
-#EXTINF:-1,AS* | Bein Sports 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46309.m3u8
-#EXTINF:-1,AS* | Bein Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46308.m3u8
-#EXTINF:-1,AS* | Bein Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46307.m3u8
-#EXTINF:-1,AS* | Bein Sports 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46306.m3u8
-#EXTINF:-1,AS* | Bein Sports 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46305.m3u8
-#EXTINF:-1,AS* | Bein Sports 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46304.m3u8
-#EXTINF:-1,AS* | Bein Sports 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104919.m3u8
-#EXTINF:-1,AS* | Bein Sports 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104918.m3u8
-#EXTINF:-1,AS* | Bein Sports 15 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104917.m3u8
-#EXTINF:-1,AS* | Bein Sports 16 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104916.m3u8
-#EXTINF:-1,AS* | Bein Sports NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/104914.m3u8
-#EXTINF:-1,AS* | Bein Sports NewsHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/46303.m3u8
-#EXTINF:-1,Uk | Clubland TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47406.m3u8
-#EXTINF:-1,Uk | Horse & Country SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47407.m3u8
-#EXTINF:-1,Uk | Quest Red SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47408.m3u8
-#EXTINF:-1,UK | Quest Red +1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/102271.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47509.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47508.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47507.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47506.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47505.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47504.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47503.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47502.m3u8
-#EXTINF:-1,Sp* | Sky Sports Red Button 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/47501.m3u8
-#EXTINF:-1,USA*: Bein Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98432.m3u8
-#EXTINF:-1,USA*: Bein Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98431.m3u8
-#EXTINF:-1,USA*: Bein Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98430.m3u8
-#EXTINF:-1,USA*: Bein Sports 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98429.m3u8
-#EXTINF:-1,USA*: Bein Sports 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98428.m3u8
-#EXTINF:-1,USA*: Bein Sports USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98427.m3u8
-#EXTINF:-1,USA*: CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/98436.m3u8
-#EXTINF:-1,USA*: Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/97826.m3u8
-#EXTINF:-1,USA: FOX SOCCER PLUS | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88449.m3u8
-#EXTINF:-1,USA*: FOX SPORTS 1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88451.m3u8
-#EXTINF:-1,USA*: FOX SPORTS 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/88450.m3u8
-#EXTINF:-1,USA: | UFC Fight Pass 24/7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/37063.m3u8
-#EXTINF:-1,USA: | WWE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/32208.m3u8
-#EXTINF:-1,Sp* |  BEIN SPORT 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111113.m3u8
-#EXTINF:-1,Sp* |  BEIN SPORT 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111112.m3u8
-#EXTINF:-1,Sp* |  BEIN SPORT 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111111.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111110.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111109.m3u8
-#EXTINF:-1,Sp* | Eleven Sports 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111108.m3u8
-#EXTINF:-1,Sp* | GERMANY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111120.m3u8
-#EXTINF:-1,Sp* |  Dazn Bar 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111116.m3u8
-#EXTINF:-1,Sp* |  Dazn Bar 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111115.m3u8
-#EXTINF:-1,Sp* |  Sky Bundesliga  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111117.m3u8
-#EXTINF:-1,Sp* |  Sky Sport  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111119.m3u8
-#EXTINF:-1,Sp* |  Sky Sport  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111118.m3u8
-#EXTINF:-1,Sp* | HOLLAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111137.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111136.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111135.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111134.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 4  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111133.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 5  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111132.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS 6  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111131.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111130.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111129.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111128.m3u8
-#EXTINF:-1,Sp* | ITALY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111141.m3u8
-#EXTINF:-1,Sp* |  RAI SPORT 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111140.m3u8
-#EXTINF:-1,Sp* | SKY SPORT FOOTBALL  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111138.m3u8
-#EXTINF:-1,Sp* | SKY SPORT SERIE A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111139.m3u8
-#EXTINF:-1,Sp* | POLAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111150.m3u8
-#EXTINF:-1,Sp* | CANAL SPORT  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111149.m3u8
-#EXTINF:-1,Sp* | CANAL  SPORT 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111148.m3u8
-#EXTINF:-1,Sp* | Eleven Sports  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111145.m3u8
-#EXTINF:-1,Sp* | Eleven Sports  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111144.m3u8
-#EXTINF:-1,Sp* | Eleven Sports  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111143.m3u8
-#EXTINF:-1,Sp* | NSPORT  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111147.m3u8
-#EXTINF:-1,Sp* | Polsat Sport  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111146.m3u8
-#EXTINF:-1,Sp* |  PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111183.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111176.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111175.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111174.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111173.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111172.m3u8
-#EXTINF:-1,Sp* | Eleven Sport 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111171.m3u8
-#EXTINF:-1,Sp* | SPORT TV   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111182.m3u8
-#EXTINF:-1,Sp* | SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111181.m3u8
-#EXTINF:-1,Sp* | SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111180.m3u8
-#EXTINF:-1,Sp* | SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111179.m3u8
-#EXTINF:-1,Sp* | SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111178.m3u8
-#EXTINF:-1,Sp* | SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111177.m3u8
-#EXTINF:-1,Sp* |  SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111188.m3u8
-#EXTINF:-1,Sp* |  Bein Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111187.m3u8
-#EXTINF:-1,Sp* |  Bein Sports La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111186.m3u8
-#EXTINF:-1,Sp* |  LaLiga 123 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111184.m3u8
-#EXTINF:-1,Sp* |  LIGA TV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/111185.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS ASIA HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/115085.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS ASIA HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/115084.m3u8
-#EXTINF:-1,Sp* |  FOX SPORTS ASIA HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/115083.m3u8
-#EXTINF:-1,EPL* | Eleven Sport HD 1 (Taiwan)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/118907.m3u8
-#EXTINF:-1,EPL* | Eleven Sport HD 2 (Taiwan)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/118906.m3u8
-#EXTINF:-1,EPL* | Eleven Sports Prime (Taiwan)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/118905.m3u8
-#EXTINF:-1,USA* Sportsnet New York (SNY)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/107058.m3u8
-#EXTINF:-1,USA*: Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/107158.m3u8
-#EXTINF:-1,USA*: Fox Business
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/107012.m3u8
-#EXTINF:-1,USA*: Fox Sports South
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/107009.m3u8
-#EXTINF:-1,USA*: Fox Sports SouthEast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlantisiptv.com:8080/live/lisa/lisa1/107010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD (Opt-2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 HD (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 HD (Opt-2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 HD (Opt-3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 SD (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://selevision9878-i.akamaihd.net/hls/live/219133/98785/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 SD (Opt-2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD (Opt-2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD (Opt-3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1458074086.png" group-title="GEORGIA",Skynet Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://km.cdnth.com/dggroup/skynet1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv-com.org/wp-content/uploads/2015/09/xsport.png" group-title="UKRAINE",XSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="RUSSIA",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1-big.png" group-title="BOSNIA",Arena Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.40.5.99:8000/arena_1_high
+ 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2-big.png" group-title="BOSNIA",Arena Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.40.5.99:8000/arena_2_high
+ 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3-big.png" group-title="BOSNIA",Arena Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.40.5.99:8000/arena_3_high
+ 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="BOSNIA",Arena Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2795.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1709.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3272.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1714.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" group-title="ITALY",Rai Sport (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Sport_HD_new_logo.svg.png" group-title="ITALY",Rai Sport+ (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://omtv2.tv2.dk/fileadmin/_migrated/pics/TV-2-SPORT-logo-450x180.jpg" group-title="DENMARK",TV2 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/800px-NBC_Sports_Bay_Area.png" group-title="USA",NBC Sports Bay Area (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="USA",NBC Sports Boston (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/NBC_Sports_California.png/800px-NBC_Sports_California.png" group-title="USA",NBC Sports California (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/800px-NBC_Sports_Chicago_Logo.svg.png" group-title="USA",NBC Sports Chicago (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnchicago-i.akamaihd.net//hls/live/219793/CSNchicagox/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NBC_Sports_Northwest.png/800px-NBC_Sports_Northwest.png" group-title="USA",NBC Sports Northwest (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/800px-NBC_Sports_Philadelphia.png" group-title="USA",NBC Sports Philadelphia (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NBC_Sports_Regional_Networks.png/800px-NBC_Sports_Regional_Networks.png" group-title="USA",NBC Sports Philadelphia Plus (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/prog.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
