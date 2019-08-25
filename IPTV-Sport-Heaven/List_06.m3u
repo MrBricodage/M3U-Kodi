@@ -1,51 +1,219 @@
 #EXTM3U
-#EXTINF:0,BAND SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8147
-#EXTINF:0,BAND SPORTS ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/51958
-#EXTINF:0,BAND SPORTS H265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12725
-#EXTINF:0,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8236
-#EXTINF:0,BAND SPORTS HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12726
-#EXTINF:0,FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8101
-#EXTINF:0,FOX SPORTS  HD h265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/13052
-#EXTINF:0,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8213
-#EXTINF:0,FOX SPORTS HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/13053
-#EXTINF:0,FOX SPORTS 2 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/13050
-#EXTINF:0,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8099
-#EXTINF:0,FOX SPORTS 2 HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/13051
-#EXTINF:0,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8012
-#EXTINF:0,SPORTV FHD h265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12815
-#EXTINF:0,SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8173
-#EXTINF:0,SPORTV HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12816
-#EXTINF:0,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8011
-#EXTINF:0,SPORTV 2 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/51970
-#EXTINF:0,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8175
-#EXTINF:0,SPORTV 2 HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12814
-#EXTINF:0,SPORTV 2 FHD h265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12813
-#EXTINF:0,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8010
-#EXTINF:0,SPORTV 3 HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12811
-#EXTINF:0,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/8174
-#EXTINF:0,SPORTV 3 FHD h265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/3000/1234/12812
+#EXTINF:0,MOVISTAR DEPORTE 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14721
+#EXTINF:0,MOVISTAR DEPORTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/262
+#EXTINF:0,MOVISTAR DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/263
+#EXTINF:0,MOVISTAR DEPORTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/264
+#EXTINF:0,MOVISTAR DEPORTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/265
+#EXTINF:0,MOVISTAR DEPORTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/266
+#EXTINF:0,MOVISTAR DEPORTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/267
+#EXTINF:0,MOVISTAR DEPORTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14722
+#EXTINF:0,MOVISTAR DEPORTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14723
+#EXTINF:0,MOVISTAR FUTBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16324
+#EXTINF:0,MOVISTAR FUTBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16323
+#EXTINF:0,ES:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/260
+#EXTINF:0,MOVISTAR FUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/261
+#EXTINF:0,EUROSPORT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/9112
+#EXTINF:0,EUROSPORT  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/83
+#EXTINF:0,EUROSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/9198
+#EXTINF:0,EUROSPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/936
+#EXTINF:0,EUROSPORT 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/9071
+#EXTINF:0,Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/47
+#EXTINF:0,FRANCIA | BeIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15221
+#EXTINF:0,FRANCIA | BeIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15220
+#EXTINF:0,FRANCIA | BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15586
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15075
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15074
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15073
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15072
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15071
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15070
+#EXTINF:0,FRANCIA | BEIN SPORT MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15069
+#EXTINF:0,FRANCIA | RMC Sport 01 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15063
+#EXTINF:0,FRANCIA | RMC Sport 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15064
+#EXTINF:0,FRANCIA | RMC Sport 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15062
+#EXTINF:0,FRANCIA | RMC SPORT 03 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15059
+#EXTINF:0,FRANCIA | RMC Sport 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15060
+#EXTINF:0,FRANCIA | RMC SPORT 04 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15057
+#EXTINF:0,FRANCIA | RMC Sport 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15058
+#EXTINF:0,FRANCIA | RMC SPORT NEWS FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15065
+#EXTINF:0,FRANCIA | RMC Story FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15081
+#EXTINF:0,FRANCIA | ROUGE TV FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15174
+#EXTINF:0,UK: BoxNation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15491
+#EXTINF:0,UK: BT Sport 1 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15562
+#EXTINF:0,UK: BT Sport 2 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15561
+#EXTINF:0,UK: BT Sport 3 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15560
+#EXTINF:0,UK: BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15559
+#EXTINF:0,UK: BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15557
+#EXTINF:0,UK: Chelsea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15548
+#EXTINF:0,UK: Eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15525
+#EXTINF:0,UK: Eir Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15524
+#EXTINF:0,UK: EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15523
+#EXTINF:0,UK: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15527
+#EXTINF:0,UK: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15526
+#EXTINF:0,UK: Sky Sports Action FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15501
+#EXTINF:0,UK: Sky Sports Arena FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15498
+#EXTINF:0,UK:: Sky Sports Cricket FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15497
+#EXTINF:0,UK: Sky Sports Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15493
+#EXTINF:0,UK: SKY SPORTS GOLF FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15496
+#EXTINF:0,UK: Sky Sports Main Event FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15495
+#EXTINF:0,UK: Sky Sports Mix FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15499
+#EXTINF:0,UK: Sky Sports Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15500
+#EXTINF:0,UK: Sky Sports news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15502
+#EXTINF:0,UK: Sky Sports Premier League FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/15494
+#EXTINF:0,DE: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17783
+#EXTINF:0,DE: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17782
+#EXTINF:0,DE: Eurosport 2 xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17781
+#EXTINF:0,DE: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17721
+#EXTINF:0,DE: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17720
+#EXTINF:0,DE: Sky Sport 3 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17719
+#EXTINF:0,DE: Sky Sport 4 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17718
+#EXTINF:0,DE: Sky Sport 5 HD  ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17717
+#EXTINF:0,DE: Sky Sport 6 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17716
+#EXTINF:0,DE: Sky Sport 7 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17715
+#EXTINF:0,DE: Sky Sport 8 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17714
+#EXTINF:0,DE: Sky Sport 9 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17713
+#EXTINF:0,DE: sky sport austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17723
+#EXTINF:0,DE: Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/17722
+#EXTINF:0,IT: Dazn Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14737
+#EXTINF:0,IT: Dazn Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14728
+#EXTINF:0,IT: Dazn Sport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14727
+#EXTINF:0,IT: Dazn Sport 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14726
+#EXTINF:0,IT: Dazn Sport 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14725
+#EXTINF:0,IT: Dazn Sport 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14724
+#EXTINF:0,IT: Dazn Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14736
+#EXTINF:0,IT: Dazn Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14735
+#EXTINF:0,IT: Dazn Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14734
+#EXTINF:0,IT: Dazn Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14733
+#EXTINF:0,IT: Dazn Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14732
+#EXTINF:0,IT: Dazn Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14731
+#EXTINF:0,IT: Dazn Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14730
+#EXTINF:0,IT: Dazn Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14729
+#EXTINF:0,IT: Sky Calcio 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14763
+#EXTINF:0,IT: Sky Calcio 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14762
+#EXTINF:0,IT: Sky Calcio 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14761
+#EXTINF:0,IT: Sky Calcio 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14760
+#EXTINF:0,IT: Sky Calcio 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14759
+#EXTINF:0,IT: Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/14758
+#EXTINF:0,RO: Digi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16291
+#EXTINF:0,RO: Digi Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16290
+#EXTINF:0,RO: Digi Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16289
+#EXTINF:0,RO: Digi Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16288
+#EXTINF:0,EX-YU: ARENA SPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16508
+#EXTINF:0,EX-YU: ARENA SPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16507
+#EXTINF:0,EX-YU: ARENA SPORT 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16506
+#EXTINF:0,EX-YU: ARENA SPORT 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16505
+#EXTINF:0,EX-YU: ARENA SPORT 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16504
+#EXTINF:0,EX-YU: SPORT KLUB 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16386
+#EXTINF:0,EX-YU: SPORT KLUB 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16385
+#EXTINF:0,EX-YU: SPORT TV 1 HD SLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16384
+#EXTINF:0,EX-YU: SPORT TV 2 HD SLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16383
+#EXTINF:0,EX-YU: SPORT TV 3 HD SLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://movspain.com:25461/boli/j2qjHz4Y8b/16382

@@ -1,111 +1,51 @@
 #EXTM3U
-#EXTINF:0,Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1742
-#EXTINF:0,Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1745
-#EXTINF:0,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1845
-#EXTINF:0,Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1847
-#EXTINF:0,SporTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1681
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1682
-#EXTINF:0,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1891
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1768
-#EXTINF:0,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1894
-#EXTINF:0,SporTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/1896
-#EXTINF:0,SPORT: beIN Sports 1 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12948
-#EXTINF:0,SPORT: beIN Sports 1 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12964
-#EXTINF:0,SPORT: beIN Sports 10 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12957
-#EXTINF:0,SPORT: beIN Sports 11 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12958
-#EXTINF:0,SPORT: beIN Sports 12 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12959
-#EXTINF:0,SPORT: beIN Sports 13 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12960
-#EXTINF:0,SPORT: beIN Sports 14 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12961
-#EXTINF:0,SPORT: beIN Sports 15 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12962
-#EXTINF:0,SPORT: beIN Sports 16 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12963
-#EXTINF:0,SPORT: beIN Sports 2 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12949
-#EXTINF:0,SPORT: beIN Sports 2 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12965
-#EXTINF:0,SPORT: beIN Sports 3 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12950
-#EXTINF:0,SPORT: beIN Sports 3 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12966
-#EXTINF:0,SPORT: beIN Sports 4 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12951
-#EXTINF:0,SPORT: beIN Sports 5 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12952
-#EXTINF:0,SPORT: beIN Sports 6 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12953
-#EXTINF:0,SPORT: beIN Sports 6 Max FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12866
-#EXTINF:0,SPORT: beIN Sports 7 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12954
-#EXTINF:0,SPORT: beIN Sports 8 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12955
-#EXTINF:0,SPORT: beIN Sports 9 HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12956
-#EXTINF:0,SPORT: beIN Sports FHD (US)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12967
-#EXTINF:0,SPORT: beIN Sports LaLiga HD (ES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12968
-#EXTINF:0,SPORT: beIN Sports LaLiga HD (Latino)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12969
-#EXTINF:0,SPORT: beIN Sports NBA HD (AR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12871
-#EXTINF:0,SPORT: BT Sport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12927
-#EXTINF:0,SPORT: BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12926
-#EXTINF:0,SPORT: BT Sport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12928
-#EXTINF:0,SPORT: BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12874
-#EXTINF:0,SPORT: BT Sport 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12875
-#EXTINF:0,SPORT: BT Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12929
-#EXTINF:0,SPORT: BT Sport ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12878
-#EXTINF:0,SPORT: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12882
-#EXTINF:0,SPORT: FOX SPORTS 1 HD (US)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12872
-#EXTINF:0,SPORT: FOX SPORTS 2 HD (US)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12873
-#EXTINF:0,SPORT: Movistar F1 HD (ES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12921
-#EXTINF:0,SPORT: NBA HD (PT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12930
-#EXTINF:0,SPORT: NBA HD (US)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12931
-#EXTINF:0,SPORT: Sky Sport NBA HD (ITA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12947
-#EXTINF:0,SPORT: Sky Sport Serie A FHD (ITA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12865
-#EXTINF:0,SPORT: Sky Sports F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12883
-#EXTINF:0,SPORT: Sky Sports F1 HD (UK)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12922
-#EXTINF:0,SPORT: Sky Sports Mix FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12884
-#EXTINF:0,SPORT: Sky Sports News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12885
-#EXTINF:0,SPORT: Sky Sports Premier League FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12886
-#EXTINF:0,SPORT: Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaminglist.live:8880/marcosmont40@gmail.com/2NX0iE/12887
+#EXTINF:0,BAND SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8147
+#EXTINF:0,BAND SPORTS ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/51958
+#EXTINF:0,BAND SPORTS H265 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12725
+#EXTINF:0,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8236
+#EXTINF:0,BAND SPORTS HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12726
+#EXTINF:0,FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8101
+#EXTINF:0,FOX SPORTS  HD h265 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/13052
+#EXTINF:0,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8213
+#EXTINF:0,FOX SPORTS HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/13053
+#EXTINF:0,FOX SPORTS 2 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/13050
+#EXTINF:0,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8099
+#EXTINF:0,FOX SPORTS 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/13051
+#EXTINF:0,SPORTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8012
+#EXTINF:0,SPORTV FHD h265 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12815
+#EXTINF:0,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8173
+#EXTINF:0,SPORTV HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12816
+#EXTINF:0,SPORTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8011
+#EXTINF:0,SPORTV 2 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/51970
+#EXTINF:0,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8175
+#EXTINF:0,SPORTV 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12814
+#EXTINF:0,SPORTV 2 FHD h265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12813
+#EXTINF:0,SPORTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8010
+#EXTINF:0,SPORTV 3 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12811
+#EXTINF:0,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/8174
+#EXTINF:0,SPORTV 3 FHD h265 ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/1691/1234/12812

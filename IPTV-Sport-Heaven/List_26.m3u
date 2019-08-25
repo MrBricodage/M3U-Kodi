@@ -1,53 +1,161 @@
 #EXTM3U
-#EXTINF:-1,DESP |Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:-1,DESP | Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:-1,DESP | Sky Bundesliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:-1,DESP | Sky Bundesliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:-1,DESP | Sky Bundesliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
-#EXTINF:-1,DESP | Sky Bundesliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
-#EXTINF:-1,DESP | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:-1,DESP |Sky Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:-1,DESP | Sport1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:-1,DESP | Dazn Bar 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:-1,DESP | Dazn Bar 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
-#EXTINF:-1,DESP | Sport Digital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:-1,DESP | Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:-1,DESP | EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:-1,DESP | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:-1,DESP | Eurosport 2 HD Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:-1,(AR) BEINSPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
-#EXTINF:-1,(AR) BEINSPORT HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
-#EXTINF:-1,(AR) BEINSPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
-#EXTINF:-1,(AR) BEINSPORT HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
-#EXTINF:-1,(AR) BEINSPORT HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
-#EXTINF:-1,(AR) BEINSPORT HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
-#EXTINF:-1,(AR) BEINSPORT HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
-#EXTINF:-1,(AR) BEINSPORT HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
-#EXTINF:-1,(AR) BEINSPORT HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
-#EXTINF:-1,(AR) BEINSPORT HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:-1,BEIN-MAX-LOW-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10827
+#EXTINF:-1,BEIN-MAX-LOW-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10826
+#EXTINF:-1,BEIN-MAX-LOW-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10825
+#EXTINF:-1,BEIN-MAX-LOW-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10824
+#EXTINF:-1,BEIN-MAX-512-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10823
+#EXTINF:-1,BEIN-MAX-512-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10822
+#EXTINF:-1,BEIN-MAX-512-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10821
+#EXTINF:-1,BEIN-MAX-512-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10820
+#EXTINF:-1,BEIN-MAX-SD-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10831
+#EXTINF:-1,BEIN-MAX-SD-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10830
+#EXTINF:-1,BEIN-MAX-SD-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10829
+#EXTINF:-1,BEIN-MAX-SD-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10828
+#EXTINF:-1,BEIN-MAX-HD-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/8538
+#EXTINF:-1,BEIN-MAX-HD-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/8539
+#EXTINF:-1,BEIN-MAX-HD-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10818
+#EXTINF:-1,BEIN-MAX-HD-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10819
+#EXTINF:-1,BEIN-SPORT-1=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4937
+#EXTINF:-1,BEIN-SPORT-2=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4936
+#EXTINF:-1,BEIN-SPORT-3=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4935
+#EXTINF:-1,BEIN-SPORT-4=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4934
+#EXTINF:-1,BEIN-SPORT-5=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4933
+#EXTINF:-1,BEIN-SPORT-6=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4932
+#EXTINF:-1,BEIN-SPORT-7=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4931
+#EXTINF:-1,BEIN-SPORT-8=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4930
+#EXTINF:-1,BEIN-SPORT-9=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4929
+#EXTINF:-1,BEIN-SPORT-10=LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4928
+#EXTINF:-1,BEIN-SPORT-1=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/2
+#EXTINF:-1,BEIN-SPORT-2=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/3
+#EXTINF:-1,BEIN-SPORT-3=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4
+#EXTINF:-1,BEIN-SPORT-4=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/6
+#EXTINF:-1,BEIN-SPORT-5=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/7
+#EXTINF:-1,BEIN-SPORT-6=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/8
+#EXTINF:-1,BEIN-SPORT-7=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/9
+#EXTINF:-1,BEIN-SPORT-8=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/10
+#EXTINF:-1,BEIN-SPORT-9=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/11
+#EXTINF:-1,BEIN-SPORT-10=512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/12
+#EXTINF:-1,BEIN-SPORT-1=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/22
+#EXTINF:-1,BEIN-SPORT-2=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/21
+#EXTINF:-1,BEIN-SPORT-3=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/20
+#EXTINF:-1,BEIN-SPORT-4=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/19
+#EXTINF:-1,BEIN-SPORT-5=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/18
+#EXTINF:-1,BEIN-SPORT-6=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/17
+#EXTINF:-1,BEIN-SPORT-7=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/16
+#EXTINF:-1,BEIN-SPORT-8=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/15
+#EXTINF:-1,BEIN-SPORT-9=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/14
+#EXTINF:-1,BEIN-SPORT-10=SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/13
+#EXTINF:-1,BEIN-SPORT-1=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4555
+#EXTINF:-1,BEIN-SPORT-2=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4554
+#EXTINF:-1,BEIN-SPORT-3=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4553
+#EXTINF:-1,BEIN-SPORT-4=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4552
+#EXTINF:-1,BEIN-SPORT-5=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4551
+#EXTINF:-1,BEIN-SPORT-6=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4550
+#EXTINF:-1,BEIN-SPORT-7=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4549
+#EXTINF:-1,BEIN-SPORT-8=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4548
+#EXTINF:-1,BEIN-SPORT-9=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4547
+#EXTINF:-1,BEIN-SPORT-10=HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4546
+#EXTINF:-1,BEIN-SPORT-1=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4885
+#EXTINF:-1,BEIN-SPORT-2=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4884
+#EXTINF:-1,BEIN-SPORT-3=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4883
+#EXTINF:-1,BEIN-SPORT-4=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4882
+#EXTINF:-1,BEIN-SPORT-5=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4881
+#EXTINF:-1,BEIN-SPORT-6=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4880
+#EXTINF:-1,BEIN-SPORT-7=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4879
+#EXTINF:-1,BEIN-SPORT-8=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4878
+#EXTINF:-1,BEIN-SPORT-9=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4877
+#EXTINF:-1,BEIN-SPORT-10=FULL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4876
+#EXTINF:-1,BEIN-SPORT-1=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4609
+#EXTINF:-1,BEIN-SPORT-2=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4610
+#EXTINF:-1,BEIN-SPORT-3=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4611
+#EXTINF:-1,BEIN-SPORT-4=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4612
+#EXTINF:-1,BEIN-SPORT-5=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4613
+#EXTINF:-1,BEIN-SPORT-6=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4614
+#EXTINF:-1,BEIN-SPORT-7=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4615
+#EXTINF:-1,BEIN-SPORT-8=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4616
+#EXTINF:-1,BEIN-SPORT-9=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4617
+#EXTINF:-1,BEIN-SPORT-10=4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/4618
+#EXTINF:-1,AD SPORT HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/6859
+#EXTINF:-1,AD SPORT HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/6860
+#EXTINF:-1,AD SPORT HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/6861
+#EXTINF:-1,AD SPORT HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://egyman.net:1978/1234567890/1234567890/6862

@@ -1,65 +1,123 @@
 #EXTM3U
-#EXTINF:0,(TR) EUROSPORT 2 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
-#EXTINF:0,(TR) EUROSPORT 1 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
-#EXTINF:0,(TR) DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
-#EXTINF:0,(TR) BURSA SPOR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
-#EXTINF:0,(TR) BJK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
-#EXTINF:0,(TR) AKTIF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
-#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:0,DESP | Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:0,DESP | Sky Bundesliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:0,DESP | Sky Bundesliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:0,DESP | Sky Bundesliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
-#EXTINF:0,DESP | Sky Bundesliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
-#EXTINF:0,DESP | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:0,DESP |Sky Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:0,DESP | Sport1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:0,DESP | Dazn Bar 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:0,DESP | Dazn Bar 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
-#EXTINF:0,DESP | Sport Digital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:0,DESP | Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:0,DESP | EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:0,DESP | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:0,DESP | Eurosport 2 HD Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:0,(AR) BEINSPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
-#EXTINF:0,(AR) BEINSPORT HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
-#EXTINF:0,(AR) BEINSPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
-#EXTINF:0,(AR) BEINSPORT HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
-#EXTINF:0,(AR) BEINSPORT HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
-#EXTINF:0,(AR) BEINSPORT HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
-#EXTINF:0,(AR) BEINSPORT HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
-#EXTINF:0,(AR) BEINSPORT HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
-#EXTINF:0,(AR) BEINSPORT HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
-#EXTINF:0,(AR) BEINSPORT HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:0,|AR| KSA SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/1250
+#EXTINF:0,|AR| KSA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/48240
+#EXTINF:0,|AR| KSA SPORTS PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/48241
+#EXTINF:0,|AR| KSA SPORTS PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/48242
+#EXTINF:0,|AR| 4K - BEIN  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28573
+#EXTINF:0,|AR| 4K - BEIN SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28572
+#EXTINF:0,|AR| 4K - BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28571
+#EXTINF:0,|UK| 4K - BEIN SPORTS 1 HD (ONLY FOR UK CLIENTS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/73125
+#EXTINF:0,|AR| 4K - BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28570
+#EXTINF:0,|UK| 4K - BEIN SPORTS 2 HD (ONLY FOR UK CLIENTS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/73126
+#EXTINF:0,|AR| 4K - BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28569
+#EXTINF:0,|AR| 4K - BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28568
+#EXTINF:0,|AR| 4K - BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28567
+#EXTINF:0,|AR| 4K - BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28566
+#EXTINF:0,|AR| 4K - BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28565
+#EXTINF:0,|AR| 4K - BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28564
+#EXTINF:0,|AR| 4K - BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28562
+#EXTINF:0,|AR| 4K - BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28563
+#EXTINF:0,|AR| 4K - BEIN SPORTS 11 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28561
+#EXTINF:0,|AR| 4K - BEIN SPORTS 12 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28560
+#EXTINF:0,|AR| 4K - BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28559
+#EXTINF:0,|AR| 4K - BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28558
+#EXTINF:0,|AR| 4K - BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28557
+#EXTINF:0,|AR| 4K - BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28556
+#EXTINF:0,|AR| 4K - BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/28554
+#EXTINF:0,|AR| SD - BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97215
+#EXTINF:0,|AR| SD - BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97214
+#EXTINF:0,|AR| SD - BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97213
+#EXTINF:0,|AR| SD - BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97212
+#EXTINF:0,|AR| SD - BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97211
+#EXTINF:0,|AR| SD - BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97210
+#EXTINF:0,|AR| SD - BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97209
+#EXTINF:0,|AR| SD - BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97208
+#EXTINF:0,|AR| SD - BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97207
+#EXTINF:0,|AR| SD - BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97206
+#EXTINF:0,|AR| SD - BEIN SPORTS 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97205
+#EXTINF:0,|AR| SD - BEIN SPORTS 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97204
+#EXTINF:0,|AR| SD - BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97203
+#EXTINF:0,|AR| SD - BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97202
+#EXTINF:0,|AR| SD - BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97201
+#EXTINF:0,|AR| SD - BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97200
+#EXTINF:0,|AR| SD - BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/97199
+#EXTINF:0,BEIN SPORTS 1 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51278
+#EXTINF:0,BEIN SPORTS 2 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51277
+#EXTINF:0,BEIN SPORTS 3 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51276
+#EXTINF:0,BEIN SPORTS 4 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51275
+#EXTINF:0,BEIN SPORTS 5 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51274
+#EXTINF:0,BEIN SPORTS 6 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51273
+#EXTINF:0,BEIN SPORTS 7 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51272
+#EXTINF:0,BEIN SPORTS 8 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51271
+#EXTINF:0,BEIN SPORTS 9 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51270
+#EXTINF:0,BEIN SPORTS 10 HD ULTRA+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/51269
+#EXTINF:0,|AR| ALKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/69428
+#EXTINF:0,|AR| ALKASS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/69425
+#EXTINF:0,|AR| ALKASS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/69422
+#EXTINF:0,|AR| ABUDHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41691
+#EXTINF:0,|AR| ABUDHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41690
+#EXTINF:0,|AR| ABUDHABI SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41689
+#EXTINF:0,|AR| ABUDHABI SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41688
+#EXTINF:0,|AR| ABUDHABI SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41687
+#EXTINF:0,|AR| ABUDHABI SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.myott.net:80/Donanana/ttI176zurl/41686
