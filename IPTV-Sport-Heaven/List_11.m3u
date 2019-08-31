@@ -1,65 +1,103 @@
 #EXTM3U
-#EXTINF:0,(TR) EUROSPORT 2 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
-#EXTINF:0,(TR) EUROSPORT 1 (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
-#EXTINF:0,(TR) DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
-#EXTINF:0,(TR) BURSA SPOR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
-#EXTINF:0,(TR) BJK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
-#EXTINF:0,(TR) AKTIF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
-#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:0,DESP | Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:0,DESP | Sky Bundesliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:0,DESP | Sky Bundesliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:0,DESP | Sky Bundesliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
-#EXTINF:0,DESP | Sky Bundesliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
-#EXTINF:0,DESP | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:0,DESP |Sky Sport 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:0,DESP | Sport1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:0,DESP | Dazn Bar 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:0,DESP | Dazn Bar 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
-#EXTINF:0,DESP | Sport Digital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:0,DESP | Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:0,DESP | EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:0,DESP | Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:0,DESP | Eurosport 2 HD Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:0,(AR) BEINSPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
-#EXTINF:0,(AR) BEINSPORT HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
-#EXTINF:0,(AR) BEINSPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
-#EXTINF:0,(AR) BEINSPORT HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
-#EXTINF:0,(AR) BEINSPORT HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
-#EXTINF:0,(AR) BEINSPORT HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
-#EXTINF:0,(AR) BEINSPORT HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
-#EXTINF:0,(AR) BEINSPORT HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
-#EXTINF:0,(AR) BEINSPORT HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
-#EXTINF:0,(AR) BEINSPORT HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:0,SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/6208
+#EXTINF:0,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/7600
+#EXTINF:0,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/7599
+#EXTINF:0,FOX Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/6207
+#EXTINF:0,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/7602
+#EXTINF:0,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/13732
+#EXTINF:0,ESPN Brasil FHD (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/10521
+#EXTINF:0,ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/7605
+#EXTINF:0,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/11118
+#EXTINF:0,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/8549
+#EXTINF:0,BandSports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/11130
+#EXTINF:0,SporTV HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1777
+#EXTINF:0,SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/143
+#EXTINF:0,SporTV Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2022
+#EXTINF:0,SporTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/31
+#EXTINF:0,SporTV 2 HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1779
+#EXTINF:0,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/145
+#EXTINF:0,SporTV 2 Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2024
+#EXTINF:0,SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/30
+#EXTINF:0,SporTV 3 HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1778
+#EXTINF:0,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/144
+#EXTINF:0,SporTV 3 Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2023
+#EXTINF:0,SporTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/28
+#EXTINF:0,FOX Sports HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1795
+#EXTINF:0,FOX Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/173
+#EXTINF:0,FOX Sports Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2066
+#EXTINF:0,FOX Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/93
+#EXTINF:0,FOX Sports 2 HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1796
+#EXTINF:0,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/172
+#EXTINF:0,FOX Sports 2 Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2065
+#EXTINF:0,FOX Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/92
+#EXTINF:0,ESPN Brasil HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1801
+#EXTINF:0,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/180
+#EXTINF:0,ESPN Brasil Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2067
+#EXTINF:0,ESPN Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/98
+#EXTINF:0,ESPN HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1800
+#EXTINF:0,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/179
+#EXTINF:0,ESPN Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1986
+#EXTINF:0,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/99
+#EXTINF:0,ESPN Extra HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/5092
+#EXTINF:0,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/13855
+#EXTINF:0,ESPN Extra HD (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/12030
+#EXTINF:0,ESPN Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/5085
+#EXTINF:0,ESPN +  HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1802
+#EXTINF:0,ESPN +  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1450
+#EXTINF:0,ESPN + Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1985
+#EXTINF:0,ESPN +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/181
+#EXTINF:0,BandSports HD Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/1815
+#EXTINF:0,BandSports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/192
+#EXTINF:0,BandSports Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/2081
+#EXTINF:0,BandSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rhagf.co:8880/full/1234/125
