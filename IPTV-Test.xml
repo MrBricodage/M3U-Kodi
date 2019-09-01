@@ -38,20 +38,6 @@ Pas de diffusion H24</info>
 </item>
 
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 for INET[/B][/COLOR]</title>
-<info>France Bascket généré manuellement de http://cdn.livetvcdn.club</info>
-<link>http://78.142.19.55:8080/hls/streama98595/index.m3u8?st=bRzAoNanFOoQpYT4cAlAbg</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn 11 ENG?[/B][/COLOR] 480p</title>
-<info>flux listés dans les fichiers streamXX.php de  https://lewlive.stream/embed/</info>
-<link>https://hls336335.r-cdn.com/trn_61804/1380/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0&Referer=https://lewlive.stream/embed/stream.php</link>
-<thumbnail></thumbnail>
-</item>https://hls336335.r-cdn.com/trn_61804/1380/playlist.m3u8
-
-<item>
 <title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR] RESOLUTION=1280x720p</title>
 <link>http://weak_spell.carniferou.club/edge/SSME/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/bayern-munchen-vs-hertha-bsc/</link>
 <info>http://h0stream.club, weak_spell</info>
@@ -60,17 +46,9 @@ Pas de diffusion H24</info>
 
 
 <item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]BCSN[/B][/COLOR] RESOLUTION=1280x720p</title>
-<link>http://weak_spell.carniferou.club/edge/NBCSN/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://h0stream.club/watch/bayern-munchen-vs-hertha-bsc/</link>
-<info>http://h0stream.club, weak_spell</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 21 [/B][/COLOR]</title>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info>
-<link>http://cdn3.hdstreams.club/live/ch21/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://70b20efc8b27aa84025b7fe5752dea186429b08c</link>
 <thumbnail></thumbnail>
 </item>
 
