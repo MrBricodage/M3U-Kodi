@@ -4,8 +4,8 @@
 
 
 <item>
-<title>****[COLOR yellow][B]Last Update:[/B][/COLOR][COLOR white][B][COLOR white][B][I]13/08/2019 05:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
-<info>Last Channel Health Check: 13/08/2019 05:00 UTC</info>
+<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]01/09/2019 05:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<info>Derniere Vérification : 13/08/2019 05:00 UTC</info>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -92,17 +92,6 @@
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
 </regex>
 </item>
-
-
-<item>
-<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]uto Moto[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/x88vmswy/nnGjlUBfqR/28765</link>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 HD[/B][/COLOR]</title>
@@ -361,52 +350,6 @@ Validité dans le temps à vérifier
 </regex>
 </item>
 
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR MAX4 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/15051</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR MAX5 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/15049</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR MAX6 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/6789</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR MAX7 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/6788</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR MAX8 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/6787</link>
-<thumbnail></thumbnail>
-</item>
-
 <item>
 <title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sport TR 1 HD[/B][/COLOR]</title>
 <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2127.ts|User-Agent=245sdee654erea</link>
@@ -542,47 +485,29 @@ Validité dans le temps à vérifier
 
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p1[/B][/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
-<!-- <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p BackUp[/B][/COLOR]</title>
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p2[/B][/COLOR]</title>
 <link>http://bnk.bankai.stream/espn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
-</item> -->
+</item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p1[/B][/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espntwo.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
-<!-- <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p BackUp[/B][/COLOR]</title>
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p2[/B][/COLOR]</title>
 <link>http://bnk.bankai.stream/espn7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
-</item> -->
-
-
-<item>
-<title>[COLOR orange][B]E[/B][/COLOR][COLOR white][B]urosport 1 FR[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/x88vmswy/nnGjlUBfqR/5296</link>
-<thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange][B]E[/B][/COLOR][COLOR white][B]urosport 2 FR[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/x88vmswy/nnGjlUBfqR/5297</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport One UK[/B][/COLOR]</title>
@@ -768,6 +693,93 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 <item>
 <title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 14 [/B][/COLOR]</title>
 <link>http://cdn3.hdstreams.club/live/ch14/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 15 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch15/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 16 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch16/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 17 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch17/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 18 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch18/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 19 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch19/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 20 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch20/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 21 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch21/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 22 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch22/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 23 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch23/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 24 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch24/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 25 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch25/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
+<info>Chaine pas en continu. 
+Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 26 [/B][/COLOR]</title>
+<link>http://cdn3.hdstreams.club/live/ch26/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
 <info>Chaine pas en continu. 
 Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
