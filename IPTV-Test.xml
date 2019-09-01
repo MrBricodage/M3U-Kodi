@@ -8,40 +8,31 @@
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Today TS Link[/B][/COLOR]</title>
-<link>http://163.172.118.212/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:A0&uid=2553</link>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]BR Sports Live 1[/B][/COLOR]</title>
+<info>Chaine qui diffuse les gros évènements uniqumement. 
+Pas de diffusion H24</info>
+<link>http://103.194.171.4:1935/abr/abr-S-1/live/S-1_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>[COLOR orange][B]F[/B][/COLOR][COLOR white][B]ree Sports[/B] Always?[/COLOR]</title>
-<info>Reliquat d'une ancienne diffusion?
-Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]BR Sports Live 2[/B][/COLOR]</title>
+<info>Chaine qui diffuse les gros évènements uniqumement. 
+Pas de diffusion H24</info>
+<link>http://103.194.171.4:1935/abr/abr-S-2/live/S-2_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]BR Sports Live 3[/B][/COLOR]</title>
+<info>Chaine qui diffuse les gros évènements uniqumement. 
+Pas de diffusion H24</info>
 <link>http://103.194.171.4:1935/abr/abr-S-3/live/S-3_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports USA[/B] Always?[/COLOR]</title>
-<info>Reliquat d'une ancienne diffusion?
-Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
-<link>http://103.194.171.4:1935/abr/abr-S-2/live/S-2_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]F[/B][/COLOR][COLOR white][B]ox Sports 1[/B] Always?[/COLOR]</title>
-<info>Reliquat d'une ancienne diffusion?
-Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
-<link>http://103.194.171.4:1935/abr/abr-S-1/live/S-1_source/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://cyclingentertainment.stream/tranmere-rovers-vs-liverpool/</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 Link[/B][/COLOR]</title>
+<info>Canal+, HS depuis le temps</info>
 <link>http://194.88.104.169:8081/dfdftt11jl/canal+/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail></thumbnail>
 </item>
@@ -54,7 +45,8 @@ Affiche 30 secondes de la chaine, toujours les mêmes, puis terminé</info>
 
 <item>
 <title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn 11 ENG?[/B][/COLOR] 480p</title>
-<link>https://hls336335.r-cdn.com/trn_61807/482/480p/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0&Referer=https://lewlive.stream/embed/stream.php</link>
+<info>flux listés dans les fichiers streamXX.php de  https://lewlive.stream/embed/</info>
+<link>https://hls336335.r-cdn.com/trn_61804/1380/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0&Referer=https://lewlive.stream/embed/stream.php</link>
 <thumbnail></thumbnail>
 </item>
 
