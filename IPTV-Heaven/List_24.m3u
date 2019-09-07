@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,FR:TF 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
-#EXTINF:-1,FR:France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
-#EXTINF:-1,FR:Arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1370

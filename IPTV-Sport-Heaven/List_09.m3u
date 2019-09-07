@@ -1,233 +1,31 @@
 #EXTM3U
-#EXTINF:0,SP: FOX Sports Mid West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/729
-#EXTINF:0,SP: FOX Sports North HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/726
-#EXTINF:0,SP: FOX Sports South East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/721
-#EXTINF:0,SP: FOX Sports South HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/719
-#EXTINF:0,SP: FOX Sports South West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/718
-#EXTINF:0,SP: FOX Sports West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/715
-#EXTINF:0,SP: FOX Sports Yes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/713
-#EXTINF:0,SP: Fantasy Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/562
-#EXTINF:0,SP: WWE Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/650
-#EXTINF:0,SP: Tennis Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/657
-#EXTINF:0,SP: BeIN Sports US HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/436
-#EXTINF:0,SP: Box Nation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/438
-#EXTINF:0,SP: NESN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/695
-#EXTINF:0,SP: MSG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/707
-#EXTINF:0,SP: MSG 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/708
-#EXTINF:0,SP: Racing UK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/683
-#EXTINF:0,SP: Sportsnet New York HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/663
-#EXTINF:0,SP: Sportsnet Los Angeles HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/664
-#EXTINF:0,SP: Sportsman Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/667
-#EXTINF:0,SP: BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/439
-#EXTINF:0,SP: BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/440
-#EXTINF:0,SP: BT Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/527
-#EXTINF:0,SP: BT Sport ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/528
-#EXTINF:0,SP: CBS Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/529
-#EXTINF:0,SP: NBC Golf Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/704
-#EXTINF:0,SP: NBC Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/698
-#EXTINF:0,SP: Sportsnet One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/662
-#EXTINF:0,SP: Sportsnet East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/665
-#EXTINF:0,SP: Sportsnet West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/659
-#EXTINF:0,SP: Sportsnet Pacific HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/660
-#EXTINF:0,SP: Sportsnet 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/666
-#EXTINF:0,SP: Sportsnet World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/658
-#EXTINF:0,SP: TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/656
-#EXTINF:0,SP: TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/655
-#EXTINF:0,SP: TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/654
-#EXTINF:0,SP: TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/653
-#EXTINF:0,SP: TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/652
-#EXTINF:0,SP: RDS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/682
-#EXTINF:0,SP: RDS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/681
-#EXTINF:0,SP: RDS Info HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/680
-#EXTINF:0,SP: Astro Supersports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44417
-#EXTINF:0,SP: Astro Supersports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44418
-#EXTINF:0,SP: Astro Supersports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44419
-#EXTINF:0,SP: Astro Supersports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44420
-#EXTINF:0,SP: Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/105
-#EXTINF:0,SP: Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8618
-#EXTINF:0,SP: Sky Sports Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/678
-#EXTINF:0,SP: Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/677
-#EXTINF:0,SP: Sky Sports Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/673
-#EXTINF:0,SP: Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/672
-#EXTINF:0,SP: Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/668
-#EXTINF:0,SP: Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/674
-#EXTINF:0,SP: Sky Sports Mix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/670
-#EXTINF:0,SP: Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/669
-#EXTINF:0,SP: Sky Sports Box Office HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/676
-#EXTINF:0,SP: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/560
-#EXTINF:0,SP: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/561
-#EXTINF:0,SP: Eir Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/531
-#EXTINF:0,SP: Eir Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/532
-#EXTINF:0,SP: Premier Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/684
-#EXTINF:0,SP: Chelsea TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/530
-#EXTINF:0,SP: LFC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/711
-#EXTINF:0,SP: MUTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/706
-#EXTINF:0,SP: UFC Fight Pass HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8617
-#EXTINF:0,SP: UFC Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8616
-#EXTINF:0,SP: NBC Sports Bay Area HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/703
-#EXTINF:0,SP: NBC Sports Boston HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/702
-#EXTINF:0,SP: NBC Sports California HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/701
-#EXTINF:0,SP: NBC Sports Chicago HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/700
-#EXTINF:0,SP: NBC Sports Mid-Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/699
-#EXTINF:0,SP: NBC Sports North West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/697
-#EXTINF:0,SP: NBC Sports Philadelphia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/696
-#EXTINF:0,SP: NBC Sports Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8620
-#EXTINF:0,SP: PAC-12 Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/687
-#EXTINF:0,SP: PAC-12 Arizona HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/691
-#EXTINF:0,SP: PAC-12 Bay-Area HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/690
-#EXTINF:0,SP: PAC-12 Los Angeles HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/689
-#EXTINF:0,SP: PAC-12 Mountain HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/688
-#EXTINF:0,SP: PAC-12 Oregon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/686
-#EXTINF:0,SP: PAC-12 Washington HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/685
-#EXTINF:0,SP: FOX Sports 1 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/828
-#EXTINF:0,SP: FOX Sports 2 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/829
-#EXTINF:0,SP: FOX Sports 3 MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/830
-#EXTINF:0,SP: FOX Sports Arizona HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/568
-#EXTINF:0,SP: FOX Sports Carolinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/739
-#EXTINF:0,SP: FOX Sports Cincinnati HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/738
-#EXTINF:0,SP: FOX Sports Cleveland HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/737
-#EXTINF:0,SP: FOX Sports Detroit HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/736
-#EXTINF:0,SP: FOX Sports Florida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/735
-#EXTINF:0,SP: FOX Sports Florida North HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/734
-#EXTINF:0,SP: FOX Sports Houston HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/733
-#EXTINF:0,SP: FOX Sports Indiana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/732
-#EXTINF:0,SP: FOX Sports Kansas City HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/731
-#EXTINF:0,SP: FOX Sports New Orleans HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/728
-#EXTINF:0,SP: FOX Sports North Atlanta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/727
-#EXTINF:0,SP: FOX Sports Ohio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/725
-#EXTINF:0,SP: FOX Sports Oklahoma HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/724
-#EXTINF:0,SP: FOX Sports San Antonio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/723
-#EXTINF:0,SP: FOX Sports San Diego HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/722
-#EXTINF:0,SP: FOX Sports South Georgia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/720
-#EXTINF:0,SP: FOX Sports Sun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/717
-#EXTINF:0,SP: FOX Sports Tennessee HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/716
-#EXTINF:0,SP: FOX Sports Wisconsin HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/714
-#EXTINF:0,SP: FOX Sportstime Ohio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/712
-#EXTINF:0,AR: Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42529
-#EXTINF:0,AR: Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42530
-#EXTINF:0,AR: Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42531
-#EXTINF:0,AR: Bein Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42532
-#EXTINF:0,AR: Bein Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42533
-#EXTINF:0,AR: Bein Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42534
-#EXTINF:0,AR: Bein Sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42535
-#EXTINF:0,AR: Bein Sport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42536
-#EXTINF:0,AR: Bein Sport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42537
-#EXTINF:0,AR: Bein Sport 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42538
-#EXTINF:0,AR: Bein Sport 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42539
-#EXTINF:0,AR: BeIN Sport 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42540
+#EXTINF:-1,Bein Sport 1 AR MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/21243
+#EXTINF:-1,Bein Sport 2 AR MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/21244
+#EXTINF:-1,Bein Sport 1 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/17
+#EXTINF:-1,Bein Sport 2 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/18
+#EXTINF:-1,Bein Sport 3 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/19
+#EXTINF:-1,Bein Sport 4 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/20
+#EXTINF:-1,Bein Sport 5 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/217
+#EXTINF:-1,Bein Sport 6 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/218
+#EXTINF:-1,Bein Sport 7 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/219
+#EXTINF:-1,Bein Sport 8 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/275
+#EXTINF:-1,Bein Sport 9 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/7160
+#EXTINF:-1,Bein Sport 10 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/873
+#EXTINF:-1,Bein Sport 11 Ar ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/874
+#EXTINF:-1,Bein Sport 12 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/875
+#EXTINF:-1,Bein Sport 13 Ar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-belge.ddns.net:8012/igor-fr-restream/QhwKJKhR4Y/876

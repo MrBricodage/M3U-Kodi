@@ -1,119 +1,31 @@
 #EXTM3U
-#EXTINF:-1,FR: 13ème Rue HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17774
-#EXTINF:-1,FR: 6ter FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17728
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/760
+#EXTINF:-1,FR: 13EME RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/746
 #EXTINF:-1,FR: 6ter HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17727
-#EXTINF:-1,FR: A  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17553
-#EXTINF:-1,FR: AB1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17754
-#EXTINF:-1,FR: AB1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17753
-#EXTINF:-1,FR: AB3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17519
-#EXTINF:-1,FR: Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17782
-#EXTINF:-1,FR: Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17781
-#EXTINF:-1,FR: Action HD  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17780
-#EXTINF:-1,FR: Africa 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17526
-#EXTINF:-1,FR: Alsace 20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17521
-#EXTINF:-1,FR: ANIMAUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17679
-#EXTINF:-1,FR: ANIMAUX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17680
-#EXTINF:-1,FR: Arte FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17820
-#EXTINF:-1,FR: ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17819
-#EXTINF:-1,FR: Automoto la chaîne FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17602
-#EXTINF:-1,FR: Automoto la chaîne HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17601
-#EXTINF:-1,FR: beIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17647
-#EXTINF:-1,FR: beIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17649
-#EXTINF:-1,FR: beIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17648
-#EXTINF:-1,FR: beIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17644
-#EXTINF:-1,FR: beIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17646
-#EXTINF:-1,FR: beIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17645
-#EXTINF:-1,FR: beIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17641
-#EXTINF:-1,FR: beIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17643
-#EXTINF:-1,FR: beIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17642
-#EXTINF:-1,FR: BEIN Sports MAX 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17627
-#EXTINF:-1,FR: BEIN Sports MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17639
-#EXTINF:-1,FR: BEIN Sports MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17637
-#EXTINF:-1,FR: BEIN Sports MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17635
-#EXTINF:-1,FR: BEIN Sports MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17633
-#EXTINF:-1,FR: BEIN Sports MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17631
-#EXTINF:-1,FR: BEIN Sports MAX 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17629
-#EXTINF:-1,FR: DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17713
-#EXTINF:-1,FR: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17712
-#EXTINF:-1,FR: DISCOVERY CHANNEL HD  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17711
-#EXTINF:-1,FR: DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17710
-#EXTINF:-1,FR: Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17709
-#EXTINF:-1,FR: Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17708
-#EXTINF:-1,FR: Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17591
-#EXTINF:-1,FR: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17590
-#EXTINF:-1,FR: Disney Channel HD  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17589
-#EXTINF:-1,FR: Disney Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17786
-#EXTINF:-1,FR: Disney Junior FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17588
-#EXTINF:-1,FR: Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17587
-#EXTINF:-1,FR: Disney XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17586
-#EXTINF:-1,FR: Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17585
-#EXTINF:-1,FR: FRANCE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17835
-#EXTINF:-1,FR: FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17834
-#EXTINF:-1,FR: FRANCE 2 HD  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17833
-#EXTINF:-1,FR: France 24 Français FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17655
-#EXTINF:-1,FR: FRANCE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17654
-#EXTINF:-1,FR: FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17832
-#EXTINF:-1,FR: FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17831
-#EXTINF:-1,FR: FRANCE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17830
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/751
+#EXTINF:-1,FR: ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/747
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/640
+#EXTINF:-1,FR: FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/754
+#EXTINF:-1,FR: FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/758
+#EXTINF:-1,FR: France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/757
 #EXTINF:-1,FR: FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17829
-#EXTINF:-1,FR: FRANCE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/756
 #EXTINF:-1,FR: FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.iptvgermany.net:80/taylan1/02092018/17827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/755
+#EXTINF:-1,FR: M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/753
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/750
+#EXTINF:-1,FR: Discovery Science_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/667
+#EXTINF:-1,FR: NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/669
+#EXTINF:-1,FR: NATIONAL GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/668
