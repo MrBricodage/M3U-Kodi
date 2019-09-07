@@ -380,7 +380,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -448,7 +448,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -604,7 +604,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -632,13 +632,13 @@
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
-<expres>href=.*[",'](.*/canal+/playlist.*?)[",']</expres>
+<expres>href=.*[",'](.*/canal\Q+\E/playlist.*?)[",']</expres>
 <page>$doregex[get_sxstream1]</page>
 <referer>$doregex[get_sxstream1]</referer>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>href=.*[",'](.*WSSv2.3/wsscanal+.*?)[",']</expres>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal\Q+\E.*?)[",']</expres>
 <page>http://wssfree.com/WSSv2.3/</page>
 <referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
@@ -656,13 +656,13 @@
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
-<expres>href=.*[",'](.*/canal+sport/playlist.*?)[",']</expres>
+<expres>href=.*[",'](.*/canal\Q+\Esport/playlist.*?)[",']</expres>
 <page>$doregex[get_sxstream1]</page>
 <referer>$doregex[get_sxstream1]</referer>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>href=.*[",'](.*WSSv2.3/wsscanal+sport.*?)[",']</expres>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal\Q+\Esport.*?)[",']</expres>
 <page>http://wssfree.com/WSSv2.3/</page>
 <referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
@@ -1103,7 +1103,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1137,7 +1137,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1188,7 +1188,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1245,7 +1245,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1293,7 +1293,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p2[/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1371,7 +1371,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p2[/COLOR] </title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p2[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
