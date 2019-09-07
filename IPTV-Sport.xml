@@ -4,7 +4,7 @@
 
 
 <item>
-<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]01/09/2019 05:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]07/09/2019 17:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 <info>Derniere Vérification : 13/08/2019 05:00 UTC</info>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -43,7 +43,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssarenasport1.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -60,7 +77,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena2/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssarenasport2.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -77,7 +111,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena3/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssarenasport3.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -90,6 +141,23 @@
 <expres>href=.*[",'](.*20thjune2019/arena4.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena4/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssarenasport4.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -109,6 +177,7 @@
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
 </regex>
 </item>
+
 
 <item>
 <title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 HD[/B][/COLOR]</title>
@@ -300,7 +369,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -317,7 +386,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein1fr/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbeinfr1.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -334,7 +420,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein2fr-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbeinfr2.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -347,6 +450,23 @@
 <expres>href=.*[",'](.*20thjune2019/frbein3.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein3fr-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbeinfr3.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -370,7 +490,7 @@
 
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 1 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -386,9 +506,25 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports1-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbtsport1.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 2 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -405,7 +541,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 3 HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports2-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbtsport2.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 3 [/B]576p1[/COLOR]</title>
 <info>576p car Sky Sports Main Event en hq</info>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
@@ -423,7 +576,24 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN HD[/B][/COLOR]</title>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sports 3 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports3-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbtsport3.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -439,6 +609,22 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsportsespn-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbtsportespn/*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
 
 <item>
 <title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]anal +[/B][/COLOR] 576p1</title>
@@ -448,10 +634,44 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]C[/B][/COLOR][COLOR white][B]anal +[/B][/COLOR] 576p2</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/canal+/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal+/*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
 <title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p1</title>
 <link>http://194.88.104.169:8081/dfdftt11jl/canal+sport/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail>http://sportstv.club/pic/canal-sport.png</thumbnail>
 <fanart>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p2</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/canal+sport/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal+sport/*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
 </item>
 
 <item>
@@ -474,36 +694,27 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange][B]E[/B][/COLOR][COLOR white][B]leven Sport 1 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>http://watch.gotdark.com:80/richard/richard123/11093</link>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p1[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p2[/COLOR]</title>
 <link>http://bnk.bankai.stream/espn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p1[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espntwo.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p2[/COLOR]</title>
 <link>http://bnk.bankai.stream/espn7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
 </item>
@@ -586,7 +797,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR orange][B]F[/B][/COLOR][COLOR white][B]ree Sports HD[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ree Sports HD[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -785,7 +996,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]K[/B][/COLOR][COLOR white][B] Sport 1 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]K[/B][/COLOR][COLOR white][B] Sport 1 HD[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -794,7 +1005,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR orange][B]K[/B][/COLOR][COLOR white][B] Sport 2 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]K[/B][/COLOR][COLOR white][B] Sport 2 HD[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -803,7 +1014,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR orange][B]K[/B][/COLOR][COLOR white][B] Sport 3 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]K[/B][/COLOR][COLOR white][B] Sport 3 HD[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -812,7 +1023,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR orange][B]K[/B][/COLOR][COLOR white][B] Sport 4 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]K[/B][/COLOR][COLOR white][B] Sport 4 HD[/B][/COLOR]</title>
 <info>flux récupéré de dailyfreeiptv
 Validité dans le temps à vérifier
 </info>
@@ -834,13 +1045,13 @@ Validité dans le temps à vérifier
 
 
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC News 720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC News [/B]720p[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p[/COLOR]</title>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -858,6 +1069,24 @@ Validité dans le temps à vérifier
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/nbcsn-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssnbcsn.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/45155_nbcsn.jpg</thumbnail>
+<fanart>http://www.motorcycle-usa.com/wp-content/uploads/2015/11/nbcsn-logo-2015.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Network HD[/B][/COLOR]</title>
@@ -873,84 +1102,17 @@ Validité dans le temps à vérifier
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]TV Sports [/B][/COLOR]</title>
+<link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/147.ts|User-Agent=lolllololollol</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]DS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11135&amp;name=[COLOR white][B]RDS[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 1 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/25343</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 1 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/16635</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 2 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/25342</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 2 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/16634</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 3 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/25341</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 3 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/16633</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 4 FHD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/25340</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]R[/B][/COLOR][COLOR white][B]MC Sports 4 HD[/B][/COLOR]</title>
-<info>flux récupéré de dailyfreeiptv
-Validité dans le temps à vérifier
-</info>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/6yong314/N8r3cqKaXE/16632</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -975,7 +1137,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action[/B][/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -991,8 +1153,26 @@ Validité dans le temps à vérifier
 </regex>
 </item>
 
+
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena[/B][/COLOR]</title>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsaction-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssskysportsaction.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1005,6 +1185,23 @@ Validité dans le temps à vérifier
 <expres>href=.*[",'](.*20thjune2019/skysarena.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsarena-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssskysportsarena.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -1026,7 +1223,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football[/B][/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1039,6 +1236,23 @@ Validité dans le temps à vérifier
 <expres>href=.*[",'](.*20thjune2019/skysfootball.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsfootball-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssskysportsfootball.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -1066,7 +1280,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1079,6 +1293,23 @@ Validité dans le temps à vérifier
 <expres>href=.*[",'](.*20thjune2019/skysmainevent.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsmainevent-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssskysportsmainevent.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -1096,7 +1327,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League[/B][/COLOR]</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1109,6 +1340,24 @@ Validité dans le temps à vérifier
 <expres>href=.*[",'](.*20thjune2019/skyspremierleague.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportspremierleague-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssskysportspremierleague.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
@@ -1155,7 +1404,7 @@ Validité dans le temps à vérifier
 
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony  Six[/B][/COLOR] 576p</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p1[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1174,7 +1423,26 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony ESPN[/B][/COLOR] 576p</title>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p2[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonysix/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wsswsssonysix.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/90_sonysixhd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1189,6 +1457,25 @@ Validité dans le temps à vérifier
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
 </regex>
 <thumbnail>http://swiftstreamz.com/SwiftStreamz/images/92886_sonyespn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonyespn/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wsssonyespn.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+<thumbnail>http://sportstv.club/pic/sonyespnhd.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -1214,7 +1501,7 @@ Validité dans le temps à vérifier
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B][/COLOR] 720p</title>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p1[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1227,6 +1514,25 @@ Validité dans le temps à vérifier
 <expres>href=.*[",'](.*20thjune2019/sporttv1.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/80902_sportstv1.jpg</thumbnail>
+<fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p2[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sporttv1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wsssporttv1.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 <thumbnail>http://swiftstreamz.com/SwiftStreamz/images/80902_sportstv1.jpg</thumbnail>
 <fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
@@ -1364,12 +1670,5 @@ Validité dans le temps à vérifier
 <title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]ILLOW TV HD[/B][/COLOR]</title>
 <link>http://194.88.104.169:8081/dfdftt11jl/willowcricket/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail>https://i.imgur.com/YmVbBOW.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]Z[/B][/COLOR][COLOR white][B]iggo Sport[/B][/COLOR] 576p1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/32427</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
