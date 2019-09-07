@@ -156,7 +156,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 HD[/B][/COLOR]</title>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -172,9 +172,25 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports1ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein1.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 HD[/B][/COLOR]</title>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -191,7 +207,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports2ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein2.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -208,7 +241,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports3ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein3.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -225,7 +275,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports4ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein4.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -242,7 +309,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports5ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein5.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -259,7 +343,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports6ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein6.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -276,7 +377,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports7ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein7.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -293,7 +411,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports8ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein8.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -309,9 +444,25 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports9ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein9.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 HD[/B][/COLOR]</title>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -327,9 +478,26 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports10ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein10.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 HD[/B][/COLOR]</title>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -346,7 +514,24 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports11ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein11.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -359,6 +544,24 @@
 <expres>href=.*[",'](.*20thjune2019/bein12.*?)[",']</expres>
 <page>http://hostsweb.net/android/sportstv/20thjune.php</page>
 <referer>http://hostsweb.net/android/sportstv/20thjune.php</referer>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p2[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports12ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*WSSv2.3/wssbein12.*?)[",']</expres>
+<page>http://wssfree.com/WSSv2.3/</page>
+<referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
 </item>
 
