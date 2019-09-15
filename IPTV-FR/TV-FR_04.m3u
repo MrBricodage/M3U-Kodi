@@ -1,331 +1,955 @@
 #EXTM3U
-#EXTINF:-1,M6 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20597.m3u8
-#EXTINF:-1,M6 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/117.m3u8
-#EXTINF:-1,M6 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7297.m3u8
-#EXTINF:-1,TF1 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20593.m3u8
-#EXTINF:-1,TF1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/150.m3u8
-#EXTINF:-1,TF1 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7295.m3u8
-#EXTINF:-1,TF1 series film FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20602.m3u8
-#EXTINF:-1,TF1 Serie Film HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/17936.m3u8
-#EXTINF:-1,France Q HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/104.m3u8
-#EXTINF:-1,France 2 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20594.m3u8
-#EXTINF:-1,France 2 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/108.m3u8
-#EXTINF:-1,France 3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/107.m3u8
-#EXTINF:-1,France 4 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/106.m3u8
-#EXTINF:-1,France 5 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20596.m3u8
-#EXTINF:-1,France 5 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/105.m3u8
-#EXTINF:-1,ARTE SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7315.m3u8
-#EXTINF:-1,ARTE HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20604.m3u8
-#EXTINF:-1,ARTE HD FR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/110.m3u8
-#EXTINF:-1,Action HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/149.m3u8
-#EXTINF:-1,TV Breizh SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7296.m3u8
-#EXTINF:-1,TV Breizh HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/127.m3u8
-#EXTINF:-1,13eme rue HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/68.m3u8
-#EXTINF:-1,Cherie 25 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7329.m3u8
-#EXTINF:-1,Cherie 25 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/296.m3u8
-#EXTINF:-1,Serie club HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/217.m3u8
-#EXTINF:-1,6THER FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20603.m3u8
-#EXTINF:-1,6TER HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1487.m3u8
-#EXTINF:-1,6TER SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7326.m3u8
-#EXTINF:-1,TEVA SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7323.m3u8
-#EXTINF:-1,TEVA HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/201.m3u8
-#EXTINF:-1,NRJ 12 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20601.m3u8
-#EXTINF:-1,NRJ12 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7320.m3u8
-#EXTINF:-1,NRJ12 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/401.m3u8
-#EXTINF:-1,SYFY HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/67.m3u8
-#EXTINF:-1,RTL 9 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/28.m3u8
-#EXTINF:-1,AB1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/21.m3u8
-#EXTINF:-1,TMC HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/109.m3u8
-#EXTINF:-1,TFX SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7319.m3u8
-#EXTINF:-1,TFX HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/103.m3u8
-#EXTINF:-1,C8 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7316.m3u8
-#EXTINF:-1,C8 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/31.m3u8
-#EXTINF:-1,TF1 series films SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7324.m3u8
-#EXTINF:-1,TF1 series films HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/202.m3u8
-#EXTINF:-1,TFX FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20599.m3u8
-#EXTINF:-1,CSTAR HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/218.m3u8
-#EXTINF:-1,W9 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20600.m3u8
-#EXTINF:-1,W9 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/66.m3u8
-#EXTINF:-1,W9 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7317.m3u8
-#EXTINF:-1,LCI SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7327.m3u8
-#EXTINF:-1,LCI HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1489.m3u8
-#EXTINF:-1,Numero 23 SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7328.m3u8
-#EXTINF:-1,Rmc story HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1432.m3u8
-#EXTINF:-1,Comedie + HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/25.m3u8
-#EXTINF:-1,Paris premiere SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7322.m3u8
-#EXTINF:-1,Paris premiere HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/230.m3u8
-#EXTINF:-1,Paramount channel HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/26.m3u8
-#EXTINF:-1,TMC FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20598.m3u8
-#EXTINF:-1,TMC SD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7318.m3u8
-#EXTINF:-1,TCM  FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4609.m3u8
-#EXTINF:-1,BFM TV FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1382.m3u8
-#EXTINF:-1,C NEWS HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/300.m3u8
-#EXTINF:-1,E! entertainment HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4593.m3u8
-#EXTINF:-1,TV5 MONDE HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1150.m3u8
-#EXTINF:-1,BFM TV Paris FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22620.m3u8
-#EXTINF:-1,MCM HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4390.m3u8
-#EXTINF:-1,M6 MUSIC FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1521.m3u8
-#EXTINF:-1,MTV HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4598.m3u8
-#EXTINF:-1,MTV HITS HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1522.m3u8
-#EXTINF:-1,MCM TOP HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4602.m3u8
-#EXTINF:-1,NRJ HITS HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4600.m3u8
-#EXTINF:-1,Trace urban HD FR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4580.m3u8
-#EXTINF:-1,Virgin radio TV FR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4597.m3u8
-#EXTINF:-1,*****SPORT*****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4365.m3u8
-#EXTINF:-1,FR:EQUIDIA LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4595.m3u8
-#EXTINF:-1,FR:FOOT +24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1022.m3u8
-#EXTINF:-1,FR:AB MOTEUR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1272.m3u8
-#EXTINF:-1,FR:INFOSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1021.m3u8
-#EXTINF:-1,FR:EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/379.m3u8
-#EXTINF:-1,FR:EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/378.m3u8
-#EXTINF:-1,FR:RMC SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1729.m3u8
-#EXTINF:-1,FR:RMC SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1728.m3u8
-#EXTINF:-1,FR:RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1739.m3u8
-#EXTINF:-1,FR:RMC SPORT ACCESS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22773.m3u8
-#EXTINF:-1,FR:RMC SPORT ACCESS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22774.m3u8
-#EXTINF:-1,FR:RMC SPORT ACCESS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22775.m3u8
-#EXTINF:-1,FR:RMC SPORT ACCESS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22776.m3u8
-#EXTINF:-1,FR:BEINSPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7380.m3u8
-#EXTINF:-1,FR:BEINSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/115.m3u8
-#EXTINF:-1,FR:BEINSPORT 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7381.m3u8
-#EXTINF:-1,FR:BEINSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/114.m3u8
-#EXTINF:-1,FR:BEINSPORT 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7382.m3u8
-#EXTINF:-1,FR:BEINSPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/113.m3u8
-#EXTINF:-1,FR:BEINSPORT 4 MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/2118.m3u8
-#EXTINF:-1,FR:BEINSPORT 5 MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/2119.m3u8
-#EXTINF:-1,FR:BEINSPORT 6 MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/2120.m3u8
-#EXTINF:-1,FR:BEINSPORT 7 MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/2121.m3u8
-#EXTINF:-1,FR:BEINSPORT MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7796.m3u8
-#EXTINF:-1,FR:BEINSPORT MAX 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7797.m3u8
-#EXTINF:-1,FR:BEINSPORT MAX 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7798.m3u8
-#EXTINF:-1,*****DOCUMENTAIRE*****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4367.m3u8
-#EXTINF:-1,FR:SEASONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4594.m3u8
-#EXTINF:-1,FR:TREK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1448.m3u8
-#EXTINF:-1,FR:HISTOIRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/2553.m3u8
-#EXTINF:-1,FR:ANIMAUX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/99.m3u8
-#EXTINF:-1,FR:SCIENCE&VIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/27.m3u8
-#EXTINF:-1,FR:CHASSE ET PECHE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/294.m3u8
-#EXTINF:-1,FR:RMC DECOUVERTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/292.m3u8
-#EXTINF:-1,FR:AB MOTEURS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/16616.m3u8
-#EXTINF:-1,FR:PLANET+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/24.m3u8
-#EXTINF:-1,FR:PLANET+ CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/30.m3u8
-#EXTINF:-1,FR:PLANET+ A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/29.m3u8
-#EXTINF:-1,FR: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/102.m3u8
-#EXTINF:-1,FR:NAT GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/137.m3u8
-#EXTINF:-1,FR:DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4603.m3u8
-#EXTINF:-1,FR:DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/231.m3u8
-#EXTINF:-1,FR:DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/101.m3u8
-#EXTINF:-1,FR:Discovery Investigations
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/16614.m3u8
-#EXTINF:-1,*****ENFANTS*****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4368.m3u8
-#EXTINF:-1,FR:PIWI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/302.m3u8
-#EXTINF:-1,FR:GULLI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7321.m3u8
-#EXTINF:-1,FR:GULLI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/58.m3u8
-#EXTINF:-1,FR:BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4596.m3u8
-#EXTINF:-1,FR:Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/73.m3u8
-#EXTINF:-1,FR:CANAL J HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/297.m3u8
-#EXTINF:-1,FR:MANGAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/96.m3u8
-#EXTINF:-1,FR:GAME ONE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1488.m3u8
-#EXTINF:-1,FR:BOOMERANG  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/97.m3u8
-#EXTINF:-1,FR:DISNEY CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/57.m3u8
-#EXTINF:-1,FR:DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7298.m3u8
-#EXTINF:-1,FR:DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/74.m3u8
-#EXTINF:-1,FR:DISNEY CHANNEL +1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7299.m3u8
-#EXTINF:-1,FR:NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1353.m3u8
-#EXTINF:-1,FR:NICKELODEON JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/17776.m3u8
-#EXTINF:-1,FR:DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1152.m3u8
-#EXTINF:-1,FR:CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/98.m3u8
-#EXTINF:-1,*****CINEMA*****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4366.m3u8
-#EXTINF:-1,FR:CANAL+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/148.m3u8
-#EXTINF:-1,FR:CANAL+SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/143.m3u8
-#EXTINF:-1,FR:CANAL+FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/145.m3u8
-#EXTINF:-1,FR:CANAL+SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/146.m3u8
-#EXTINF:-1,FR:CANAL+CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/144.m3u8
-#EXTINF:-1,FR:CANAL+DECALE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/147.m3u8
-#EXTINF:-1,FR:CINE FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4608.m3u8
-#EXTINF:-1,FR:CINE POLAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7794.m3u8
-#EXTINF:-1,FR:CINE+FAMIZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1678.m3u8
-#EXTINF:-1,FR:CINE+FRISSON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/141.m3u8
-#EXTINF:-1,FR:CINE+PREMIER  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/142.m3u8
-#EXTINF:-1,FR:CINE+EMOTION  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1679.m3u8
-#EXTINF:-1,FR:CINE+CLASSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/138.m3u8
-#EXTINF:-1,FR:OCS MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/32.m3u8
-#EXTINF:-1,FR:OCS CITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/23.m3u8
-#EXTINF:-1,FR:OCS CHOC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/33.m3u8
-#EXTINF:-1,FR:OCS GEANTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/200.m3u8
-#EXTINF:-1,FR:beIN OFFICE 1 HD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/391.m3u8
-#EXTINF:-1,FR:beIN OFFICE 2 HD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/392.m3u8
-#EXTINF:-1,FR:beIN OFFICE 3 HD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/393.m3u8
-#EXTINF:-1,FR:beIN OFFICE 4 HD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/394.m3u8
-#EXTINF:-1,FR:beIN OFFICE 5 HD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/395.m3u8
-#EXTINF:-1,FR:A LA CARTE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/396.m3u8
-#EXTINF:-1,FR:A LA CARTE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/397.m3u8
-#EXTINF:-1,FR:A LA CARTE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/398.m3u8
-#EXTINF:-1,FR:A LA CARTE 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/399.m3u8
-#EXTINF:-1,FR:A LA CARTE 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/400.m3u8
-#EXTINF:-1,France 24 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4812.m3u8
-#EXTINF:-1,Euronews HD FR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4819.m3u8
+#EXTINF:-1,|FR| BFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534637.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5730.m3u8
+#EXTINF:-1,|FR| BFM PARIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534636.m3u8
+#EXTINF:-1,|FR| BFM BUISINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5718.m3u8
+#EXTINF:-1,|FR| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543867.m3u8
+#EXTINF:-1,|FR| LCI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534634.m3u8
+#EXTINF:-1,|FR| LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5724.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534635.m3u8
+#EXTINF:-1,|FR| CNEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534631.m3u8
+#EXTINF:-1,|FR| CNEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5727.m3u8
+#EXTINF:-1,|FR| EURONEWS FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534632.m3u8
+#EXTINF:-1,|FR| FRANCE INFO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534633.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5715.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534638.m3u8
+#EXTINF:-1,|FR| LA CHAINE PARLEMENTAIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534625.m3u8
+#EXTINF:-1,|FR| TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534652
+#EXTINF:-1,|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5713.m3u8
+#EXTINF:-1,|FR| TF1 +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534651.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534650.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5712.m3u8
+#EXTINF:-1,|FR| FRANCE 3 NOA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575541360.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534649.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5711.m3u8
+#EXTINF:-1,|FR| FRANCE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534648.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5710.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534647.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5709.m3u8
+#EXTINF:-1,|FR| FRANCE Ô FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536551.m3u8
+#EXTINF:-1,|FR| FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5708.m3u8
+#EXTINF:-1,|FR| M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534646.m3u8
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5723.m3u8
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5675.m3u8
+#EXTINF:-1,|FR| TV8 MONT BLANC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536550.m3u8
+#EXTINF:-1,|FR| NRJ 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534639.m3u8
+#EXTINF:-1,|FR| NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5731.m3u8
+#EXTINF:-1,|FR| RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534654.m3u8
+#EXTINF:-1,|FR| RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5679.m3u8
+#EXTINF:-1,|FR| W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534643.m3u8
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5719.m3u8
+#EXTINF:-1,|FR| TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534642.m3u8
+#EXTINF:-1,|FR| TMC +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534641.m3u8
+#EXTINF:-1,|FR| 6TER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534621.m3u8
+#EXTINF:-1,|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5732.m3u8
+#EXTINF:-1,|FR| TFX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534640.m3u8
+#EXTINF:-1,|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5722.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534653.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5680.m3u8
+#EXTINF:-1,|FR| ARTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534645.m3u8
+#EXTINF:-1,|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5706.m3u8
+#EXTINF:-1,==== CANALSAT CINEMA ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5736.m3u8
+#EXTINF:-1,|FR| CANAL+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534799.m3u8
+#EXTINF:-1,|FR| CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5698.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534796.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5697.m3u8
+#EXTINF:-1,|FR| CANAL+ FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534797.m3u8
+#EXTINF:-1,|FR| CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5695.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534798.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5696.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534794.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5686.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534791.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5689.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534793.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5690.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534792.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5687.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534790.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5691.m3u8
+#EXTINF:-1,|FR| CINE+ FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5688.m3u8
+#EXTINF:-1,|FR| CINE+ POLAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5693.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534789.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5692.m3u8
+#EXTINF:-1,|FR| OCS CHOC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534781.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5683.m3u8
+#EXTINF:-1,|FR| OCS CITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534782.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5682.m3u8
+#EXTINF:-1,|FR| OCS GEANTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534783.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5681.m3u8
+#EXTINF:-1,|FR| OCS MAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534780.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5684.m3u8
+#EXTINF:-1,|FR| 13EME RUE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534777.m3u8
+#EXTINF:-1,|FR| 13 EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5699.m3u8
+#EXTINF:-1,|FR| ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534778.m3u8
+#EXTINF:-1,|FR| ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5700.m3u8
+#EXTINF:-1,|FR| WARNER TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534788.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534785.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5701.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534784.m3u8
+#EXTINF:-1,|FR| TCM CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534786.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5676.m3u8
+#EXTINF:-1,|FR| POLAR+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534779.m3u8
+#EXTINF:-1,|FR| SUNDANCE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536596.m3u8
+#EXTINF:-1,|FR| CANALPLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5673.m3u8
+#EXTINF:-1,|FR| CANALPLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5672.m3u8
+#EXTINF:-1,|FR| CANALPLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5671.m3u8
+#EXTINF:-1,|FR| CANALPLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5670.m3u8
+#EXTINF:-1,|FR| CANALPLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5669.m3u8
+#EXTINF:-1,|FR| CANALPLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5668.m3u8
+#EXTINF:-1,|FR| CANALPLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5667.m3u8
+#EXTINF:-1,|FR| CANALPLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5666.m3u8
+#EXTINF:-1,|FR| CANALPLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5665.m3u8
+#EXTINF:-1,|FR| CANALPLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5664.m3u8
+#EXTINF:-1,|FR| CANALPLAY 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5663.m3u8
+#EXTINF:-1,|FR| CANALPLAY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5662.m3u8
+#EXTINF:-1,|FR| CANALPLAY 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5661.m3u8
+#EXTINF:-1,|FR| CANALPLAY 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5660.m3u8
+#EXTINF:-1,|FR| CANALPLAY 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5659.m3u8
+#EXTINF:-1,|FR| CANALPLAY 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5658.m3u8
+#EXTINF:-1,==== DIVERTISSEMENT====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5735.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534795.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5694.m3u8
+#EXTINF:-1,|FR| SERIE CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536590.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5678.m3u8
+#EXTINF:-1,|FR| IDF 1 FHD/SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534627.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534618.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5728.m3u8
+#EXTINF:-1,|FR| COMEDIE+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534776.m3u8
+#EXTINF:-1,|FR| COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5685.m3u8
+#EXTINF:-1,|FR| COMEDY CENTRAL FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534775.m3u8
+#EXTINF:-1,|FR| SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534774.m3u8
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5677.m3u8
+#EXTINF:-1,|FR| TF1 SERIES / FILMS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534624.m3u8
+#EXTINF:-1,|FR| TF1 SERIE FILM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5725.m3u8
+#EXTINF:-1,|FR| C STAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534623.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5717.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536600.m3u8
+#EXTINF:-1,|FR| C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534644.m3u8
+#EXTINF:-1,|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5729.m3u8
+#EXTINF:-1,|FR| MUSEUM CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536591.m3u8
+#EXTINF:-1,|FR| MY CUISINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536593.m3u8
+#EXTINF:-1,|FR| TEVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536589.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536597.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536595.m3u8
+#EXTINF:-1,|FR| ELLE GIRLS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536598.m3u8
+#EXTINF:-1,|FR| ELLE GIRL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5726.m3u8
+#EXTINF:-1,|FR| NOVELAS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536592.m3u8
+#EXTINF:-1,|FR| BET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536599.m3u8
+#EXTINF:-1,|FR| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535696.m3u8
+#EXTINF:-1,|FR| A+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536588.m3u8
+#EXTINF:-1,|FR| NOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536587.m3u8
+#EXTINF:-1,|FR| CLIQUE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535685.m3u8
+#EXTINF:-1,|FR| KTO HAITI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575544438.m3u8
+#EXTINF:-1,|FR| VIVOLTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535666.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5721.m3u8
+#EXTINF:-1,|FR| RMC STORY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534620.m3u8
+#EXTINF:-1,|FR| VICELAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536594.m3u8
+#EXTINF:-1,|FR| VIA GRAND PARIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534628.m3u8
+#EXTINF:-1,|FR| DEMAIN ! IDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534626.m3u8
+#EXTINF:-1,|FR| GRAND LILLE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534629.m3u8
+#EXTINF:-1,|FR| MB LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534759.m3u8
+#EXTINF:-1,|FR| WEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534630.m3u8
+#EXTINF:-1,==== SPORTS ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527298.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536192.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536187.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536191.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527095.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536190.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527094.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536189.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527097.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536188.m3u8
+#EXTINF:-1,|FR| RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527096.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536186.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536185.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536184.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536183.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536182.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536181.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536180.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536179.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536178.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536177.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536176.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536175.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536174.m3u8
+#EXTINF:-1,|FR| beINSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527107.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536173.m3u8
+#EXTINF:-1,|FR| beINSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527106.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536172.m3u8
+#EXTINF:-1,|FR| beINSPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527105.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536171.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536170.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536169.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536168.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536167.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536166.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536165.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536164.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527104.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536157.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536156.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536155.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536154.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536153.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536152.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536158.m3u8
+#EXTINF:-1,|FR| FOOT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527090.m3u8
+#EXTINF:-1,|FR| ONZEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536151.m3u8
+#EXTINF:-1,|FR| INFOSPORT  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536163.m3u8
+#EXTINF:-1,|FR| INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527099.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536162.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527098.m3u8
+#EXTINF:-1,|FR| BFM SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527092.m3u8
+#EXTINF:-1,|FR| GIRONDINS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536149.m3u8
+#EXTINF:-1,|FR| OLTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536150.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536161.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527101.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536160.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527100.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527091.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527103.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536159.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527102.m3u8
+#EXTINF:-1,|FR| AUTOMOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536145.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536146.m3u8
+#EXTINF:-1,|FR| AEROSTAR TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536141.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536147.m3u8
+#EXTINF:-1,|FR| TRACE SPORT STARS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536148.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536144.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536143.m3u8
+#EXTINF:-1,|FR| MUSCULATION TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536140.m3u8
+#EXTINF:-1,==== DOCUMENTAIRES ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527069.m3u8
+#EXTINF:-1,|FR| NASA TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534761.m3u8
+#EXTINF:-1,|FR| ULTRA NATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534765.m3u8
+#EXTINF:-1,|FR| MYZEN TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536139.m3u8
+#EXTINF:-1,|FR| ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534754.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5742.m3u8
+#EXTINF:-1,|FR| CHASSE & PÊCHE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534752.m3u8
+#EXTINF:-1,|FR| CHASSE & PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5741.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5737.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534770.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5751.m3u8
+#EXTINF:-1,|FR| DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534768.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5753.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534769.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5754.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534766.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5752.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534767.m3u8
+#EXTINF:-1,|FR| HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534758.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5750.m3u8
+#EXTINF:-1,|FR| NAT GEO CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534763.m3u8
+#EXTINF:-1,|FR| NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5739.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534762.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5740.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534772.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5747.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534771.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5748.m3u8
+#EXTINF:-1,|FR| PLANETE+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534773.m3u8
+#EXTINF:-1,|FR| PLANETE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5749.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534619.m3u8
+#EXTINF:-1,|FR| RMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5720.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534760.m3u8
+#EXTINF:-1,|FR| SCIENCE & VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5745.m3u8
+#EXTINF:-1,|FR| SEASONS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534755.m3u8
+#EXTINF:-1,|FR| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5746.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534757.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5755.m3u8
+#EXTINF:-1,|FR| MY CUISINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534655.m3u8
+#EXTINF:-1,|FR| TREK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534756.m3u8
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5738.m3u8
+#EXTINF:-1,|FR| USHUAIA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534764.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5744.m3u8
+#EXTINF:-1,|FR| VOYAGE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534753.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5743.m3u8
+#EXTINF:-1,==== ENFANTS ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527070.m3u8
+#EXTINF:-1,|FR| LE PERE NOËL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535964.m3u8
+#EXTINF:-1,|FR| LIVE PEPPA PIG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535963.m3u8
+#EXTINF:-1,|FR| GAME ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535950.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5647.m3u8
+#EXTINF:-1,|FR| GAME ONE +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535949.m3u8
+#EXTINF:-1,|FR| BOING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535956.m3u8
+#EXTINF:-1,|FR| BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5642.m3u8
+#EXTINF:-1,|FR| BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535955.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5650.m3u8
+#EXTINF:-1,|FR| CANAL J FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535965.m3u8
+#EXTINF:-1,|FR| CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5648.m3u8
+#EXTINF:-1,|FR| PIWI+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535960.m3u8
+#EXTINF:-1,|FR| BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535962.m3u8
+#EXTINF:-1,|FR| BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5640.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535953.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5632.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535974.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5643.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535973.m3u8
+#EXTINF:-1,|FR| DISENEY CHANNEL +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5644.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535972.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5638.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535971.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5633.m3u8
+#EXTINF:-1,|FR| DISNEY XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535970.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5639.m3u8
+#EXTINF:-1,|FR| GONG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5635.m3u8
+#EXTINF:-1,|FR| GONG MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535948.m3u8
+#EXTINF:-1,|FR| GULLI  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535961.m3u8
+#EXTINF:-1,|FR| GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5628.m3u8
+#EXTINF:-1,|FR| J-ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535951.m3u8
+#EXTINF:-1,|FR| J ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5637.m3u8
+#EXTINF:-1,|FR| MANGAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535952.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5631.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535966.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5649.m3u8
+#EXTINF:-1,|FR| NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535969.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5651.m3u8
+#EXTINF:-1,|FR| NICKELODEON +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535968.m3u8
+#EXTINF:-1,|FR| NICK JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535967.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5634.m3u8
+#EXTINF:-1,|FR| PIWI+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5636.m3u8
+#EXTINF:-1,|FR| TELETOON+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535958.m3u8
+#EXTINF:-1,|FR| TELETOON+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5630.m3u8
+#EXTINF:-1,|FR| TELETOON +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535957.m3u8
+#EXTINF:-1,|FR| TIJI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535959.m3u8
+#EXTINF:-1,|FR| TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5645.m3u8
+#EXTINF:-1,|FR| TOONAMI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535954.m3u8
+#EXTINF:-1,|FR| TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5629.m3u8
+#EXTINF:-1,|FR| ZOUZOUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5641.m3u8
+#EXTINF:-1,==== MUSIC ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535928.m3u8
+#EXTINF:-1,|FR| M6 MUSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535677.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535694.m3u8
+#EXTINF:-1,|FR| C STAR HITS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575534622.m3u8
+#EXTINF:-1,|FR| NRJ HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5714.m3u8
+#EXTINF:-1,|FR| RFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/5707.m3u8
+#EXTINF:-1,|FR| MCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535687.m3u8
+#EXTINF:-1,|FR| MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535692.m3u8
+#EXTINF:-1,|FR| MCM TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535686.m3u8
+#EXTINF:-1,|FR| MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535691.m3u8
+#EXTINF:-1,|FR| MTV BASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535701.m3u8
+#EXTINF:-1,|FR| MTV DANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535700.m3u8
+#EXTINF:-1,|FR| MTV FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535689.m3u8
+#EXTINF:-1,|FR| MTV HITS FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535688.m3u8
+#EXTINF:-1,|FR| MTV MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535699.m3u8
+#EXTINF:-1,|FR| MTV PULSE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535698.m3u8
+#EXTINF:-1,|FR| NRJ HITS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535674.m3u8
+#EXTINF:-1,|FR| BRAVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535669.m3u8
+#EXTINF:-1,|FR| BRAVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535695.m3u8
+#EXTINF:-1,|FR| DJAZZ TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535670.m3u8
+#EXTINF:-1,|FR| MELODY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535671.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535668.m3u8
+#EXTINF:-1,|FR| OKLM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535676.m3u8
+#EXTINF:-1,|FR| ONE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535667.m3u8
+#EXTINF:-1,|FR| RFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535675.m3u8
+#EXTINF:-1,|FR| RFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535690.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535683.m3u8
+#EXTINF:-1,|FR| TRACE GOSPEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535681.m3u8
+#EXTINF:-1,|FR| TRACE MZIKI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535680.m3u8
+#EXTINF:-1,|FR| TRACE NAIJA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535679.m3u8
+#EXTINF:-1,|FR| TRACE TOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535678.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535682.m3u8
+#EXTINF:-1,|FR| TRACE URBAN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535684.m3u8
+#EXTINF:-1,|FR| TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535697.m3u8
+#EXTINF:-1,|FR| VH1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535673.m3u8
+#EXTINF:-1,|FR| VH1 CLASSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575535672.m3u8
+#EXTINF:-1,|FR| |FR| TF1 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542985.m3u8
+#EXTINF:-1,|FR| 6TER |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542949.m3u8
+#EXTINF:-1,|FR| ACTION |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542950.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542951.m3u8
+#EXTINF:-1,|FR| ARTE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542953.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542954.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542955.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542956.m3u8
+#EXTINF:-1,|FR| BFMTV |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542957.m3u8
+#EXTINF:-1,|FR| BOOMERANG |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542958.m3u8
+#EXTINF:-1,|FR| C8 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542959.m3u8
+#EXTINF:-1,|FR| CANAL |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542963.m3u8
+#EXTINF:-1,|FR| CANAL CINEMA |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542960.m3u8
+#EXTINF:-1,|FR| CANAL DECALE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542961.m3u8
+#EXTINF:-1,|FR| CANAL FAMILY |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542962.m3u8
+#EXTINF:-1,|FR| CANAL J |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542964.m3u8
+#EXTINF:-1,|FR| CANAL SERIES |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542965.m3u8
+#EXTINF:-1,|FR| CANAL SPORT |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542966.m3u8
+#EXTINF:-1,|FR| CARTOON N |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542967.m3u8
+#EXTINF:-1,|FR| CHASSE PECHE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542968.m3u8
+#EXTINF:-1,|FR| CINE CLASSIC |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542969.m3u8
+#EXTINF:-1,|FR| CINE EMOTION |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542970.m3u8
+#EXTINF:-1,|FR| CINE FAMIZ |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542971.m3u8
+#EXTINF:-1,|FR| CINE FRISSON |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542972.m3u8
+#EXTINF:-1,|FR| CINE PREMIER |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542973.m3u8
+#EXTINF:-1,|FR| CNEWS |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542974.m3u8
+#EXTINF:-1,|FR| CSTAR |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542975.m3u8
+#EXTINF:-1,|FR| dis iv |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542980.m3u8
+#EXTINF:-1,|FR| dis sc |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542981.m3u8
+#EXTINF:-1,|FR| discovery |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542977.m3u8
+#EXTINF:-1,|FR| discovery family |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542976.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542978.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542979.m3u8
+#EXTINF:-1,|FR| equidia |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542982.m3u8
+#EXTINF:-1,|FR| EUROSPORT |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542984.m3u8
+#EXTINF:-1,|FR| EUROSPORT2 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542983.m3u8
+#EXTINF:-1,|FR| FRANCE 2 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542991.m3u8
+#EXTINF:-1,|FR| FRANCE3 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542986.m3u8
+#EXTINF:-1,|FR| FRANCE4 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542987.m3u8
+#EXTINF:-1,|FR| FRANCE5 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542988.m3u8
+#EXTINF:-1,|FR| FRANCEINFO |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542989.m3u8
+#EXTINF:-1,|FR| FRANCEO |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542990.m3u8
+#EXTINF:-1,|FR| gameone |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542992.m3u8
+#EXTINF:-1,|FR| GULLI |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542993.m3u8
+#EXTINF:-1,|FR| L'EQUIPE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542994.m3u8
+#EXTINF:-1,|FR| LCI |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542995.m3u8
+#EXTINF:-1,|FR| M6 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542996.m3u8
+#EXTINF:-1,|FR| M6 MUSIC |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542997.m3u8
+#EXTINF:-1,|FR| MCM TOP |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542998.m3u8
+#EXTINF:-1,|FR| MY CUISINE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575542999.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543001.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO CHANNEL |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543000.m3u8
+#EXTINF:-1,|FR| NICK JUNIOR |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543004.m3u8
+#EXTINF:-1,|FR| NICKELODEON |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543003.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4TEEN |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543002.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543005.m3u8
+#EXTINF:-1,|FR| NRJ12 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543006.m3u8
+#EXTINF:-1,|FR| NUMERO2 3 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543007.m3u8
+#EXTINF:-1,|FR| OCS CHOC |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543008.m3u8
+#EXTINF:-1,|FR| OCS CITY |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543009.m3u8
+#EXTINF:-1,|FR| OCS GEANTS |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543010.m3u8
+#EXTINF:-1,|FR| OCS MAX |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543011.m3u8
+#EXTINF:-1,|FR| PLANETE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543014.m3u8
+#EXTINF:-1,|FR| PLANETE A&E |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543012.m3u8
+#EXTINF:-1,|FR| PLANETE CI |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543013.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543015.m3u8
+#EXTINF:-1,|FR| RMC SPORT1 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543016.m3u8
+#EXTINF:-1,|FR| RMC SPORT2 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543017.m3u8
+#EXTINF:-1,|FR| RMC SPORT3 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543018.m3u8
+#EXTINF:-1,|FR| RMC SPORT4 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543019.m3u8
+#EXTINF:-1,|FR| RMC STORY |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543020.m3u8
+#EXTINF:-1,|FR| SCIENCES&VIE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543021.m3u8
+#EXTINF:-1,|FR| SEASONS |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543022.m3u8
+#EXTINF:-1,|FR| TEVA |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543023.m3u8
+#EXTINF:-1,|FR| TF1 SERIESFILMS |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543024.m3u8
+#EXTINF:-1,|FR| TFX |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543025.m3u8
+#EXTINF:-1,|FR| TMC |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543026.m3u8
+#EXTINF:-1,|FR| ULTRA NATURE |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543027.m3u8
+#EXTINF:-1,|FR| USHUAIA |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543028.m3u8
+#EXTINF:-1,|FR| W9 |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543029.m3u8
+#EXTINF:-1,|FR| WARNER TV |HEVC|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575543030.m3u8
+#EXTINF:-1,==== BELGIQUE ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575527071.m3u8
+#EXTINF:-1,|BE| AB1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536634.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536633.m3u8
+#EXTINF:-1,|BE| BE CURIOUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536632.m3u8
+#EXTINF:-1,|BE| CANAL ALPHA JU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536631.m3u8
+#EXTINF:-1,|BE| STAR TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575536630.m3u8
+#EXTINF:-1,|BE| 192 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3993.m3u8
+#EXTINF:-1,|BE| 2BE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3992.m3u8
+#EXTINF:-1,|BE| AL ACHT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3991.m3u8
+#EXTINF:-1,|BE| CANVAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3990.m3u8
+#EXTINF:-1,|BE| CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3989.m3u8
+#EXTINF:-1,|BE| CINEMA KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3988.m3u8
+#EXTINF:-1,|BE| CLUB RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3987.m3u8
+#EXTINF:-1,|BE| AB EXPLORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/575541664.m3u8
+#EXTINF:-1,|BE| EEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3986.m3u8
+#EXTINF:-1,|BE| KADET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3985.m3u8
+#EXTINF:-1,|BE| KET OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3984.m3u8
+#EXTINF:-1,|BE| LA DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3983.m3u8
+#EXTINF:-1,|BE| LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3982.m3u8
+#EXTINF:-1,|BE| LA UNE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3981.m3u8
+#EXTINF:-1,|BE| MCS LIFESTYLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3980.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/503.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/345.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3979.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3978.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3977.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3976.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3975.m3u8
+#EXTINF:-1,|BE| Q2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3974.m3u8
+#EXTINF:-1,|BE| RTL PLUG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3973.m3u8
+#EXTINF:-1,|BE| RTL TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3972.m3u8
+#EXTINF:-1,|BE| RTL LUXEMBOURG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3971.m3u8
+#EXTINF:-1,|BE| TVL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3970.m3u8
+#EXTINF:-1,|BE| VIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3969.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3968.m3u8
+#EXTINF:-1,|BE| VOO SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3967.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3994.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3966.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3965.m3u8
+#EXTINF:-1,|BE| VTM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3964.m3u8
+#EXTINF:-1,|BE| VTM KZOOM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3963.m3u8
+#EXTINF:-1,|BE| ZES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/live/873974867/439074973/3962.m3u8

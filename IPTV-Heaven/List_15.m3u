@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,DE:ARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1360
+#EXTINF:-1,DE:ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1359
+#EXTINF:-1,DE:3 Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1361

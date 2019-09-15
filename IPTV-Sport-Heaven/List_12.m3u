@@ -1,21 +1,223 @@
 #EXTM3U
-#EXTINF:-1,AR: beINSPORT 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/773
-#EXTINF:-1,AR: beINSPORT 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/772
-#EXTINF:-1,AR: beINSPORT 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/771
-#EXTINF:-1,AR: beINSPORT 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/770
-#EXTINF:-1,AR: beINSPORT 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/769
-#EXTINF:-1,AR: beINSPORT 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/768
-#EXTINF:-1,AR: beINSPORT 07 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/767
-#EXTINF:-1,AR: beINSPORT 08 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/766
-#EXTINF:-1,AR: beINSPORT 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/764
-#EXTINF:-1,AR: beINSPORT 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/765
+#EXTINF:0,NL: Eurosport 1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/483
+#EXTINF:0,NL: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/482
+#EXTINF:0,NL: Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/484
+#EXTINF:0,NL: FOX Sports 1 FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/480
+#EXTINF:0,NL: Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/485
+#EXTINF:0,NL: FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/479
+#EXTINF:0,NL: Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/486
+#EXTINF:0,NL: Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/487
+#EXTINF:0,NL: Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/488
+#EXTINF:0,NL: Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/489
+#EXTINF:0,NL : Ziggo Sport Extra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/466
+#EXTINF:0,NL : Ziggo Sport Extra2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/467
+#EXTINF:0,NL : Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/468
+#EXTINF:0,NL : Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/469
+#EXTINF:0,NL : Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/470
+#EXTINF:0,NL : Ziggo Sport.Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/471
+#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4816
+#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4818
+#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4817
+#EXTINF:0,AR : OSN Alkass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1517
+#EXTINF:0,AR : OSN Alkass Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1518
+#EXTINF:0,AR : OSN Alkass Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1519
+#EXTINF:0,AR : OSN Alkass Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1520
+#EXTINF:0,AR : OSN Alkass Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1521
+#EXTINF:0,AR | beIN SPorts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/764
+#EXTINF:0,AR | beIN Sports 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/765
+#EXTINF:0,AR | beIN Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/766
+#EXTINF:0,AR | beIN Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/767
+#EXTINF:0,AR | beIN Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/768
+#EXTINF:0,AR | beIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/774
+#EXTINF:0,AR | beIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/775
+#EXTINF:0,AR | beIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/776
+#EXTINF:0,AR | beIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/777
+#EXTINF:0,AR | beIN Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/778
+#EXTINF:0,AR | beIN Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/779
+#EXTINF:0,AR | beIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/780
+#EXTINF:0,AR | beIN Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/781
+#EXTINF:0,AR: AD Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4680
+#EXTINF:0,AR: AD Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4681
+#EXTINF:0,AR: Dubai Racing 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1448
+#EXTINF:0,AR: Dubai Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1458
+#EXTINF:0,AR: Dubai Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1276
+#EXTINF:0,AR: Dubai Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1321
+#EXTINF:0,AR: OSN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4319
+#EXTINF:0,AR: OSN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1296
+#EXTINF:0,AR: OSN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1295
+#EXTINF:0,VIP: OSN Abu Dhabi Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1262
+#EXTINF:0,VIP: OSN Abu Dhabi Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1261
+#EXTINF:0,VIP: OSN Abu Dhabi Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1260
+#EXTINF:0,VIP: OSN Abu Dhabi Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4637
+#EXTINF:0,VIP AR: Bein NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/4654
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1336
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1335
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1334
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1332
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1331
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1330
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1329
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1328
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1327
+#EXTINF:0,VIP AR: BEIN SPORT HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1333
+#EXTINF:0,VIP AR: Bein Sport 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1417
+#EXTINF:0,AR: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5437
+#EXTINF:0,AR: beIN SPorts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5218
+#EXTINF:0,AR: beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5219
+#EXTINF:0,AR: beIN Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5220
+#EXTINF:0,AR: beIN Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5221
+#EXTINF:0,AR: beIN Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5222
+#EXTINF:0,AR: beIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5230
+#EXTINF:0,AR: beIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5231
+#EXTINF:0,AR: beIN Sport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5232
+#EXTINF:0,AR: beIN Sports HD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5233
+#EXTINF:0,AR: beIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5234
+#EXTINF:0,AR: beIN Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5235
+#EXTINF:0,AR: OSN Alkass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5178
+#EXTINF:0,AR: OSN Alkass Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5180
+#EXTINF:0,AR VIP: Bein Sport 10 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6671
+#EXTINF:0,AR VIP: Bein Sport 11 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6670
+#EXTINF:0,AR VIP: Bein Sport 12 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6669
+#EXTINF:0,AR VIP: Bein Sport 3 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6667
+#EXTINF:0,AR VIP: Bein Sport 4 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6666
+#EXTINF:0,AR VIP: Bein Sport 5 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6665
+#EXTINF:0,AR VIP: Bein Sport 6 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6664
+#EXTINF:0,AR VIP: beIN Sports MAX HD 1 (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6663
+#EXTINF:0,AR VIP: Bein Sport 8 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6662
+#EXTINF:0,AR VIP: Bein Sport 9 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6661
+#EXTINF:0,AR: AD Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6926
+#EXTINF:0,AR: Al Ahly Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6864
+#EXTINF:0,AR: Al Ahly Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/5748
+#EXTINF:0,AR: beIN Sports 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6923
+#EXTINF:0,AR: beIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6924
+#EXTINF:0,AR: beIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6925
+#EXTINF:0,IT | Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1666
+#EXTINF:0,IT | Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1667
+#EXTINF:0,IT | Premium Calcio 1*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1672
+#EXTINF:0,IT | Premium Calcio 2*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1673
+#EXTINF:0,IT | Premium Calcio 3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1674
+#EXTINF:0,IT | Premium Calcio 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1675
+#EXTINF:0,IT | Premium Calcio 5*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1676
+#EXTINF:0,IT | Sky Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1700
+#EXTINF:0,IT | Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1701
+#EXTINF:0,IT | Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1702
+#EXTINF:0,IT | Sky Sport1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1703
+#EXTINF:0,IT | Sky Sport2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1704
+#EXTINF:0,IT | Sky Sport3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/1705
+#EXTINF:0,IT: Sky Calcio 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/76
+#EXTINF:0,IT: Sky Calcio 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/77
+#EXTINF:0,IT: Sky Calcio 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/78
+#EXTINF:0,IT: Sky Calcio 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/80
+#EXTINF:0,IT: Sky Calcio 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/81
+#EXTINF:0,IT: Juventus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvnetwork.link:25461/sqs7C0Y5ad/A4p6H1exm0/6832

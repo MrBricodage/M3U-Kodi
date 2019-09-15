@@ -1,23 +1,307 @@
 #EXTM3U
-#EXTINF:-1,FR: 13EME RUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/746
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/747
-#EXTINF:-1,FR: FRANCE 24
-#EXTINF:-1,FR: Discovery Science_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/667
-#EXTINF:-1,FR: NATIONAL GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/669
-#EXTINF:-1,FR: NATIONAL GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.007iptv.com:2095/DITI/DITI/668
-#EXTINF:-1,|FR| BEINSPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.org:8789/Bzn3T@LzXwBzn3TP3U4Q7@GGv3m7qb9J/SZ1m8iR7v3Bzn3Tm7qbBzn3T9J@LrciES7D/41005
-#EXTINF:-1,|FR| BEINSPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.org:8789/Bzn3T@LzXwBzn3TP3U4Q7@GGv3m7qb9J/SZ1m8iR7v3Bzn3Tm7qbBzn3T9J@LrciES7D/41004
-#EXTINF:-1,|FR| FRANCE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.org:8789/Bzn3T@LzXwBzn3TP3U4Q7@GGv3m7qb9J/SZ1m8iR7v3Bzn3Tm7qbBzn3T9J@LrciES7D/41003
-#EXTINF:-1,|FR| RMC SPORT 1FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.org:8789/Bzn3T@LzXwBzn3TP3U4Q7@GGv3m7qb9J/SZ1m8iR7v3Bzn3Tm7qbBzn3T9J@LrciES7D/41001
-#EXTINF:-1,|FR| RMC SPORT 2FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.org:8789/Bzn3T@LzXwBzn3TP3U4Q7@GGv3m7qb9J/SZ1m8iR7v3Bzn3Tm7qbBzn3T9J@LrciES7D/41000
-#EXTINF:-1,FR:France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
+#EXTINF:-1,Fr: BeIN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/137
+#EXTINF:-1,Fr: BeIN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/138
+#EXTINF:-1,Fr: BeIN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/3912
+#EXTINF:-1,Fr: RMC Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21890
+#EXTINF:-1,Fr: RMC Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21891
+#EXTINF:-1,Fr: RMC Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21892
+#EXTINF:-1,Fr: RMC Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21893
+#EXTINF:-1,Fr: Sfr Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4005
+#EXTINF:-1,Fr: Sfr Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4006
+#EXTINF:-1,Fr: Sfr Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6976
+#EXTINF:-1,Fr: EuroSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6981
+#EXTINF:-1,Fr: EuroSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6982
+#EXTINF:-1,Fr: Info Sport +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10173
+#EXTINF:-1,Fr: Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6984
+#EXTINF:-1,Fr: Foot+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2092
+#EXTINF:-1,Fr: Equidia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10174
+#EXTINF:-1,Fr: MotorSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21869
+#EXTINF:-1,Fr: France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/41
+#EXTINF:-1,Fr: France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/42
+#EXTINF:-1,Fr: France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/43
+#EXTINF:-1,Fr: France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/44
+#EXTINF:-1,Fr: France O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/49
+#EXTINF:-1,Fr: AB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/9993
+#EXTINF:-1,Fr: AB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/997
+#EXTINF:-1,Fr: AB Moteurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4017
+#EXTINF:-1,Fr: C 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4018
+#EXTINF:-1,Fr: Arte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/52
+#EXTINF:-1,Fr: Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/50
+#EXTINF:-1,Fr: 13 EmeRue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4015
+#EXTINF:-1,Fr: 6 Ter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6975
+#EXTINF:-1,Fr: Lcp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10176
+#EXTINF:-1,Fr: M 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/45
+#EXTINF:-1,Fr: M6 Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21870
+#EXTINF:-1,Fr: M6 Boutique
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21852
+#EXTINF:-1,Fr: Nt 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4020
+#EXTINF:-1,Fr: Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/628
+#EXTINF:-1,Fr: Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2094
+#EXTINF:-1,Fr: TF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/40
+#EXTINF:-1,Fr: Tmc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2097
+#EXTINF:-1,Fr: W 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/993
+#EXTINF:-1,Fr: RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/996
+#EXTINF:-1,Fr: HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/9790
+#EXTINF:-1,Fr: NrJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4019
+#EXTINF:-1,Fr: Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1497
+#EXTINF:-1,Fr: Tv Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4025
+#EXTINF:-1,Fr: Cherie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4023
+#EXTINF:-1,Fr: Serie Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1453
+#EXTINF:-1,Fr: LEquipe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/48
+#EXTINF:-1,Fr: Numero 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4024
+#EXTINF:-1,Fr: Tcm Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6583
+#EXTINF:-1,Fr: Chasse & Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/995
+#EXTINF:-1,Fr: Disney Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6582
+#EXTINF:-1,Fr: E!ntertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4022
+#EXTINF:-1,Fr: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2098
+#EXTINF:-1,Fr: Paramount Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21839
+#EXTINF:-1,Fr: Paris Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4016
+#EXTINF:-1,Fr: C News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21834
+#EXTINF:-1,Fr: France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10175
+#EXTINF:-1,Fr: Euro News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10178
+#EXTINF:-1,Fr: Tv5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/10177
+#EXTINF:-1,Fr: I-24 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21882
+#EXTINF:-1,Fr: RT France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21843
+#EXTINF:-1,Fr: C star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4021
+#EXTINF:-1,Fr: Canal+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/720
+#EXTINF:-1,Fr: Canal+ Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1043
+#EXTINF:-1,Fr: Canal+ Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1044
+#EXTINF:-1,Fr: Canal+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1046
+#EXTINF:-1,Fr: Canal+ Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1047
+#EXTINF:-1,Fr: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1045
+#EXTINF:-1,Fr: Canal+ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1049
+#EXTINF:-1,Fr: Cine Fx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4010
+#EXTINF:-1,Fr: Cine+ Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4007
+#EXTINF:-1,Fr: Cine+Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4008
+#EXTINF:-1,Fr: Cine Polar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4009
+#EXTINF:-1,Fr: Cine+ Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1048
+#EXTINF:-1,Fr: Cine+ Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/998
+#EXTINF:-1,Fr: Cine+ Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21840
+#EXTINF:-1,Fr: Ocs Choc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4013
+#EXTINF:-1,Fr: Ocs City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4014
+#EXTINF:-1,Fr: Ocs Geant
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4012
+#EXTINF:-1,Fr: Ocs Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4011
+#EXTINF:-1,Fr: Comedie+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/994
+#EXTINF:-1,Fr: Bfm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21833
+#EXTINF:-1,Fr: Bfm Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21871
+#EXTINF:-1,Fr: Piwi+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2093
+#EXTINF:-1,Fr: Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/47
+#EXTINF:-1,Fr: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6980
+#EXTINF:-1,Fr: Canal J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21854
+#EXTINF:-1,Fr: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/4004
+#EXTINF:-1,Fr: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21861
+#EXTINF:-1,Fr: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21862
+#EXTINF:-1,Fr: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/629
+#EXTINF:-1,Fr: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6581
+#EXTINF:-1,Fr: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21858
+#EXTINF:-1,Fr: Nickelodeon Teen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21859
+#EXTINF:-1,Fr: TeleToon+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21856
+#EXTINF:-1,Fr: L'histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2096
+#EXTINF:-1,Fr: Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21842
+#EXTINF:-1,Fr: Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1501
+#EXTINF:-1,Fr: Discovery SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/2095
+#EXTINF:-1,Fr: Discovery ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21850
+#EXTINF:-1,Fr: National Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1500
+#EXTINF:-1,Fr: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1499
+#EXTINF:-1,Fr: Planet+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1502
+#EXTINF:-1,Fr: Planet+ AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1503
+#EXTINF:-1,Fr: Planet+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/1504
+#EXTINF:-1,Fr: A La Carte 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6578
+#EXTINF:-1,Fr: A La Carte 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6577
+#EXTINF:-1,Fr: A La Carte 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6576
+#EXTINF:-1,Fr: A La Carte 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6575
+#EXTINF:-1,Fr: A La Carte 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6574
+#EXTINF:-1,Fr: A La Carte 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6573
+#EXTINF:-1,Fr: A La Carte 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6572
+#EXTINF:-1,Fr: A La Carte 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6571
+#EXTINF:-1,Fr: A La Carte 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6570
+#EXTINF:-1,Fr: A La Carte 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/6569
+#EXTINF:-1,Fr: Alsace 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21884
+#EXTINF:-1,Fr: Altice Studio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21841
+#EXTINF:-1,Fr: Astrocenter Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21889
+#EXTINF:-1,Fr: Brava
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21877
+#EXTINF:-1,Fr: Crime District
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21846
+#EXTINF:-1,Fr: France Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21838
+#EXTINF:-1,Fr: Francophonie 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21883
+#EXTINF:-1,Fr: Game One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21857
+#EXTINF:-1,Fr: Ginx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21868
+#EXTINF:-1,Fr: Gong
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21866
+#EXTINF:-1,Fr: IL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21887
+#EXTINF:-1,Fr: J-One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21867
+#EXTINF:-1,Fr: Kto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21885
+#EXTINF:-1,Fr: La Chaine Normandie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21888
+#EXTINF:-1,Fr: LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21837
+#EXTINF:-1,Fr: Lucky Jack
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21886
+#EXTINF:-1,Fr: Luxe Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21853
+#EXTINF:-1,Fr: Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21860
+#EXTINF:-1,Fr: OL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21894
+#EXTINF:-1,Fr: Qvc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21851
+#EXTINF:-1,Fr: RMC Decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21836
+#EXTINF:-1,Fr: Science ET Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21849
+#EXTINF:-1,Fr: Seasons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21847
+#EXTINF:-1,Fr: Tfx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21832
+#EXTINF:-1,Fr: Tiji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21855
+#EXTINF:-1,Fr: TF Series Films
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21835
+#EXTINF:-1,Fr: Toonami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21864
+#EXTINF:-1,Fr: Trek
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21844
+#EXTINF:-1,Fr: Ushuaia Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21845
+#EXTINF:-1,Fr: Vivolta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21865
+#EXTINF:-1,Fr: Voyage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21848
+#EXTINF:-1,Fr: Weo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21881
+#EXTINF:-1,Fr: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21872
+#EXTINF:-1,Fr: NrJ Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21876
+#EXTINF:-1,Fr: Trace Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21875
+#EXTINF:-1,Fr: Trace Tropical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21874
+#EXTINF:-1,Fr: Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4ever.biz:80/AV7q/1xnzi17EKn/21873

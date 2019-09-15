@@ -1,25 +1,573 @@
 #EXTM3U
-#EXTINF:-1,beIN- Bein Sport-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2341
-#EXTINF:-1,beIN- Bein Sport-10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2332
-#EXTINF:-1,beIN- Bein Sport-11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2331
-#EXTINF:-1,beIN- Bein Sport-12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2330
-#EXTINF:-1,beIN- Bein Sport-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2340
-#EXTINF:-1,beIN- Bein Sport-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2339
-#EXTINF:-1,beIN- Bein Sport-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2338
-#EXTINF:-1,beIN- Bein Sport-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2337
-#EXTINF:-1,beIN- Bein Sport-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2336
-#EXTINF:-1,beIN- Bein Sport-7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2335
-#EXTINF:-1,beIN- Bein Sport-8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2334
-#EXTINF:-1,beIN- Bein Sport-9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prismplus.cf:5678/KevinCarton/Fwlas0I76D/2333
+#EXTINF:0,|AR| KSA SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1250
+#EXTINF:0,|AR| KSA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/48240
+#EXTINF:0,|AR| KSA SPORTS PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/48241
+#EXTINF:0,|AR| KSA SPORTS PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/48242
+#EXTINF:0,|AR| ON TV SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2154
+#EXTINF:0,|AR| ON TV SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3927
+#EXTINF:0,|AR| DMC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2964
+#EXTINF:0,|AR| AL AHLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3915
+#EXTINF:0,|AR| DUBAI SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1280
+#EXTINF:0,|AR| YAS SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2190
+#EXTINF:0,|AR| DUBAI RACING 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1283
+#EXTINF:0,|AR| DUBAI RACING 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1284
+#EXTINF:0,|AR| DUBAI RACING 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1285
+#EXTINF:0,|AR| ABU DHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3883
+#EXTINF:0,|AR| ABU DHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1859
+#EXTINF:0,|AR| BAHRAIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3596
+#EXTINF:0,|AR| BAHRAIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3597
+#EXTINF:0,|AR| 4K - BEIN  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28573
+#EXTINF:0,|AR| 4K - BEIN SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28572
+#EXTINF:0,|AR| 4K - BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28571
+#EXTINF:0,|AR| 4K - BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28570
+#EXTINF:0,|AR| 4K - BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28569
+#EXTINF:0,|AR| 4K - BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28568
+#EXTINF:0,|AR| 4K - BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28567
+#EXTINF:0,|AR| 4K - BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28566
+#EXTINF:0,|AR| 4K - BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28565
+#EXTINF:0,|AR| 4K - BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28564
+#EXTINF:0,|AR| 4K - BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28562
+#EXTINF:0,|AR| 4K - BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28563
+#EXTINF:0,|AR| 4K - BEIN SPORTS 11 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28561
+#EXTINF:0,|AR| 4K - BEIN SPORTS 12 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28560
+#EXTINF:0,|AR| 4K - BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28559
+#EXTINF:0,|AR| 4K - BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28558
+#EXTINF:0,|AR| 4K - BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28557
+#EXTINF:0,|AR| 4K - BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28556
+#EXTINF:0,|AR| 4K - BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/28554
+#EXTINF:0,|AR| SD - BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97215
+#EXTINF:0,|AR| SD - BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97214
+#EXTINF:0,|AR| SD - BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97213
+#EXTINF:0,|AR| SD - BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97212
+#EXTINF:0,|AR| SD - BEIN SPORTS 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97211
+#EXTINF:0,|AR| SD - BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97210
+#EXTINF:0,|AR| SD - BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97209
+#EXTINF:0,|AR| SD - BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97208
+#EXTINF:0,|AR| SD - BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97207
+#EXTINF:0,|AR| SD - BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97206
+#EXTINF:0,|AR| SD - BEIN SPORTS 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97205
+#EXTINF:0,|AR| SD - BEIN SPORTS 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97204
+#EXTINF:0,|AR| SD - BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97203
+#EXTINF:0,|AR| SD - BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97202
+#EXTINF:0,|AR| SD - BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97201
+#EXTINF:0,|AR| SD - BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97200
+#EXTINF:0,|AR| SD - BEIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97199
+#EXTINF:0,|AR| BEIN SPORTS 1 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51278
+#EXTINF:0,|AR| BEIN SPORTS 2 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51277
+#EXTINF:0,|AR| BEIN SPORTS 3 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51276
+#EXTINF:0,|AR| BEIN SPORTS 4 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51275
+#EXTINF:0,|AR| BEIN SPORTS 5 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51274
+#EXTINF:0,|AR| BEIN SPORTS 6 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51273
+#EXTINF:0,|AR| BEIN SPORTS 7 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51272
+#EXTINF:0,|AR| BEIN SPORTS 8 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51271
+#EXTINF:0,|AR| BEIN SPORTS 9 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51270
+#EXTINF:0,|AR| BEIN SPORTS 10 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/51269
+#EXTINF:0,|AR| BEIN SPORTS 11 | UHD+ EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97839
+#EXTINF:0,|AR| BEIN SPORTS 12 | UHD+ EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97840
+#EXTINF:0,|AR| BEIN SPORTS 13 | UHD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97841
+#EXTINF:0,|AR| ALKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/69428
+#EXTINF:0,|AR| ALKASS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/69425
+#EXTINF:0,|AR| ALKASS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/69422
+#EXTINF:0,|AR| ABUDHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41691
+#EXTINF:0,|AR| ABUDHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41690
+#EXTINF:0,|AR| ABUDHABI SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41689
+#EXTINF:0,|AR| ABUDHABI SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41688
+#EXTINF:0,|AR| ABUDHABI SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41687
+#EXTINF:0,|AR| ABUDHABI SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/41686
+#EXTINF:0,|NL| FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2956
+#EXTINF:0,|NL| FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/776
+#EXTINF:0,|NL| FOX SPORTS 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/777
+#EXTINF:0,|NL| FOX SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/778
+#EXTINF:0,|NL| FOX SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/779
+#EXTINF:0,|NL| FOX SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/780
+#EXTINF:0,|NL| ZIGGO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3336
+#EXTINF:0,|NL| ZIGGO SPORT VOETBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/771
+#EXTINF:0,|NL| ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/770
+#EXTINF:0,|NL| ZIGGO SPORT RACING 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1450
+#EXTINF:0,|NL| ZIGGO SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/769
+#EXTINF:0,|NL| ZIGGO SPORT EXTRA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2666
+#EXTINF:0,|NL| ZIGGO SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2667
+#EXTINF:0,|NL| EXTREME SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3346
+#EXTINF:0,|NL| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/768
+#EXTINF:0,|NL| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/2646
+#EXTINF:0,|NL| WWE HD 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98145
+#EXTINF:0,|NL| UFC 24/7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98147
+#EXTINF:0,|NL| BOXNATION HD 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98146
+#EXTINF:0,|NL|HEVC| FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10439
+#EXTINF:0,|NL|HEVC| FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10440
+#EXTINF:0,|NL|HEVC| FOX SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10441
+#EXTINF:0,|NL|HEVC| FOX SPORTS 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10442
+#EXTINF:0,|NL|HEVC| FOX SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10443
+#EXTINF:0,|NL|HEVC| FOX SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10444
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10602
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT VOETBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10592
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10593
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT RACING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10594
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10523
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT EXTRA 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/15523
+#EXTINF:0,|NL|HEVC| ZIGGO SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/15522
+#EXTINF:0,|NL|HEVC| EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/15520
+#EXTINF:0,|NL|HEVC| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10608
+#EXTINF:0,|NL|HEVC| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/10530
+#EXTINF:0,|UK| HD SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72654
+#EXTINF:0,|UK| HD SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72653
+#EXTINF:0,|UK| HD SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/88131
+#EXTINF:0,|UK| HD SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72656
+#EXTINF:0,|UK| HD SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72658
+#EXTINF:0,|UK| HD SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72661
+#EXTINF:0,|UK| HD SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72660
+#EXTINF:0,|UK| HD SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72659
+#EXTINF:0,|UK| HD SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72657
+#EXTINF:0,|UK| HD SKY SPORTS RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72652
+#EXTINF:0,|UK| HD SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72665
+#EXTINF:0,|UK| CELTIC.FC HD (ONLY DURING LIVE MATCHES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/89494
+#EXTINF:0,##### |UK| SKY SPORTS |SD| #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/72662
+#EXTINF:0,|UK| SD SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46409
+#EXTINF:0,|UK| SD SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46401
+#EXTINF:0,|UK| SD SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46408
+#EXTINF:0,|UK| SD SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46402
+#EXTINF:0,|UK| SD SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46404
+#EXTINF:0,|UK| SD SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46407
+#EXTINF:0,|UK| SD SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46406
+#EXTINF:0,|UK| SD SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46405
+#EXTINF:0,|UK| SD SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46403
+#EXTINF:0,|UK| FHD SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18038
+#EXTINF:0,|UK| FHD SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18045
+#EXTINF:0,|UK| FHD SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18039
+#EXTINF:0,|UK| FHD SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18041
+#EXTINF:0,|UK| FHD SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18044
+#EXTINF:0,|UK| FHD SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18043
+#EXTINF:0,|UK| FHD SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18042
+#EXTINF:0,|UK| FHD SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18040
+#EXTINF:0,|UK| BT SPORTS ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18034
+#EXTINF:0,|UK| BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/35991
+#EXTINF:0,|UK| BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/35992
+#EXTINF:0,|UK| BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/35993
+#EXTINF:0,|UK| BT SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18033
+#EXTINF:0,|UK| BT SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18032
+#EXTINF:0,|UK| BT SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18031
+#EXTINF:0,|UK| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/73125
+#EXTINF:0,|UK| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/73126
+#EXTINF:0,|UK| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46741
+#EXTINF:0,|UK| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46740
+#EXTINF:0,|UK| BOXNATION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18035
+#EXTINF:0,|UK| MUTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18027
+#EXTINF:0,|UK| EUROSPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18029
+#EXTINF:0,|UK| EUROSPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18028
+#EXTINF:0,|UK| PREMIER SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18026
+#EXTINF:0,|UK| PREMIER SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98110
+#EXTINF:0,|UK| RACING UK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/18030
+#EXTINF:0,|UK| CHELSEA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/97166
+#EXTINF:0,|UK| BEIN SPORTS 11 | UHD+ EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98143
+#EXTINF:0,|UK| BEIN SPORTS 12 | UHD+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/98144
+#EXTINF:0,|UK| SHEFFIELD STEELERS TV (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46476
+#EXTINF:0,|UK| PDC DARTS (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46446
+#EXTINF:0,|UK| 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46413
+#EXTINF:0,|UK| BT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46422
+#EXTINF:0,|UK| BT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46421
+#EXTINF:0,|UK| BT SPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46420
+#EXTINF:0,|UK| BT SPORTS EXTRA 1 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46419
+#EXTINF:0,|UK| BT SPORTS EXTRA 2 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46418
+#EXTINF:0,|UK| BT SPORTS EXTRA 3 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46417
+#EXTINF:0,|UK| BT SPORTS EXTRA 4 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46416
+#EXTINF:0,|UK| BT SPORTS EXTRA 5 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46415
+#EXTINF:0,|UK| BT SPORTS EXTRA 6 (ONLY MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46414
+#EXTINF:0,|UK| PREMIER SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46400
+#EXTINF:0,|UK| PREMIER SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46399
+#EXTINF:0,|UK| EUROSPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46412
+#EXTINF:0,|UK| EUROSPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46411
+#EXTINF:0,|UK| LIVERPOOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/42890
+#EXTINF:0,|UK| LFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46485
+#EXTINF:0,|UK| FREESPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46410
+#EXTINF:0,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1419
+#EXTINF:0,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1420
+#EXTINF:0,|FR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1421
+#EXTINF:0,|FR| BEIN SPORT MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19820
+#EXTINF:0,|FR| BEIN SPORT MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19819
+#EXTINF:0,|FR| BEIN SPORT MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19818
+#EXTINF:0,|FR| BEIN SPORT MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19817
+#EXTINF:0,|FR| BEIN SPORT MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19816
+#EXTINF:0,|FR| BEIN SPORT MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19815
+#EXTINF:0,|FR| BEIN SPORT MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19814
+#EXTINF:0,|FR| EUROSPORT 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/1418
+#EXTINF:0,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/144
+#EXTINF:0,|FR| RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46754
+#EXTINF:0,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46763
+#EXTINF:0,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46764
+#EXTINF:0,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46765
+#EXTINF:0,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46766
+#EXTINF:0,|FR| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95503
+#EXTINF:0,|FR| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95502
+#EXTINF:0,|FR| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95501
+#EXTINF:0,|FR| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95500
+#EXTINF:0,|FR| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95499
+#EXTINF:0,|FR| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95488
+#EXTINF:0,|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95493
+#EXTINF:0,|FR| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95505
+#EXTINF:0,|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95492
+#EXTINF:0,|FR| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95504
+#EXTINF:0,|FR| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95487
+#EXTINF:0,|FR| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95512
+#EXTINF:0,|FR| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95511
+#EXTINF:0,|FR| MULTI SPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95510
+#EXTINF:0,|FR| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95509
+#EXTINF:0,|FR| MULTI SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95508
+#EXTINF:0,|FR| MULTI SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95507
+#EXTINF:0,|FR| FOOT+ 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/127
+#EXTINF:0,|FR| INFOSPORT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/142
+#EXTINF:0,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/112
+#EXTINF:0,|FR| EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3023
+#EXTINF:0,|FR| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/83476
+#EXTINF:0,|FR| MOTORSPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/19811
+#EXTINF:0,|FR| AUTO MOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95485
+#EXTINF:0,|FR| GAMEONE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95513
+#EXTINF:0,|FR|HEVC| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95149
+#EXTINF:0,|FR|HEVC| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95148
+#EXTINF:0,|FR|HEVC| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95147
+#EXTINF:0,|FR|HEVC| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95157
+#EXTINF:0,|FR|HEVC| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95022
+#EXTINF:0,|FR|HEVC| RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95076
+#EXTINF:0,|FR|HEVC| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95125
+#EXTINF:0,|FR|HEVC| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95124
+#EXTINF:0,|FR|HEVC| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95123
+#EXTINF:0,|FR|HEVC| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95122
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95119
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95118
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95117
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95116
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95115
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95057
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95078
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95121
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95077
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95120
+#EXTINF:0,|FR|HEVC| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95056
+#EXTINF:0,|FR|HEVC| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95136
+#EXTINF:0,|FR|HEVC| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95135
+#EXTINF:0,|FR|HEVC| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95133
+#EXTINF:0,|FR|HEVC| MULTIS PORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95134
+#EXTINF:0,|FR|HEVC| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95132
+#EXTINF:0,|FR|HEVC| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95131
+#EXTINF:0,|FR|HEVC| FOOT+ 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95156
+#EXTINF:0,|FR|HEVC| INFO SPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95040
+#EXTINF:0,|FR|HEVC| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95021
+#EXTINF:0,|FR|HEVC| EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95169
+#EXTINF:0,|FR|HEVC| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95138
+#EXTINF:0,|FR|HEVC| MOTORSPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/94996
+#EXTINF:0,|FR|HEVC| AUTO MOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95044
+#EXTINF:0,|FR|HEVC| GAMEONE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/95139
+#EXTINF:0,|BG| DIEMA SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/27783
+#EXTINF:0,|BG| DIEMA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/27715
+#EXTINF:0,|BG| MAX SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/88036
+#EXTINF:0,|BG| MAX SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/88035
+#EXTINF:0,|BG| MAX SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/88034
+#EXTINF:0,|TR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3362
+#EXTINF:0,|TR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3361
+#EXTINF:0,|TR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3360
+#EXTINF:0,|TR| BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3359
+#EXTINF:0,|TR| BEIN SPORT 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3557
+#EXTINF:0,|TR| BEIN SPORT 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3558
+#EXTINF:0,|TR| BEIN SPORT 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3559
+#EXTINF:0,|TR| BEIN SPORT 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3560
+#EXTINF:0,|TR| BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3825
+#EXTINF:0,|TR| BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3826
+#EXTINF:0,|TR| BEIN SPORTS HABER HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3468
+#EXTINF:0,|TR| SPOR SMART HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3354
+#EXTINF:0,|TR| SPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3466
+#EXTINF:0,|TR| SARAN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46549
+#EXTINF:0,|TR| TIVIBU SPOR HD PLUS.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/46745
+#EXTINF:0,|TR| TIVIBU SPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3358
+#EXTINF:0,|TR| TIVIBU SPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3357
+#EXTINF:0,|TR| TIVIBU SPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3356
+#EXTINF:0,|TR| TAY TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3464
+#EXTINF:0,|TR| TRT SPOR HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3467
+#EXTINF:0,|TR| A SPOR HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3469
+#EXTINF:0,|TR| GS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/37235
+#EXTINF:0,|TR| FB TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/3465
+#EXTINF:0,|TR| BJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mag.cobra-group.media:80/4082QfSwAK/ZDvjfCCJlg/37236
