@@ -837,7 +837,7 @@
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>href=.*[",'](.*WSSv2.3\/wssbtsportespn.*?)[",']</expres>
+<expres>href=.*[",'](.*WSSv2.3/wssbtsportespn.*?)[",']</expres>
 <page>http://wssfree.com/WSSv2.3/</page>
 <referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
@@ -855,13 +855,13 @@
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
-<expres>href=.*[",'](.*\/canal\+\/playlist.*?)[",']</expres>
+<expres>href=.*[",'](.*/canal\+/playlist.*?)[",']</expres>
 <page>$doregex[get_sxstream1]</page>
 <referer>$doregex[get_sxstream1]</referer>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>href=.*[",'](.*WSSv2.3\/wsscanal+.*?)[",']</expres>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal\+.*?)[",']</expres>
 <page>http://wssfree.com/WSSv2.3/</page>
 <referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
