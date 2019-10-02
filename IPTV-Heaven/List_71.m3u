@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,TURK
+https://1137653189.rsc.cdn77.org/LS-PRG-62266-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Premiere-Clubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.106.234:8080/Premiere-Clubes/tracks-v1a1/mono.m3u8
+#EXTINF:-1,5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel512/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel588/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CartoonNetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.106.234:8080//CartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
+#EXTINF:-1,YKPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/1011/index.m3u8
+#EXTINF:-1,1music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.249.129.152/stream/1music.m3u8
+#EXTINF:-1,star_movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,huyalive
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1,43Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8

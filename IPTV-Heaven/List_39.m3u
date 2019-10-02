@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,AHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.180.99.15:81/udp/239.255.42.95:1234
+#EXTINF:-1,+12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://158.46.111.177:81/udp/239.255.42.45:1234
+#EXTINF:-1,KCN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.200.102.3:5000/udp/239.0.0.2:5000
+#EXTINF:-1,BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV6707@800
+#EXTINF:-1,RU MATCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.11:2010
+#EXTINF:-1,MY MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3689
+#EXTINF:-1,2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3689
+#EXTINF:-1,CH 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3690
+#EXTINF:-1,CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.60/TV1111
+#EXTINF:-1,POLISHOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.60/TV3204
+#EXTINF:-1,TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV2812
+#EXTINF:-1,NDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV0633
+#EXTINF:-1,HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV0687
+#EXTINF:-1,1 US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV0692
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV0691
+#EXTINF:-1,DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV1948
+#EXTINF:-1,H MSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV1947
+#EXTINF:-1,SONY TEN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV1946
+#EXTINF:-1,TBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV2804
+#EXTINF:-1,R MARDK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV2802
+#EXTINF:-1,CHINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV2803
+#EXTINF:-1,HANK PARKER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3608
+#EXTINF:-1,FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV8904
+#EXTINF:-1,DISNEY 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV77130
+#EXTINF:-1,K TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV1951
+#EXTINF:-1,C MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV0688

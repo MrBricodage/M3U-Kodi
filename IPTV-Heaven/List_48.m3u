@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/TV5KH.m3u8
+#EXTINF:-1,TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/TV3KH.m3u8
+#EXTINF:-1,TV9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/TV9KH.m3u8
+#EXTINF:-1,CNC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/CNCKH.m3u8
+#EXTINF:-1,CTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/CTNKH.m3u8
+#EXTINF:-1,myTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/MyTVKH.m3u8

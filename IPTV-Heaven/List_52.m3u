@@ -1,0 +1,539 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/47.ts
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/45.ts
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/43.ts
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/41.ts
+#EXTINF:-1,RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/46.ts
+#EXTINF:-1,RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/44.ts
+#EXTINF:-1,SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/42.ts
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/40.ts
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/25.ts
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/27.ts
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/35.ts
+#EXTINF:-1,PORTO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/36.ts
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/37.ts
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/32.ts
+#EXTINF:-1,SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/28.ts
+#EXTINF:-1,SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/29.ts
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/26.ts
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/38.ts
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/30.ts
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/33.ts
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/31.ts
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/34.ts
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/23.ts
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/24.ts
+#EXTINF:-1,TV RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/2.ts
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/16.ts
+#EXTINF:-1,GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/15.ts
+#EXTINF:-1,ABOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/89.ts
+#EXTINF:-1,CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/17.ts
+#EXTINF:-1,SPORTV + FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/13.ts
+#EXTINF:-1,SPORTV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/14.ts
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/3.ts
+#EXTINF:-1,SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/12.ts
+#EXTINF:-1,SPORTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/11.ts
+#EXTINF:-1,SPORTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/10.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/9.ts
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/8.ts
+#EXTINF:-1,SPORTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/7.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/6.ts
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/5.ts
+#EXTINF:-1,SPORTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/4.ts
+#EXTINF:-1,SPORTV 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/92.ts
+#EXTINF:-1,SPORTV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/91.ts
+#EXTINF:-1,SPORTV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/90.ts
+#EXTINF:-1,SPORTV 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/95.ts
+#EXTINF:-1,SPORTV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/94.ts
+#EXTINF:-1,SPORTV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/93.ts
+#EXTINF:-1,SPORTV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/60.ts
+#EXTINF:-1,BTV 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/88.ts
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/87.ts
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/86.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/85.ts
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/84.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/83.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/82.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/81.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/80.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/79.ts
+#EXTINF:-1,ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/78.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/77.ts
+#EXTINF:-1,ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/76.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/75.ts
+#EXTINF:-1,ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/74.ts
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/63.ts
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/61.ts
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/62.ts
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/70.ts
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/69.ts
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/65.ts
+#EXTINF:-1,FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/67.ts
+#EXTINF:-1,FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/68.ts
+#EXTINF:-1,KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/66.ts
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/72.ts
+#EXTINF:-1,CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/73.ts
+#EXTINF:-1,OUTDOOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/64.ts
+#EXTINF:-1,TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/59.ts
+#EXTINF:-1,DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/71.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/179.ts
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/178.ts
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/166.ts
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/186.ts
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/164.ts
+#EXTINF:-1,BOOMRANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/188.ts
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/172.ts
+#EXTINF:-1,NICKELODEAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/165.ts
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/184.ts
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/152.ts
+#EXTINF:-1,TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/150.ts
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/191.ts
+#EXTINF:-1,TVCINE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/58.ts
+#EXTINF:-1,TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/57.ts
+#EXTINF:-1,TVCINE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/56.ts
+#EXTINF:-1,TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/55.ts
+#EXTINF:-1,TVCINE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/54.ts
+#EXTINF:-1,TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/53.ts
+#EXTINF:-1,TVCINE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/52.ts
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/51.ts
+#EXTINF:-1,TVSERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/110.ts
+#EXTINF:-1,NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/115.ts
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/120.ts
+#EXTINF:-1,EUROCHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/127.ts
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/132.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/139.ts
+#EXTINF:-1,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/121.ts
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/113.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/137.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/136.ts
+#EXTINF:-1,AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/138.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/123.ts
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/122.ts
+#EXTINF:-1,FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/125.ts
+#EXTINF:-1,FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/124.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/119.ts
+#EXTINF:-1,CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/131.ts
+#EXTINF:-1,CANAL HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/134.ts
+#EXTINF:-1,ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/114.ts
+#EXTINF:-1,NAT GEOGRAFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/116.ts
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/117.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/130.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/129.ts
+#EXTINF:-1,FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/108.ts
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/112.ts
+#EXTINF:-1,FINE LIVING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/109.ts
+#EXTINF:-1,TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/111.ts
+#EXTINF:-1,E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/128.ts
+#EXTINF:-1,CBS REALTY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/133.ts
+#EXTINF:-1,BLAZE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/135.ts
+#EXTINF:-1,MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/118.ts
+#EXTINF:-1,24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/140.ts
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/126.ts
+#EXTINF:-1,LUXE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/107.ts
+#EXTINF:-1,S+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/105.ts
+#EXTINF:-1,ZEE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/103.ts
+#EXTINF:-1,MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/106.ts
+#EXTINF:-1,TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/104.ts
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/100.ts
+#EXTINF:-1,MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/101.ts
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/102.ts
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/96.ts
+#EXTINF:-1,ICONCERTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/98.ts
+#EXTINF:-1,AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/99.ts
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/97.ts
+#EXTINF:-1,MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/167.ts
+#EXTINF:-1,TVI REALITY CAMERA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/22.ts
+#EXTINF:-1,TVI REALITY CAMERA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/21.ts
+#EXTINF:-1,TVI REALITY CAMERA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/20.ts
+#EXTINF:-1,TVI REALITY CAMERA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/19.ts
+#EXTINF:-1,TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/18.ts
+#EXTINF:-1,ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/142.ts
+#EXTINF:-1,DEUTSCHE WELLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/180.ts
+#EXTINF:-1,SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/156.ts
+#EXTINF:-1,CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/185.ts
+#EXTINF:-1,KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/170.ts
+#EXTINF:-1,TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/148.ts
+#EXTINF:-1,TVE INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/146.ts
+#EXTINF:-1,TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/147.ts
+#EXTINF:-1,M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/168.ts
+#EXTINF:-1,FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/175.ts
+#EXTINF:-1,TPA INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/149.ts
+#EXTINF:-1,TCV INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/151.ts
+#EXTINF:-1,CUBAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/181.ts
+#EXTINF:-1,LOCALVISAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/169.ts
+#EXTINF:-1,REGIOES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/157.ts
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/176.ts
+#EXTINF:-1,RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/159.ts
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/182.ts
+#EXTINF:-1,BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/190.ts
+#EXTINF:-1,KBS WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/171.ts
+#EXTINF:-1,ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/39.ts
+#EXTINF:-1,BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/189.ts
+#EXTINF:-1,HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/174.ts
+#EXTINF:-1,PLAYBOY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/161.ts
+#EXTINF:-1,VENUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/145.ts
+#EXTINF:-1,PENTHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/162.ts
+#EXTINF:-1,SEXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/153.ts
+#EXTINF:-1,XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/143.ts
+#EXTINF:-1,XMUVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/144.ts
+#EXTINF:-1,VIVID RED HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/141.ts
+#EXTINF:-1,SEXTOSENSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/154.ts
+#EXTINF:-1,SCT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/155.ts
+#EXTINF:-1,REDLIGHT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/158.ts
+#EXTINF:-1,PRIVATE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/160.ts
+#EXTINF:-1,PASSIONXXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/163.ts
+#EXTINF:-1,HUSTLER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/173.ts
+#EXTINF:-1,DORCEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/177.ts
+#EXTINF:-1,CENTOXCENTO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/183.ts
+#EXTINF:-1,BRAZZERS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/187.ts
+#EXTINF:-1,RTP 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/198.ts
+#EXTINF:-1,RTP 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/197.ts
+#EXTINF:-1,SIC MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/195.ts
+#EXTINF:-1,TVI MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/192.ts
+#EXTINF:-1,TVI 24 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/193.ts
+#EXTINF:-1,SIC NOTICIAS MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/194.ts
+#EXTINF:-1,RTP 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/196.ts
+#EXTINF:-1,PORTO CANAL MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/199.ts
+#EXTINF:-1,CMTV MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/200.ts
+#EXTINF:-1,TVI REALITY MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/201.ts
+#EXTINF:-1,SIC MULHER MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/205.ts
+#EXTINF:-1,SIC CARAS MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/206.ts
+#EXTINF:-1,SIC RADICAL MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/204.ts
+#EXTINF:-1,TVI FICCAO MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/202.ts
+#EXTINF:-1,TV RECORD MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/203.ts
+#EXTINF:-1,GLOBO MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/271.ts
+#EXTINF:-1,GLOBO NOW MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/270.ts
+#EXTINF:-1,ABOLA TV MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/273.ts
+#EXTINF:-1,SPORTV   MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/267.ts
+#EXTINF:-1,SPORTV 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/212.ts
+#EXTINF:-1,SPORTV 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/211.ts
+#EXTINF:-1,SPORTV 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/210.ts
+#EXTINF:-1,SPORTV 4 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/209.ts
+#EXTINF:-1,SPORTV 5 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/208.ts
+#EXTINF:-1,SPORTV NBA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/215.ts
+#EXTINF:-1,ELEVEN SPORTS 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/213.ts
+#EXTINF:-1,ELEVEN SPORTS 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/266.ts
+#EXTINF:-1,ELEVEN SPORTS 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/272.ts
+#EXTINF:-1,ELEVEN SPORTS 4 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/222.ts
+#EXTINF:-1,ELEVEN SPORTS 5 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/221.ts
+#EXTINF:-1,ELEVEN SPORTS 6 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/220.ts
+#EXTINF:-1,BTV 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/214.ts
+#EXTINF:-1,SPORTING TV MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/216.ts
+#EXTINF:-1,PFC MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/217.ts
+#EXTINF:-1,EUROSPORT 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/219.ts
+#EXTINF:-1,EUROSPORT 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/218.ts
+#EXTINF:-1,MOTORVISION MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/231.ts
+#EXTINF:-1,KOMBAT SPORT MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/232.ts
+#EXTINF:-1,CACA E PESCA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/230.ts
+#EXTINF:-1,DISNEY CHANNEL MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/245.ts
+#EXTINF:-1,DISNEY JUNIOR MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/244.ts
+#EXTINF:-1,CANAL PANDA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/247.ts
+#EXTINF:-1,PANDA BIGGS MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/250.ts
+#EXTINF:-1,SIC K MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/242.ts
+#EXTINF:-1,JIMJAM MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/240.ts
+#EXTINF:-1,NICKELODEON MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/251.ts
+#EXTINF:-1,BABY TV MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/248.ts
+#EXTINF:-1,CARTOON NETWORK MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/246.ts
+#EXTINF:-1,TVCINE 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/229.ts
+#EXTINF:-1,TVCINE 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/228.ts
+#EXTINF:-1,TVCINE 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/227.ts
+#EXTINF:-1,TVCINE 4 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/226.ts
+#EXTINF:-1,TVSERIES MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/223.ts
+#EXTINF:-1,HOLLYWOOD MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/243.ts
+#EXTINF:-1,CINEMUNDO MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/225.ts
+#EXTINF:-1,EUROCHANNEL MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/258.ts
+#EXTINF:-1,SYFY MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/241.ts
+#EXTINF:-1,AMC MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/249.ts
+#EXTINF:-1,AXN MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/237.ts
+#EXTINF:-1,AXH WHITE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/239.ts
+#EXTINF:-1,AXN BLACK MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/238.ts
+#EXTINF:-1,FOX MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/224.ts
+#EXTINF:-1,FOX MOVIES MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/233.ts
+#EXTINF:-1,FOX LIFE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/234.ts
+#EXTINF:-1,FOX CRIME MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/235.ts
+#EXTINF:-1,FOX COMEDY MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/236.ts
+#EXTINF:-1,CANAL HISTORIA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/264.ts
+#EXTINF:-1,ODISSEIA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/262.ts
+#EXTINF:-1,NAT GEO MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/252.ts
+#EXTINF:-1,DISCOVERY MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/256.ts
+#EXTINF:-1,DISCOVERY SHOWCASE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/255.ts
+#EXTINF:-1,CANAL Q MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/207.ts
+#EXTINF:-1,TLC MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/260.ts
+#EXTINF:-1,BLAZE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/265.ts
+#EXTINF:-1,MY CUISINE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/253.ts
+#EXTINF:-1,FOOD NETWORK MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/254.ts
+#EXTINF:-1,24 KITCHEN MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/257.ts
+#EXTINF:-1,RTP AÇORES MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/269.ts
+#EXTINF:-1,RTP MADEIRA MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/268.ts
+#EXTINF:-1,PLAYBOY MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/261.ts
+#EXTINF:-1,HOT MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/263.ts
+#EXTINF:-1,VENUS MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.cola.kim:8080/live/E1YdE8HVC0/iPsCEzfFeW/259.ts

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,HOT NOW_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:-1,webHD
+https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
+#EXTINF:-1,arte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/arte/live/playlist.m3u8
+#EXTINF:-1,metv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
+#EXTINF:-1,ROTANA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel18/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FIRE MOVIE_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel26/tracks-v1a1/mono.m3u8
+#EXTINF:-1,?????? 2_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel27/tracks-v1a1/mono.m3u8
+#EXTINF:-1,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel28/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+#EXTINF:-1,ART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel30/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1,85canale85
+https://59d7d6f47d7fc.streamlock.net/canale85/canale85/playlist.m3u8
+#EXTINF:-1,onweb_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1,EPL
+https://cdx.dailysport.pw/3/3.m3u8
+#EXTINF:-1,france2
+https://s1.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1,Origin01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,OHK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://playbackn20.aotg-video.astro.com.my:80/CH2/master_HELLO_8_05.m3u8
+#EXTINF:-1,buzzr_By : dailyfreeiptv.blogspot.com
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+#EXTINF:-1,news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.scbtv.cn/hls/news/index.m3u8
+#EXTINF:-1,MAYADEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
+#EXTINF:-1,SOUQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.180.143.6:9981/stream/channelid/1177231409
+#EXTINF:-1,ETVplus
+https://213.252.252.2/live/eds/ETVplus/HLS_encr/ETVplus-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,eds_By : dailyfreeiptv.blogspot.com
+https://194.204.46.137/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8

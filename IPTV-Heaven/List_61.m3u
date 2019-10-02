@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1,ae-networks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zeusplayer.club/live/usa/ae-networks-live-streaming-free.m3u8
+#EXTINF:-1,nat_geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1,SONY-ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
+#EXTINF:-1,lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:-1,LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://203.162.76.92:5021/live/499
+#EXTINF:-1,bhtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
+#EXTINF:-1,atameken
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1,tele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvport.it-tele.net:8000/1f9b8945412b28dda9d1749325f5a63d
+#EXTINF:-1,gord
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorod.tv/s/live/1/195.201.246.115/155266151901/0.m3u8
+#EXTINF:-1,HBO-MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-HBO-MX.m3u8
+#EXTINF:-1,nov_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.40.108.218/7channel/index.m3u8
+#EXTINF:-1,ar music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.212.74.3:8000/live/hls/7514.m3u8
+#EXTINF:-1,????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.212.74.3:8000/live/hls/7512.m3u8
+#EXTINF:-1,sp orange
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://130.180.93.142:8001/1:0:19:7dd:9e98:16e:a00000:0:0:0:
+#EXTINF:-1,c music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.212.74.3:8000/live/7514.m3u8
+#EXTINF:-1,mov hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.192:4005/play/a006
+#EXTINF:-1,sp m4t
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://34e9081d.ulkakak.pw/iptv/V2WA58LPZ5LXKZ/535/index.m3u8
+#EXTINF:-1,FOX-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/CHX2/MX-FOX-HD.m3u8
+#EXTINF:-1,ne10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,cntv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://223.110.253.206:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
+#EXTINF:-1,HistoryLab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Discovery-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/CH1-MX-X/MX-Discovery-HD.m3u8
+#EXTINF:-1,leomax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1,DiscHH-MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-DiscHH-MX.m3u8
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/WLN/Cinemax.m3u8
+#EXTINF:-1,USLAT-MX-X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/USLAT-MX-X/US-TLNOV-LAT.m3u8
+#EXTINF:-1,dic sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.38.8.130:39440
+#EXTINF:-1,hbo2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,willowtv2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/willowtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US-TLNOV-LAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/USLAT-MX-X/US-TLNOV-LAT.m3u8
+#EXTINF:-1,iptvtools_44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.37.22.5:8000/play/a01l/index.m3u8
+#EXTINF:-1,Bein-Sport-HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1,rctiplus
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1,dream2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+#EXTINF:-1,mtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1,magnolia_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1,dt tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.187.117.230:8080
+#EXTINF:-1,AMC-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hvod.imirun.net:8080/AMC-HD/index.m3u8
+#EXTINF:-1,channel2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,BBC-EARTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://130.185.150.79:1935/trunk/BBC-EARTH/chunklist_w183603851.m3u8
+#EXTINF:-1,v1a1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8

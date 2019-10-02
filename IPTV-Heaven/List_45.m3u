@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Lana TV_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/index.m3u8
+#EXTINF:-1,Lana TV 360p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/02.m3u8
+#EXTINF:-1,Lana TV 480p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/03.m3u8
+#EXTINF:-1,Lana TV 720p_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
+#EXTINF:-1,Lana TV 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/05.m3u8
+#EXTINF:-1,Lana TV 128p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/lanatv/01.m3u8
