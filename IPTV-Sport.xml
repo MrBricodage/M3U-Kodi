@@ -855,13 +855,13 @@
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
-<expres>href=.*[",'](.*/canal\+/playlist.*?)[",']</expres>
+<expres>href=.*[",'](.*/canal+/playlist.*?)[",']</expres>
 <page>$doregex[get_sxstream1]</page>
 <referer>$doregex[get_sxstream1]</referer>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>href=.*[",'](.*WSSv2.3/wsscanal\+.*?)[",']</expres>
+<expres>href=.*[",'](.*WSSv2.3/wsscanal+.*?)[",']</expres>
 <page>http://wssfree.com/WSSv2.3/</page>
 <referer>http://wssfree.com/WSSv2.3/</referer>
 </regex>
@@ -2034,7 +2034,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 1[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky1/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp1/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2044,7 +2044,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 2[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky2/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp2/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2054,7 +2054,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 3[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky3/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp3/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2064,7 +2064,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 4[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky4/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp4/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2074,7 +2074,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 5[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky5/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp5/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2084,7 +2084,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 6[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky6/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp6/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2094,7 +2094,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 7[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky7/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp7/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2104,7 +2104,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 8[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky8/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp8/playlist.m3u8</link>
 </item>
 
 <!-- <item>
@@ -2114,6 +2114,6 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
  -->
 <item>
 <title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 9[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/sky9/playlist.m3u8</link>
+<link>http://cdn.60fps.live/live/yp9/playlist.m3u8</link>
 </item>
 
