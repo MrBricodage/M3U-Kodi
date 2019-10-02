@@ -1,55 +1,9 @@
 #EXTM3U
-#EXTINF:0,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/515
-#EXTINF:0,BAND SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/717
-#EXTINF:0,SPORTV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2091
-#EXTINF:0,SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2090
-#EXTINF:0,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/212
-#EXTINF:0,SPORTV 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2103
-#EXTINF:0,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/508
-#EXTINF:0,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/213
-#EXTINF:0,SPORTV 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2157
-#EXTINF:0,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/511
-#EXTINF:0,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/214
-#EXTINF:0,FOX SPORTS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2101
-#EXTINF:0,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/464
-#EXTINF:0,FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/695
-#EXTINF:0,FOX SPORTS 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2102
-#EXTINF:0,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/465
-#EXTINF:0,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/696
-#EXTINF:0,Discovery Theater FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2155
-#EXTINF:0,BandSports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/2141
-#EXTINF:0,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/1109
-#EXTINF:0,ESPN BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/1023
-#EXTINF:0,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/521
-#EXTINF:0,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/1733
-#EXTINF:0,ESPN 2 FULL HD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/7035
-#EXTINF:0,ESPN2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/522
-#EXTINF:0,ESPN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/698
-#EXTINF:0,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/natacha/natacha/7033
+#EXTINF:-1,CHAMPIONS LEAGUE_By : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
+#EXTINF:-1,StarSports_Hd1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
+#EXTINF:-1,AD SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AD SPORT3_By : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8

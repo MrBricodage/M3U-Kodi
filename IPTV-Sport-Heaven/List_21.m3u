@@ -1,66 +1,121 @@
 #EXTM3U
-#EXTINF:0,Bein sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1372.m3u8
-#EXTINF:0,Bein sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1373.m3u8
-#EXTINF:0,Bein sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1374.m3u8
-#EXTINF:0,Bein sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1375.m3u8
-#EXTINF:0,Tivibuspor 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1368.m3u8
-#EXTINF:0,Tivibuspor 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1369.m3u8
-#EXTINF:0,Tivibuspor 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1370.m3u8
-#EXTINF:0,Tivibuspor 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1371.m3u8
-#EXTINF:0,Bein 4k İz Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1376.m3u8
-#EXTINF:0,Bein sports Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1471.m3u8
-#EXTINF:0,Bein sports Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1472.m3u8
-#EXTINF:0,Sporsmart
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1436.m3u8
-#EXTINF:0,A Spor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1416.m3u8
-#EXTINF:0,sports tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1475.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,Al Kass Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,KTV Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:0,|FR| BEINSPORT 1 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1419.ts
+#EXTINF:0,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/303.ts
+#EXTINF:0,|FR| BEINSPORT 2 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1417.ts
+#EXTINF:0,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/299.ts
+#EXTINF:0,|FR| BEIN SPORT 2 HD (BACKUP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1418.ts
+#EXTINF:0,|FR| BeIN Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/300.ts
+#EXTINF:0,|FR| BEINSPORT 3 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1415.ts
+#EXTINF:0,|FR|  BEINSPORT 3  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/295.ts
+#EXTINF:0,|FR| BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1416.ts
+#EXTINF:0,|FR| BeIN Sports 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/296.ts
+#EXTINF:0,|FR| BeIN Sports MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/292.ts
+#EXTINF:0,|FR| BeIN Sports MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/291.ts
+#EXTINF:0,|FR| BeIN Sports MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/290.ts
+#EXTINF:0,|FR| BeIN Sports MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/289.ts
+#EXTINF:0,|FR| BeIN Sports MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/288.ts
+#EXTINF:0,|FR| BeIN Sports MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/287.ts
+#EXTINF:0,|FR| BeIN Sports MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/286.ts
+#EXTINF:0,|FR| Canal Sport FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8912.ts
+#EXTINF:0,|FR| Canal  Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8913.ts
+#EXTINF:0,|FR| CANAL SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1413.ts
+#EXTINF:0,|FR| OLTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1873.ts
+#EXTINF:0,|FR| OMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1872.ts
+#EXTINF:0,|FR| MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8905.ts
+#EXTINF:0,|FR| MOTORSPORT.TV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8904.ts
+#EXTINF:0,|FR| AB Moteur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8901.ts
+#EXTINF:0,|FR| L'EQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8902.ts
+#EXTINF:0,|FR| L EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8903.ts
+#EXTINF:0,|FR| INFOSPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8906.ts
+#EXTINF:0,|FR| INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/194.ts
+#EXTINF:0,|FR| INFOSPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1412.ts
+#EXTINF:0,|FR| GOLF  FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8893.ts
+#EXTINF:0,|FR| GOLF  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1410.ts
+#EXTINF:0,|FR| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8894.ts
+#EXTINF:0,|FR| GOLF CHANNEL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8891.ts
+#EXTINF:0,|FR| GOLF  CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/1409.ts
+#EXTINF:0,|FR| GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8892.ts
+#EXTINF:0,|FR| EUROSPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8910.ts
+#EXTINF:0,|FR| EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8911.ts
+#EXTINF:0,|FR| Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/197.ts
+#EXTINF:0,|FR| EUROSPORT 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8908.ts
+#EXTINF:0,|FR| EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/196.ts
+#EXTINF:0,|FR| EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8907.ts
+#EXTINF:0,|FR| EQUIDIA LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8895.ts
+#EXTINF:0,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8896.ts
+#EXTINF:0,|FR| EQUIDIA LIFE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8898.ts
+#EXTINF:0,|FR| EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8899.ts
+#EXTINF:0,|FR| EQUIDIA LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8900.ts
+#EXTINF:0,|FR| Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/8897.ts
+#EXTINF:0,|FR| RMCSPORT 1FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23422.ts
+#EXTINF:0,|FR| RMCSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23421.ts
+#EXTINF:0,FR: RMC Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23420.ts
+#EXTINF:0,|FR| RMCSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23419.ts
+#EXTINF:0,|FR| RMCSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23418.ts
+#EXTINF:0,|FR| RMCSport 2  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23417.ts
+#EXTINF:0,|FR| RMCSPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23416.ts
+#EXTINF:0,|FR| RMCSport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23414.ts
+#EXTINF:0,|FR| RMCSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23415.ts
+#EXTINF:0,|FR| RMCSport 4  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23413.ts
+#EXTINF:0,|FR| RMCSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23412.ts
+#EXTINF:0,|FR| RMCSPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.wissdz.com:8081/live/8iSREJkYiD/jUvbXVB8ba/23411.ts

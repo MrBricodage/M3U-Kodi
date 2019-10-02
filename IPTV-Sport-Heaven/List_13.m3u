@@ -1,9 +1,53 @@
 #EXTM3U
-#EXTINF:0,Match Football 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.177.22:8080/silan/silan/119
-#EXTINF:0,Match Football 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.177.22:8080/silan/silan/138
-#EXTINF:0,Match Football 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.177.22:8080/silan/silan/212
-#EXTINF:0,MatchTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.177.22:8080/silan/silan/151
+#EXTINF:-1,????!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/212/index.m3u8
+#EXTINF:-1,????! ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/225/index.m3u8
+#EXTINF:-1,????! ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/123/index.m3u8
+#EXTINF:-1,????! ????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/207/index.m3u8
+#EXTINF:-1,????! ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/528/index.m3u8
+#EXTINF:-1,????! ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/529/index.m3u8
+#EXTINF:-1,???? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/535/index.m3u8
+#EXTINF:-1,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/800/index.m3u8
+#EXTINF:-1,?????? 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/801/index.m3u8
+#EXTINF:-1,?????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/222/index.m3u8
+#EXTINF:-1,?????? 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/211/index.m3u8
+#EXTINF:-1,?????? 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/206/index.m3u8
+#EXTINF:-1,????! ?????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/124/index.m3u8
+#EXTINF:-1,??? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/531/index.m3u8
+#EXTINF:-1,????! ?????? 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/522/index.m3u8
+#EXTINF:-1,????! ?????? 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/530/index.m3u8
+#EXTINF:-1,??? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/107/index.m3u8
+#EXTINF:-1,EuroSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/228/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/234/index.m3u8
+#EXTINF:-1,XSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/996/index.m3u8
+#EXTINF:-1,Viasat Sport SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/160/index.m3u8
+#EXTINF:-1,KHL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/519/index.m3u8
+#EXTINF:-1,Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/144/index.m3u8
+#EXTINF:-1,????! ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/150/index.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/272/index.m3u8

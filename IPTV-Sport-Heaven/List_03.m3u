@@ -1,5 +1,73 @@
 #EXTM3U
-#EXTINF:0,STAR SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/movies/movies/529
-#EXTINF:0,STAR SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/movies/movies/528
+#EXTINF:-1,( BEIN ) Sports 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/360.ts
+#EXTINF:-1,( BEIN ) Sports 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/361.ts
+#EXTINF:-1,( BEIN ) Sports 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/362.ts
+#EXTINF:-1,( BEIN ) Sports 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/363.ts
+#EXTINF:-1,( BEIN ) Sports 5 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/364.ts
+#EXTINF:-1,( BEIN ) Sports 6 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/365.ts
+#EXTINF:-1,( BEIN ) Sports 7 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/366.ts
+#EXTINF:-1,( BEIN ) Sports 8 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/367.ts
+#EXTINF:-1,( BEIN ) Sports 9 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/368.ts
+#EXTINF:-1,( BEIN ) Sports 10 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/369.ts
+#EXTINF:-1,BEIN Sports 1 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/275.ts
+#EXTINF:-1,BEIN Sports 2 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/276.ts
+#EXTINF:-1,BEIN Sports 3 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/277.ts
+#EXTINF:-1,BEIN Sports 4 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/278.ts
+#EXTINF:-1,BEIN Sports 5 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/279.ts
+#EXTINF:-1,BEIN Sports 6 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/280.ts
+#EXTINF:-1,BEIN Sports 7 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/281.ts
+#EXTINF:-1,BEIN Sports 8 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/282.ts
+#EXTINF:-1,BEIN Sports 9 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/283.ts
+#EXTINF:-1,BEIN Sports 10 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/284.ts
+#EXTINF:-1,BEIN Sports 1 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/265.ts
+#EXTINF:-1,BEIN Sports 2 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/266.ts
+#EXTINF:-1,BEIN Sports 3 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/267.ts
+#EXTINF:-1,BEIN Sports 4 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/268.ts
+#EXTINF:-1,BEIN Sports 5 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/269.ts
+#EXTINF:-1,BEIN Sports 6 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/270.ts
+#EXTINF:-1,BEIN Sports 7 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/271.ts
+#EXTINF:-1,BEIN Sports 8 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/272.ts
+#EXTINF:-1,BEIN Sports 9 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/273.ts
+#EXTINF:-1,BEIN Sports 10 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/274.ts
+#EXTINF:-1,Abu dhabi sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/432.ts
+#EXTINF:-1,beIN Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/405.ts
+#EXTINF:-1,beIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/406.ts
+#EXTINF:-1,EQUIDIA LIVE HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/358.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/359.ts
+#EXTINF:-1,EQUIDIA LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/357.ts

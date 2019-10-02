@@ -1,43 +1,67 @@
 #EXTM3U
-#EXTINF:0,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2191
-#EXTINF:0,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2190
-#EXTINF:0,Sport TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2189
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2188
-#EXTINF:0,SporTV [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13423
-#EXTINF:0,SporTV [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7280
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2187
-#EXTINF:0,SporTV 2 [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7279
-#EXTINF:0,Sportv 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7154
-#EXTINF:0,Sportv 2 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22222
-#EXTINF:0,SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7278
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2186
-#EXTINF:0,SporTV 3 [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7277
-#EXTINF:0,Sportv 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7153
-#EXTINF:0,Sportv 3 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22221
-#EXTINF:0,SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7276
-#EXTINF:0,Sportv 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22157
-#EXTINF:0,Sportv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7178
-#EXTINF:0,Sportv FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22220
-#EXTINF:0,SporTV HD [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13422
-#EXTINF:0,SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7275
+#EXTINF:0,( BEIN ) Sports 1 sd_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/360.ts
+#EXTINF:0,( BEIN ) Sports 2 sd_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/361.ts
+#EXTINF:0,( BEIN ) Sports 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/362.ts
+#EXTINF:0,( BEIN ) Sports 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/363.ts
+#EXTINF:0,( BEIN ) Sports 5 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/364.ts
+#EXTINF:0,( BEIN ) Sports 6 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/365.ts
+#EXTINF:0,( BEIN ) Sports 7 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/366.ts
+#EXTINF:0,( BEIN ) Sports 8 sd_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/367.ts
+#EXTINF:0,( BEIN ) Sports 9 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/368.ts
+#EXTINF:0,( BEIN ) Sports 10 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/369.ts
+#EXTINF:0,BEIN Sports 1 ( Full )_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/275.ts
+#EXTINF:0,BEIN Sports 2 ( Full )_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/276.ts
+#EXTINF:0,BEIN Sports 3 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/277.ts
+#EXTINF:0,BEIN Sports 4 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/278.ts
+#EXTINF:0,BEIN Sports 5 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/279.ts
+#EXTINF:0,BEIN Sports 6 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/280.ts
+#EXTINF:0,BEIN Sports 7 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/281.ts
+#EXTINF:0,BEIN Sports 8 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/282.ts
+#EXTINF:0,BEIN Sports 9 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/283.ts
+#EXTINF:0,BEIN Sports 10 ( Full )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/284.ts
+#EXTINF:0,BEIN Sports 1 ( HD )_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/265.ts
+#EXTINF:0,BEIN Sports 2 ( HD )_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/266.ts
+#EXTINF:0,BEIN Sports 3 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/267.ts
+#EXTINF:0,BEIN Sports 4 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/268.ts
+#EXTINF:0,BEIN Sports 5 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/269.ts
+#EXTINF:0,BEIN Sports 6 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/270.ts
+#EXTINF:0,BEIN Sports 7 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/271.ts
+#EXTINF:0,BEIN Sports 8 ( HD )_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/272.ts
+#EXTINF:0,BEIN Sports 9 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/273.ts
+#EXTINF:0,BEIN Sports 10 ( HD )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/274.ts
+#EXTINF:0,EQUIDIA LIVE HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/358.ts
+#EXTINF:0,EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/359.ts
+#EXTINF:0,EQUIDIA LIVE SD_ FOLLOW - ?????? ??? ????? : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.182:8080/live/beIN-Sports-local/oXSDExsxs/357.ts

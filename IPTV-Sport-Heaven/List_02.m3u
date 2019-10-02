@@ -1,57 +1,607 @@
 #EXTM3U
-#EXTINF:0,Band Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2332
-#EXTINF:0,Band Sports [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13773
-#EXTINF:0,Band Sports [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7480
-#EXTINF:0,Band Sports FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22272
-#EXTINF:0,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2331
-#EXTINF:0,Band Sports HD [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13774
-#EXTINF:0,Band Sports HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7479
-#EXTINF:0,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2191
-#EXTINF:0,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2190
-#EXTINF:0,Sport TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2189
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2188
-#EXTINF:0,SporTV [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13423
-#EXTINF:0,SporTV [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7280
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2187
-#EXTINF:0,SporTV 2 [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7279
-#EXTINF:0,Sportv 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7154
-#EXTINF:0,Sportv 2 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22222
-#EXTINF:0,SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7278
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/2186
-#EXTINF:0,SporTV 3 [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7277
-#EXTINF:0,Sportv 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7153
-#EXTINF:0,Sportv 3 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22221
-#EXTINF:0,SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7276
-#EXTINF:0,Sportv 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22157
-#EXTINF:0,Sportv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7178
-#EXTINF:0,Sportv FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/22220
-#EXTINF:0,SporTV HD [Alter 2]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/13422
-#EXTINF:0,SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssiptv.smartlista.org:8880/xbf8qgscenw/9az6emj7vwx/7275
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/35031.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.182:8789/live/VNdjlqz2SFQ2/nDKkq150EGla/1.ts
+#EXTINF:-1,|FR| RMC SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32718.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/39589.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37931.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.182:8789/live/VNdjlqz2SFQ2/nDKkq150EGla/5.ts
+#EXTINF:-1,|FR| RMC SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32719.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/39588.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37930.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32715.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32720.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/39587.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37929.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32716.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32721.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/39586.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37942.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/32717.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37941.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37940.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37939.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37938.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37937.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37936.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37935.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37934.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37933.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/37932.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/35340.m3u8
+#EXTINF:-1,|FR| SPORT 365 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/25040.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14156.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14161.m3u8
+#EXTINF:-1,|FR| FOOT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13937.m3u8
+#EXTINF:-1,|FR| FOOT+24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/425.m3u8
+#EXTINF:-1,|FR| FOOT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13936.m3u8
+#EXTINF:-1,|FR| ONZEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13786.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14160.m3u8
+#EXTINF:-1,|FR|BEINSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14170.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/92.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14159.m3u8
+#EXTINF:-1,|FR|BEINSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14169.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/93.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14158.m3u8
+#EXTINF:-1,|FR|BEINSPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14168.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/94.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/95.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/39882.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1089.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1113.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1468.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1469.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1470.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13807.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13802.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13806.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13805.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13804.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13803.m3u8
+#EXTINF:-1,|FR| TRACE SPORT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13797.m3u8
+#EXTINF:-1,|FR| INFOSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13729.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13728.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14005.m3u8
+#EXTINF:-1,|FR| EQUIPE 21 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1023.m3u8
+#EXTINF:-1,|FR| BFM SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13843.m3u8
+#EXTINF:-1,|FR| BFM SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13943.m3u8
+#EXTINF:-1,|FR| OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13842.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13740.m3u8
+#EXTINF:-1,|FR| MUSCULATION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13801.m3u8
+#EXTINF:-1,|FR| AUTOMOTO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1035.m3u8
+#EXTINF:-1,|FR| MOTORSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13782.m3u8
+#EXTINF:-1,|FR| MOTORSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13722.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13742.m3u8
+#EXTINF:-1,|FR| EUROSPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14011.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13741.m3u8
+#EXTINF:-1,|FR| EUROSPORT2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14010.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13743.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14012.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13744.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14013.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/1036.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/85.m3u8
+#EXTINF:-1,|FR| LUCKY JACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/42548.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14128.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14133.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21764.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21763.m3u8
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23588.m3u8
+#EXTINF:-1,|IT| SKY SPORT UNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23587.m3u8
+#EXTINF:-1,|IT| SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23586.m3u8
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23585.m3u8
+#EXTINF:-1,|IT| SKY SPORT ARENA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23584.m3u8
+#EXTINF:-1,|IT| SKY SPORT MIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23583.m3u8
+#EXTINF:-1,|IT| SKY SUPERCALCIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23582.m3u8
+#EXTINF:-1,|IT| SKY SPORT F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23580.m3u8
+#EXTINF:-1,|IT| SKY MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23579.m3u8
+#EXTINF:-1,|IT| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23578.m3u8
+#EXTINF:-1,|IT| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23577.m3u8
+#EXTINF:-1,|IT| SPORT ITALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23576.m3u8
+#EXTINF:-1,|IT| FIGHT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23575.m3u8
+#EXTINF:-1,|IT| SUPER TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23574.m3u8
+#EXTINF:-1,|IT| AUTOMOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23573.m3u8
+#EXTINF:-1,|IT| BIKE CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23572.m3u8
+#EXTINF:-1,|IT| MILAN CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23571.m3u8
+#EXTINF:-1,|IT| JUVENTUS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23570.m3u8
+#EXTINF:-1,|IT| INTER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23569.m3u8
+#EXTINF:-1,|IT| ROMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23568.m3u8
+#EXTINF:-1,|IT| LAZIO CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23567.m3u8
+#EXTINF:-1,|IT| PREMIUM FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23469.m3u8
+#EXTINF:-1,|IT| PREMIUM SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23471.m3u8
+#EXTINF:-1,|IT| PREMIUM SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23470.m3u8
+#EXTINF:-1,|IT| FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23581.m3u8
+#EXTINF:-1,IT|PREMIUM EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23468.m3u8
+#EXTINF:-1,PREMIUM_EUROSPORT-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23467.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23466.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23465.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23464.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23463.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23462.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23461.m3u8
+#EXTINF:-1,|IT| PREMIUM CALCIO 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23460.m3u8
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14065.m3u8
+#EXTINF:-1,|ES| M DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14066.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14064.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14062.m3u8
+#EXTINF:-1,|ES| TOROS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23154.m3u8
+#EXTINF:-1,|ES| M GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14082.m3u8
+#EXTINF:-1,|ES| M FÚTBOL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14081.m3u8
+#EXTINF:-1,|ES| M FÚTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14080.m3u8
+#EXTINF:-1,|ES| M TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14061.m3u8
+#EXTINF:-1,|ES| M beINSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14076.m3u8
+#EXTINF:-1,|ES| M beINSPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14077.m3u8
+#EXTINF:-1,|ES| M beIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14075.m3u8
+#EXTINF:-1,|ES| M beIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14073.m3u8
+#EXTINF:-1,|ES| M LALIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14072.m3u8
+#EXTINF:-1,|ES| M LALIGA TV Bar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14071.m3u8
+#EXTINF:-1,|ES| M REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14084.m3u8
+#EXTINF:-1,|ES| M BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14085.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14060.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14059.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14068.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14069.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14053.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14052.m3u8
+#EXTINF:-1,|ES| M MOTOGP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14051.m3u8
+#EXTINF:-1,|ES| M MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14050.m3u8
+#EXTINF:-1,|PT| SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14108.m3u8
+#EXTINF:-1,|PT| SPORT TV1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14102.m3u8
+#EXTINF:-1,|PT| SPORT TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14107.m3u8
+#EXTINF:-1,|PT| SPORT TV2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14101.m3u8
+#EXTINF:-1,|PT| SPORT TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14106.m3u8
+#EXTINF:-1,|PT| SPORT TV3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14100.m3u8
+#EXTINF:-1,|PT| SPORT TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14105.m3u8
+#EXTINF:-1,|PT| SPORT TV4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14099.m3u8
+#EXTINF:-1,|PT| SPORT TV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14104.m3u8
+#EXTINF:-1,|PT| SPORT TV5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14098.m3u8
+#EXTINF:-1,|PT| SPORT TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14103.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29988.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/35371.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29987.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/35372.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29986.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/35373.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29985.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29984.m3u8
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29983.m3u8
+#EXTINF:-1,|PT| BENIFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14092.m3u8
+#EXTINF:-1,|PT| BENIFICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14093.m3u8
+#EXTINF:-1,|PT| SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14091.m3u8
+#EXTINF:-1,|PT| A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14087.m3u8
+#EXTINF:-1,|PT| PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14086.m3u8
+#EXTINF:-1,|PT| KOMBATSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14090.m3u8
+#EXTINF:-1,|PT| EUROSPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14096.m3u8
+#EXTINF:-1,|PT| EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14097.m3u8
+#EXTINF:-1,|PT| EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14095.m3u8
+#EXTINF:-1,|PT| EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14094.m3u8
+#EXTINF:-1,|PT| FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23234.m3u8
+#EXTINF:-1,|PT| MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14089.m3u8
+#EXTINF:-1,|PT| MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/14088.m3u8
+#EXTINF:-1,|PT| TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23233.m3u8
+#EXTINF:-1,|AR| BEINSPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24979.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24980.m3u8
+#EXTINF:-1,|AR| BEINSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13611.m3u8
+#EXTINF:-1,|AR| BEINSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13688.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13687.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 1  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13601.m3u8
+#EXTINF:-1,|AR| BEINSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13610.m3u8
+#EXTINF:-1,|AR| BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13686.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13685.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 2  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13612.m3u8
+#EXTINF:-1,|AR| BEINSPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13609.m3u8
+#EXTINF:-1,|AR| BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13684.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13683.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 3  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13613.m3u8
+#EXTINF:-1,|AR| BEINSPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13608.m3u8
+#EXTINF:-1,|AR| BEINSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13682.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13681.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 4  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13614.m3u8
+#EXTINF:-1,|AR| BEINSPORT 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13607.m3u8
+#EXTINF:-1,|AR| BEINSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13680.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13679.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 5  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13615.m3u8
+#EXTINF:-1,|AR| BEINSPORT 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13606.m3u8
+#EXTINF:-1,|AR| BEINSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13678.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13677.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 6  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13616.m3u8
+#EXTINF:-1,|AR| BEINSPORT 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13605.m3u8
+#EXTINF:-1,|AR| BEINSPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13676.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13675.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13617.m3u8
+#EXTINF:-1,|AR| BEINSPORT 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13604.m3u8
+#EXTINF:-1,|AR| BEINSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13674.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13673.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13618.m3u8
+#EXTINF:-1,|AR| BEINSPORT 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13603.m3u8
+#EXTINF:-1,|AR| BEINSPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13672.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 9 BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13587.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 9  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13641.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13602.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13670.m3u8
+#EXTINF:-1,|AR| BEINSPORTS BKP10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13669.m3u8
+#EXTINF:-1,|AR| BEINSPORTS 10  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/13642.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24977.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21202.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21201.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21200.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21199.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21198.m3u8
+#EXTINF:-1,|AR|*****BEOUTQ SPORTS*****|AR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28659.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28658.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28657.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28656.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28655.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28654.m3u8
+#EXTINF:-1,|AR| BEOUTQ SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/28653.m3u8
+#EXTINF:-1,|AR| AD SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21196.m3u8
+#EXTINF:-1,|AR| AD SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21195.m3u8
+#EXTINF:-1,|AR| AD SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21194.m3u8
+#EXTINF:-1,|AR| AD SPORT 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21193.m3u8
+#EXTINF:-1,|AR| AD SPORT 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21192.m3u8
+#EXTINF:-1,|AR| AD SPORT 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/21191.m3u8
+#EXTINF:-1,|AR| OSN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29485.m3u8
+#EXTINF:-1,|AR| OSN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29484.m3u8
+#EXTINF:-1,|AR| OSN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29483.m3u8
+#EXTINF:-1,|AR| OSN SPORTS ACTION 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29482.m3u8
+#EXTINF:-1,|AR| OSN SPORTS ACTION 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29481.m3u8
+#EXTINF:-1,|AR| OSN SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/29480.m3u8
+#EXTINF:-1,|BR| SPORTV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24909.m3u8
+#EXTINF:-1,|BR| SPORTV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24908.m3u8
+#EXTINF:-1,|BR| SPORTV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24907.m3u8
+#EXTINF:-1,|BR| FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24917.m3u8
+#EXTINF:-1,|BR| FOX SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24916.m3u8
+#EXTINF:-1,|BR| COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24920.m3u8
+#EXTINF:-1,|UK| SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23458.m3u8
+#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23457.m3u8
+#EXTINF:-1,|UK| SKY SPORT CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23456.m3u8
+#EXTINF:-1,|UK| SKY SPORT ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23455.m3u8
+#EXTINF:-1,|UK| SKY SPORT GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23454.m3u8
+#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23453.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23452.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23451.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23450.m3u8
+#EXTINF:-1,|UK| BTSPORT ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23449.m3u8
+#EXTINF:-1,|UK| CHELSEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23446.m3u8
+#EXTINF:-1,|UK| SKY SPORTF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23445.m3u8
+#EXTINF:-1,|UK| EUROSPORT UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23444.m3u8
+#EXTINF:-1,|UK| EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23443.m3u8
+#EXTINF:-1,|UK| SetantaSports Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23448.m3u8
+#EXTINF:-1,|UK| PREMIER SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23442.m3u8
+#EXTINF:-1,|UK| BIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23441.m3u8
+#EXTINF:-1,|UK| AT THE RACES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23440.m3u8
+#EXTINF:-1,|UK| FIGHTBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23439.m3u8
+#EXTINF:-1,|DE| SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23706.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23705.m3u8
+#EXTINF:-1,|DE|SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23702.m3u8
+#EXTINF:-1,|DE| SKY SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23701.m3u8
+#EXTINF:-1,|DE| SKY SPORT 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23700.m3u8
+#EXTINF:-1,|DE| SKY SPORT 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23699.m3u8
+#EXTINF:-1,|DE| SKY SPORT 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23698.m3u8
+#EXTINF:-1,|DE| SKY SPORT 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23697.m3u8
+#EXTINF:-1,|DE| SKY BUNDESLIGA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23696.m3u8
+#EXTINF:-1,|DE| SKY BUNDESLIGA 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23695.m3u8
+#EXTINF:-1,|DE| SKY BUNDESLIGA 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23694.m3u8
+#EXTINF:-1,|DE| SKY BUNDESLIGA 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/23693.m3u8
+#EXTINF:-1,|USA| beINSPORT US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24109.m3u8
+#EXTINF:-1,|USA| FOX SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24107.m3u8
+#EXTINF:-1,|USA| FOX SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24106.m3u8
+#EXTINF:-1,|USA| ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24105.m3u8
+#EXTINF:-1,|USA| ESPN 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24104.m3u8
+#EXTINF:-1,|USA| ESPN Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24102.m3u8
+#EXTINF:-1,|USA| ESPNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24100.m3u8
+#EXTINF:-1,|USA| ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24101.m3u8
+#EXTINF:-1,|USA| BTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24099.m3u8
+#EXTINF:-1,|USA| CBS SPORTS NET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24098.m3u8
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24097.m3u8
+#EXTINF:-1,|USA| NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24096.m3u8
+#EXTINF:-1,|USA| Tennis Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24095.m3u8
+#EXTINF:-1,|USA| FOX DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24094.m3u8
+#EXTINF:-1,|USA| WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24093.m3u8
+#EXTINF:-1,|USA| MLB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24092.m3u8
+#EXTINF:-1,|USA| NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/bodox85/bodo41/24091.m3u8

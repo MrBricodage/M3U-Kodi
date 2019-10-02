@@ -1,61 +1,147 @@
 #EXTM3U
-#EXTINF:0,ALL SPORTS HD_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/47670
-#EXTINF:0,BAND SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8147
-#EXTINF:0,BAND SPORTS ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/51958
-#EXTINF:0,BAND SPORTS H265 ²_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12725
-#EXTINF:0,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8236
-#EXTINF:0,BAND SPORTS HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12726
-#EXTINF:0,BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/28243
-#EXTINF:0,FOX SPORTS_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8101
-#EXTINF:0,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8213
-#EXTINF:0,FOX SPORTS HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/13053
-#EXTINF:0,FOX SPORTS  HD h265 ²_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/13052
-#EXTINF:0,FOX SPORTS FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/28168
-#EXTINF:0,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8100
-#EXTINF:0,FOX SPORTS 2 ²_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/13050
-#EXTINF:0,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8099
-#EXTINF:0,FOX SPORTS 2 HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/13051
-#EXTINF:0,FOX SPORTS 2 FULLHD_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/28169
-#EXTINF:0,SPORTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8012
-#EXTINF:0,SPORTV FHD h265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12815
-#EXTINF:0,SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8173
-#EXTINF:0,SPORTV HD ²_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12816
-#EXTINF:0,SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8011
-#EXTINF:0,SPORTV 2 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/51970
-#EXTINF:0,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8175
-#EXTINF:0,SPORTV 2 HD ²_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12814
-#EXTINF:0,SPORTV 2 FHD h265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12813
-#EXTINF:0,SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8010
-#EXTINF:0,SPORTV 3 HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12811
-#EXTINF:0,SPORTV 3 HD_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/8174
-#EXTINF:0,SPORTV 3 FHD h265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/301821/301821/12812
+#EXTINF:0,sport:beIN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49089.ts
+#EXTINF:0,SPORT:beIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21459.ts
+#EXTINF:0,SPORT:beIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21458.ts
+#EXTINF:0,SPORT:beIN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21457.ts
+#EXTINF:0,SPORT:beIN Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21443.ts
+#EXTINF:0,SPORT:beIN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21456.ts
+#EXTINF:0,SPORT:beIN Sport 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21442.ts
+#EXTINF:0,SPORT:beIN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21455.ts
+#EXTINF:0,SPORT:beIN Sport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21441.ts
+#EXTINF:0,SPORT:beIN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21454.ts
+#EXTINF:0,SPORT:beIN Sport 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21440.ts
+#EXTINF:0,SPORT:beIN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21453.ts
+#EXTINF:0,SPORT:beIN Sport 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21439.ts
+#EXTINF:0,SPORT:beIN Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21452.ts
+#EXTINF:0,SPORT:beIN Sport 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21438.ts
+#EXTINF:0,SPORT:beIN Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21451.ts
+#EXTINF:0,SPORT:beIN Sport 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21437.ts
+#EXTINF:0,SPORT:beIN Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21450.ts
+#EXTINF:0,SPORT:beIN Sport 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21436.ts
+#EXTINF:0,SPORT:beIN Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21449.ts
+#EXTINF:0,SPORT:beIN Sport 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21435.ts
+#EXTINF:0,SPORT:beIN Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21448.ts
+#EXTINF:0,SPORT:beIN Sport 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21434.ts
+#EXTINF:0,SPORT:beIN Sport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21447.ts
+#EXTINF:0,SPORT:beIN Sport 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21446.ts
+#EXTINF:0,Sport:Bein Sport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/24542.ts
+#EXTINF:0,SPORT:AD SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21429.ts
+#EXTINF:0,SPORT:AD Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21428.ts
+#EXTINF:0,SPORT:AD Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21427.ts
+#EXTINF:0,SPORT:AD Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21426.ts
+#EXTINF:0,Sport:AD Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/6238.ts
+#EXTINF:0,Sport:AD Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21425.ts
+#EXTINF:0,SPORT:Al Ahly TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/21414.ts
+#EXTINF:0,TR:beINSport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42925.ts
+#EXTINF:0,TR:beINSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42924.ts
+#EXTINF:0,TR:beINSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42923.ts
+#EXTINF:0,TR:beINSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42922.ts
+#EXTINF:0,TR:beINSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42921.ts
+#EXTINF:0,TR:beINSport 91 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42920.ts
+#EXTINF:0,TR:beINSport 92 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42919.ts
+#EXTINF:0,TR:beINSports Max 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42917.ts
+#EXTINF:0,TR:beINSports Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42918.ts
+#EXTINF:0,TR:beINSports Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/42916.ts
+#EXTINF:0,BS:beIN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49057.ts
+#EXTINF:0,BS:beIN 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49048.ts
+#EXTINF:0,BS:beIN 10HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49058.ts
+#EXTINF:0,BS:beIN 1HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49067.ts
+#EXTINF:0,BS:beIN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49056.ts
+#EXTINF:0,BS:beIN 2HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49066.ts
+#EXTINF:0,BS:beIN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49055.ts
+#EXTINF:0,BS:beIN 3HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49065.ts
+#EXTINF:0,BS:beIN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49054.ts
+#EXTINF:0,BS:beIN 4HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49064.ts
+#EXTINF:0,BS:beIN 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49053.ts
+#EXTINF:0,BS:beIN 5HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49063.ts
+#EXTINF:0,BS:beIN 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49052.ts
+#EXTINF:0,BS:beIN 6HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49062.ts
+#EXTINF:0,BS:beIN 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49051.ts
+#EXTINF:0,BS:beIN 7HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49061.ts
+#EXTINF:0,BS:beIN 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49050.ts
+#EXTINF:0,BS:beIN 8HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49060.ts
+#EXTINF:0,BS:beIN 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49049.ts
+#EXTINF:0,BS:beIN 9HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49059.ts
+#EXTINF:0,beIN Sport 10AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49078.ts
+#EXTINF:0,beIN Sport 1AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49087.ts
+#EXTINF:0,beIN Sport 2AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49086.ts
+#EXTINF:0,beIN Sport 3AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49085.ts
+#EXTINF:0,beIN Sport 4AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49084.ts
+#EXTINF:0,beIN Sport 5AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49083.ts
+#EXTINF:0,beIN Sport 6AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49082.ts
+#EXTINF:0,beIN Sport 7AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49081.ts
+#EXTINF:0,beIN Sport 8AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49080.ts
+#EXTINF:0,beIN Sport 9AUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/49079.ts
