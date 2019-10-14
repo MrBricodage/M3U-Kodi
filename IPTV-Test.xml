@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+<!-- 
+<item>
+<title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c2f60c0a696dffe5c2dff6c937e0bff436513a4e</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
+<link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Link to flow[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11093</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y InputStream Link[/B][/COLOR]</title>
+<info>Pas de son avec InputStream?</info>
+<inputstream>http://watch.gotdark.com:80/richard/richard123/11093</inputstream>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y ACESTREAM Link[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://d557bda798c566e36c934121d5578354ac081f04</link>
+<thumbnail></thumbnail>
+</item> -->
 
 <item>
 <title>[COLOR yellow][B]Work Area[/B][/COLOR]</title>
@@ -8,18 +41,10 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via dpaste pour Penguins @ Jets[/B][/COLOR]</title>
 <link>ignore.me</link>
 <externallink>http://dpaste.com/39WDZA0.txt</externallink>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens MLB Angels Mullafabz[/B][/COLOR]</title>
-<link>ignore.me</link>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/MLBs/Angels.txt</externallink>
 <thumbnail></thumbnail>
 </item>
 
@@ -55,39 +80,6 @@
 <thumbnail></thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c2f60c0a696dffe5c2dff6c937e0bff436513a4e</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
-<link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y Link to flow[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.gotdark.com:80/richard/richard123/11093</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y InputStream Link[/B][/COLOR]</title>
-<info>Pas de son avec InputStream?</info>
-<inputstream>http://watch.gotdark.com:80/richard/richard123/11093</inputstream>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y ACESTREAM Link[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://d557bda798c566e36c934121d5578354ac081f04</link>
-<thumbnail></thumbnail>
-</item>
 
 <!-- 
 <item>
