@@ -8,12 +8,14 @@
 <fanart></fanart>
 </item>
 
+
 <item>
-<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via Pastebin[/B][/COLOR]</title>
+<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via dpaste[/B][/COLOR]</title>
 <link>ignore.me</link>
-<externallink>https://pastebin.com/raw/txHM9b6D</externallink>
+<externallink>http://dpaste.com/39WDZA0.txt</externallink>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via Mullafabz[/B][/COLOR]</title>
 <link>ignore.me</link>
@@ -21,27 +23,42 @@
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 NHL Link[/B][/COLOR]</title>
-<link>https://hlslive-akc.med2.med.nhl.com/hdnts=exp=1569547419~acl=/*~id=nhlGatewayId:7346202~data=69095303~hmac=33a54ecc51cc366b59aa8a41351ff968972422b7e2a09406e7e5a8eb64dee715/8246e04bec16b027ec6f11da5a41af30/ls03/nhl/2019/09/26/NHL_GAME_VIDEO_OTTVAN_M2_NATIONAL_20190926_1569343616655/master_wired60.m3u8|User-Agent=245sdee654ereaa</link>
-<thumbnail></thumbnail>
+<title>[COLOR blue][B]NHL[/B][/COLOR]:[COLOR white][B]Sabres[/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
+<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*.title.*?)[",']</expres>
+<page>http://footystreams.net/nhl/nhlx2.php?team=Sabres</page>
+<referer>http://footystreams.net/nhl/nhlx2.php?team=Sabres</referer>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item>
 
 <item>
-<title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y m3u8 MLB Link[/B][/COLOR]</title>
-<link>http://185.39.11.104:8081/live/btsports2lsh.m3u8?e=1570345447&st=w9IZ2NI-oUWOslaS9UN9mQ</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR black][B]C[/B][/COLOR][COLOR white][B]haine Barrie[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11135</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR blue][B]NHL[/B][/COLOR]:[COLOR white][B]Bruins [/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
+<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*.title.*?)[",']</expres>
+<page>http://footystreams.net/nhl/nhlx2.php?team=Bruins</page>
+<referer>http://footystreams.net/nhl/nhlx2.php?team=Bruins</referer>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item>
 
 <item>
