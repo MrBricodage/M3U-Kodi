@@ -335,6 +335,26 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Avalanche [/B][/COLOR]</title>
+<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*.title.*?)[",']</expres>
+<page>http://footystreams.net/nhl/nhlx2.php?team=Avalanche</page>
+<referer>http://footystreams.net/nhl/nhlx2.php?team=Avalanche</referer>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+
+<item>
 <title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]HL Blues [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
