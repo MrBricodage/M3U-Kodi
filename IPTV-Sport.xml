@@ -4,8 +4,8 @@
 
 
 <item>
-<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]07/09/2019 17:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
-<info>Derniere Vérification : 25/09/2019 19:00 UTC</info>
+<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]14/10/2019 23:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<info>Derniere Vérification : 14/10/2019 23:00 UTC</info>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p1[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p2[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 1 [/B]1080p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p1[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -70,7 +70,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p2[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 2 [/B]1080p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p1[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -104,7 +104,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p2[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 3 [/B]1080p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -121,7 +121,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p1[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -138,7 +138,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p2[/COLOR]</title>
+<title>[COLOR red][B]A[/B][/COLOR][COLOR white][B]rena Sports Croatie 4 [/B]1080p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -155,7 +155,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -172,7 +172,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 1 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -189,7 +189,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -206,7 +206,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 2 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -223,7 +223,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -240,7 +240,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 3 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -257,7 +257,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -274,7 +274,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 4 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -291,7 +291,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -308,7 +308,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 5 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -325,7 +325,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -342,7 +342,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 6 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -359,7 +359,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -376,7 +376,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 7 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -393,7 +393,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -410,7 +410,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 8 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -427,7 +427,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -444,7 +444,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 9 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -461,7 +461,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -478,7 +478,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 10 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -496,7 +496,7 @@
 
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -513,7 +513,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 11 ENG [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -530,7 +530,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -548,7 +548,7 @@
 
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports AR 12 ENG [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -565,7 +565,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -582,7 +582,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 1 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -599,7 +599,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -616,7 +616,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 2 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -633,7 +633,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -650,7 +650,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sports FR 3 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -667,47 +667,25 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sport TR 1 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sport TR 1 HD[/B][/COLOR]</title>
 <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2127.ts|User-Agent=245sdee654erea</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]eIn Sport USA[/B][/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]eIn Sport USA[/B][/COLOR]</title>
 <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/26.ts|User-Agent=245sdee654erea</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR purple][B]B[/B][/COLOR][COLOR white][B]lack Stream Soccer 1[/B][/COLOR]</title>
-<link>http://service.ignorehosting.site/live/CH1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer1/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR purple][B]B[/B][/COLOR][COLOR white][B]lack Stream Soccer 2[/B][/COLOR]</title>
-<link>http://service.ignorehosting.site/live/CH2/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer2/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR purple][B]B[/B][/COLOR][COLOR white][B]lack Stream Soccer 3[/B][/COLOR]</title>
-<link>http://service.ignorehosting.site/live/CH3/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer3/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR purple][B]B[/B][/COLOR][COLOR white][B]lack Stream F1[/B][/COLOR]</title>
-<link>http://service.ignorehosting.site/live/F1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/f1/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ox Nation[/B][/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]ox Nation[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -724,7 +702,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports 1 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -741,7 +719,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -758,7 +736,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports 2 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -775,7 +753,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]T Sports 3 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports 3 [/B]576p1[/COLOR]</title>
 <info>576p car Sky Sports Main Event en hq</info>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
@@ -810,7 +788,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -827,7 +805,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sports ESPN [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -844,14 +822,14 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]C[/B][/COLOR][COLOR white][B]anal +[/B][/COLOR] 576p1</title>
+<title>[COLOR red][B]C[/B][/COLOR][COLOR white][B]anal +[/B][/COLOR] 576p1</title>
 <link>http://194.88.104.169:8081/dfdftt11jl/canal+/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail>http://sportstv.club/pic/canal-.png</thumbnail>
 <fanart>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]C[/B][/COLOR][COLOR white][B]anal + [/B][/COLOR]576p2</title>
+<title>[COLOR red][B]C[/B][/COLOR][COLOR white][B]anal + [/B][/COLOR]576p2</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -868,14 +846,14 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p1</title>
+<title>[COLOR red][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p1</title>
 <link>http://194.88.104.169:8081/dfdftt11jl/canal+sport/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail>http://sportstv.club/pic/canal-sport.png</thumbnail>
 <fanart>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p2</title>
+<title>[COLOR red][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR] 576p2</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -892,20 +870,20 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]C[/B][/COLOR][COLOR white][B]helsea TV[/B][/COLOR]</title>
+<title>[COLOR red][B]C[/B][/COLOR][COLOR white][B]helsea TV[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/148.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]ir Sports 1 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]ir Sports 1 HD[/B][/COLOR]</title>
 <!-- http://wssfree.com/WSSv2.3/ pointe vers le lien ci-dessous, chaines 849 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/849.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]ir Sports 2 HD[/B][/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]ir Sports 2 HD[/B][/COLOR]</title>
 <!-- http://wssfree.com/WSSv2.3/ pointe vers le lien ci-dessous, chaines 850 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/850.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
@@ -913,74 +891,74 @@
 
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p1[/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p1[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p2[/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]SPN [/B]720p2[/COLOR]</title>
 <link>http://bnk.bankai.stream/espn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p1[/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p1[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espntwo.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p2[/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]SPN 2 [/B]720p2[/COLOR]</title>
 <link>http://bnk.bankai.stream/espn7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://drogon.tv/</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport One UK[/B][/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]urosport One UK[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/50.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport Two UK[/B][/COLOR]</title>
+<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]urosport Two UK[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/51.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sport 1 NL[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sport 1 NL[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sport 2 NL[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sport 2 NL[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sport 3 NL[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sport 3 NL[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sport 4 NL[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sport 4 NL[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sport 5 NL[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sport 5 NL[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]F[/B][/COLOR][COLOR white][B]ox Sports 1 USA HD[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sports 1 USA HD[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -997,7 +975,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]F[/B][/COLOR][COLOR white][B]ox Sports 2 USA HD[/B][/COLOR]</title>
+<title>[COLOR red][B]F[/B][/COLOR][COLOR white][B]ox Sports 2 USA HD[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1014,202 +992,13 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 1 [/B][/COLOR]</title>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info>
-<link>http://cdn3.hdstreams.club/live/ch1/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 2 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 3 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch3/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 4 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 5 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch5/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 6 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch6/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 7 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch7/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 8 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch8/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 9 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch9/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 10 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch10/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 11 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch11/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 12 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch12/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 13 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch13/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 14 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch14/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 15 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch15/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 16 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch16/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 17 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch17/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 18 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch18/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 19 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch19/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 20 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch20/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 21 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch21/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 22 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch22/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 23 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch23/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 24 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch24/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 25 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch25/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 26 [/B][/COLOR]</title>
-<link>http://cdn3.hdstreams.club/live/ch26/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&amp;Referer=http://hdstreams.club/page/ch1.php</link>
-<info>Chaine pas en continu. 
-Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]L[/B][/COLOR][COLOR white][B]FC TV[/B][/COLOR]</title>
+<title>[COLOR red][B]L[/B][/COLOR][COLOR white][B]FC TV[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/440.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]LB Network [/B]720p[/COLOR]</title>
+<title>[COLOR red][B]M[/B][/COLOR][COLOR white][B]LB Network [/B]720p[/COLOR]</title>
 <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
 <fanart>https://exstreamist.com/how-to-watch-major-league-baseball-mlb-online-for-free/</fanart>
@@ -1217,20 +1006,19 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]UFC TV[/B][/COLOR]</title>
+<title>[COLOR red][B]M[/B][/COLOR][COLOR white][B]UFC TV[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/145.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC News [/B]720p[/COLOR]</title>
+<title>[COLOR red][B]N[/B][/COLOR][COLOR white][B]BC News [/B]720p[/COLOR]</title>
 <link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1249,7 +1037,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]N[/B][/COLOR][COLOR white][B]BCSN [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1268,158 +1056,34 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Network HD[/B][/COLOR]</title>
+<title>[COLOR red][B]N[/B][/COLOR][COLOR white][B]FL Network HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 82 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/82.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL RedZone[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/redh/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 1[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 2[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl2/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 3[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl3/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 4[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl4/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 5[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl5/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 6[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl6/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 7[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl7/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 8[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl8/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 9[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl9/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 10[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl10/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 11[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl11/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 12[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl12/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 13[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl13/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 14[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl14/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 15[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl15/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Channel 16[/B][/COLOR]</title>
-<link>http://cdn.youpit.site/live/nfl16/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]remier Sports 1[/B][/COLOR]</title>
+<title>[COLOR red][B]P[/B][/COLOR][COLOR white][B]remier Sports 1[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 56 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/56.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]TV Sports [/B][/COLOR]</title>
+<title>[COLOR red][B]P[/B][/COLOR][COLOR white][B]TV Sports [/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/147.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]DS[/B][/COLOR]</title>
+<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]DS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11135&amp;name=[COLOR white][B]RDS[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 1 HD[/B][/COLOR]</title>
-<info>Flux tournant</info>
-<link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 2 HD[/B][/COLOR]</title>
-<info>Flux tournant</info>
-<link>http://22.rogend.xyz/hls2/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]R[/B][/COLOR][COLOR white][B]ogend 3 HD[/B][/COLOR]</title>
-<info>Flux tournant</info>
-<link>http://ovh1.rogend.xyz/hls3/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1437,7 +1101,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Action [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1454,7 +1118,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1471,7 +1135,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1488,7 +1152,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Cricket[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Cricket[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1505,7 +1169,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1522,7 +1186,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Football [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1539,13 +1203,13 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports F1[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports F1[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/80.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Golf[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Golf[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1562,7 +1226,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1579,7 +1243,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1596,20 +1260,20 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Mix[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Mix[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2108.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports News[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports News[/B][/COLOR]</title>
 <!-- Sky Sports News via hostsweb.net/android pointe vers les chaines 81 et 118 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/118.ts?.coms|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1627,7 +1291,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1644,14 +1308,14 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Bundesliga HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports Bundesliga HD[/B][/COLOR]</title>
 <!-- Sky Sports Bundesliga via hostsweb.net/android pointe vers le lien ci-dessous, chaines 60 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/60.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports 1 Deutschland HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports 1 Deutschland HD[/B][/COLOR]</title>
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/93.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
@@ -1664,7 +1328,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports 1 Italy HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ky Sports 1 Italy HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 92 et 1686 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/92.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
@@ -1686,7 +1350,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p1[/COLOR] </title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p1[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1705,7 +1369,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p2[/COLOR] </title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony Six [/B]576p2[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1724,7 +1388,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1743,7 +1407,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony ESPN [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1762,7 +1426,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ony TEN 1 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 1 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1781,7 +1445,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony TEN 1 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 1 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1801,7 +1465,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ony TEN 2 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 2 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1820,7 +1484,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony TEN 2 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 2 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1839,7 +1503,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]ony TEN 3 [/B]576p1[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 3 [/B]576p1[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1858,7 +1522,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony TEN 3 [/B]576p2[/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]ony TEN 3 [/B]576p2[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1877,28 +1541,28 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port Klub 1 SR HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port Klub 1 SR HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 87 et 769 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/769.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port Klub 2 SR HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port Klub 2 SR HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 88 et 770 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/770.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port Klub 3 SR HD[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port Klub 3 SR HD[/B][/COLOR]</title>
 <!-- hostsweb.net/android pointe vers le lien ci-dessous, chaines 89 et 771 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/771.ts|User-Agent=lolllololollol</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p1[/COLOR] </title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p1[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1917,7 +1581,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p2[/COLOR] </title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B]720p2[/COLOR] </title>
 <link>$doregex[get_sxstream]|User-Agent=lolllololollol</link>
 <regex>
 <name>get_sxstream</name>
@@ -1936,7 +1600,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 2 [/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port TV 2 [/B][/COLOR]</title>
 <info>La chaine ne diffuse pas en continu?</info>
 <!-- SportTV2 via hostsweb.net/android pointe vers le lien ci-dessous, chaines 8 et 724 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/8.ts|User-Agent=lolllololollol</link>
@@ -1944,7 +1608,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 3 [/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]port TV 3 [/B][/COLOR]</title>
 <info>La chaine ne diffuse pas en continu?</info>
 <!-- SportTV3 via hostsweb.net/android pointe vers le lien ci-dessous, chaines 9 et 725 -->
 <link>http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/9.ts|User-Agent=lolllololollol</link>
@@ -1952,7 +1616,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]tar Sports 1[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]tar Sports 1[/B][/COLOR]</title>
 <info>Flux Sky Sport Cricket au lieu de Star Sports 1 diffusé par la source</info>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
@@ -1970,7 +1634,7 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]tar Sports 2[/B][/COLOR]</title>
+<title>[COLOR red][B]S[/B][/COLOR][COLOR white][B]tar Sports 2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=245sdee654ereaa</link>
 <regex>
 <name>get_sxstream</name>
@@ -1987,133 +1651,42 @@ Programme dispo sur : http://hdstreams.club/</info><thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN1[/B][/COLOR]</title>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]SN1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11292&amp;name=[COLOR white][B]TSN1[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN2[/B][/COLOR]</title>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]SN2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11291&amp;name=[COLOR white][B]TSN2[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN3[/B][/COLOR]</title>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]SN3[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11290&amp;name=[COLOR white][B]TSN3[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN4[/B][/COLOR]</title>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]SN4[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11289&amp;name=[COLOR white][B]TSN4[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN5[/B][/COLOR]</title>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]SN5[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart.itiptv.com:25461/Barrie/Barrie/11288&amp;name=[COLOR white][B]TSN5[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]ILLOW TV HD[/B][/COLOR]</title>
+<title>[COLOR red][B]W[/B][/COLOR][COLOR white][B]ILLOW TV HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.104.169:8081/dfdftt11jl/willowcricket/playlist.m3u8|User-Agent=245sdee654ereaa</link>
 <thumbnail>https://i.imgur.com/YmVbBOW.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 1[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m1/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 1[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp1/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 2[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m2/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 2[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp2/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 3[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m3/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 3[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp3/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 4[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m4/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 4[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp4/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 5[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m5/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 5[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp5/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 6[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m4/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 6[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp6/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 7[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m7/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 7[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp7/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 8[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m8/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 8[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp8/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 9[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/m9/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]OUPIT Channel 9[/B][/COLOR]</title>
-<link>http://cdn.60fps.live/live/yp9/playlist.m3u8</link>
-</item>
-
