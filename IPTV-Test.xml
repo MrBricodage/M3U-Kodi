@@ -10,56 +10,20 @@
 
 
 <item>
-<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via dpaste[/B][/COLOR]</title>
+<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via dpaste pour Penguins @ Jets[/B][/COLOR]</title>
 <link>ignore.me</link>
 <externallink>http://dpaste.com/39WDZA0.txt</externallink>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens via Mullafabz[/B][/COLOR]</title>
+<title>[COLOR purple][B]T[/B][/COLOR][COLOR white][B]est Liens MLB Angels Mullafabz[/B][/COLOR]</title>
 <link>ignore.me</link>
 <externallink>http://mullafabz.xyz/HOST/LiveTV/MLBs/Angels.txt</externallink>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue][B]NHL[/B][/COLOR]:[COLOR white][B]Sabres[/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=Sabres</page>
-<referer>http://footystreams.net/nhl/nhlx2.php?team=Sabres</referer>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
 
-<item>
-<title>[COLOR blue][B]NHL[/B][/COLOR]:[COLOR white][B]Bruins [/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=Bruins</page>
-<referer>http://footystreams.net/nhl/nhlx2.php?team=Bruins</referer>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
 
 <item>
 <title>[COLOR orange][B]A[/B][/COLOR][COLOR white][B]BR Sports Live 1[/B][/COLOR]</title>
