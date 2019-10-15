@@ -2,14 +2,14 @@
 
 
 <item>
-<title>[COLOR yellow][B]Soccer Streams[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  Soccer Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Switzerland vs Ireland Republic[/B][/COLOR]</title>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Switzerland vs Ireland Republic[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Sweden vs Spain[/B][/COLOR]</title>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Sweden vs Spain[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Liechtenstein vs Italy[/B][/COLOR]</title>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Liechtenstein vs Italy[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -45,7 +45,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Canada vs USA[/B][/COLOR]</title>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Canada vs USA[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA Streams[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  NBA Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -90,14 +90,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]NFL Streams[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  NFL Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
+<title>[COLOR blue][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -110,7 +110,7 @@
 
 <!-- 
 <item>
-<title>[COLOR yellow][B]NHL Streams[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  NHL Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -118,7 +118,7 @@
  -->
 
 <!-- <item>
-<title>[COLOR yellow][B]NCAA Streams[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  NCAA Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
