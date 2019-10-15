@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<item>
+<title>[COLOR yellow][B]Soccer Streams[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Switzerland vs Ireland Republic[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/switzerland-vs-ireland-republic/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Sweden vs Spain[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/sweden-vs-spain/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Liechtenstein vs Italy[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/liechtenstein-vs-italy/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 18:45 UTC[/B][/COLOR] : [COLOR white][B]Canada vs USA[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/canada-vs-usa/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]NBA Streams[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 23:00 UTC[/B][/COLOR] : [COLOR white][B]Cleveland Cavaliers vs Boston Celtics[/B][/COLOR]</title>
+<info>Tuesday, October 15</info>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/cleveland-cavaliers-vs-boston-celtics/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191015 23:00 UTC[/B][/COLOR] : [COLOR white][B]Philadelphia 76ers vs Detroit Pistons[/B][/COLOR]</title>
+<info>Tuesday, October 15</info>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/philadelphia-76ers-vs-detroit-pistons/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]NFL Streams[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/kansas-city-chiefs-vs-denver-broncos/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]NHL Streams[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]NCAA Streams[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
