@@ -602,7 +602,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]HL Jackets [/B][/COLOR]</title>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Jackets [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -678,8 +678,8 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]HL Leafs [/B][/COLOR]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Leafs [/B][/COLOR]</title>
+<link>http://nhl4.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -689,8 +689,8 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=Leafs</page>
-<referer>http://footystreams.net/nhl/nhlx2.php?team=Leafs</referer>
+<page>http://footystreams.net/nhl/nhlx3.php?team=Leafs</page>
+<referer>http://footystreams.net/nhl/nhlx3.php?team=Leafs</referer>
 </regex>
 <thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
@@ -754,7 +754,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]HL Penguins [/B][/COLOR]</title>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Penguins [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -867,7 +867,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]HL Stars [/B][/COLOR]</title>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Stars [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
