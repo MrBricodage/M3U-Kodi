@@ -96,7 +96,81 @@
 <fanart></fanart>
 </item>
 
+
 <item>
+<title>[COLOR blue][B]20191020 [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/nfl-redzone/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]Los Angeles Chargers vs Tennessee Titans[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/los-angeles-chargers-vs-tennessee-titans/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]New Orleans Saints vs Chicago Bears[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/new-orleans-saints-vs-chicago-bears/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]Baltimore Ravens vs Seattle Seahawks[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/baltimore-ravens-vs-seattle-seahawks/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191020 20:25 UTC[/B][/COLOR] : [COLOR white][B]Philadelphia Eagles vs Dallas Cowboys[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/philadelphia-eagles-vs-dallas-cowboys/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191020 0:25 UTC[/B][/COLOR] : [COLOR white][B]New England Patriots vs New York Jets[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/new-england-patriots-vs-new-york-jets/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+
+<!-- <item>
 <title>[COLOR blue][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
@@ -106,7 +180,7 @@
 </regex>
 <thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
+</item> -->
 
 <!-- 
 <item>
