@@ -5,62 +5,279 @@
 Sources : 
 - http://crackstreams.com/
 - http://hdstreams.club/
+
 - http://60fps.live/
+
+<item>
+<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]TeamVsTeam[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>Link</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
 
  -->
 
-<!-- <item>
+<item>
 <title>[COLOR yellow][B]==========  Soccer Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
--->
 <item>
-<title>[COLOR yellow][B]==========  NBA Streams  ==========[/B][/COLOR]</title>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Leipzig VS Zenith [/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/rb-leipzig-vs-zenit/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Ajax vs Chelsea [/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/ajax-vs-chelsea/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Salzburg vs Napoli[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/salzburg-vs-napoli/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Genk vs Liverpool[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/genk-vs-liverpool/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Benfica vs Olympique Lyonnais[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/benfica-vs-olympique-lyonnais/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Internazionale vs Borussia Dortmund[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/internazionale-vs-borussia-dortmund/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Slavia Praha vs Barcelona[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/slavia-praha-vs-barcelona/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Lille vs Valencia[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/lille-vs-valencia/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]==========  Basketball Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
+
 <item>
-<title>[COLOR blue][B]20191023 [/B][/COLOR] : [COLOR white][B]Raptors VS. Pelicans [/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Charlotte Hornets vs Chicago Bulls[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
 <expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/toronto-raptors-vs-new-orleans-pelicans/</page>
+<page>http://60fps.live/charlotte-hornets-vs-chicago-bulls/</page>
 </regex>
 <thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]20191023 [/B][/COLOR] : [COLOR white][B]Clippers VS. Lakers [/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Indiana Pacers vs Detroit Pistons[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
 <expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/los-angeles-clippers-vs-los-angeles-lakers/</page>
+<page>http://60fps.live/indiana-pacers-vs-detroit-pistons/</page>
 </regex>
 <thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item>
 
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Orlando Magic vs Cleveland Cavaliers[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/orlando-magic-vs-cleveland-cavaliers/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Brooklyn Nets vs Minnesota Timberwolves[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/brooklyn-nets-vs-minnesota-timberwolves/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Miami Heat vs Memphis Grizzlies[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/miami-heat-vs-memphis-grizzlies/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Philadelphia 76ers vs Boston Celtics[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/philadelphia-76ers-vs-boston-celtics/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Dallas Mavericks vs Washington Wizards[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/dallas-mavericks-vs-washington-wizards/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]San Antonio Spurs vs New York Knicks[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/san-antonio-spurs-vs-new-york-knicks/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Utah Jazz vs Oklahoma City Thunder[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/utah-jazz-vs-oklahoma-city-thunder/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Phoenix Suns vs Sacramento Kings[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/phoenix-suns-vs-sacramento-kings/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Portland Trail Blazers vs Denver Nuggets[/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/portland-trail-blazers-vs-denver-nuggets/</page>
+</regex>
+<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
 
 
 <!-- 
-<item>
-<title>[COLOR yellow][B]==========  NFL Streams  ==========[/B][/COLOR]</title>
+<!-- <item>
+<title>[COLOR yellow][B]==========  Football Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 
-<item>
-<title>[COLOR blue][B]20191020 [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
+<!-- <item>
+<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -69,94 +286,16 @@ Sources :
 </regex>
 <thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]Los Angeles Chargers vs Tennessee Titans[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/los-angeles-chargers-vs-tennessee-titans/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]New Orleans Saints vs Chicago Bears[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/new-orleans-saints-vs-chicago-bears/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]20191020 20:05 UTC[/B][/COLOR] : [COLOR white][B]Baltimore Ravens vs Seattle Seahawks[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/baltimore-ravens-vs-seattle-seahawks/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]20191020 20:25 UTC[/B][/COLOR] : [COLOR white][B]Philadelphia Eagles vs Dallas Cowboys[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/philadelphia-eagles-vs-dallas-cowboys/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]20191020 0:25 UTC[/B][/COLOR] : [COLOR white][B]New England Patriots vs New York Jets[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/new-england-patriots-vs-new-york-jets/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
- -->
-
-<!-- <item>
-<title>[COLOR blue][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/kansas-city-chiefs-vs-denver-broncos/</page>
-</regex>
-<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item> -->
+
 
 <!-- 
 <item>
-<title>[COLOR yellow][B]==========  NHL Streams  ==========[/B][/COLOR]</title>
+<title>[COLOR yellow][B]==========  Hockey Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  -->
 
-<!-- <item>
-<title>[COLOR yellow][B]==========  NCAA Streams  ==========[/B][/COLOR]</title>
-<link>http://ignore.me<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> -->
 
