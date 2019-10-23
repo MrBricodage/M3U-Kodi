@@ -41,7 +41,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien OK pour NHL Penguins @ Jets[/B][/COLOR]</title>
 <link>ignore.me</link>
@@ -49,6 +48,63 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 1 ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 2 ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://11c0059038fab62112d6d561e3ea8c10c2dedd59</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 3 ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://5a4cfb20808ee9d81ac8154eab4fffc08d9e4583</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://5f081dfd5c50cfe992019f491ad526d2fabe3fa5</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]S[/B][/COLOR][COLOR white][B]ky Sport Main Event ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://2906cffd84e98799745204bfc4a0b2c18eb66eb7</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]U[/B][/COLOR][COLOR white][B]EFA Channel ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://25cdb6a77a6784d69f672786f52b15767b8ed605</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]eInSport Turkey ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://3263bc80c20976b6033c391b486c879689503057</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]BCSN ACESTREAM[/B][/COLOR]</title>
+<info></info>
+<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://4a3fc386d153e6371b800678b0e70178d07500af</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR]</title>
@@ -56,6 +112,7 @@
 <info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]ein Sports 1[/B][/COLOR]</title>
 <link>http://weak_spell.carniferou.club/edge/Bein1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/manchester-united-vs-rochdale/</link>
