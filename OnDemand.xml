@@ -158,6 +158,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Charlotte Hornets vs Chicago Bulls[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -170,6 +171,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Indiana Pacers vs Detroit Pistons[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -182,6 +184,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Orlando Magic vs Cleveland Cavaliers[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -193,6 +196,7 @@ Sources :
 </item>
 
 <item>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Brooklyn Nets vs Minnesota Timberwolves[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
@@ -206,6 +210,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Miami Heat vs Memphis Grizzlies[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -218,6 +223,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Philadelphia 76ers vs Boston Celtics[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -230,6 +236,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Dallas Mavericks vs Washington Wizards[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -242,6 +249,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]San Antonio Spurs vs New York Knicks[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -254,6 +262,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Utah Jazz vs Oklahoma City Thunder[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -266,6 +275,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Phoenix Suns vs Sacramento Kings[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
@@ -278,6 +288,7 @@ Sources :
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Portland Trail Blazers vs Denver Nuggets[/B][/COLOR]</title>
+<info>Les chaines HD Streams diffusent également la NBA</info>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
