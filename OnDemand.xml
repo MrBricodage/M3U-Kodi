@@ -3,22 +3,44 @@
 <!-- 
 
 Sources : 
-- http://crackstreams.com/
 - http://hdstreams.club/
 
+
+- http://crackstreams.com/
+- http://nba4free.com/
+
+	<item>
+	<title>[COLOR lime][B]7:00p ET[/B][/COLOR]-[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Celtics @ Cavaliers[/B][/COLOR] [COLOR orange][B]HOME.FEED.720p[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>source.*[",'](.*m3u8.*?)[",']</expres>
+	<page>get_sxstream1</page>
+	<referer>get_sxstream1</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>.*[",'](.*crackstreams.*?)[",']</expres>
+	<page>http://nba4free.com/stream/cle</page>
+	<referer>http://nba4free.com/stream/cle</referer>
+	</regex>
+	<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+	<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+	</item>
+	
 - http://60fps.live/
 
-<item>
-<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]TeamVsTeam[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>Link</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
+	<item>
+	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]TeamVsTeam[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>Link</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+	</item>
 
  -->
 
