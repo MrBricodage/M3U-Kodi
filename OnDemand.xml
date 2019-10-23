@@ -16,14 +16,41 @@ Sources :
 <fanart></fanart>
 </item>
 
+-->
 <item>
 <title>[COLOR yellow][B]==========  NBA Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
--->
 
+<item>
+<title>[COLOR blue][B]20191023 [/B][/COLOR] : [COLOR white][B]Raptors VS. Pelicans [/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/toronto-raptors-vs-new-orleans-pelicans/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]20191023 [/B][/COLOR] : [COLOR white][B]Clippers VS. Lakers [/B][/COLOR]</title>
+<link>$doregex[get_hanturl]</link>
+<regex>
+<name>get_hanturl</name>
+<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+<page>http://60fps.live/los-angeles-clippers-vs-los-angeles-lakers/</page>
+</regex>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+
+
+<!-- 
 <item>
 <title>[COLOR yellow][B]==========  NFL Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
@@ -103,7 +130,7 @@ Sources :
 <thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
 <fanart>https://i.imgur.com/PXodp5g.png</fanart>
 </item>
-
+ -->
 
 <!-- <item>
 <title>[COLOR blue][B]20191018 00:20 UTC[/B][/COLOR] : [COLOR white][B]Kansas City Chiefs Live Stream[/B][/COLOR]</title>
