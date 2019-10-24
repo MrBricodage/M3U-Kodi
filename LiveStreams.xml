@@ -44,29 +44,84 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment Live 1[/B][/COLOR]</title>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S1[/B][/COLOR]</title>
 <info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
 <link>http://103.194.171.4/abr/abr-S-1/live/S-1_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment Live 2[/B][/COLOR]</title>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S2[/B][/COLOR]</title>
 <info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
 <link>http://103.194.171.4/abr/abr-S-2/live/S-2_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment Live 3[/B][/COLOR]</title>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S3[/B][/COLOR]</title>
 <info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
 <link>http://103.194.171.4/abr/abr-S-3/live/S-3_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment Live 4[/B][/COLOR]</title>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S4[/B][/COLOR]</title>
 <info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
 <link>http://103.194.171.4/abr/abr-S-4/live/S-4_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H1[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H2[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H3[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H3/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H4[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H4/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H5[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H6[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H6/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H7[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H7/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H8[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H8/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H9[/B][/COLOR]</title>
+<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+<link>http://103.194.171.4/live/H9/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 1 [/B][/COLOR]</title>
@@ -839,22 +894,64 @@
 </item>
 
 <item>
-<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]ogend 1 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 1 HD[/B][/COLOR]</title>
 <info>Flux tournant</info>
-<link>http://ovh1.rogend.xyz/hls/live.m3u8</link>
+<link>http://isov.rogen.club/hls/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]ogend 2 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 2 HD[/B][/COLOR]</title>
 <info>Flux tournant</info>
-<link>http://22.rogend.xyz/hls2/live.m3u8</link>
+<link>http://isov.rogen.club/hls2/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]ogend 3 HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 3 HD[/B][/COLOR]</title>
 <info>Flux tournant</info>
-<link>http://ovh1.rogend.xyz/hls3/live.m3u8</link>
+<link>http://isov.rogen.club/hls3/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 4 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls4/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 5 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls5/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 6 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls6/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 7 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls7/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 8 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls8/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ogen 9 HD[/B][/COLOR]</title>
+<info>Flux tournant</info>
+<link>http://isov.rogen.club/hls9/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
