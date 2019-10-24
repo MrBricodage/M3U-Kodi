@@ -4,7 +4,7 @@
 
 Sources : 
 - http://hdstreams.club/
-
+- http://y6stream.club/
 
 - http://crackstreams.com/
 - http://nba4free.com/
@@ -155,6 +155,27 @@ Sources :
 <fanart></fanart>
 </item> 
 
+<!-- 
+Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le flux reste le même
+	<item>
+	<title>[COLOR lime][B]7:00p ET[/B][/COLOR]-[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Bulls @ Hornets[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+	<page>http://nbastreams.xyz/live/1</page>
+	<referer>http://nbastreams.xyz/live/1</referer>
+	</regex>
+	<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+	<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+	</item>
+ -->
 
 <item>
 <title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Charlotte Hornets vs Chicago Bulls[/B][/COLOR]</title>
