@@ -44,117 +44,21 @@ Sources :
 
  -->
 
-<item>
+<!-- <item>
 <title>[COLOR yellow][B]==========  Soccer Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Leipzig VS Zenith [/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/rb-leipzig-vs-zenit/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Ajax vs Chelsea [/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/ajax-vs-chelsea/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Salzburg vs Napoli[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/salzburg-vs-napoli/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Genk vs Liverpool[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/genk-vs-liverpool/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Benfica vs Olympique Lyonnais[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/benfica-vs-olympique-lyonnais/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Internazionale vs Borussia Dortmund[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/internazionale-vs-borussia-dortmund/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Slavia Praha vs Barcelona[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/slavia-praha-vs-barcelona/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]UCL [/B][/COLOR] : [COLOR white][B]Lille vs Valencia[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/lille-vs-valencia/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
+ -->
+<!-- 
 <item>
 <title>[COLOR yellow][B]==========  Basketball Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart></fanart>
 </item> 
-
+ -->
 <!-- 
 Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le flux reste le même
 	<item>
@@ -177,160 +81,16 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 	</item>
  -->
 
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Charlotte Hornets vs Chicago Bulls[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/charlotte-hornets-vs-chicago-bulls/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
 
 <item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Indiana Pacers vs Detroit Pistons[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/indiana-pacers-vs-detroit-pistons/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Orlando Magic vs Cleveland Cavaliers[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/orlando-magic-vs-cleveland-cavaliers/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Brooklyn Nets vs Minnesota Timberwolves[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/brooklyn-nets-vs-minnesota-timberwolves/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Miami Heat vs Memphis Grizzlies[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/miami-heat-vs-memphis-grizzlies/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Philadelphia 76ers vs Boston Celtics[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/philadelphia-76ers-vs-boston-celtics/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Dallas Mavericks vs Washington Wizards[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/dallas-mavericks-vs-washington-wizards/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]San Antonio Spurs vs New York Knicks[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/san-antonio-spurs-vs-new-york-knicks/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Utah Jazz vs Oklahoma City Thunder[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/utah-jazz-vs-oklahoma-city-thunder/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Phoenix Suns vs Sacramento Kings[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/phoenix-suns-vs-sacramento-kings/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Portland Trail Blazers vs Denver Nuggets[/B][/COLOR]</title>
-<info>Les chaines HD Streams diffusent également la NBA</info>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/portland-trail-blazers-vs-denver-nuggets/</page>
-</regex>
-<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
-<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
-
-
-<!-- 
-<!-- <item>
 <title>[COLOR yellow][B]==========  Football Streams  ==========[/B][/COLOR]</title>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 
-<!-- <item>
+<item>
 <title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
@@ -339,9 +99,9 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <page>http://60fps.live/nfl-redzone/</page>
 </regex>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-</item> -->
+</item>
 
-<!-- <item>
+<item>
 <title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Washington Redskins vs Minnesota[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
@@ -504,7 +264,6 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 </regex>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 </item>
- -->
 
 
 <!-- 
