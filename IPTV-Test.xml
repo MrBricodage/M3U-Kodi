@@ -34,6 +34,7 @@
 <thumbnail></thumbnail>
 </item> -->
 
+
 <item>
 <title>[COLOR yellow][B]Work Area[/B][/COLOR]</title>
 <link>http://ignore.me<link>
@@ -48,93 +49,113 @@
 <thumbnail></thumbnail>
 </item>
 
+<!-- Catalogue de chaines caché derrière ce lien fonctionnel au 24/10/2019? -->
+
 <item>
-<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 1 ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27</link>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/30.ts|User-Agent=Vidhemotreqim</link>
 <thumbnail></thumbnail>
 </item>
 
+<!-- Test liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chainesTest liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chaines -->
 <item>
-<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 2 ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://11c0059038fab62112d6d561e3ea8c10c2dedd59</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport 3 ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://5a4cfb20808ee9d81ac8154eab4fffc08d9e4583</link>
+<title>[COLOR purple][B]F[/B][/COLOR][COLOR white][B]ox[/B][/COLOR]</title>
+<info>fonctionnel au 24/10/2019 pour WS match 2</info>
+<link>https://teleupmsl.akamaized.net/hls/live/2004009/wpmtmsl/wpmt_2000/chunklist.m3u8?hdntl=exp=1571951396~acl=/*~data=hdntl~hmac=e271a12e908107cfc28778ca3655ad235a74d6fcfa70d7bc80729e1876f1608c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://5f081dfd5c50cfe992019f491ad526d2fabe3fa5</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow][B]S[/B][/COLOR][COLOR white][B]ky Sport Main Event ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://2906cffd84e98799745204bfc4a0b2c18eb66eb7</link>
+<title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien Mullafabz en test[/B][/COLOR]</title>
+<link>http://lfuvgjdfmefrfb.vbtuv.club/live/c/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow][B]U[/B][/COLOR][COLOR white][B]EFA Channel ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://25cdb6a77a6784d69f672786f52b15767b8ed605</link>
+<title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien Mullafabz en test[/B][/COLOR]</title>
+<link>http://103.194.171.52:1935/hls/Football/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
+	
+<!-- Test pour Chaine NBA pour chaque équipe -->
 <item>
-<title>[COLOR yellow][B]B[/B][/COLOR][COLOR white][B]eInSport Turkey ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://3263bc80c20976b6033c391b486c879689503057</link>
-<thumbnail></thumbnail>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Toronto Raptors[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/toronto-raptors-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<!-- Test pour OnDemand NBA -->
+<!-- crackstream et nba4free pointent la même chose. Trouver le moyen le plus automatisable de récupérer les flux -->
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Bulls vs Hornets[/B][/COLOR]</title>
+	<link>http://crackstreams.ga$doregex[get_sxstream]</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>source.*[",'](.*m3u8.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>src=.*[",'](.*/nba/.*?)[",']</expres>
+	<page>http://nbastreams.xyz/live/1/</page>
+	<referer>http://nbastreams.xyz/live/1/</referer>
+	</regex>
+	<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+	<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]BCSN ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://4a3fc386d153e6371b800678b0e70178d07500af</link>
-<thumbnail></thumbnail>
+	<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Cleveland Cavaliers[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>source.*[",'](.*m3u8.*?)[",']</expres>
+	<page>get_sxstream1</page>
+	<referer>get_sxstream1</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>.*[",'](.*crackstreams.*?)[",']</expres>
+	<page>http://nba4free.com/stream/cle</page>
+	<referer>http://nba4free.com/stream/cle</referer>
+	</regex>
+	<thumbnail>http://nba4free.com/nba/logo-cleveland-cavaliers.svg</thumbnail>
+	<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
+<!-- /show/mem/playlist.m3u8
+
+view-source:http://nbastreams.xyz/live/5/ => Ctrl + F "fullscreen"
+src="http://crackstreams.ga/nba/mem/1.php" => source: "http:///show/mem/playlist.m3u8",
+http://crackstreams.ga/show/mem/playlist.m3u8 => not found
+
+view-source:http://nbastreams.xyz/live/7/ => Ctrl + F "fullscreen"
+src="http://crackstreams.ga/nba/espn/1.php" => source: "http://zubacz.xyz/neinz/video/espn/d0695f6fa2f143eb95c7a41d96d581c4.m3u8", -->
+
+
+<!-- Test récupération flux de y6stream.club -->
+<!-- Liens dans m3u sont fonctionnels (cf https://textuploader.com/10x4e/raw). Comment avoir des lien locaux? -->
+
 <item>
-<title>[COLOR orange][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR]</title>
+<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D y6stream content [/B][/COLOR]</title>
+<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
 <link>http://weak_spell.carniferou.club/edge/SSME/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/bayern-munchen-vs-hertha-bsc/</link>
-<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]ein Sports 1[/B][/COLOR]</title>
-<link>http://weak_spell.carniferou.club/edge/Bein1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/manchester-united-vs-rochdale/</link>
-<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]P[/B][/COLOR][COLOR white][B]remier Sports 2 HD[/B][/COLOR]</title>
-<link><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://weak_spell.carniferou.club/edge/PR2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/manchester-united-vs-rochdale/</link>
-<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]N[/B][/COLOR][COLOR white][B]FL [/B][/COLOR]</title>
-<link>http://weak_spell.carniferou.club/edge/WeakSpell/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://123tvchannel.com</link>
-<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport La Liga[/B][/COLOR] RESOLUTION=1280x720p</title>
-<link>http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/bayern-munchen-vs-hertha-bsc/</link>
 <thumbnail></thumbnail>
 </item>
 
