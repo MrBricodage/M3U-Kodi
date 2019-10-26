@@ -35,18 +35,70 @@
 <fanart></fanart>
 </item>
 
+
+<!-- Catalogue de chaines caché derrière ce lien fonctionnel au 24/10/2019? -->
+
+
 <item>
-<title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien OK pour NHL Penguins @ Jets[/B][/COLOR]</title>
-<link>ignore.me</link>
-<externallink>http://dpaste.com/39WDZA0.txt</externallink>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/27.ts|User-Agent=Vidhemotreqim</link>
 <thumbnail></thumbnail>
 </item>
 
-<!-- Catalogue de chaines caché derrière ce lien fonctionnel au 24/10/2019? -->
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/28.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
 <link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/30.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/31.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/34.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/127.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/128.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/130.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/131.ts|User-Agent=Vidhemotreqim</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
+<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/134.ts|User-Agent=Vidhemotreqim</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -141,50 +193,8 @@ Mes Liens à tester
 
 
  -->
-<!-- Test récupération flux de y6stream.club -->
-<!-- Liens dans m3u sont fonctionnels (cf https://textuploader.com/10x4e/raw). Comment avoir des lien locaux? -->
 
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D y6stream content [/B][/COLOR]</title>
-<info>http://h0stream.club by Weak_Spell. y6stream.club/feed/</info>
-<link>http://weak_spell.carniferou.club/edge/SSME/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://h0stream.club/watch/bayern-munchen-vs-hertha-bsc/</link>
-<thumbnail></thumbnail>
-</item>
 
-page du match : view-source:http://weakspell.com/watch/miami-heat-vs-milwaukee-bucks/
-vidgstream donne l'id du stream choisi
-gethlsUrl(vidgstream) envoie en ajax (type = xhr) des paramètres en JSON
-Renvoie le lien dans data.rawUrl
-
-appel xhr : http://weakspell.com/gethls?idgstream=UmxDdmt1bkVla25sN2RWNFNPanl4UT09Ojpld3mOUJ6FkQYOLLgZCH0O&serverid=
-renvoi http://weak_spell.carniferou.club/edge/NBATV/playlist.m3u8
-
-Non fonctionnel via kodi en xml. Autre paramètre ou info player spécifique? M3U contient un User-Agent et un Referer
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/tottenham-hotspur-vs-crvena-zvezda/
-test en ajoutant les infos : toujours KO
-
-Nouveau test avec autre flux 
-
-http://y6stream.club/watch/washington-nationals-vs-houston-astros/
-http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8
-
-Appel interne KO
-Appel externallink vers m3u donnant accès aux flux : OK
-<item>
-<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #4[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3P3GM1D.txt</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-Le m3u contient exactement les mêmes infos que le lien interne
-#EXTM3U
-#EXTINF:-1,[COLOR yellow][B]NBA TV[/B][/COLOR] RESOLUTION=1280x720p
-http://weak_spell.carniferou.club/edge/NBATV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/tottenham-hotspur-vs-crvena-zvezda/
-
-#EXTINF:-1,[COLOR yellow][B]FOX[/B][/COLOR] RESOLUTION=1280x720p
-http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/washington-nationals-vs-houston-astros/
 
 <!-- 
 <item>
