@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <!-- 
-<item>
-<title>[COLOR yellow][B]T[/B][/COLOR][COLOR white][B]NT ACESTREAM[/B][/COLOR]</title>
-<info></info>
-<link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://c2f60c0a696dffe5c2dff6c937e0bff436513a4e</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y TS Link[/B][/COLOR]</title>
@@ -22,16 +16,15 @@
 
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y InputStream Link[/B][/COLOR]</title>
-<info>Pas de son avec InputStream?</info>
 <inputstream>http://watch.gotdark.com:80/richard/richard123/11093</inputstream>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR purple][B]M[/B][/COLOR][COLOR white][B]y ACESTREAM Link[/B][/COLOR]</title>
-<info></info>
 <link>plugin://program.plexus/?mode=1&amp;name=&amp;url=acestream://d557bda798c566e36c934121d5578354ac081f04</link>
 <thumbnail></thumbnail>
+
 </item> -->
 
 
@@ -57,28 +50,97 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR orange][B]C[/B][/COLOR][COLOR white][B]anal + FR HD[/B][/COLOR]</title>
+<info>Flux coupé au bout d'environ 30 secondes</info>
+<link>http://95.216.2.179/live/722040/331173/339/13706|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<info>Flux coupé au bout d'environ 30 secondes</info>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 1 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/13746|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=16&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 2 FR HD[/B][/COLOR]</title>
+<info>Flux coupé au bout d'environ 30 secondes</info>
+<link>http://95.216.2.179/live/722040/331173/339/13747|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 3 FR HD[/B][/COLOR]</title>
+<info>Flux coupé au bout d'environ 30 secondes</info>
+<link>http://95.216.2.179/live/722040/331173/339/13748|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max4 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max5 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/22661|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max6 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/22662|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max7 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/22663|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max8 FR HD[/B][/COLOR]</title>
+<link>http://95.216.2.179/live/722040/331173/339/18157|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
+<thumbnail></thumbnail>
+</item>
+
+
 <!-- Test liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chainesTest liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chaines -->
+
 <item>
-<title>[COLOR purple][B]F[/B][/COLOR][COLOR white][B]ox[/B][/COLOR]</title>
-<info>fonctionnel au 24/10/2019 pour WS match 2</info>
-<link>https://teleupmsl.akamaized.net/hls/live/2004009/wpmtmsl/wpmt_2000/chunklist.m3u8?hdntl=exp=1571951396~acl=/*~data=hdntl~hmac=e271a12e908107cfc28778ca3655ad235a74d6fcfa70d7bc80729e1876f1608c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0</link>
-<thumbnail></thumbnail>
+	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #1[/B][/COLOR]</title>
+	<link>http://weak_spell.carniferou.club/edge/NBATV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/tottenham-hotspur-vs-crvena-zvezda/</link>
 </item>
 
-
 <item>
-<title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien Mullafabz en test[/B][/COLOR]</title>
-<link>http://lfuvgjdfmefrfb.vbtuv.club/live/c/playlist.m3u8</link>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #2[/B][/COLOR]</title>
+<link>http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/washington-nationals-vs-houston-astros/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR purple][B]L[/B][/COLOR][COLOR white][B]Lien Mullafabz en test[/B][/COLOR]</title>
-<link>http://103.194.171.52:1935/hls/Football/playlist.m3u8</link>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #3[/B][/COLOR]</title>
+<link>https://textuploader.com/10x4e/raw</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://dpaste.com/3P3GM1D.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<!-- 
+Mes Liens à tester
+
+
+ -->
 <!-- Test récupération flux de y6stream.club -->
 <!-- Liens dans m3u sont fonctionnels (cf https://textuploader.com/10x4e/raw). Comment avoir des lien locaux? -->
 
@@ -89,6 +151,40 @@
 <thumbnail></thumbnail>
 </item>
 
+page du match : view-source:http://weakspell.com/watch/miami-heat-vs-milwaukee-bucks/
+vidgstream donne l'id du stream choisi
+gethlsUrl(vidgstream) envoie en ajax (type = xhr) des paramètres en JSON
+Renvoie le lien dans data.rawUrl
+
+appel xhr : http://weakspell.com/gethls?idgstream=UmxDdmt1bkVla25sN2RWNFNPanl4UT09Ojpld3mOUJ6FkQYOLLgZCH0O&serverid=
+renvoi http://weak_spell.carniferou.club/edge/NBATV/playlist.m3u8
+
+Non fonctionnel via kodi en xml. Autre paramètre ou info player spécifique? M3U contient un User-Agent et un Referer
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/tottenham-hotspur-vs-crvena-zvezda/
+test en ajoutant les infos : toujours KO
+
+Nouveau test avec autre flux 
+
+http://y6stream.club/watch/washington-nationals-vs-houston-astros/
+http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8
+
+Appel interne KO
+Appel externallink vers m3u donnant accès aux flux : OK
+<item>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://dpaste.com/3P3GM1D.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+Le m3u contient exactement les mêmes infos que le lien interne
+#EXTM3U
+#EXTINF:-1,[COLOR yellow][B]NBA TV[/B][/COLOR] RESOLUTION=1280x720p
+http://weak_spell.carniferou.club/edge/NBATV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/tottenham-hotspur-vs-crvena-zvezda/
+
+#EXTINF:-1,[COLOR yellow][B]FOX[/B][/COLOR] RESOLUTION=1280x720p
+http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/washington-nationals-vs-houston-astros/
 
 <!-- 
 <item>
