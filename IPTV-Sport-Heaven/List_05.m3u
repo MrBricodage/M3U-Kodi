@@ -1,9 +1,853 @@
 #EXTM3U
-#EXTINF:-1,CHAMPIONS LEAGUE_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
-#EXTINF:-1,StarSports_Hd1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
-#EXTINF:-1,AD SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AD SPORT3_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8
+#EXTINF:0,|FR| CANAL SPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39203.m3u8
+#EXTINF:0,|FR| CANAL SPORT HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15191.m3u8
+#EXTINF:0,|FR| CANAL SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9326.m3u8
+#EXTINF:0,|FR| CANAL  SPORT FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51166.m3u8
+#EXTINF:0,|FR| BeIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15204.m3u8
+#EXTINF:0,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9340.m3u8
+#EXTINF:0,|FR| BEIN SPORT 1 HD (BACKUP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9345.m3u8
+#EXTINF:0,|FR| BEINSPORT 1 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9589.m3u8
+#EXTINF:0,|FR| BEIN SPORT 1 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51102.m3u8
+#EXTINF:0,|FR| BeIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15203.m3u8
+#EXTINF:0,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9339.m3u8
+#EXTINF:0,|FR| BEIN SPORT 2 HD (BACKUP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9344.m3u8
+#EXTINF:0,|FR| BEINSPORT 2 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9588.m3u8
+#EXTINF:0,|FR| BEIN SPORT 2 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51101.m3u8
+#EXTINF:0,|FR| BeIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15202.m3u8
+#EXTINF:0,|FR|  BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9341.m3u8
+#EXTINF:0,|FR| BEIN SPORT 3 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9343.m3u8
+#EXTINF:0,|FR| BEINSPORT 3 FR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9587.m3u8
+#EXTINF:0,|FR| BEIN SPORT 3 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51100.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15210.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15209.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15208.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15207.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15206.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15205.m3u8
+#EXTINF:0,|FR| BeIN Sports MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15211.m3u8
+#EXTINF:0,|FR| RMC Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15127.m3u8
+#EXTINF:0,|FR| RMC Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9218.m3u8
+#EXTINF:0,|FR| RMC Sport 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9502.m3u8
+#EXTINF:0,|FR| RMC Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15126.m3u8
+#EXTINF:0,|FR| RMC Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9217.m3u8
+#EXTINF:0,|FR| RMC SPORT 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9501.m3u8
+#EXTINF:0,|FR| RMC Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15125.m3u8
+#EXTINF:0,|FR| RMC Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9216.m3u8
+#EXTINF:0,|FR| RMC SPORT 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9500.m3u8
+#EXTINF:0,|FR| RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15124.m3u8
+#EXTINF:0,|FR| RMC Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9215.m3u8
+#EXTINF:0,|FR| RMC SPORT 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9499.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40480.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40479.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40478.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40477.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40476.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40475.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40474.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40473.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40472.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40471.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40470.m3u8
+#EXTINF:0,|FR| RMC SPORT LIVE 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40469.m3u8
+#EXTINF:0,|FR| RMC SPORT ACCESS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40484.m3u8
+#EXTINF:0,|FR| RMC SPORT ACCESS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40483.m3u8
+#EXTINF:0,|FR| RMC SPORT ACCESS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40482.m3u8
+#EXTINF:0,|FR| RMC SPORT ACCESS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40481.m3u8
+#EXTINF:0,|FR| BFM SPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9337.m3u8
+#EXTINF:0,|FR| Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15172.m3u8
+#EXTINF:0,|FR| EUROSPORT1 HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9281.m3u8
+#EXTINF:0,|FR| EUROSPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9549.m3u8
+#EXTINF:0,|FR| EUROSPORT FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51105.m3u8
+#EXTINF:0,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9279.m3u8
+#EXTINF:0,|FR| Eurosport 2  HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9280.m3u8
+#EXTINF:0,|FR| EUROSPORT 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9548.m3u8
+#EXTINF:0,|FR| EUROSPORT 2 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51106.m3u8
+#EXTINF:0,|FR| EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15227.m3u8
+#EXTINF:0,|FR| INFOSPORT HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9265.m3u8
+#EXTINF:0,|FR| INFOSPORT HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15156.m3u8
+#EXTINF:0,|FR| INFOSPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9534.m3u8
+#EXTINF:0,|FR| MOTORSPORT TV HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15147.m3u8
+#EXTINF:0,|FR| MOTORSPORT.TV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9526.m3u8
+#EXTINF:0,|FR| L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9264.m3u8
+#EXTINF:0,|FR| L EQUIPE 21 HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15155.m3u8
+#EXTINF:0,|FR| L'EQUIPE 21 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9533.m3u8
+#EXTINF:0,|FR| OLTV HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9243.m3u8
+#EXTINF:0,|FR| OMTV HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30599.m3u8
+#EXTINF:0,|FR| AB Moteur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9359.m3u8
+#EXTINF:0,|FR| EQUIDIA LIFE HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15228.m3u8
+#EXTINF:0,|FR| EQUIDIA LIFE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9551.m3u8
+#EXTINF:0,|FR| EQUIDIA LIVE HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9282.m3u8
+#EXTINF:0,|FR| Equidia Live HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15173.m3u8
+#EXTINF:0,|FR| EQUIDIA LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9550.m3u8
+#EXTINF:0,|FR| EQUIDIA LIVE FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51140.m3u8
+#EXTINF:0,|FR| GOLF  HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9270.m3u8
+#EXTINF:0,|FR| GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15161.m3u8
+#EXTINF:0,|FR| GOLF  FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9540.m3u8
+#EXTINF:0,|FR| GOLF  CHANNEL HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9378.m3u8
+#EXTINF:0,|FR| GOLF CHANNEL HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15162.m3u8
+#EXTINF:0,|FR| GOLF CHANNEL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9539.m3u8
+#EXTINF:0,|FR| GOLF CHANNEL FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51103.m3u8
+#EXTINF:0,|FR | Foot+ 24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32819.m3u8
+#EXTINF:0,|FR| FOOT  24/24 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51104.m3u8
+#EXTINF:0,|FR| Golf+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/43446.m3u8
+#EXTINF:0,|FR| Golf+ HD BKP.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/43445.m3u8
+#EXTINF:0,|FR| GOLF  FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51107.m3u8
+#EXTINF:0,|FR| BEIN SPORTS 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56307.m3u8
+#EXTINF:0,|FR| BEIN SPORTS 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56306.m3u8
+#EXTINF:0,|FR| BEIN SPORTS 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56305.m3u8
+#EXTINF:0,|FR| CANAL SPORT H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56295.m3u8
+#EXTINF:0,|FR| EQUIDIA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56281.m3u8
+#EXTINF:0,|FR| EUROSPORT 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56280.m3u8
+#EXTINF:0,|FR| EUROSPORT H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56279.m3u8
+#EXTINF:0,|FR| RMC SPORT 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56250.m3u8
+#EXTINF:0,|FR| RMC SPORT 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56249.m3u8
+#EXTINF:0,|FR| RMC SPORT 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56248.m3u8
+#EXTINF:0,|FR| RMC SPORT 4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56247.m3u8
+#EXTINF:0,|FR HEVC| BEIN SPORTS 1 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51199.m3u8
+#EXTINF:0,|FR HEVC| BEIN SPORTS 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51198.m3u8
+#EXTINF:0,|FR HEVC| BEIN SPORTS 3 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51197.m3u8
+#EXTINF:0,|FR HEVC| CANAL  SPORT FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51193.m3u8
+#EXTINF:0,|AR| BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9156.m3u8
+#EXTINF:0,|AR| Bein Sport 1SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32015.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9131.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 1 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28265.m3u8
+#EXTINF:0,|AR| Bein Sport 2SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32014.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9134.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 2 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9135.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 2 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28266.m3u8
+#EXTINF:0,|AR| Bein Sport 3SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32013.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9136.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 3 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9137.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 3 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28267.m3u8
+#EXTINF:0,|AR| Bein Sport 4SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32012.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9138.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 4 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9139.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 4 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28268.m3u8
+#EXTINF:0,|AR| Bein Sport 5SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32011.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9140.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 5 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9141.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 5 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28269.m3u8
+#EXTINF:0,|AR| Bein Sport 6SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32010.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9142.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 6 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9143.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 6 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28270.m3u8
+#EXTINF:0,|AR| Bein Sport 7SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32009.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9144.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 7 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9145.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 7 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/28271.m3u8
+#EXTINF:0,|AR| Bein Sport 8SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32008.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9146.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 8 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9147.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 8 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39224.m3u8
+#EXTINF:0,|AR| Bein Sport 9SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32007.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9148.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 9 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9149.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 9 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39225.m3u8
+#EXTINF:0,|AR| Bein Sport 10SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32006.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9150.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 10 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9151.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 10 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39226.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 11 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9153.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 12 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9154.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 13 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9155.m3u8
+#EXTINF:0,OSN_Sports_Action_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49394.m3u8
+#EXTINF:0,|AR| MA arriadia hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15769.m3u8
+#EXTINF:0,- |AR| AD SPORT 1 +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22481.m3u8
+#EXTINF:0,|AR| AD Sports 1 HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9189.m3u8
+#EXTINF:0,|AR| AD Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9188.m3u8
+#EXTINF:0,|AR| AD Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9187.m3u8
+#EXTINF:0,|AR| AD Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9186.m3u8
+#EXTINF:0,|AR| AD Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9185.m3u8
+#EXTINF:0,|AR| AD Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9184.m3u8
+#EXTINF:0,|AR| OSN Alkass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15696.m3u8
+#EXTINF:0,|AR| OSN Alkass Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15695.m3u8
+#EXTINF:0,|AR| OSN Alkass Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15694.m3u8
+#EXTINF:0,|AR| OSN Alkass Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15693.m3u8
+#EXTINF:0,|AR| OSN Alkass Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15692.m3u8
+#EXTINF:0,|AR|* AR BEIN SPORT AlKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/16230.m3u8
+#EXTINF:0,|AR|* AR BEIN SPORT AlKASS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/16229.m3u8
+#EXTINF:0,|AR|* AR BEIN SPORT AlKASS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/16228.m3u8
+#EXTINF:0,|AR|* AR:BEIN-SPORT-AlKASS-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/16080.m3u8
+#EXTINF:0,|AR|* AR:BEIN-SPORT-AlKASS-4-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/16079.m3u8
+#EXTINF:0,|SW| UPC My Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20586.m3u8
+#EXTINF:0,|SW| TeleClub SPORT Flash HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20590.m3u8
+#EXTINF:0,|SW| Teleclub Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20592.m3u8
+#EXTINF:0,|SW| Teleclub Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20593.m3u8
+#EXTINF:0,|nBE| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48135.m3u8
+#EXTINF:0,|nBE| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48134.m3u8
+#EXTINF:0,|nBE| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48133.m3u8
+#EXTINF:0,|nBE| VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48141.m3u8
+#EXTINF:0,|nBE| Voo Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48140.m3u8
+#EXTINF:0,|nBE| Voo Sport World 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48138.m3u8
+#EXTINF:0,|nBE| Voo Sport World 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48137.m3u8
+#EXTINF:0,|nBE| Voo Sport World 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48139.m3u8
+#EXTINF:0,|BE| Voo Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17052.m3u8
+#EXTINF:0,|UK  | ***** UK SPORT *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31409.m3u8
+#EXTINF:0,|UK  | Sky Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30966.m3u8
+#EXTINF:0,|UK  | Sky Sport Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30863.m3u8
+#EXTINF:0,|UK  | Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30967.m3u8
+#EXTINF:0,|UK  | Sky Sport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30862.m3u8
+#EXTINF:0,|UK  | SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31086.m3u8
+#EXTINF:0,|UK  | SKY SPORTS ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30941.m3u8
+#EXTINF:0,|UK  | SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31085.m3u8
+#EXTINF:0,|UK  | SKY SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30940.m3u8
+#EXTINF:0,|UK  | SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31087.m3u8
+#EXTINF:0,|UK  | SKY SPORTS GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30942.m3u8
+#EXTINF:0,|UK  | SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31084.m3u8
+#EXTINF:0,|UK  | SKY SPORTS MAIN EVENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30945.m3u8
+#EXTINF:0,|UK  | Sky Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31025.m3u8
+#EXTINF:0,|UK  | SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31088.m3u8
+#EXTINF:0,|UK  | SKY SPORTS PREMIER LEAGUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30943.m3u8
+#EXTINF:0,|UK  | Sky Sports The Open HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30858.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30999.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30998.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports 3 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30997.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports 4 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30996.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports 5 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30995.m3u8
+#EXTINF:0,VIP |UK  | Sky Sports F1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30994.m3u8
+#EXTINF:0,|UK  | BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30904.m3u8
+#EXTINF:0,|UK  | BT Sport 1 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30871.m3u8
+#EXTINF:0,|UK  | BT Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31044.m3u8
+#EXTINF:0,|UK  | BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30905.m3u8
+#EXTINF:0,VIP |UK  | BT Sport 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31001.m3u8
+#EXTINF:0,|UK  | BT Sport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31036.m3u8
+#EXTINF:0,|UK  | BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31027.m3u8
+#EXTINF:0,VIP |UK  | BT Sport 3 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31000.m3u8
+#EXTINF:0,|UK  | BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30906.m3u8
+#EXTINF:0,|UK  | BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31037.m3u8
+#EXTINF:0,|UK  | BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31038.m3u8
+#EXTINF:0,|UK  | BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31039.m3u8
+#EXTINF:0,|UK  | BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31040.m3u8
+#EXTINF:0,|UK  | BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31041.m3u8
+#EXTINF:0,|UK  | BT Sport Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30907.m3u8
+#EXTINF:0,|UK  | BT Sport Mosaic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31042.m3u8
+#EXTINF:0,|UK  | BT Sport Mosaic 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31043.m3u8
+#EXTINF:0,|UK  | Chelsea FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31047.m3u8
+#EXTINF:0,|UK  | Chelsea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30950.m3u8
+#EXTINF:0,|UK  | Eir Sports1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31055.m3u8
+#EXTINF:0,|UK  | Eir Sports2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31056.m3u8
+#EXTINF:0,|UK  | Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31057.m3u8
+#EXTINF:0,|UK  | EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30890.m3u8
+#EXTINF:0,|UK  | Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31058.m3u8
+#EXTINF:0,|UK  | EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30891.m3u8
+#EXTINF:0,|UK  | Manchester United TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30958.m3u8
+#EXTINF:0,|UK  | Celtic FC TV (Live for Matches )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30894.m3u8
+#EXTINF:0,|UK  | Premier Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31024.m3u8
+#EXTINF:0,|UK  | PREMIERE SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31077.m3u8
+#EXTINF:0,VIP |UK  | Premier Sports FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30989.m3u8
+#EXTINF:0,|UK  | Boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30903.m3u8
+#EXTINF:0,|UK  | At The Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31033.m3u8
+#EXTINF:0,|UK  | Mototrs TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30960.m3u8
+#EXTINF:0,|UK  | Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31078.m3u8
+#EXTINF:0,|UK  | RANGERS FC TV (matchtime)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30893.m3u8
+#EXTINF:0,PPV |UK| BT Sport Box Office HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39288.m3u8
+#EXTINF:0,PPV |UK| ITV Box Off HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39285.m3u8
+#EXTINF:0,PPV BRAVEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39284.m3u8
+#EXTINF:0,PPV BT SPORT BOX OFFICE 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39287.m3u8
+#EXTINF:0,PPV BT SPORT BOX OFFICE 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39286.m3u8
+#EXTINF:0,|USA  | ***** USA SPORTS *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31851.m3u8
+#EXTINF:0,|USA  | MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31724.m3u8
+#EXTINF:0,|USA  | MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31808.m3u8
+#EXTINF:0,|USA  | NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31786.m3u8
+#EXTINF:0,|USA  | NBCSNHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31768.m3u8
+#EXTINF:0,|USA  | Bein Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31827.m3u8
+#EXTINF:0,|USA  | BTN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31709.m3u8
+#EXTINF:0,|USA  | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31765.m3u8
+#EXTINF:0,|USA  | ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31755.m3u8
+#EXTINF:0,|USA  | ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31805.m3u8
+#EXTINF:0,|USA  | ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31778.m3u8
+#EXTINF:0,|USA  | CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31710.m3u8
+#EXTINF:0,|USA  | CBSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31731.m3u8
+#EXTINF:0,|USA  | Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31766.m3u8
+#EXTINF:0,|USA  | Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31767.m3u8
+#EXTINF:0,|USA  | Fox sport 1 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31708.m3u8
+#EXTINF:0,|USA  | MLB Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31807.m3u8
+#EXTINF:0,|USA  |  NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31741.m3u8
+#EXTINF:0,|USA  | NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31759.m3u8
+#EXTINF:0,|USA  | NHL Network(1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31809.m3u8
+#EXTINF:0,|USA  | SEC Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31810.m3u8
+#EXTINF:0,|USA  | TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31762.m3u8
+#EXTINF:0,|USA  | TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31813.m3u8
+#EXTINF:0,|USA  | TSN 3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31815.m3u8
+#EXTINF:0,|USA  | CA | TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31814.m3u8
+#EXTINF:0,|USA  | CA | TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31816.m3u8
+#EXTINF:0,|USA  | CA | TSN 5*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31817.m3u8
+#EXTINF:0,|USA  | Tennis Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31749.m3u8
+#EXTINF:0,|USA  | WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31775.m3u8
+#EXTINF:0,|USA  | AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31825.m3u8
+#EXTINF:0,|USA  | AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31826.m3u8
+#EXTINF:0,|USA  | FIGHT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31818.m3u8
+#EXTINF:0,|USA  | FOX 43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31806.m3u8
+#EXTINF:0,|USA  | FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31756.m3u8
+#EXTINF:0,|USA  | FOXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31834.m3u8
+#EXTINF:0,|USA  | FUEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31791.m3u8
+#EXTINF:0,|USA  | FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31835.m3u8
+#EXTINF:0,|USA  | Fight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31735.m3u8
+#EXTINF:0,|USA  | NFL Network 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31798.m3u8
+#EXTINF:0,|USA  | NFL Network 1080i
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31727.m3u8
+#EXTINF:0,|USA  | NFL REDZONE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31726.m3u8
+#EXTINF:0,|USA  | PAC-12 Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31769.m3u8
+#EXTINF:0,|USA  | PAC-12 Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31770.m3u8
+#EXTINF:0,|USA  | PAC-12 Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31771.m3u8
+#EXTINF:0,|USA  | PAC-12 Oregon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31772.m3u8
+#EXTINF:0,|USA  | PAC-12 Washington
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31773.m3u8
+#EXTINF:0,|USA  | Sports-Net
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31844.m3u8
+#EXTINF:0,|USA  | Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31812.m3u8
+#EXTINF:0,|USA  | VIP: BAYERN FC TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/31712.m3u8
+#EXTINF:0,|newCA| SPORTNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50066.m3u8
+#EXTINF:0,|newCA| SPORTNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50065.m3u8
+#EXTINF:0,|newCA| SPORTNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50064.m3u8
+#EXTINF:0,|newCA| SPORTS NET EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50063.m3u8
+#EXTINF:0,|newCA| SPORTS NET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50062.m3u8
+#EXTINF:0,|newCA| SPORTS NET ONTARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50061.m3u8
+#EXTINF:0,|newCA| SPORTS NET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50060.m3u8
+#EXTINF:0,|newCA| SPORTS NET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50059.m3u8
+#EXTINF:0,|newCA| SPORTSMAN CHANNEL CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50058.m3u8
+#EXTINF:0,|newCA| SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50057.m3u8
+#EXTINF:0,|lat1| Latino: FOX SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48552.m3u8
+#EXTINF:0,|lat1| Latino: Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48617.m3u8
+#EXTINF:0,|lat1| Latino: Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48618.m3u8
+#EXTINF:0,|BR2| Eimax 1 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48346.m3u8
+#EXTINF:0,|BR2| Eimax 2 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48328.m3u8
+#EXTINF:0,|BR2| ESPN Brasil Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48367.m3u8
+#EXTINF:0,|BR2| Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48364.m3u8
+#EXTINF:0,|BR2| Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48365.m3u8
+#EXTINF:0,|BR2| SporTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48363.m3u8
+#EXTINF:0,|BR2| SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48362.m3u8
+#EXTINF:0,|BR2| SporTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48361.m3u8
+#EXTINF:0,|BR1| Sport TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48269.m3u8
+#EXTINF:0,|BR1| Sport TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48268.m3u8
+#EXTINF:0,|BR1| Sport TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48267.m3u8
+#EXTINF:0,|LATINO| FOX SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39109.m3u8
+#EXTINF:0,|LATINO| Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39172.m3u8
+#EXTINF:0,|LATINO| Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39173.m3u8
+#EXTINF:0,|BR| Sport TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17577.m3u8
+#EXTINF:0,|BR| SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17576.m3u8
+#EXTINF:0,|BR| SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17575.m3u8
+#EXTINF:0,|BR| Sport TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17574.m3u8
+#EXTINF:0,|BR| Sport TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17573.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49754.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39209.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49753.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39208.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49752.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39207.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49751.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39206.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49750.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39205.m3u8
+#EXTINF:0,|PT*.*| Eleven Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49749.m3u8
+#EXTINF:0,|PT| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39204.m3u8
+#EXTINF:0,|PT*.*| EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49727.m3u8
+#EXTINF:0,|PT*.*| Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49726.m3u8
+#EXTINF:0,|PT*.*| Kombat Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49712.m3u8
+#EXTINF:0,|PT| SPORT TV  (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27683.m3u8
+#EXTINF:0,|PT| SPORT TV (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27696.m3u8
+#EXTINF:0,|PT| SPORT TV   FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27682.m3u8
+#EXTINF:0,|PT| SPORT TV 1 (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27694.m3u8
+#EXTINF:0,|PT*.*| SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49687.m3u8
+#EXTINF:0,|PT| SPORT TV 1 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27681.m3u8
+#EXTINF:0,|PT*.*| SPORT TV 2 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49688.m3u8
+#EXTINF:0,|PT| SPORT TV 2 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27680.m3u8
+#EXTINF:0,|PT*.*| SPORT TV 3 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49689.m3u8
+#EXTINF:0,|PT| SPORT TV 3 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27679.m3u8
+#EXTINF:0,|PT*.*| SPORT TV 4 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49690.m3u8
+#EXTINF:0,|PT| SPORT TV 4 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27678.m3u8
+#EXTINF:0,|PT*.*| SPORT TV 5 FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49691.m3u8
+#EXTINF:0,|PT| SPORT TV 5 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27677.m3u8
+#EXTINF:0,|PT*.*| SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49692.m3u8
+#EXTINF:0,|PT| EUROSPORT 1 (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27714.m3u8
+#EXTINF:0,|PT| EUROSPORT 1 FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27674.m3u8
+#EXTINF:0,|PT| Sporting TV FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27676.m3u8
+#EXTINF:0,|PT|:  EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22232.m3u8
+#EXTINF:0,|PT|:  EUROSPORT 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22231.m3u8
+#EXTINF:0,|PT|:  EUROSPORT 2 XTRA HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22230.m3u8
+#EXTINF:0,|PT|:  SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22165.m3u8
+#EXTINF:0,|PT|:  Sporting TV HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22164.m3u8
+#EXTINF:0,|PT*.*| PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49693.m3u8
+#EXTINF:0,|PT*.*| Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49702.m3u8
+#EXTINF:0,|PT*.*| Fight Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49719.m3u8
+#EXTINF:0,|PT*.*| Fight Channel / Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49718.m3u8
+#EXTINF:0,|PT*.*| MOTORS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49694.m3u8
+#EXTINF:0,|PT*.*| MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49709.m3u8
+#EXTINF:0,|PT*.*| NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49707.m3u8
+#EXTINF:0,|PT| FIGHT NETWORK FULLHD (L)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/27672.m3u8
+#EXTINF:0,|PT|:  FIGHT NETWORK HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22228.m3u8
+#EXTINF:0,|PT|:  MOTORS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22210.m3u8
+#EXTINF:0,|PT|:  MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22209.m3u8
+#EXTINF:0,|PT|:  MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22208.m3u8
+#EXTINF:0,|PT|* Motors_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22101.m3u8
+#EXTINF:0,|PT|* Motorvision_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22100.m3u8
+#EXTINF:0,|NL| Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20480.m3u8
+#EXTINF:0,|NL| FOX Sports 1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20479.m3u8
+#EXTINF:0,|NL| Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20478.m3u8
+#EXTINF:0,|NL| FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20477.m3u8
+#EXTINF:0,|NL| Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20476.m3u8
+#EXTINF:0,|NL| FOX Sports 3 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20475.m3u8
+#EXTINF:0,|NL| Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20474.m3u8
+#EXTINF:0,|NL| Fox Sports 4 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20473.m3u8
+#EXTINF:0,|NL| Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20472.m3u8
+#EXTINF:0,|NL| Fox Sports 5 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20471.m3u8
+#EXTINF:0,|NL| Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20470.m3u8
+#EXTINF:0,|NL| Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20484.m3u8
+#EXTINF:0,|NL| Eurosport 1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20483.m3u8
+#EXTINF:0,|NL| Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20482.m3u8
+#EXTINF:0,|NL| Ziggo Sport Extra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20494.m3u8
+#EXTINF:0,|NL| Ziggo Sport Extra2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20493.m3u8
+#EXTINF:0,|NL| Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20492.m3u8
+#EXTINF:0,|NL| Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20491.m3u8
+#EXTINF:0,|NL| Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20490.m3u8
+#EXTINF:0,|NL| Ziggo Sport Select FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20450.m3u8
+#EXTINF:0,|NL| Ziggo Sport.Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/20489.m3u8
+#EXTINF:0,|NL|: Eurosport 1 HD NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48806.m3u8
+#EXTINF:0,|NL|: EUROSPORT 2 NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48805.m3u8
+#EXTINF:0,|NL|: FOX Sports 2 HD int
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48842.m3u8
+#EXTINF:0,|NL|: FOX SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48798.m3u8
+#EXTINF:0,|NL|: FOX SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48840.m3u8
+#EXTINF:0,|NL|: FOX SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48839.m3u8
+#EXTINF:0,|NL|: FOX SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48838.m3u8
+#EXTINF:0,|NL|: FOX Sports EDL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48843.m3u8
+#EXTINF:0,|NL|: FOX Sports EDL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48841.m3u8
+#EXTINF:0,|NL|: Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48830.m3u8
+#EXTINF:0,|NL|: ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48829.m3u8
+#EXTINF:0,|NL|: ZIGGO SPORT SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48761.m3u8
+#EXTINF:0,|NL|: Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48831.m3u8
+#EXTINF:0,|NL|: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48832.m3u8
+#EXTINF:0,|TR *| beINSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56516.m3u8
+#EXTINF:0,|TR *| beINSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56515.m3u8
+#EXTINF:0,|TR *| beINSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56514.m3u8
+#EXTINF:0,|TR *| beINSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56513.m3u8
+#EXTINF:0,|TR *| Smart Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56471.m3u8
+#EXTINF:0,|TR *| Smart Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56472.m3u8
+#EXTINF:0,|TR *| Star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56473.m3u8
+#EXTINF:0,|TR *| TGRT Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56474.m3u8
+#EXTINF:0,|TR *| TiviBu Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56383.m3u8
+#EXTINF:0,|TR *| TiviBu Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56381.m3u8
+#EXTINF:0,|TR *| TiviBu Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56380.m3u8
+#EXTINF:0,|TR *| TiviBu Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56379.m3u8

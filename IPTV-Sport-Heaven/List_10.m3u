@@ -1,9 +1,121 @@
 #EXTM3U
-#EXTINF:-1,RTSHsport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1,RTSHsport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSH Sport HD 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.106.48.2:80/live/rtsh_sport_ott/playlist.m3u8
-#EXTINF:-1,RTSH Sport HD 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:0,TR:BEIN SPORTS 1 SD (480 p)_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/304.ts
+#EXTINF:0,TR:BEIN SPORTS 1 HD 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/305.ts
+#EXTINF:0,BEIN SPORTS 1 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1348.ts
+#EXTINF:0,BEIN SPORTS 1 HD ( 50FPS )_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1347.ts
+#EXTINF:0,TR:BEIN SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/303.ts
+#EXTINF:0,TR:BEIN SPORTS HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/302.ts
+#EXTINF:0,TR:BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/306.ts
+#EXTINF:0,TR:BEIN SPORTS 2 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/307.ts
+#EXTINF:0,TR:BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/308.ts
+#EXTINF:0,TR:BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/309.ts
+#EXTINF:0,TR:BEIN SPORTS 4 SD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/310.ts
+#EXTINF:0,TR:BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/311.ts
+#EXTINF:0,TR:BEIN SPORTS MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/312.ts
+#EXTINF:0,TR:BEIN SPORTS MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/313.ts
+#EXTINF:0,TR:TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/314.ts
+#EXTINF:0,TR:TIVIBUSPOR 2 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/315.ts
+#EXTINF:0,TR:TIVIBUSPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/316.ts
+#EXTINF:0,TR:SMARTSPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/319.ts
+#EXTINF:0,TR:S SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/317.ts
+#EXTINF:0,TR:S SPORT 2 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/318.ts
+#EXTINF:0,TR:SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/326.ts
+#EXTINF:0,TR:NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/331.ts
+#EXTINF:0,TR:NBA TV HD PLUS_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/982.ts
+#EXTINF:0,TR:TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/320.ts
+#EXTINF:0,TR:TRT SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/410.ts
+#EXTINF:0,TR:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/327.ts
+#EXTINF:0,TR:EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/328.ts
+#EXTINF:0,iDMAN TV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/247.ts
+#EXTINF:0,TR:A SPOR HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/322.ts
+#EXTINF:0,DE:SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1022.ts
+#EXTINF:0,DE:SPORT DIGITAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1020.ts
+#EXTINF:0,DE:SPORT 1 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1021.ts
+#EXTINF:0,DE:SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1028.ts
+#EXTINF:0,DE:SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1027.ts
+#EXTINF:0,DE:SKY SPORT 3 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1026.ts
+#EXTINF:0,DE:SKY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1025.ts
+#EXTINF:0,DE:SKY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1024.ts
+#EXTINF:0,DE:SKY SPORT 6 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1023.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1034.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1033.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1032.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1031.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1030.ts
+#EXTINF:0,DE:SKY BUNDESLIGA 6 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1029.ts
+#EXTINF:0,DE:MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1035.ts
+#EXTINF:0,DE:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1037.ts
+#EXTINF:0,DE:EUROSPORT 2 HD_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1036.ts
+#EXTINF:0,NL:FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1188.ts
+#EXTINF:0,NL:FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1189.ts
+#EXTINF:0,NL:FOX SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1190.ts
+#EXTINF:0,NL:ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1196.ts
+#EXTINF:0,NL:ZIGGO SPORT VOETBAL_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1197.ts
+#EXTINF:0,USA:BEINT SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1168.ts
+#EXTINF:0,USA:BEINT SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1169.ts
+#EXTINF:0,USA:BEINT SPORT TV 3_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1170.ts
+#EXTINF:0,USA:BEINT SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1171.ts
+#EXTINF:0,USA:D SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1181.ts
+#EXTINF:0,USA:DD SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1180.ts
+#EXTINF:0,USA:EDGE SPORTS_Website: tv.tousecurity.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1176.ts
+#EXTINF:0,USA:FIGHTBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1179.ts

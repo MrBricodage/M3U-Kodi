@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,CH_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,CH_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1,CH_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+#EXTINF:-1,CH_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/TokTok-Backup-M.m3u8
+#EXTINF:-1,CH_6
+https://swhd.herokuapp.com/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.107:80/hls/m3u8/ON-Drama.m3u8
+#EXTINF:-1,CH_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
+#EXTINF:-1,CH_8
+https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
+#EXTINF:-1,CH_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://43.245.34.2:9000/live/TownTVKH.m3u8

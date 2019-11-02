@@ -1,9 +1,79 @@
 #EXTM3U
-#EXTINF:-1,DD Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
-#EXTINF:-1,DD Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1,DD Sports (Opt-1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1,DD Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream
+#EXTINF:0,VIP IL: YES SPORT1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/20415
+#EXTINF:0,VIP IL: YES SPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/5958
+#EXTINF:0,VIP IL: YES SPORT2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/21901
+#EXTINF:0,VIP IL: YES SPORT2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/5957
+#EXTINF:0,VIP IL: YES SPORT3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/21899
+#EXTINF:0,VIP IL: YES SPORT3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/11471
+#EXTINF:0,VIP IL: YES SPORT4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/21900
+#EXTINF:0,VIP IL: YES SPORT4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/11472
+#EXTINF:0,VIP IL: Fox Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/3341
+#EXTINF:0,VIP IL: Sport 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/20416
+#EXTINF:0,VIP IL: Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/19813
+#EXTINF:0,VIP IL: Sport 5+ Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25825
+#EXTINF:0,VIP IL: Sport 5+ Stars FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/5955
+#EXTINF:0,VIP IL: Sport 5+ Stars HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25826
+#EXTINF:0,VIP IL: Sport 5 Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/22315
+#EXTINF:0,VIP IL: Sport 5 Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/12823
+#EXTINF:0,VIP IL: Sport 5 Gold_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/11725
+#EXTINF:0,VIP TR: Bein Sport Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/14792
+#EXTINF:0,VIP TR: Bein Sport 1HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/16292
+#EXTINF:0,VIP TR: Bein Sport 2HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/16291
+#EXTINF:0,VIP TR: Bein Sport 3HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/16290
+#EXTINF:0,VIP TR: Bein Sport 4HD 1080P_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/16289
+#EXTINF:0,VIP TR: Bein Sports FHD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25955
+#EXTINF:0,VIP TR: Bein Sports FHD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25954
+#EXTINF:0,VIP TR: Bein Sports FHD3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25953
+#EXTINF:0,VIP TR: Bein Sports FHD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/25952
+#EXTINF:0,VIP TR: Bein Sport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7333
+#EXTINF:0,VIP TR: Bein Sport 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7334
+#EXTINF:0,VIP TR: Bein Sport 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7335
+#EXTINF:0,VIP TR: Bein Sport 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7336
+#EXTINF:0,VIP TR: Bein Sport MAX 1HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/9592
+#EXTINF:0,VIP TR: Bein Sport MAX 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/9591
+#EXTINF:0,VIP TR: TiviBu Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7337
+#EXTINF:0,VIP TR: TiviBu Sport 2 _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7338
+#EXTINF:0,VIP TR: TiviBu Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7421
+#EXTINF:0,VIP TR: TiviBu Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7422
+#EXTINF:0,VIP TR: TiviBu Sport 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/14793
+#EXTINF:0,VIP TR: Smart Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/7423
+#EXTINF:0,VIP TR: S sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/captain/captain/11872

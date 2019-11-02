@@ -1,35 +1,603 @@
 #EXTM3U
-#EXTINF:-1,FR:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66508
-#EXTINF:-1,FR:Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66507
-#EXTINF:-1,FR:Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66506
-#EXTINF:-1,FR:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66504
-#EXTINF:-1,FR:DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66503
-#EXTINF:-1,FR:ENORME TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66502
-#EXTINF:-1,FR:EQUIDIA Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66501
-#EXTINF:-1,FR:Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66500
-#EXTINF:-1,FR:Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66499
-#EXTINF:-1,FR:Foot 24/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66498
-#EXTINF:-1,FR:FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66497
-#EXTINF:-1,FR:France 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66496
-#EXTINF:-1,FR:France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66495
-#EXTINF:-1,FR:France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66494
-#EXTINF:-1,FR:France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66493
-#EXTINF:-1,FR:France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66492
-#EXTINF:-1,FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainbalance.tk:2086/Cream/Cream/66459
+#EXTINF:-1,TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4183
+#EXTINF:-1,M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6725
+#EXTINF:-1,W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4232
+#EXTINF:-1,M6-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4188
+#EXTINF:-1,TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6724
+#EXTINF:-1,France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4184
+#EXTINF:-1,France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4185
+#EXTINF:-1,France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4186
+#EXTINF:-1,France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4187
+#EXTINF:-1,FRANCE Ãƒâ€
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4221
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/7018
+#EXTINF:-1,France info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6649
+#EXTINF:-1,TF1 SERIES FILMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4194
+#EXTINF:-1,NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4189
+#EXTINF:-1,NRJ12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6726
+#EXTINF:-1,Elle Girl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6718
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6786
+#EXTINF:-1,E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6719
+#EXTINF:-1,C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4190
+#EXTINF:-1,France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4191
+#EXTINF:-1,CHERIE-25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4233
+#EXTINF:-1,TV-BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4234
+#EXTINF:-1,TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5251
+#EXTINF:-1,Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5256
+#EXTINF:-1,13ème RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5257
+#EXTINF:-1,Paris_Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5258
+#EXTINF:-1,SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5259
+#EXTINF:-1,Serie_Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5260
+#EXTINF:-1,RMC Decouverte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5261
+#EXTINF:-1,Numero_23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5276
+#EXTINF:-1,AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5279
+#EXTINF:-1,FR: A+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/28766
+#EXTINF:-1,Comedie+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5281
+#EXTINF:-1,Paramount_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5264
+#EXTINF:-1,CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4224
+#EXTINF:-1,CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4225
+#EXTINF:-1,CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4226
+#EXTINF:-1,CANAL+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4227
+#EXTINF:-1,CANAL+ SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4228
+#EXTINF:-1,Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4229
+#EXTINF:-1,CINE  CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5252
+#EXTINF:-1,CINE-FRISSON-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4231
+#EXTINF:-1,CINE-PREMIER-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4230
+#EXTINF:-1,CINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5253
+#EXTINF:-1,CINE  FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5250
+#EXTINF:-1,Cine_Polar_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5278
+#EXTINF:-1,Cine  Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/14561
+#EXTINF:-1,Cine FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/14562
+#EXTINF:-1,Warner TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/14709
+#EXTINF:-1,OCS_Choc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5254
+#EXTINF:-1,OCS_CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5255
+#EXTINF:-1,Ocs_Geants
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5274
+#EXTINF:-1,OCS_MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5275
+#EXTINF:-1,RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4192
+#EXTINF:-1,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4195
+#EXTINF:-1,TCM Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6706
+#EXTINF:-1,PLANETE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4199
+#EXTINF:-1,Planet+ A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5263
+#EXTINF:-1,Planet+ ci
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5284
+#EXTINF:-1,Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5283
+#EXTINF:-1,ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4200
+#EXTINF:-1,FR: MY CUISINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22226
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4201
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4202
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15151
+#EXTINF:-1,DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34830
+#EXTINF:-1,CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15152
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4203
+#EXTINF:-1,NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4204
+#EXTINF:-1,Ushuaia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4205
+#EXTINF:-1,CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4206
+#EXTINF:-1,Toute L Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5265
+#EXTINF:-1,Histoire_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5277
+#EXTINF:-1,SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6638
+#EXTINF:-1,VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5285
+#EXTINF:-1,Science et Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4208
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4209
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4210
+#EXTINF:-1,DISNEY CHANNEL+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4211
+#EXTINF:-1,DISNEY CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5306
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5304
+#EXTINF:-1,BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4212
+#EXTINF:-1,Cartoon Network (France)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4216
+#EXTINF:-1,TELETOON+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4213
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4214
+#EXTINF:-1,NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5300
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5301
+#EXTINF:-1,NICKELODEON 4TEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/33077
+#EXTINF:-1,TOONAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22677
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5302
+#EXTINF:-1,Game_One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5303
+#EXTINF:-1,MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4215
+#EXTINF:-1,Tiji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5305
+#EXTINF:-1,Canal_J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5307
+#EXTINF:-1,PIWI+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5308
+#EXTINF:-1,Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4217
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4218
+#EXTINF:-1,I24 Francis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4219
+#EXTINF:-1,TV5 Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/38658
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4207
+#EXTINF:-1,BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4222
+#EXTINF:-1,FR: BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16646
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16645
+#EXTINF:-1,CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6785
+#EXTINF:-1,Rfm TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6707
+#EXTINF:-1,LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5282
+#EXTINF:-1,INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4196
+#EXTINF:-1,Equipe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4197
+#EXTINF:-1,Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6716
+#EXTINF:-1,Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6717
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5286
+#EXTINF:-1,FR: beIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15044
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5288
+#EXTINF:-1,FR: beIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15042
+#EXTINF:-1,FR: beIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5290
+#EXTINF:-1,FR: beIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15040
+#EXTINF:-1,FR: beIN SPORTS MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6791
+#EXTINF:-1,FR: beIN SPORTS MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15051
+#EXTINF:-1,FR: beIN SPORTS MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6790
+#EXTINF:-1,FR: beIN SPORTS MAX 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/15049
+#EXTINF:-1,FR: beIN SPORTS MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6789
+#EXTINF:-1,FR: beIN SPORTS MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6788
+#EXTINF:-1,FR: beIN SPORTS MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6787
+#EXTINF:-1,FR: BFM SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16647
+#EXTINF:-1,FR: RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16636
+#EXTINF:-1,FR: RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16635
+#EXTINF:-1,FR: RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16634
+#EXTINF:-1,FR: RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16633
+#EXTINF:-1,FR: RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16632
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34446
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34444
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34442
+#EXTINF:-1,FR: RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34445
+#EXTINF:-1,FR: RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34443
+#EXTINF:-1,FR: RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/34441
+#EXTINF:-1,RMC ACCESS SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5292
+#EXTINF:-1,RMC ACCESS SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5293
+#EXTINF:-1,RMC ACCESS SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5294
+#EXTINF:-1,RMC ACCESS SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4235
+#EXTINF:-1,Foot +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5295
+#EXTINF:-1,FOOT 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/4198
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5296
+#EXTINF:-1,EUROSPORT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5297
+#EXTINF:-1,FR: AUTO MOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/28765
+#EXTINF:-1,Equidia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5298
+#EXTINF:-1,Equidia_Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/5299
+#EXTINF:-1,Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6709
+#EXTINF:-1,Trek
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6708
+#EXTINF:-1,Mcm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6714
+#EXTINF:-1,Mcm Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6713
+#EXTINF:-1,Mezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6712
+#EXTINF:-1,Mezzo Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6711
+#EXTINF:-1,M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/7560
+#EXTINF:-1,FR: VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16644
+#EXTINF:-1,MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/6408
+#EXTINF:-1,FR: A LA CARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16643
+#EXTINF:-1,FR: A LA CARTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16642
+#EXTINF:-1,FR: A LA CARTE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16641
+#EXTINF:-1,FR: A LA CARTE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16640
+#EXTINF:-1,FR: A LA CARTE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16639
+#EXTINF:-1,FR: A LA CARTE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16638
+#EXTINF:-1,FR: A LA CARTE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/16637
+#EXTINF:-1,FR: CANAL PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/24484
+#EXTINF:-1,FR: CANAL PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/24483
+#EXTINF:-1,FR: CANAL PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/24482
+#EXTINF:-1,FR: CANAL PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/24481
+#EXTINF:-1,FR: CANAL PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/24480
+#EXTINF:-1,FR: Orange Cine 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22633
+#EXTINF:-1,FR: Orange Cine 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22632
+#EXTINF:-1,FR: Orange Cine 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22631
+#EXTINF:-1,FR: Orange Cine 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22630
+#EXTINF:-1,FR: Orange Cine 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22629
+#EXTINF:-1,FR: Orange Cine 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22628
+#EXTINF:-1,FR: Orange Cine 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22627
+#EXTINF:-1,FR: Orange Cine 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22626
+#EXTINF:-1,FR: Orange Cine Geants HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22625
+#EXTINF:-1,FR: Orange Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22639
+#EXTINF:-1,FR: Orange Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22638
+#EXTINF:-1,FR: ORANGE CINEMA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22637
+#EXTINF:-1,FR: ORANGE CINEMA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22636
+#EXTINF:-1,FR: ORANGE CINEMA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22635
+#EXTINF:-1,FR: ORANGE CINEMA 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22634
+#EXTINF:-1,FR: Orange Cinema ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22624
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22623
+#EXTINF:-1,FR: Orange Cinema C est Fait HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22622
+#EXTINF:-1,FR: Orange Cinema Horreur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/22621
+#EXTINF:-1,===== General =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42301
+#EXTINF:-1, TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42302
+#EXTINF:-1, FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42303
+#EXTINF:-1, FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42304
+#EXTINF:-1, FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42305
+#EXTINF:-1, FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42306
+#EXTINF:-1, M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42307
+#EXTINF:-1, FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42308
+#EXTINF:-1, PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42309
+#EXTINF:-1, TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42310
+#EXTINF:-1, TF1 SERIES FILMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42311
+#EXTINF:-1, 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42312
+#EXTINF:-1, TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42313
+#EXTINF:-1, C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42314
+#EXTINF:-1, W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42315
+#EXTINF:-1, ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42316
+#EXTINF:-1, CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42317
+#EXTINF:-1, TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42318
+#EXTINF:-1, AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42319
+#EXTINF:-1, NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42320
+#EXTINF:-1, Cherie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42321
+#EXTINF:-1, TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42322
+#EXTINF:-1,===== News =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42323
+#EXTINF:-1, BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42324
+#EXTINF:-1, CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42325
+#EXTINF:-1, FRANCE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42326
+#EXTINF:-1, LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42327
+#EXTINF:-1, France 24 (en FranÃ§ais)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42328
+#EXTINF:-1, LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42329
+#EXTINF:-1, I24 Francis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42330
+#EXTINF:-1, TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42331
+#EXTINF:-1, TV5MONDE EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42332
+#EXTINF:-1,===== Sport =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42333
+#EXTINF:-1, RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42334
+#EXTINF:-1, RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42335
+#EXTINF:-1, RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42336
+#EXTINF:-1, RMC SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42337
+#EXTINF:-1, RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42338
+#EXTINF:-1, BEIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42339
+#EXTINF:-1, BEIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42340
+#EXTINF:-1, BEIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42341
+#EXTINF:-1, BEIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42342
+#EXTINF:-1, BEIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42343
+#EXTINF:-1, BEIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42344
+#EXTINF:-1, BEIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42345
+#EXTINF:-1, BEIN SPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42346
+#EXTINF:-1, BEIN SPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42347
+#EXTINF:-1, BEIN SPORTS MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42348
+#EXTINF:-1, EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42349
+#EXTINF:-1, EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42350
+#EXTINF:-1, GOLF+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42351
+#EXTINF:-1, FOOT+ 24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42352
+#EXTINF:-1, INFOSPORT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42353
+#EXTINF:-1, LEQUIPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42354
+#EXTINF:-1, AUTOMOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42355
+#EXTINF:-1,===== Cinema =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42356
+#EXTINF:-1, CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42357
+#EXTINF:-1, CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42358
+#EXTINF:-1, CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42359
+#EXTINF:-1, CANAL+ FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42360
+#EXTINF:-1, CANAL+ SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42361
+#EXTINF:-1, CANAL+ SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42362
+#EXTINF:-1, CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42363
+#EXTINF:-1, CINE+ CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42364
+#EXTINF:-1, CINE+ CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42365
+#EXTINF:-1, CINE+ EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42366
+#EXTINF:-1, CINE+ FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42367
+#EXTINF:-1, CINE+ FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42368
+#EXTINF:-1, CINE+ PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42369
+#EXTINF:-1, OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42370
+#EXTINF:-1, OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42371
+#EXTINF:-1, OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42372
+#EXTINF:-1, OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42373
+#EXTINF:-1, COMEDIE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42374
+#EXTINF:-1, RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42375
+#EXTINF:-1, SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42376
+#EXTINF:-1, Science et Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42377
+#EXTINF:-1, TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42378
+#EXTINF:-1, WARNER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42379
+#EXTINF:-1, PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42380
+#EXTINF:-1,===== Documentaire =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42381
+#EXTINF:-1, NATIONAL GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42382
+#EXTINF:-1, NATIONAL GEOGRAPHIC  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42383
+#EXTINF:-1, ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42384
+#EXTINF:-1, PLANETE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42385
+#EXTINF:-1, PLANETE+ A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42386
+#EXTINF:-1, PLANETE+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42387
+#EXTINF:-1, VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42388
+#EXTINF:-1, TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42389
+#EXTINF:-1, Toute L Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42390
+#EXTINF:-1, USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42391
+#EXTINF:-1, SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42392
+#EXTINF:-1, VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42393
+#EXTINF:-1, RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42394
+#EXTINF:-1, RMC STORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42395
+#EXTINF:-1,===== Enfants =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42396
+#EXTINF:-1, BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42397
+#EXTINF:-1, CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42398
+#EXTINF:-1, PIWI+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42399
+#EXTINF:-1, TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42400
+#EXTINF:-1, DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42401
+#EXTINF:-1, DISNEY CHANNEL+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42402
+#EXTINF:-1, DISNEY CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42403
+#EXTINF:-1, DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42404
+#EXTINF:-1, DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42405
+#EXTINF:-1, NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42406
+#EXTINF:-1, NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42407
+#EXTINF:-1, NICKELODEON+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42408
+#EXTINF:-1, NICKELODEON TEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42409
+#EXTINF:-1, TELETOON+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42410
+#EXTINF:-1, TELETOON+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42411
+#EXTINF:-1, TOONAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42412
+#EXTINF:-1, CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42413
+#EXTINF:-1, MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42414
+#EXTINF:-1, GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0628m612/653kbpgSMK/42415

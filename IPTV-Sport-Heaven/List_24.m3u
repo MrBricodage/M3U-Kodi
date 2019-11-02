@@ -1,59 +1,117 @@
 #EXTM3U
-#EXTINF:0,Bein Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/126
-#EXTINF:0,Bein Sports HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/124
-#EXTINF:0,Bein Sports HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/123
-#EXTINF:0,Bein Sports HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/122
-#EXTINF:0,Bein Sports HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/121
-#EXTINF:0,Bein Sports HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/120
-#EXTINF:0,Bein Sports HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/119
-#EXTINF:0,Bein Sports HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/118
-#EXTINF:0,Bein Sports HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/117
-#EXTINF:0,Bein Sports HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/116
-#EXTINF:0,Bein Sports HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/115
-#EXTINF:0,Bein Sport HD11 EN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/114
-#EXTINF:0,Bein Movies HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/106
-#EXTINF:0,Bein Movies HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/105
-#EXTINF:0,Bein Movies HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/104
-#EXTINF:0,Bein Sport HD12 EN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/113
-#EXTINF:0,Bein Sport HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/112
-#EXTINF:0,Ar- AD Sport1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/336
-#EXTINF:0,Ar- AD Sport2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/335
-#EXTINF:0,Ar- AD Sport3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/334
-#EXTINF:0,Ar- AD Sport4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/333
-#EXTINF:0,Ar- AD Sport5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/332
-#EXTINF:0,Ar- AD Sport6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/331
-#EXTINF:0,Ar- Dubai Racing 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/327
-#EXTINF:0,Ar- Dubai Racing 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/326
-#EXTINF:0,Ar- Dubai Racing 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/325
-#EXTINF:0,Ar- Dubai Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/330
-#EXTINF:0,Ar- Dubai Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/329
-#EXTINF:0,Ar- Dubai Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.72.4.230:8000/mytv/My1p@9090/328
+#EXTINF:0,BEIN SPORTS NEWS HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/267
+#EXTINF:0,BEIN SPORTS 1 HEVC (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/10850
+#EXTINF:0,BEIN SPORTS 1 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8931
+#EXTINF:0,BEIN SPORTS 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/270
+#EXTINF:0,BEIN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/185
+#EXTINF:0,BEIN SPORTS 2 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8930
+#EXTINF:0,BEIN SPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/271
+#EXTINF:0,BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/186
+#EXTINF:0,BEIN SPORTS 3 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8929
+#EXTINF:0,BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/272
+#EXTINF:0,BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/187
+#EXTINF:0,BEIN SPORTS 4 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8922
+#EXTINF:0,BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/273
+#EXTINF:0,BEIN SPORTS 4 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/188
+#EXTINF:0,BEIN SPORTS 5 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8923
+#EXTINF:0,BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/274
+#EXTINF:0,BEIN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/189
+#EXTINF:0,BEIN SPORTS 6 FHD (1080i)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8924
+#EXTINF:0,BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/275
+#EXTINF:0,BEIN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/190
+#EXTINF:0,BEIN SPORTS 7 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8925
+#EXTINF:0,BEIN SPORTS 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/276
+#EXTINF:0,BEIN SPORTS 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/191
+#EXTINF:0,BEIN SPORTS 8 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8926
+#EXTINF:0,BEIN SPORTS 8 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/277
+#EXTINF:0,BEIN SPORTS 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/192
+#EXTINF:0,BEIN SPORTS 9 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8927
+#EXTINF:0,BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/278
+#EXTINF:0,BEIN SPORTS 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/193
+#EXTINF:0,BEIN SPORTS 10 FHD (1080i)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/8928
+#EXTINF:0,BEIN SPORTS 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/279
+#EXTINF:0,BEIN SPORTS 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/194
+#EXTINF:0,BEIN SPORTS 11 HD (English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/280
+#EXTINF:0,BEIN SPORTS 11 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/195
+#EXTINF:0,BEIN SPORTS 12 HD (English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/281
+#EXTINF:0,BEIN SPORTS 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/196
+#EXTINF:0,BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/184
+#EXTINF:0,beIN SPorts news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/284
+#EXTINF:0,Bein Sports 13 SD (Match Days Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/197
+#EXTINF:0,Bein Sports 14 HD (Match Days Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/198
+#EXTINF:0,Bein Sports 15 HD (Match Days Only)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/199
+#EXTINF:0,Bein Sports 16 HD (Match Days Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/200
+#EXTINF:0,Bein Sports 17 HD (Match Days Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/201
+#EXTINF:0,BEIN SPORTS MAX 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11879
+#EXTINF:0,BEIN SPORTS MAX 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/282
+#EXTINF:0,BEIN SPORTS MAX 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11875
+#EXTINF:0,BEIN SPORTS MAX 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11880
+#EXTINF:0,BEIN SPORTS MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/283
+#EXTINF:0,BEIN SPORTS MAX 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11876
+#EXTINF:0,BEIN SPORTS MAX 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11881
+#EXTINF:0,BEIN SPORTS MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/5934
+#EXTINF:0,BEIN SPORTS MAX 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11877
+#EXTINF:0,BEIN SPORTS MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11882
+#EXTINF:0,BEIN SPORTS MAX 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/5935
+#EXTINF:0,BEIN SPORTS MAX 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/11878
+#EXTINF:0,BE: ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/12434
+#EXTINF:0,BE: ELEVEN SPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/12435
+#EXTINF:0,BE: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv-pro.com:25461/mohamed2/mohamed2/12436

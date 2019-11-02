@@ -1,45 +1,33 @@
 #EXTM3U
-#EXTINF:-1,eurosport1rus
-https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
-#EXTINF:-1,ON SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s213
-#EXTINF:-1,qazsportkz
-https://sportbar.biz/lba/123/g4/qazsportkz.m3u8
-#EXTINF:-1,rodigi4
-https://sportbar.biz/lba/123/g1/rodigi4.m3u8
-#EXTINF:-1,SPOR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a002/index.m3u8
-#EXTINF:-1,SPOR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a006/index.m3u8
-#EXTINF:-1,football2ukraine
-https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
-#EXTINF:-1,ukrfoot1
-https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
-#EXTINF:-1,seteurasiaplus
-https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8
-#EXTINF:-1,rumatchf2
-https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
-#EXTINF:-1,mfootball1
-https://sportbar.biz/lba/123/g6/mfootball1.m3u8
-#EXTINF:-1,rusmatchtv
-https://sportbar.biz/lba/123/g2/rusmatchtv.m3u8
-#EXTINF:-1,ruseuro2
-https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
-#EXTINF:-1,mnsport
-https://sportbar.biz/lba/123/g8/mnsport.m3u8
-#EXTINF:-1,rumatcharena
-https://sportbar.biz/lba/123/g1/rumatcharena.m3u8
-#EXTINF:-1,matfoot3
-https://sportbar.biz/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,albaniasport3
-https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
-#EXTINF:-1,btse
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1,ptsport5
-https://sportbar.biz/lba/123/g8/ptsport5.m3u8
-#EXTINF:-1,tv1pt
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1,HD-ESPN-MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-ESPN-MX.m3u8
-#EXTINF:-1,beinsport1tur
-https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:0,VIP | beIN Sports 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/7.ts
+#EXTINF:0,TR | beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/8.ts
+#EXTINF:0,TR | beIN Sports 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/9.ts
+#EXTINF:0,TR | beIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/10.ts
+#EXTINF:0,TR | beIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/11.ts
+#EXTINF:0,TR | beIN Sports Haber SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/12.ts
+#EXTINF:0,TR | beIN Sports Haber UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/13.ts
+#EXTINF:0,TR | S Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/15.ts
+#EXTINF:0,TR | Smart Spor HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/14.ts
+#EXTINF:0,TR | TivibuSpor 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/16.ts
+#EXTINF:0,TR | TivibuSpor 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/17.ts
+#EXTINF:0,TR | TivibuSpor 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/18.ts
+#EXTINF:0,TR | TivibuSpor 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/19.ts
+#EXTINF:0,FR | beIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/756.ts
+#EXTINF:0,FR | beIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/755.ts
+#EXTINF:0,FR | beIN SPORTS 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.nilsattv.com:8080/live/WWgEKYt4Sa/jtBORs98Yj/754.ts

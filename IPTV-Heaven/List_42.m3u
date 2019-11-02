@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1,la2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.101.145.18:4000/la2
-#EXTINF:-1,DRT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://118.69.161.10:8134/liveevent.m3u8
-#EXTINF:-1,P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.148.16.31:8080/udp/224.0.90.172:1234
-#EXTINF:-1,RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://86.57.225.245:7015/play/a002
-#EXTINF:-1,5 RT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://86.57.225.245:7015/play/a002
+#EXTINF:-1,Nat Geo Abu Dhabi_FOLLOW : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u8
+#EXTINF:-1,Nat Geo Abu Dhabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1,Emarat_FOLLOW : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net:80/adalemarat/adalemarat_720p.m3u8
+#EXTINF:-1,Emarat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net:80/adalemarat/adalemarat_480p.m3u8
+#EXTINF:-1,Emarat TV 360p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adalemarat/adalemarat_360p.m3u8
+#EXTINF:-1,Abu Dhabi TV 360p_FOLLOW : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adaloula/adaloula_360p.m3u8

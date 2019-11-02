@@ -1,25 +1,99 @@
 #EXTM3U
-#EXTINF:-1,FIGHT SPORTS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/1749356553
-#EXTINF:-1,FOX SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/1140464058
-#EXTINF:-1,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/1232604094
-#EXTINF:-1,FOX SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/1262347504
-#EXTINF:-1,SKYNET SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/2131729618
-#EXTINF:-1,SKYNET SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/995885125
-#EXTINF:-1,SKYNET SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/1592443304
-#EXTINF:-1,SKYNET SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/774721098
-#EXTINF:-1,SKYNET SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/426904342
-#EXTINF:-1,SKYNET SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/285699748
-#EXTINF:-1,SKYNET SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/2013868628
-#EXTINF:-1,SKYNET SPORTS PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://221.178.148.115:9981/stream/channelid/768345644
+#EXTINF:0,BG: Nova Sport FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/26514
+#EXTINF:0,BG: Nova Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/3247
+#EXTINF:0,VIP SW: MYSports Basic HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/13958
+#EXTINF:0,VIP SW: MYSports 1HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/16923
+#EXTINF:0,VIP SW: MYSports 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15334
+#EXTINF:0,VIP SW: MYSports 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15335
+#EXTINF:0,VIP SW: MYSports 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15336
+#EXTINF:0,VIP SW: MYSports 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15337
+#EXTINF:0,VIP SW: MYSports _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15338
+#EXTINF:0,VIP SW: MYSports HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/15349
+#EXTINF:0,VIP SW: MYSports 1HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17273
+#EXTINF:0,VIP SW: MYSports 2HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17272
+#EXTINF:0,VIP SW: MYSports 3HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17271
+#EXTINF:0,VIP SW: MYSports 4HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17270
+#EXTINF:0,VIP SW: MYSports 5HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17269
+#EXTINF:0,VIP SW: MYSports 6HD FR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/17268
+#EXTINF:0,VIP SW: TC Sport 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/9172
+#EXTINF:0,VIP SW: TC Sport 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/9171
+#EXTINF:0,VIP SW: TC Sport 3 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/9169
+#EXTINF:0,VIP IL: YES SPORT1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/20415
+#EXTINF:0,VIP IL: YES SPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/5958
+#EXTINF:0,VIP IL: YES SPORT2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/21901
+#EXTINF:0,VIP IL: YES SPORT2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/5957
+#EXTINF:0,VIP IL: YES SPORT3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/21899
+#EXTINF:0,VIP IL: YES SPORT3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/11471
+#EXTINF:0,VIP IL: YES SPORT4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/21900
+#EXTINF:0,VIP IL: YES SPORT4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/11472
+#EXTINF:0,VIP IL: Fox Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/3341
+#EXTINF:0,VIP IL: Sport 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/20416
+#EXTINF:0,VIP IL: Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/19813
+#EXTINF:0,VIP IL: Sport 5+ Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/25825
+#EXTINF:0,VIP IL: Sport 5+ Stars FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/5955
+#EXTINF:0,VIP IL: Sport 5+ Stars HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/25826
+#EXTINF:0,VIP IL: Sport 5 Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/22315
+#EXTINF:0,VIP IL: Sport 5 Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/12823
+#EXTINF:0,VIP IL: Sport 5 Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/11725
+#EXTINF:0,VIP SE: Strive Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/25914
+#EXTINF:0,VIP SE: Strive Sport Extra 1 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/18798
+#EXTINF:0,VIP SE: Strive Sport Extra 2 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/18797
+#EXTINF:0,VIP SE: Strive Sport Extra 3 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/26045
+#EXTINF:0,VIP SE: Strive Sport Extra 4 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/26046
+#EXTINF:0,VIP SE: Strive Sport Extra 5 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/26047
+#EXTINF:0,VIP SE: Strive Sport Extra 6 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/26048
+#EXTINF:0,VIP IS: SPORT TV 1HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30063
+#EXTINF:0,VIP IS: SPORT TV 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30062
+#EXTINF:0,VIP IS: SPORT TV 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30061
+#EXTINF:0,VIP IS: SPORT TV 4HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30060
+#EXTINF:0,VIP IS: SPORT TV 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30059
+#EXTINF:0,VIP IS: SPORT TV 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://world-iptv.net:8080/Renzo/123456/30058

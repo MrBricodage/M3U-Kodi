@@ -1,115 +1,1559 @@
 #EXTM3U
-#EXTINF:-1,RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a00i/index.m3u8
-#EXTINF:-1,RTL2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a00h/index.m3u8
-#EXTINF:-1,eurosport1rus
-https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
-#EXTINF:-1,mmtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1,nat_geo_wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1,????????? ???????
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8002/play/s224
-#EXTINF:-1,mbc_msr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
-#EXTINF:-1,ON SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s213
-#EXTINF:-1,CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8001/play/s28
-#EXTINF:-1,TRTARAPCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,CANAL56
-https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
-#EXTINF:-1,SYRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.162.202.13:215
-#EXTINF:-1,canal1
-https://streaming.elche7tv.es/hls/canal1.m3u8
-#EXTINF:-1,kanald
-https://sportbar.biz/lba/123/g9/kanald.m3u8
-#EXTINF:-1,qazsportkz
-https://sportbar.biz/lba/123/g4/qazsportkz.m3u8
-#EXTINF:-1,rodigi4
-https://sportbar.biz/lba/123/g1/rodigi4.m3u8
-#EXTINF:-1,SPOR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a002/index.m3u8
-#EXTINF:-1,SPOR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a006/index.m3u8
-#EXTINF:-1,football2ukraine
-https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
-#EXTINF:-1,ukrfoot1
-https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
-#EXTINF:-1,seteurasiaplus
-https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8
-#EXTINF:-1,rumatchf2
-https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
-#EXTINF:-1,mfootball1
-https://sportbar.biz/lba/123/g6/mfootball1.m3u8
-#EXTINF:-1,rusmatchtv
-https://sportbar.biz/lba/123/g2/rusmatchtv.m3u8
-#EXTINF:-1,ruseuro2
-https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
-#EXTINF:-1,mnsport
-https://sportbar.biz/lba/123/g8/mnsport.m3u8
-#EXTINF:-1,rumatcharena
-https://sportbar.biz/lba/123/g1/rumatcharena.m3u8
-#EXTINF:-1,matfoot3
-https://sportbar.biz/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1,albaniasport3
-https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
-#EXTINF:-1,btse
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1,ptsport5
-https://sportbar.biz/lba/123/g8/ptsport5.m3u8
-#EXTINF:-1,tv1pt
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1,channel3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OC1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1,LDC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1,rcti
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1,G_CCTV-8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://223.110.241.139:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
-#EXTINF:-1,G_CCTV-4-HQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1,HD-FOXAC-MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-FOXAC-MX.m3u8
-#EXTINF:-1,FOX MOVIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://203.207.56.228/live/iptv007.m3u8
-#EXTINF:-1,TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-#EXTINF:-1,geob_band
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:-1,HD-ESPN-MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-ESPN-MX.m3u8
-#EXTINF:-1,star_movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,SAMA-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1,beinsport1tur
-https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1,huyalive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1,LDC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1,xianggangweishi_2_hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-#EXTINF:-1,FOX CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3717
-#EXTINF:-1,ANI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.154.164/TV3667
-#EXTINF:-1,channel9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel9/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY-SIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
-#EXTINF:-1,GolTVModel4A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-#EXTINF:-1,asporhdm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1,sbss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://configuration.tn:8000/sbss25946/dcba2401/48
-#EXTINF:-1,NOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.165.240.163:8000/test0925qzj004/02e8a41ac1/976
+#EXTINF:-1,TR:BEIN SPORTS 1 SD (480 p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/304.ts
+#EXTINF:-1,TR:BEIN SPORTS 1 HD 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/305.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1348.ts
+#EXTINF:-1,BEIN SPORTS 1 HD ( 50FPS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1347.ts
+#EXTINF:-1,TR:BEIN SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/303.ts
+#EXTINF:-1,TR:BEIN SPORTS HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/302.ts
+#EXTINF:-1,TR:BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/306.ts
+#EXTINF:-1,TR:BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/307.ts
+#EXTINF:-1,TR:BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/308.ts
+#EXTINF:-1,TR:BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/309.ts
+#EXTINF:-1,TR:BEIN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/310.ts
+#EXTINF:-1,TR:BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/311.ts
+#EXTINF:-1,TR:BEIN SPORTS MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/312.ts
+#EXTINF:-1,TR:BEIN SPORTS MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/313.ts
+#EXTINF:-1,TR:TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/314.ts
+#EXTINF:-1,TR:TIVIBUSPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/315.ts
+#EXTINF:-1,TR:TIVIBUSPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/316.ts
+#EXTINF:-1,TR:SMARTSPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/319.ts
+#EXTINF:-1,TR:S SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/317.ts
+#EXTINF:-1,TR:S SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/318.ts
+#EXTINF:-1,TR:SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/326.ts
+#EXTINF:-1,TR:NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/331.ts
+#EXTINF:-1,TR:NBA TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/982.ts
+#EXTINF:-1,TR:TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/320.ts
+#EXTINF:-1,TR:TRT SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/410.ts
+#EXTINF:-1,TR:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/327.ts
+#EXTINF:-1,TR:EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/328.ts
+#EXTINF:-1,iDMAN TV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/247.ts
+#EXTINF:-1,TR:A SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/322.ts
+#EXTINF:-1,TR:TJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/329.ts
+#EXTINF:-1,TR:FB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/324.ts
+#EXTINF:-1,TR:GS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/325.ts
+#EXTINF:-1,TRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/225.ts
+#EXTINF:-1,TR:TRT 1 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/226.ts
+#EXTINF:-1,KANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/239.ts
+#EXTINF:-1,TR:KANAL D HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/240.ts
+#EXTINF:-1,ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/228.ts
+#EXTINF:-1,TR:ATV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/229.ts
+#EXTINF:-1,SHOW TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/235.ts
+#EXTINF:-1,TR:SHOW TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/236.ts
+#EXTINF:-1,STAR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/232.ts
+#EXTINF:-1,TR:STAR TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/233.ts
+#EXTINF:-1,FOX TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/241.ts
+#EXTINF:-1,TR:FOX TV HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/242.ts
+#EXTINF:-1,TV 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/244.ts
+#EXTINF:-1,TR:TV 8 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/245.ts
+#EXTINF:-1,A2 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/230.ts
+#EXTINF:-1,TV 8.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/246.ts
+#EXTINF:-1,BEYAZ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/252.ts
+#EXTINF:-1,TR:KANAL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/248.ts
+#EXTINF:-1,KANAL 7 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/249.ts
+#EXTINF:-1,TV 100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/273.ts
+#EXTINF:-1,ULKETV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/274.ts
+#EXTINF:-1,TR:ULKE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/275.ts
+#EXTINF:-1,TR:TEVE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/268.ts
+#EXTINF:-1,TELE 1 HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/243.ts
+#EXTINF:-1,HABER TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/397.ts
+#EXTINF:-1,HABER GLOBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/399.ts
+#EXTINF:-1,NTV HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/393.ts
+#EXTINF:-1,TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/402.ts
+#EXTINF:-1,CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/395.ts
+#EXTINF:-1,SKYTURK 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/405.ts
+#EXTINF:-1,TR:TRT TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/272.ts
+#EXTINF:-1,TGRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/401.ts
+#EXTINF:-1,A HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/391.ts
+#EXTINF:-1,HALK TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/261.ts
+#EXTINF:-1,KANAL 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/292.ts
+#EXTINF:-1,BOOMERANG HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/407.ts
+#EXTINF:-1,BABY TV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/403.ts
+#EXTINF:-1,POWER TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/414.ts
+#EXTINF:-1,TR KRAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/336.ts
+#EXTINF:-1,MINIKA COCUK HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/394.ts
+#EXTINF:-1,NR1 TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/408.ts
+#EXTINF:-1,KRAL WORLD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/412.ts
+#EXTINF:-1,TR:DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/415.ts
+#EXTINF:-1,TR DREAM TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/413.ts
+#EXTINF:-1,NR 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/409.ts
+#EXTINF:-1,CARTOON NETWORK HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/404.ts
+#EXTINF:-1,TR MINIKA COCUK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/337.ts
+#EXTINF:-1,CBEBIES (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/411.ts
+#EXTINF:-1,NICKELODEON HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/398.ts
+#EXTINF:-1,DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/256.ts
+#EXTINF:-1,NICK JR HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/396.ts
+#EXTINF:-1,BLOOMBERG HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/406.ts
+#EXTINF:-1,BEIN GURME HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/400.ts
+#EXTINF:-1,MINICA GO HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/392.ts
+#EXTINF:-1,DISNEY CHANNEL HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/354.ts
+#EXTINF:-1,SiNEMA TV AKSiYON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/360.ts
+#EXTINF:-1,SiNEMA TV KOMEDi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/358.ts
+#EXTINF:-1,SiNEMA TV 1001 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/362.ts
+#EXTINF:-1,SiNEMA TV AiLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/361.ts
+#EXTINF:-1,SiNEMA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/359.ts
+#EXTINF:-1,DISNEY JR HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/357.ts
+#EXTINF:-1,DiSNEY XD HD (720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/363.ts
+#EXTINF:-1,SiNEMA TV YERLi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/364.ts
+#EXTINF:-1,DA VINCI KIDS HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/743.ts
+#EXTINF:-1,24 KITCHENN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/366.ts
+#EXTINF:-1,VIASAT HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/367.ts
+#EXTINF:-1,BEIN BOX OFFIICE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/355.ts
+#EXTINF:-1,BEIN BOX OFFIICE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/356.ts
+#EXTINF:-1,BEIN BOX OFFIICE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1122.ts
+#EXTINF:-1,beIN SERIES VICE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/380.ts
+#EXTINF:-1,beIN SERIES SCI-FI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/381.ts
+#EXTINF:-1,beIN SERIES DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/382.ts
+#EXTINF:-1,beIN SERIES COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/383.ts
+#EXTINF:-1,beIN MOVIES FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/384.ts
+#EXTINF:-1,beIN MOVIES STARS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/385.ts
+#EXTINF:-1,beIN MOVIES ACTION 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/386.ts
+#EXTINF:-1,beIN MOVIES ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/387.ts
+#EXTINF:-1,beIN MOVIES PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/389.ts
+#EXTINF:-1,beIN MOVIES PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/388.ts
+#EXTINF:-1,beIN MOVIES TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/390.ts
+#EXTINF:-1,FX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/255.ts
+#EXTINF:-1,DiZi SMART MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/368.ts
+#EXTINF:-1,DIZI SMART PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/369.ts
+#EXTINF:-1,MOVIE SMART CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/370.ts
+#EXTINF:-1,MOVIE SMART FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/371.ts
+#EXTINF:-1,MOVIE SMART FEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/372.ts
+#EXTINF:-1,MOVIE SMART GOLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/373.ts
+#EXTINF:-1,MOVIE SMART ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/374.ts
+#EXTINF:-1,MOVIE SMART PLATIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/375.ts
+#EXTINF:-1,MOVIE SMART PLATIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/376.ts
+#EXTINF:-1,MOVIE SMART PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/377.ts
+#EXTINF:-1,MOVIE SMART PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/378.ts
+#EXTINF:-1,MOVIE SMART TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/379.ts
+#EXTINF:-1,TR:FILMHD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1350.ts
+#EXTINF:-1,TR:FILMHD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1351.ts
+#EXTINF:-1,TR:FILMHD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1352.ts
+#EXTINF:-1,TR:FILMHD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1353.ts
+#EXTINF:-1,TR:FILMHD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1354.ts
+#EXTINF:-1,TR:FILMHD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1355.ts
+#EXTINF:-1,TR:FILMHD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1356.ts
+#EXTINF:-1,TR:FILMHD 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1357.ts
+#EXTINF:-1,TR:FILMHD 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1358.ts
+#EXTINF:-1,TR:FILMHD 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1359.ts
+#EXTINF:-1,TR:FILMHD 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1360.ts
+#EXTINF:-1,TR:FILMHD 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1361.ts
+#EXTINF:-1,TR:FILMHD 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1362.ts
+#EXTINF:-1,TR:FILMHD 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1363.ts
+#EXTINF:-1,TR:FILMHD 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1364.ts
+#EXTINF:-1,TR:FILMHD 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1365.ts
+#EXTINF:-1,TR:FILMHD 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1366.ts
+#EXTINF:-1,TR:FILMHD 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1367.ts
+#EXTINF:-1,TR:FILMHD 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1368.ts
+#EXTINF:-1,TR:FILMHD 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1369.ts
+#EXTINF:-1,SMART COCUK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/365.ts
+#EXTINF:-1,DMAX HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/342.ts
+#EXTINF:-1,TLC HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/341.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/742.ts
+#EXTINF:-1,NATIONAL GEO PEOPLE HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/345.ts
+#EXTINF:-1,DiSCOWERY SCiENCE HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/346.ts
+#EXTINF:-1,DISCOVERY CHANNEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/352.ts
+#EXTINF:-1,NAT GEO WILD HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/741.ts
+#EXTINF:-1,Discowery IDX HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/347.ts
+#EXTINF:-1,TRT BELGESEL HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/813.ts
+#EXTINF:-1,YABAN TV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/344.ts
+#EXTINF:-1,ViASAT HiSTORY HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/353.ts
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/343.ts
+#EXTINF:-1,IZ TV HD (720P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/740.ts
+#EXTINF:-1,BBC EARTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/350.ts
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/351.ts
+#EXTINF:-1,VUSLAT(TRT 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1371.mkv
+#EXTINF:-1,YASAK ELMA (FOX)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1378.mkv
+#EXTINF:-1,KADIN (FOX TV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1372.mkv
+#EXTINF:-1,BENIM ADIM MELEK ( TRT 1 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1377.mkv
+#EXTINF:-1,SAMPIYON (TRT 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1373.mkv
+#EXTINF:-1,SEKSENLER (TRT 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1374.mkv
+#EXTINF:-1,MUCIZE DOKTOR (FOX TV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1380.mkv
+#EXTINF:-1,Payitaht (Trt1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1349.mkv
+#EXTINF:-1,KALK GIDELIM (TRT 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1375.mkv
+#EXTINF:-1,BIR AILE HIKAYESI (FOX TV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1381.mkv
+#EXTINF:-1,HER YERDE SEN (FOX TV )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1379.mkv
+#EXTINF:-1,ELIMI BIRAKMA ( TRT 1 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1376.mkv
+#EXTINF:-1,SEN ANLAT KARADENIZ ( ATV )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1385.mkv
+#EXTINF:-1,KIMSE BILMEZ ( ATV )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1384.mkv
+#EXTINF:-1,HERCAi ( ATV )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1383.mkv
+#EXTINF:-1,ESKIYA ( ATV )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1382.mkv
+#EXTINF:-1,ZOMBI EKSPRESI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1332.mkv
+#EXTINF:-1,YUZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1334.mkv
+#EXTINF:-1,WILSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1346.mkv
+#EXTINF:-1,WHITE BOY RICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1345.mkv
+#EXTINF:-1,WHAT MEN WANT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1343.mkv
+#EXTINF:-1,WANTED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1341.mp4
+#EXTINF:-1,VOICE FROM STONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1340.mkv
+#EXTINF:-1,VENOM 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1338.mkv
+#EXTINF:-1,VATAN EVLADI 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1337.mkv
+#EXTINF:-1,VALERIAN VE BIN GEZEGEN IMPARATORLUGU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1336.mkv
+#EXTINF:-1,UFO 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1335.mkv
+#EXTINF:-1,TRANSFORMERS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1333.mkv
+#EXTINF:-1,THE SILENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1328.mkv
+#EXTINF:-1,THE SEAGULL 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1326.mkv
+#EXTINF:-1,THE PERFECT DATE 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1324.mkv
+#EXTINF:-1,THE MARINE 6 CLOSE QUARTERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1320.mkv
+#EXTINF:-1,THE LAST SUMMER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1317.mkv
+#EXTINF:-1,TARZAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1318.mkv
+#EXTINF:-1,SANAL DEVRIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1339.mkv
+#EXTINF:-1,OSMANLI SUBAYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1323.mkv
+#EXTINF:-1,MUMYA 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1322.mkv
+#EXTINF:-1,MELEKLER UYURKEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1344.mkv
+#EXTINF:-1,MAYMUNLAR CEHENNEMI SAVAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1342.mkv
+#EXTINF:-1,LEGO NINJAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1319.mkv
+#EXTINF:-1,KOCAAYAK VE OGLU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1329.mkv
+#EXTINF:-1,KAYIP PRENSES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1331.mkv
+#EXTINF:-1,DELI VE DAHI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1325.mkv
+#EXTINF:-1,BU DUNYANIN DISINDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1330.mkv
+#EXTINF:-1,BARAKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1327.mkv
+#EXTINF:-1,ARAMIZDAKI SOZLER 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1321.mkv
+#EXTINF:-1,DE:KINOWELT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1008.ts
+#EXTINF:-1,DE:TAGESSCHAU 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1007.ts
+#EXTINF:-1,DE:RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/993.ts
+#EXTINF:-1,DE:RTL NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/994.ts
+#EXTINF:-1,DE:RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/995.ts
+#EXTINF:-1,DE:RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/996.ts
+#EXTINF:-1,DE:RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/992.ts
+#EXTINF:-1,DE:RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/997.ts
+#EXTINF:-1,DE:SAT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/990.ts
+#EXTINF:-1,DE:ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/983.ts
+#EXTINF:-1,DE:ZDF NEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/984.ts
+#EXTINF:-1,DE:VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/989.ts
+#EXTINF:-1,DE:WDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/998.ts
+#EXTINF:-1,DE:TV AKTUEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1006.ts
+#EXTINF:-1,DE:PRO 7 MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/988.ts
+#EXTINF:-1,DE:PRO 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/986.ts
+#EXTINF:-1,DE:PRO 7 FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/987.ts
+#EXTINF:-1,DE:OK KL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1003.ts
+#EXTINF:-1,DE:OF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1010.ts
+#EXTINF:-1,DE:NTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1004.ts
+#EXTINF:-1,DE:KABEL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1000.ts
+#EXTINF:-1,DE:EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1009.ts
+#EXTINF:-1,DE:ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1001.ts
+#EXTINF:-1,DE:ARD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/985.ts
+#EXTINF:-1,DE:3 SAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1002.ts
+#EXTINF:-1,DE:SAT 1 GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/991.ts
+#EXTINF:-1,DE:TV BERLIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1005.ts
+#EXTINF:-1,DE:MDF 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/999.ts
+#EXTINF:-1,DE:VIVA COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1042.ts
+#EXTINF:-1,DE:SKY CINEMA EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1064.ts
+#EXTINF:-1,DE:SKY CINEMA COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1065.ts
+#EXTINF:-1,DE:SKY CINEMA ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1066.ts
+#EXTINF:-1,DE:SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1063.ts
+#EXTINF:-1,DE:SKY CINEMA NOSTALGIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1060.ts
+#EXTINF:-1,DE:SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1061.ts
+#EXTINF:-1,DE:SKY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1062.ts
+#EXTINF:-1,DE:UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1043.ts
+#EXTINF:-1,DE:SKY KRIMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1059.ts
+#EXTINF:-1,DE:TNT COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1046.ts
+#EXTINF:-1,DE:TNT SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1044.ts
+#EXTINF:-1,DE:TNT FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1045.ts
+#EXTINF:-1,DE:SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1048.ts
+#EXTINF:-1,DE:TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1047.ts
+#EXTINF:-1,DE:SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1049.ts
+#EXTINF:-1,DE:SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1050.ts
+#EXTINF:-1,DE:SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1051.ts
+#EXTINF:-1,DE:SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1052.ts
+#EXTINF:-1,DE:SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1053.ts
+#EXTINF:-1,DE:SKY SELECT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1054.ts
+#EXTINF:-1,DE:SKY SELECT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1055.ts
+#EXTINF:-1,DE:SKY SELECT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1056.ts
+#EXTINF:-1,DE:SKY SELECT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1057.ts
+#EXTINF:-1,DE:SKY SELECT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1058.ts
+#EXTINF:-1,DE:SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1022.ts
+#EXTINF:-1,DE:SPORT DIGITAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1020.ts
+#EXTINF:-1,DE:SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1021.ts
+#EXTINF:-1,DE:SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1028.ts
+#EXTINF:-1,DE:SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1027.ts
+#EXTINF:-1,DE:SKY SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1026.ts
+#EXTINF:-1,DE:SKY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1025.ts
+#EXTINF:-1,DE:SKY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1024.ts
+#EXTINF:-1,DE:SKY SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1023.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1034.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1033.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1032.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1031.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1030.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1029.ts
+#EXTINF:-1,DE:MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1035.ts
+#EXTINF:-1,DE:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1037.ts
+#EXTINF:-1,DE:EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1036.ts
+#EXTINF:-1,DE:ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1041.ts
+#EXTINF:-1,DE:HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1040.ts
+#EXTINF:-1,DE:NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1038.ts
+#EXTINF:-1,DE:NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1039.ts
+#EXTINF:-1,DE:CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1017.ts
+#EXTINF:-1,DE:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1016.ts
+#EXTINF:-1,DE:NICKELEDEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1019.ts
+#EXTINF:-1,DE:BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1018.ts
+#EXTINF:-1,DE:DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1015.ts
+#EXTINF:-1,DE:SUPER RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1012.ts
+#EXTINF:-1,DE:TOGGO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1011.ts
+#EXTINF:-1,DE:DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1014.ts
+#EXTINF:-1,DE:KIKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1013.ts
+#EXTINF:-1,GR:Fox Tv Greece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1207.ts
+#EXTINF:-1,GR:Vouli Tileorasi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1199.ts
+#EXTINF:-1,GR:Reload Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1202.ts
+#EXTINF:-1,GR:Xplore TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1198.ts
+#EXTINF:-1,GR:Magic TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1206.ts
+#EXTINF:-1,GR:TV Creta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1200.ts
+#EXTINF:-1,GR:Best TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1209.ts
+#EXTINF:-1,GR:Nea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1204.ts
+#EXTINF:-1,GR:TV 100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1201.ts
+#EXTINF:-1,GR:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1205.ts
+#EXTINF:-1,GR:ANT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1210.ts
+#EXTINF:-1,GR:E TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1208.ts
+#EXTINF:-1,GR:NG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1203.ts
+#EXTINF:-1,NL:FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1188.ts
+#EXTINF:-1,NL:FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1189.ts
+#EXTINF:-1,NL:FOX SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1190.ts
+#EXTINF:-1,NL:ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1196.ts
+#EXTINF:-1,NL:ZIGGO SPORT VOETBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1197.ts
+#EXTINF:-1,NL:NPO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1192.ts
+#EXTINF:-1,NL:NPO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1193.ts
+#EXTINF:-1,NL:NPO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1194.ts
+#EXTINF:-1,NL:FILM 1 PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1185.ts
+#EXTINF:-1,NL:FILM 1 ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1183.ts
+#EXTINF:-1,NL:FILM 1 SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1186.ts
+#EXTINF:-1,NL:FILM 1 DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1184.ts
+#EXTINF:-1,NL:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1191.ts
+#EXTINF:-1,NL:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1187.ts
+#EXTINF:-1,NL:RTL LOUNGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1195.ts
+#EXTINF:-1,USA:BEINT SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1168.ts
+#EXTINF:-1,USA:BEINT SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1169.ts
+#EXTINF:-1,USA:BEINT SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1170.ts
+#EXTINF:-1,USA:BEINT SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1171.ts
+#EXTINF:-1,USA:D SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1181.ts
+#EXTINF:-1,USA:DD SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1180.ts
+#EXTINF:-1,USA:EDGE SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1176.ts
+#EXTINF:-1,USA:FIGHTBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1179.ts
+#EXTINF:-1,USA:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1182.ts
+#EXTINF:-1,USA:MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1175.ts
+#EXTINF:-1,USA:OLIMPIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1174.ts
+#EXTINF:-1,USA:REDBULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1178.ts
+#EXTINF:-1,USA:SETANTA SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1172.ts
+#EXTINF:-1,USA:SETANTA SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1173.ts
+#EXTINF:-1,USA:SPORTSKOOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1177.ts
+#EXTINF:-1,BG:ROMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1163.ts
+#EXTINF:-1,BG:RING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1165.ts
+#EXTINF:-1,BG:PLANETA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1162.ts
+#EXTINF:-1,BG:NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1164.ts
+#EXTINF:-1,BG:NOVA SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1158.ts
+#EXTINF:-1,BG:DIEMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1161.ts
+#EXTINF:-1,BG:DIEMA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1157.ts
+#EXTINF:-1,BG:DIEMA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1156.ts
+#EXTINF:-1,BG:CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1166.ts
+#EXTINF:-1,BG:BTV CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1160.ts
+#EXTINF:-1,BG:BTV ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1159.ts
+#EXTINF:-1,BG:BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/live/omer/10082018/1167.ts
+#EXTINF:-1,THE KILLER DOWNSTAIRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1316.mkv
+#EXTINF:-1,SARAYIN GOZDESI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1311.mkv
+#EXTINF:-1,KRAL OLACAK COCUK 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1315.mkv
+#EXTINF:-1,HIZLI VE OFKELI 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1310.mkv
+#EXTINF:-1,BAS ADAY 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1312.mkv
+#EXTINF:-1,AVCININ INTIKAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1313.mkv
+#EXTINF:-1,ASKIN CEKIMI 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1314.mkv
+#EXTINF:-1,YUKSEK GUC 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1251.mkv
+#EXTINF:-1,YAKALANDIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1301.mkv
+#EXTINF:-1,THE BABYSITTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1302.mkv
+#EXTINF:-1,SUPERFLY 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1299.mkv
+#EXTINF:-1,STEP SISTERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1298.mkv
+#EXTINF:-1,SPARK:BIR UZAY MACERASI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1296.mkv
+#EXTINF:-1,SON SAVASCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1290.mkv
+#EXTINF:-1,SILENCE 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1294.mkv
+#EXTINF:-1,SHOT CALLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1293.mkv
+#EXTINF:-1,SHAFT 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1292.mkv
+#EXTINF:-1,SAYGIN VATANDAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1307.mkv
+#EXTINF:-1,SALYUT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1289.mkv
+#EXTINF:-1,ROUGH NIGHT 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1288.mkv
+#EXTINF:-1,ROBIN HOOD 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1287.mkv
+#EXTINF:-1,ORUMCEK ADAM:EVE DONUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1297.mkv
+#EXTINF:-1,KORKU KAYITLARI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1306.mkv
+#EXTINF:-1,KAYIP ARANIYOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1291.mkv
+#EXTINF:-1,ISYAN 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1286.mkv
+#EXTINF:-1,HENRYNIN DEFTERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1304.mkv
+#EXTINF:-1,HAZINE AVCISININ MACERALARI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1300.mkv
+#EXTINF:-1,GOKDELEN 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1295.mkv
+#EXTINF:-1,GECMISI OLMAYAN ADAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1305.mp4
+#EXTINF:-1,DUELLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1308.mkv
+#EXTINF:-1,BATTLESHIP ISLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1303.mp4
+#EXTINF:-1,ADALET 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1309.mkv
+#EXTINF:-1,SIYAH GIYEN ADAMLAR:GLOBAL TEHDIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1267.mkv
+#EXTINF:-1,SEVGISIZ 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1265.mkv
+#EXTINF:-1,RAW 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1284.mkv
+#EXTINF:-1,POWER RANGERS 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1283.mkv
+#EXTINF:-1,POLAR 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1282.mkv
+#EXTINF:-1,PAPILLON 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1280.mkv
+#EXTINF:-1,OLUMCUL MAKINELER 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1269.mkv
+#EXTINF:-1,OH RAMONA 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1277.mkv
+#EXTINF:-1,OCEANS 8 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1275.mkv
+#EXTINF:-1,O G
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1274.mkv
+#EXTINF:-1,MY COUSIN RACHEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1271.mkv
+#EXTINF:-1,MEG 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1266.mkv
+#EXTINF:-1,LITTLE BITCHES 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1264.mkv
+#EXTINF:-1,LADY MACBATH 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1263.mkv
+#EXTINF:-1,KUNG FU YOGA 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1262.mkv
+#EXTINF:-1,KAYBEDECEK BIR SEY YOK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1273.mkv
+#EXTINF:-1,INTIKAM MELEGI 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1281.mkv
+#EXTINF:-1,GOREVIMIZ TEHLIKE:YANILSAMALAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1268.mkv
+#EXTINF:-1,GELECEK JENERASYON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1272.mkv
+#EXTINF:-1,CILGIN OFIS PARTISI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1276.mkv
+#EXTINF:-1,BAY VE BAYAN ADELMAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1270.mp4
+#EXTINF:-1,BASLAT READY PLAYER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1285.mkv
+#EXTINF:-1,ASK VE SAVAS 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1278.mkv
+#EXTINF:-1,ACIK DENIZ:KAFES DALISI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1279.mkv
+#EXTINF:-1,SIPSAK AILE 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1255.mkv
+#EXTINF:-1,OLUM GUNUN KUTLU OLSUN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1248.mkv
+#EXTINF:-1,O 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1257.mkv
+#EXTINF:-1,KOPEK ADASI 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1256.mkv
+#EXTINF:-1,KINGSMAN:ALTIN CEMBER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1261.mkv
+#EXTINF:-1,KATIL AVCISI 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1253.mkv
+#EXTINF:-1,JOHN WICK 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1258.mkv
+#EXTINF:-1,HIGH RESOULUTION 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1252.mkv
+#EXTINF:-1,HELLBOY 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1250.mp4
+#EXTINF:-1,BAKICI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1254.mkv
+#EXTINF:-1,AV 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1249.mkv
+#EXTINF:-1,ANNE 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1260.mkv
+#EXTINF:-1,ADALAET LIGI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1259.mkv
+#EXTINF:-1,UZAYDAN GELEN FIRTINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1241.mkv
+#EXTINF:-1,TUKENIS 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1231.mkv
+#EXTINF:-1,TAS DEVRI FIRARDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1227.mkv
+#EXTINF:-1,OLUMCUL LABİRENT 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1230.mkv
+#EXTINF:-1,OLDURME ARZUSU 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1218.mkv
+#EXTINF:-1,KUCUK KAHRAMANLAR 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1244.mkv
+#EXTINF:-1,KASABADAKI OLU 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1211.mkv
+#EXTINF:-1,KARAYIP KORSANLARI:SALAZARIN INTIKAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1214.mkv
+#EXTINF:-1,KARABASAN 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1212.mkv
+#EXTINF:-1,ILK KURSUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1233.mkv
+#EXTINF:-1,GOON:LAST OF ENFORCES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1246.mkv
+#EXTINF:-1,GLASS 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1243.mkv
+#EXTINF:-1,GIRLS TRIP 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1242.mkv
+#EXTINF:-1,GARANTI OLUM YOKSA PARAN IADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1213.mp4
+#EXTINF:-1,GANTZ 0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1240.mkv
+#EXTINF:-1,GAME NIGHT 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1239.mkv
+#EXTINF:-1,GALVESTON 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1238.mkv
+#EXTINF:-1,GALAKSININ KORUYUCULARI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1247.mkv
+#EXTINF:-1,FULLMETAL ALCHEMİST 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1237.mkv
+#EXTINF:-1,Extremely Wicked, Shockingly Evil and Vile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1232.mkv
+#EXTINF:-1,ELVEDA ALMANYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1150.mkv
+#EXTINF:-1,EIGHTH GRADE 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1229.mkv
+#EXTINF:-1,EBEDI YOL 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1228.mkv
+#EXTINF:-1,DUNKIRK 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1226.mkv
+#EXTINF:-1,DUCK BUTTER 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1225.mkv
+#EXTINF:-1,DRUNK PARENTS 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1224.mkv
+#EXTINF:-1,DEVLET DUSMANI 1998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1223.mp4
+#EXTINF:-1,DESTROYER 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1222.mkv
+#EXTINF:-1,DESPERADO 1996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1220.mp4
+#EXTINF:-1,DEATH NOTE 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1217.mkv
+#EXTINF:-1,DEADWOOD 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1216.mkv
+#EXTINF:-1,DEADPOOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1215.mkv
+#EXTINF:-1,DAPHNE VE VELMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1154.mkv
+#EXTINF:-1,COLOSSAL 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1153.mkv
+#EXTINF:-1,COKUS 2004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1219.mkv
+#EXTINF:-1,CIZGI OTESI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1234.mkv
+#EXTINF:-1,CILGIN HIRSIZ 3 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1221.mkv
+#EXTINF:-1,CAMERA OBSCURA 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1151.mkv
+#EXTINF:-1,BRIMSTONE 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1149.mkv
+#EXTINF:-1,BRIGSBY BEAR 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1148.mkv
+#EXTINF:-1,BRIGHT 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1147.mkv
+#EXTINF:-1,ATES SERBEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1235.mkv
+#EXTINF:-1,ASK MEKTUPLARI 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1236.mkv
+#EXTINF:-1,ARABALAR 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1152.mkv
+#EXTINF:-1,ALTIN 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1245.mkv
+#EXTINF:-1,DARKLAND 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1155.mkv
+#EXTINF:-1,AQUAMANN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1133.mkv
+#EXTINF:-1,YARATIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1127.mkv
+#EXTINF:-1,SUIKASTCI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1130.mkv
+#EXTINF:-1,SAVAS MELEGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1128.mkv
+#EXTINF:-1,SAHIL GUVENLIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1141.mkv
+#EXTINF:-1,OLUMSUZ KILIC 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1145.mkv
+#EXTINF:-1,KACAKCI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1129.mkv
+#EXTINF:-1,INTIKAM EYLEMLERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1126.mkv
+#EXTINF:-1,GUZEL VE CIRKIN 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1143.mkv
+#EXTINF:-1,EJDERIN DOGUSU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1144.mkv
+#EXTINF:-1,BICAK SIRTI 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1146.mkv
+#EXTINF:-1,BEATS 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1142.mkv
+#EXTINF:-1,BALLERINA 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1140.mkv
+#EXTINF:-1,BAD SANTA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1139.mkv
+#EXTINF:-1,BACKTRACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1138.mkv
+#EXTINF:-1,AVENGERS INFINITY WAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1136.mkv
+#EXTINF:-1,AVENGERS END GAME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1135.mkv
+#EXTINF:-1,AVENGERS AGE OF ULTRON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1134.mkv
+#EXTINF:-1,ANT MAN VE WASP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1132.mkv
+#EXTINF:-1,ANABELLE KOTULUGUN DOGUSU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1131.mkv
+#EXTINF:-1,A-X-L 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1125.mkv
+#EXTINF:-1,2307 WINTERS DREAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1124.mkv
+#EXTINF:-1,2036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1123.mkv
+#EXTINF:-1,ZAMANDA KIVRILMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1137.mkv
+#EXTINF:-1,Yunus Bernie 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/622.mkv
+#EXTINF:-1,Yolcu 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/621.mkv
+#EXTINF:-1,Yarım ile Yamalak 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/620.mkv
+#EXTINF:-1,Utoya 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/619.mkv
+#EXTINF:-1,Uc Harfliler Adak 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/618.mkv
+#EXTINF:-1,Tomb Raider (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/617.mkv
+#EXTINF:-1,Tolkien 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/616.mkv
+#EXTINF:-1,The Red Sea Diving Resort 2019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/615.mkv
+#EXTINF:-1,Taksi5 (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/614.mkv
+#EXTINF:-1,Super Polisler 2 (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/613.mkv
+#EXTINF:-1,Suikastci(2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/612.mkv
+#EXTINF:-1,Suclu(2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/611.mkv
+#EXTINF:-1,Stalinin Olumu (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/610.mkv
+#EXTINF:-1,Sisters(2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/609.mkv
+#EXTINF:-1,Seytanin Oglu (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/608.mkv
+#EXTINF:-1,Seytan Kapisi (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/607.mkv
+#EXTINF:-1,Satranc Oyuncusu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/606.mkv
+#EXTINF:-1,Rocketman (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/605.mkv
+#EXTINF:-1,Replikalar (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/604.mkv
+#EXTINF:-1,Private War (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/603.mkv
+#EXTINF:-1,Pokemon Dedective Pikachu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/602.mkv
+#EXTINF:-1,Pavyon Alemin Hikayesi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/601.mkv
+#EXTINF:-1,Oyun Gecesi(2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/600.mkv
+#EXTINF:-1,Lucifer.S01E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1067.mkv
+#EXTINF:-1,Lucifer.S01E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1068.mkv
+#EXTINF:-1,Lucifer.S01E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1069.mkv
+#EXTINF:-1,Lucifer.S01E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1070.mkv
+#EXTINF:-1,Lucifer.S01E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1071.mkv
+#EXTINF:-1,Lucifer.S01E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1072.mkv
+#EXTINF:-1,Lucifer.S01E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1073.mkv
+#EXTINF:-1,Lucifer.S01E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1074.mkv
+#EXTINF:-1,Lucifer.S01E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1075.mkv
+#EXTINF:-1,Lucifer.S01E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1076.mkv
+#EXTINF:-1,Lucifer.S01E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1077.mkv
+#EXTINF:-1,Lucifer.S01E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1078.mkv
+#EXTINF:-1,Lucifer.S01E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1079.mkv
+#EXTINF:-1,Lucifer.S02E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1080.mkv
+#EXTINF:-1,Lucifer.S02E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1081.mkv
+#EXTINF:-1,Lucifer.S02E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1082.mkv
+#EXTINF:-1,Lucifer.S02E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1083.mkv
+#EXTINF:-1,Lucifer.S02E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1084.mkv
+#EXTINF:-1,Lucifer.S02E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1085.mkv
+#EXTINF:-1,Lucifer.S02E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1086.mkv
+#EXTINF:-1,Lucifer.S02E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1087.mkv
+#EXTINF:-1,Lucifer.S02E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1088.mkv
+#EXTINF:-1,Lucifer.S02E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1089.mkv
+#EXTINF:-1,Lucifer.S02E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1090.mkv
+#EXTINF:-1,Lucifer.S02E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1091.mkv
+#EXTINF:-1,Lucifer.S02E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1092.mkv
+#EXTINF:-1,Lucifer.S02E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1093.mkv
+#EXTINF:-1,Lucifer.S02E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1094.mkv
+#EXTINF:-1,Lucifer.S02E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1095.mkv
+#EXTINF:-1,Lucifer.S02E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1096.mkv
+#EXTINF:-1,Lucifer.S02E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1097.mkv
+#EXTINF:-1,Lucifer.S03E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1098.mkv
+#EXTINF:-1,Lucifer.S03E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1099.mkv
+#EXTINF:-1,Lucifer.S03E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1100.mkv
+#EXTINF:-1,Lucifer.S03E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1101.mkv
+#EXTINF:-1,Lucifer.S03E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1102.mkv
+#EXTINF:-1,Lucifer.S03E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1103.mkv
+#EXTINF:-1,Lucifer.S03E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1104.mkv
+#EXTINF:-1,Lucifer.S03E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1105.mkv
+#EXTINF:-1,Lucifer.S03E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1106.mkv
+#EXTINF:-1,Lucifer.S03E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1107.mkv
+#EXTINF:-1,Lucifer.S03E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1108.mkv
+#EXTINF:-1,Lucifer.S03E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1109.mkv
+#EXTINF:-1,Lucifer.S03E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1110.mkv
+#EXTINF:-1,Lucifer.S03E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1111.mkv
+#EXTINF:-1,Lucifer.S04E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1112.mkv
+#EXTINF:-1,Lucifer.S04E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1113.mkv
+#EXTINF:-1,Lucifer.S04E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1114.mkv
+#EXTINF:-1,Lucifer.S04E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1115.mkv
+#EXTINF:-1,Lucifer.S04E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1116.mkv
+#EXTINF:-1,Lucifer.S04E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1117.mkv
+#EXTINF:-1,Lucifer.S04E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1118.mkv
+#EXTINF:-1,Lucifer.S04E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1119.mkv
+#EXTINF:-1,Lucifer.S04E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1120.mkv
+#EXTINF:-1,Lucifer.S04E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/1121.mkv
+#EXTINF:-1,Black Mirror S1 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/834.mkv
+#EXTINF:-1,Black Mirror S1 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/835.mkv
+#EXTINF:-1,Black Mirror S1 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/836.mkv
+#EXTINF:-1,Black Mirror S2 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/837.mkv
+#EXTINF:-1,Black Mirror S2 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/838.mkv
+#EXTINF:-1,Black Mirror S2 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/839.mkv
+#EXTINF:-1,Black Mirror S2 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/840.mkv
+#EXTINF:-1,Black Mirror S3 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/841.mkv
+#EXTINF:-1,Black Mirror S3 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/842.mkv
+#EXTINF:-1,Black Mirror S3 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/843.mkv
+#EXTINF:-1,Black Mirror S3 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/844.mkv
+#EXTINF:-1,Black Mirror S3 E5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/845.mkv
+#EXTINF:-1,Black Mirror S3 E6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/846.mkv
+#EXTINF:-1,Black Mirror S4 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/847.mkv
+#EXTINF:-1,Black Mirror S4 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/848.mkv
+#EXTINF:-1,Black Mirror S4 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/849.mkv
+#EXTINF:-1,Black Mirror S4 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/850.mkv
+#EXTINF:-1,Black Mirror S4 E5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/851.mkv
+#EXTINF:-1,Black Mirror S4 E6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/852.mkv
+#EXTINF:-1,Black Mirror S5 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/853.mkv
+#EXTINF:-1,Black Mirror S5 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/854.mkv
+#EXTINF:-1,Black Mirror S5 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/855.mkv
+#EXTINF:-1,Vikings S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/744.mkv
+#EXTINF:-1,Vikings S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/745.mkv
+#EXTINF:-1,Vikings S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/746.mkv
+#EXTINF:-1,Vikings S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/747.mkv
+#EXTINF:-1,Vikings S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/748.mkv
+#EXTINF:-1,Vikings S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/749.mkv
+#EXTINF:-1,Vikings S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/750.mkv
+#EXTINF:-1,Vikings S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/751.mkv
+#EXTINF:-1,Vikings S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/752.mkv
+#EXTINF:-1,Vikings S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/753.mkv
+#EXTINF:-1,Vikings S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/754.mkv
+#EXTINF:-1,Vikings S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/755.mkv
+#EXTINF:-1,Vikings S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/756.mkv
+#EXTINF:-1,Vikings S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/757.mkv
+#EXTINF:-1,Vikings S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/758.mkv
+#EXTINF:-1,Vikings S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/759.mkv
+#EXTINF:-1,Vikings S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/760.mkv
+#EXTINF:-1,Vikings S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/761.mkv
+#EXTINF:-1,Vikings S02 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/762.mkv
+#EXTINF:-1,Vikings S03 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/763.mkv
+#EXTINF:-1,Vikings S03 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/764.mkv
+#EXTINF:-1,Vikings S03 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/765.mkv
+#EXTINF:-1,Vikings S03 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/766.mkv
+#EXTINF:-1,Vikings S03 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/767.mkv
+#EXTINF:-1,Vikings S03 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/768.mkv
+#EXTINF:-1,Vikings S03 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/769.mkv
+#EXTINF:-1,Vikings S03 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/770.mkv
+#EXTINF:-1,Vikings S03 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/771.mkv
+#EXTINF:-1,Vikings S03 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/772.mkv
+#EXTINF:-1,Vikings S04 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/773.mkv
+#EXTINF:-1,Vikings S04 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/774.mkv
+#EXTINF:-1,Vikings S04 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/775.mkv
+#EXTINF:-1,Vikings S04 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/776.mkv
+#EXTINF:-1,Vikings S04 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/777.mkv
+#EXTINF:-1,Vikings S04 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/778.mkv
+#EXTINF:-1,Vikings S04 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/779.mkv
+#EXTINF:-1,Vikings S04 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/780.mkv
+#EXTINF:-1,Vikings S04 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/781.mkv
+#EXTINF:-1,Vikings S04 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/782.mkv
+#EXTINF:-1,Vikings S04 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/783.mkv
+#EXTINF:-1,Vikings S04 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/784.mkv
+#EXTINF:-1,Vikings S04 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/785.mkv
+#EXTINF:-1,Vikings S04 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/786.mkv
+#EXTINF:-1,Vikings S04 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/787.mkv
+#EXTINF:-1,Vikings S04 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/788.mkv
+#EXTINF:-1,Vikings S04 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/789.mkv
+#EXTINF:-1,Vikings S04 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/790.mkv
+#EXTINF:-1,Vikings S04 E19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/791.mkv
+#EXTINF:-1,Vikings S04 E20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/792.mkv
+#EXTINF:-1,Vikings S05 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/793.mkv
+#EXTINF:-1,Vikings S05 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/794.mkv
+#EXTINF:-1,Vikings S05 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/795.mkv
+#EXTINF:-1,Vikings S05 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/796.mkv
+#EXTINF:-1,Vikings S05 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/797.mkv
+#EXTINF:-1,Vikings S05 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/798.mkv
+#EXTINF:-1,Vikings S05 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/799.mkv
+#EXTINF:-1,Vikings S05 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/800.mkv
+#EXTINF:-1,Vikings S05 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/801.mkv
+#EXTINF:-1,Vikings S05 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/802.mkv
+#EXTINF:-1,Vikings S05 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/803.mkv
+#EXTINF:-1,Vikings S05 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/804.mkv
+#EXTINF:-1,Vikings S05 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/805.mkv
+#EXTINF:-1,Vikings S05 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/806.mkv
+#EXTINF:-1,Vikings S05 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/807.mkv
+#EXTINF:-1,Vikings S05 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/808.mkv
+#EXTINF:-1,Vikings S05 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/809.mkv
+#EXTINF:-1,Vikings S05 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/810.mkv
+#EXTINF:-1,Vikings S05 E19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/811.mkv
+#EXTINF:-1,Vikings S05 E20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/812.mkv
+#EXTINF:-1,Game Of Thrones S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/418.mkv
+#EXTINF:-1,Game Of Thrones S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/419.mkv
+#EXTINF:-1,Game Of Thrones S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/420.mkv
+#EXTINF:-1,Game Of Thrones S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/421.mkv
+#EXTINF:-1,Game Of Thrones S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/422.mkv
+#EXTINF:-1,Game Of Thrones S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/423.mkv
+#EXTINF:-1,Game Of Thrones S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/424.mkv
+#EXTINF:-1,Game Of Thrones S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/425.mkv
+#EXTINF:-1,Game Of Thrones S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/426.mkv
+#EXTINF:-1,Game Of Thrones S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/427.mkv
+#EXTINF:-1,Game Of Thrones S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/428.mkv
+#EXTINF:-1,Game Of Thrones S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/429.mkv
+#EXTINF:-1,Game Of Thrones S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/430.mkv
+#EXTINF:-1,Game Of Thrones S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/431.mkv
+#EXTINF:-1,Game Of Thrones S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/432.mkv
+#EXTINF:-1,Game Of Thrones S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/433.mkv
+#EXTINF:-1,Game Of Thrones S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/434.mkv
+#EXTINF:-1,Game Of Thrones S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/435.mkv
+#EXTINF:-1,Game Of Thrones S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/436.mkv
+#EXTINF:-1,Game Of Thrones S02 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/437.mkv
+#EXTINF:-1,Game Of Thrones S03 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/438.mkv
+#EXTINF:-1,Game Of Thrones S03 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/439.mkv
+#EXTINF:-1,Game Of Thrones S03 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/440.mkv
+#EXTINF:-1,Game Of Thrones S03 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/441.mkv
+#EXTINF:-1,Game Of Thrones S03 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/442.mkv
+#EXTINF:-1,Game Of Thrones S03 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/443.mkv
+#EXTINF:-1,Game Of Thrones S03 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/444.mkv
+#EXTINF:-1,Game Of Thrones S03 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/445.mkv
+#EXTINF:-1,Game Of Thrones S03 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/446.mkv
+#EXTINF:-1,Game Of Thrones S03 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/447.mkv
+#EXTINF:-1,Game Of Thrones S04 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/448.mkv
+#EXTINF:-1,Game Of Thrones S04 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/449.mkv
+#EXTINF:-1,Game Of Thrones S04 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/450.mkv
+#EXTINF:-1,Game Of Thrones S04 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/451.mkv
+#EXTINF:-1,Game Of Thrones S04 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/452.mkv
+#EXTINF:-1,Game Of Thrones S04 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/453.mkv
+#EXTINF:-1,Game Of Thrones S04 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/454.mkv
+#EXTINF:-1,Game Of Thrones S04 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/455.mkv
+#EXTINF:-1,Game Of Thrones S04 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/456.mkv
+#EXTINF:-1,Game Of Thrones S04 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/457.mkv
+#EXTINF:-1,Game Of Thrones S05 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/458.mkv
+#EXTINF:-1,Game Of Thrones S05 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/459.mkv
+#EXTINF:-1,Game Of Thrones S05 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/460.mkv
+#EXTINF:-1,Game Of Thrones S05 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/461.mkv
+#EXTINF:-1,Game Of Thrones S05 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/462.mkv
+#EXTINF:-1,Game Of Thrones S05 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/463.mkv
+#EXTINF:-1,Game Of Thrones S05 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/464.mkv
+#EXTINF:-1,Game Of Thrones S05 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/465.mkv
+#EXTINF:-1,Game Of Thrones S05 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/466.mkv
+#EXTINF:-1,Game Of Thrones S05 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/467.mkv
+#EXTINF:-1,Game Of Thrones S06 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/468.mkv
+#EXTINF:-1,Game Of Thrones S06 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/469.mkv
+#EXTINF:-1,Game Of Thrones S06 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/470.mkv
+#EXTINF:-1,Game Of Thrones S06 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/471.mkv
+#EXTINF:-1,Game Of Thrones S06 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/472.mkv
+#EXTINF:-1,Game Of Thrones S06 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/473.mkv
+#EXTINF:-1,Game Of Thrones S06 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/474.mkv
+#EXTINF:-1,Game Of Thrones S07 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/475.mkv
+#EXTINF:-1,Game Of Thrones S07 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/476.mkv
+#EXTINF:-1,Game Of Thrones S07 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/477.mkv
+#EXTINF:-1,Game Of Thrones S07 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/478.mkv
+#EXTINF:-1,Game Of Thrones S07 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/479.mkv
+#EXTINF:-1,Game Of Thrones S07 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/480.mkv
+#EXTINF:-1,Game Of Thrones S07 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/481.mkv
+#EXTINF:-1,Game Of Thrones S08 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/482.mkv
+#EXTINF:-1,Game Of Thrones S08 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/483.mkv
+#EXTINF:-1,Game Of Thrones S08 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/484.mkv
+#EXTINF:-1,Game Of Thrones S08 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/485.mkv
+#EXTINF:-1,Game Of Thrones S08 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/486.mkv
+#EXTINF:-1,Game Of Thrones S08 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/487.mkv
+#EXTINF:-1,La casa de papel S1 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/496.mkv
+#EXTINF:-1,La casa de papel S1 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/501.mkv
+#EXTINF:-1,La casa de papel S1 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/502.mkv
+#EXTINF:-1,La casa de papel S1 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/503.mkv
+#EXTINF:-1,La casa de papel S1 E5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/504.mkv
+#EXTINF:-1,La casa de papel S1 E6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/505.mkv
+#EXTINF:-1,La casa de papel S1 E7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/506.mkv
+#EXTINF:-1,La casa de papel S1 E8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/507.mkv
+#EXTINF:-1,La casa de papel S1 E9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/508.mkv
+#EXTINF:-1,La casa de papel S1 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/497.mkv
+#EXTINF:-1,La casa de papel S1 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/498.mkv
+#EXTINF:-1,La casa de papel S1 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/499.mkv
+#EXTINF:-1,La casa de papel S1 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/500.mkv
+#EXTINF:-1,La casa de papel S2 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/509.mkv
+#EXTINF:-1,La casa de papel S2 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/510.mkv
+#EXTINF:-1,La casa de papel S2 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/511.mkv
+#EXTINF:-1,La casa de papel S2 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/512.mkv
+#EXTINF:-1,La casa de papel S2 E5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/513.mkv
+#EXTINF:-1,La casa de papel S2 E6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/514.mkv
+#EXTINF:-1,La casa de papel S2 E7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/515.mkv
+#EXTINF:-1,La casa de papel S2 E8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/516.mkv
+#EXTINF:-1,La casa de papel S2 E9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/517.mkv
+#EXTINF:-1,La casa de Papel S3 E1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/495.mkv
+#EXTINF:-1,La Casa De Papel S3 E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/488.mkv
+#EXTINF:-1,La Casa De Papel S3 E3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/489.mkv
+#EXTINF:-1,La Casa De Papel S3 E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/490.mkv
+#EXTINF:-1,La Casa De Papel S3 E5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/491.mkv
+#EXTINF:-1,La Casa De Papel S3 E6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/492.mkv
+#EXTINF:-1,La Casa De Papel S3 E7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/493.mkv
+#EXTINF:-1,La Casa De Papel S3 E8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/494.mkv
+#EXTINF:-1,HerseySeninleGuzel (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/588.mkv
+#EXTINF:-1,HepYek3 (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/587.mkv
+#EXTINF:-1,Guzel Oglum (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/586.mkv
+#EXTINF:-1,ENES BATUR HAYALMI GERCEKMI (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/582.mkv
+#EXTINF:-1,ENES BATUR GERCEK KAHRAMAN (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/581.mkv
+#EXTINF:-1,Cat Kapı Ask (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/521.mkv
+#EXTINF:-1,Godzilla Canavarlar Krali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/584.mkv
+#EXTINF:-1,DOGRULUKMU CESARETMI (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/523.mp4
+#EXTINF:-1,ilk Arınma Gecesi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/591.mkv
+#EXTINF:-1,Mutlu Lazzaro (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/599.mkv
+#EXTINF:-1,Love Simon(2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/598.mkv
+#EXTINF:-1,Kıyamet (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/595.mkv
+#EXTINF:-1,Kıskanc (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/594.mkv
+#EXTINF:-1,Kursk (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/597.mkv
+#EXTINF:-1,Kripto Vurgun (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/596.mkv
+#EXTINF:-1,istila Altında (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/593.mkv
+#EXTINF:-1,ingilizler Geliyor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/592.mkv
+#EXTINF:-1,Ailemle Savasmak (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/583.mkv
+#EXTINF:-1,ALFA.KURT (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/518.mkv
+#EXTINF:-1,GRINGO (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/585.mkv
+#EXTINF:-1,Cehennem Festivali (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/522.mkv
+#EXTINF:-1,Adrift (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/519.mkv
+#EXTINF:-1,211 (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/520.mkv
+#EXTINF:-1,BEKCI (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/416.mkv
+#EXTINF:-1,Avengers.Endgame (2019)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.akiptv.biz:8000/movie/omer/10082018/417.mp4

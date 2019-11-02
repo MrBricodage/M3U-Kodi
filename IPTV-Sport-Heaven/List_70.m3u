@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,Abu Dhabi Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu Dhabi Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,Abu Dhabi Sports SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu Dhabi Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu Dhabi Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Abu Dhabi Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1,Abu Dhabi Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1,Al Kass Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,KTV Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
+#EXTINF:-1,FOX Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3895
+#EXTINF:-1,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3896
+#EXTINF:-1,FOX Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3899
+#EXTINF:-1,sport tv 2 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3202
+#EXTINF:-1,sport tv 3 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3218
+
+#EXTINF:-1,RO:Telekom SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/60.m3u8
+#EXTINF:-1,RO:Telekom SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/59.m3u8
+#EXTINF:-1,RO:Telekom SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/58.m3u8
+#EXTINF:-1,RO:Telekom SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/57.m3u8
+#EXTINF:-1,RO: DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/33.m3u8
+#EXTINF:-1,RO: DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/32.m3u8
+#EXTINF:-1,RO: DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/31.m3u8
+#EXTINF:-1,RO: DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/30.m3u8
+#EXTINF:-1,RO: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/28.m3u8
+#EXTINF:-1,RO: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/27.m3u8
+#EXTINF:-1,DSports LQ 270p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_400.m3u8
+#EXTINF:-1,DSports LQ 360p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_600.m3u8
+#EXTINF:-1,DSports SD 480p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0,Bein sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1372.m3u8
+#EXTINF:0,Bein sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1373.m3u8
+#EXTINF:0,Bein sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1374.m3u8
+#EXTINF:0,Bein sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1375.m3u8
+#EXTINF:0,Tivibuspor 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1368.m3u8
+#EXTINF:0,Tivibuspor 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1369.m3u8
+#EXTINF:0,Tivibuspor 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1370.m3u8
+#EXTINF:0,Tivibuspor 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1371.m3u8
+#EXTINF:0,Bein 4k İz Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1376.m3u8
+#EXTINF:0,Bein sports Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1471.m3u8
+#EXTINF:0,Bein sports Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1472.m3u8
+#EXTINF:0,Sporsmart
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1436.m3u8
+#EXTINF:0,A Spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1416.m3u8
+#EXTINF:0,sports tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1475.m3u8

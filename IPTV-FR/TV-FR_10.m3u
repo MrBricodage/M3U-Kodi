@@ -1,59 +1,375 @@
 #EXTM3U
-#EXTINF:-1,|FR| TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534652
-#EXTINF:-1,|FR| TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5713
-#EXTINF:-1,|FR| TF1 +1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534651
-#EXTINF:-1,|FR| FRANCE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534650
-#EXTINF:-1,|FR| FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5712
-#EXTINF:-1,|FR| FRANCE 3 NOA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575541360
-#EXTINF:-1,|FR| FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534649
-#EXTINF:-1,|FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5711
-#EXTINF:-1,|FR| FRANCE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534648
-#EXTINF:-1,|FR| FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5710
-#EXTINF:-1,|FR| FRANCE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534647
-#EXTINF:-1,|FR| FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5709
-#EXTINF:-1,|FR| FRANCE Ô FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575536551
-#EXTINF:-1,|FR| FRANCE O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5708
-#EXTINF:-1,|FR| M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534646
-#EXTINF:-1,|FR| M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5723
-#EXTINF:-1,|FR| DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534768
-#EXTINF:-1,|FR| DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5753
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534769
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5754
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534766
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5752
-#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534767
-#EXTINF:-1,|FR| HISTOIRE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534758
-#EXTINF:-1,|FR| HISTOIRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5750
-#EXTINF:-1,|FR| NAT GEO CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534763
-#EXTINF:-1,|FR| NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5739
-#EXTINF:-1,|FR| NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/575534762
-#EXTINF:-1,|FR| NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.bestiptv-shop.com:7000/873974867/439074973/5740
+#EXTINF:-1,TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5520.m3u8
+#EXTINF:-1,TF1 Series Films
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5502.m3u8
+#EXTINF:-1,TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5510.m3u8
+#EXTINF:-1,M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5519.m3u8
+#EXTINF:-1,6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5503.m3u8
+#EXTINF:-1,W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5512.m3u8
+#EXTINF:-1,C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5504.m3u8
+#EXTINF:-1,FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5518.m3u8
+#EXTINF:-1,FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5517.m3u8
+#EXTINF:-1,FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5516.m3u8
+#EXTINF:-1,FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5515.m3u8
+#EXTINF:-1,FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5514.m3u8
+#EXTINF:-1,FRANCE 24.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/9775.m3u8
+#EXTINF:-1,FRANCE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5513.m3u8
+#EXTINF:-1,CANAL NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5431.m3u8
+#EXTINF:-1,I24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10682.m3u8
+#EXTINF:-1,Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3324.m3u8
+#EXTINF:-1,TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3325.m3u8
+#EXTINF:-1,RT FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11574.m3u8
+#EXTINF:-1,LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/9432.m3u8
+#EXTINF:-1,LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3373.m3u8
+#EXTINF:-1,Arte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5507.m3u8
+#EXTINF:-1,BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5432.m3u8
+#EXTINF:-1,BFM Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5433.m3u8
+#EXTINF:-1,Paris Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3320.m3u8
+#EXTINF:-1,13ème RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5479.m3u8
+#EXTINF:-1,RMC Story
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5508.m3u8
+#EXTINF:-1,TV Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5419.m3u8
+#EXTINF:-1,Comédie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5430.m3u8
+#EXTINF:-1,Elle Girl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5428.m3u8
+#EXTINF:-1,Série Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5482.m3u8
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3316.m3u8
+#EXTINF:-1,Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6282.m3u8
+#EXTINF:-1,Chérie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5505.m3u8
+#EXTINF:-1,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5511.m3u8
+#EXTINF:-1,TCM Cinéma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5477.m3u8
+#EXTINF:-1,altice STUDIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/9470.m3u8
+#EXTINF:-1,Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/8712.m3u8
+#EXTINF:-1,TV8 Mont Blanc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10681.m3u8
+#EXTINF:-1,Rouge TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10672.m3u8
+#EXTINF:-1,CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5506.m3u8
+#EXTINF:-1,ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10679.m3u8
+#EXTINF:-1,ALSACE 20 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11592.m3u8
+#EXTINF:-1,Grand Lille TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11593.m3u8
+#EXTINF:-1,RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5478.m3u8
+#EXTINF:-1,AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5480.m3u8
+#EXTINF:-1,MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5427.m3u8
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5484.m3u8
+#EXTINF:-1,WARNER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11308.m3u8
+#EXTINF:-1,VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/27427.m3u8
+#EXTINF:-1,Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5481.m3u8
+#EXTINF:-1,Canal+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12071.m3u8
+#EXTINF:-1,Canal+ Cinéma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12073.m3u8
+#EXTINF:-1,Canal+ Décalé
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5495.m3u8
+#EXTINF:-1,Canal+ Séries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12066.m3u8
+#EXTINF:-1,Canal+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5494.m3u8
+#EXTINF:-1,Ciné+ Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5487.m3u8
+#EXTINF:-1,Ciné+ Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5489.m3u8
+#EXTINF:-1,Ciné+ Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5491.m3u8
+#EXTINF:-1,Ciné+ Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5492.m3u8
+#EXTINF:-1,Ciné+ Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5488.m3u8
+#EXTINF:-1,Cine Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/8590.m3u8
+#EXTINF:-1,Polar+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/20670.m3u8
+#EXTINF:-1,OCS City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3347.m3u8
+#EXTINF:-1,OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3348.m3u8
+#EXTINF:-1,OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3346.m3u8
+#EXTINF:-1,OCS Geants
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3345.m3u8
+#EXTINF:-1,ORCA ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/14626.m3u8
+#EXTINF:-1,ORCA ACTION 2.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/17144.m3u8
+#EXTINF:-1,ORCA HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/15471.m3u8
+#EXTINF:-1,ORCA COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/30662.m3u8
+#EXTINF:-1,ORCA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/30663.m3u8
+#EXTINF:-1,SFR_Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/8708.m3u8
+#EXTINF:-1,Bet.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10366.m3u8
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3274.m3u8
+#EXTINF:-1,My Cuisine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/9389.m3u8
+#EXTINF:-1,Voyage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5450.m3u8
+#EXTINF:-1,LA CHAINE METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/29275.m3u8
+#EXTINF:-1,Nautical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/13867.m3u8
+#EXTINF:-1,TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5420.m3u8
+#EXTINF:-1,Ushuaïa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5457.m3u8
+#EXTINF:-1,Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5455.m3u8
+#EXTINF:-1,Chasse et Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3333.m3u8
+#EXTINF:-1,Seasons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5456.m3u8
+#EXTINF:-1,Planète+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5462.m3u8
+#EXTINF:-1,Planète+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5460.m3u8
+#EXTINF:-1,Planète+ A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5461.m3u8
+#EXTINF:-1,Science & Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5454.m3u8
+#EXTINF:-1,RMC Découverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5501.m3u8
+#EXTINF:-1,Crime District
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/9415.m3u8
+#EXTINF:-1,Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5453.m3u8
+#EXTINF:-1,Toute.l'histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3330.m3u8
+#EXTINF:-1,Weo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3315.m3u8
+#EXTINF:-1,Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5452.m3u8
+#EXTINF:-1,Discovery Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11594.m3u8
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5451.m3u8
+#EXTINF:-1,Discovery Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3303.m3u8
+#EXTINF:-1,NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5459.m3u8
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5458.m3u8
+#EXTINF:-1,Canal+ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12072.m3u8
+#EXTINF:-1,RMC Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/17211.m3u8
+#EXTINF:-1,RMC Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12069.m3u8
+#EXTINF:-1,RMC Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5472.m3u8
+#EXTINF:-1,RMC Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5471.m3u8
+#EXTINF:-1,RMC Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5470.m3u8
+#EXTINF:-1,RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/32893.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/32894.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/32895.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/32896.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/32897.m3u8
+#EXTINF:-1,Bein Sport HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12070.m3u8
+#EXTINF:-1,Bein Sport HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12074.m3u8
+#EXTINF:-1,Bein Sport HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/12065.m3u8
+#EXTINF:-1,beIN Sports max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3285.m3u8
+#EXTINF:-1,beIN Sports max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3284.m3u8
+#EXTINF:-1,beIN Sports max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3286.m3u8
+#EXTINF:-1,beIN Sports max 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3283.m3u8
+#EXTINF:-1,beIN Sports max 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3282.m3u8
+#EXTINF:-1,beIN Sports max 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11454.m3u8
+#EXTINF:-1,beIN Sports max 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11455.m3u8
+#EXTINF:-1,Teleclub Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11595.m3u8
+#EXTINF:-1,Infosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5466.m3u8
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3277.m3u8
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3276.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/20511.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/20512.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/20513.m3u8
+#EXTINF:-1,OL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10361.m3u8
+#EXTINF:-1,Foot 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3278.m3u8
+#EXTINF:-1,BFM Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10363.m3u8
+#EXTINF:-1,Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5467.m3u8
+#EXTINF:-1,L'équipe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5465.m3u8
+#EXTINF:-1,AB Moteurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3335.m3u8
+#EXTINF:-1,Motorsport Tv.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10674.m3u8
+#EXTINF:-1,Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5464.m3u8
+#EXTINF:-1,Golf+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10148.m3u8
+#EXTINF:-1,Golf+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10360.m3u8
+#EXTINF:-1,NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5509.m3u8
+#EXTINF:-1,LFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10678.m3u8
+#EXTINF:-1,M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3290.m3u8
+#EXTINF:-1,VH1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11306.m3u8
+#EXTINF:-1,Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5421.m3u8
+#EXTINF:-1,Trace Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10364.m3u8
+#EXTINF:-1,Trace Tropical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10365.m3u8
+#EXTINF:-1,NRJ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10676.m3u8
+#EXTINF:-1,TVM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10680.m3u8
+#EXTINF:-1,Brava tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10362.m3u8
+#EXTINF:-1,RFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10675.m3u8
+#EXTINF:-1,MTV HITS.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/10677.m3u8
+#EXTINF:-1,MTV FRANCE.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5424.m3u8
+#EXTINF:-1,MCM  TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5426.m3u8
+#EXTINF:-1,MEZZO LIVE.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5425.m3u8
+#EXTINF:-1,OCS Go Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/29239.m3u8
+#EXTINF:-1,OCS Go Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/29240.m3u8
+#EXTINF:-1,OCS Go Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/29241.m3u8
+#EXTINF:-1,OCS Go Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/29242.m3u8
+#EXTINF:-1,====== SWISS ======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6275.m3u8
+#EXTINF:-1,SRF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/3262.m3u8
+#EXTINF:-1,SRF 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6257.m3u8
+#EXTINF:-1,RTS Un
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5500.m3u8
+#EXTINF:-1,RTS Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/5499.m3u8
+#EXTINF:-1,+3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6259.m3u8
+#EXTINF:-1,+4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6260.m3u8
+#EXTINF:-1,+5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6261.m3u8
+#EXTINF:-1,Swiss 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6258.m3u8
+#EXTINF:-1,Puls 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6262.m3u8
+#EXTINF:-1,Tele1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/14197.m3u8
+#EXTINF:-1,Tele M1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/14196.m3u8
+#EXTINF:-1,TeleBärn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6269.m3u8
+#EXTINF:-1,TeleBielingue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6268.m3u8
+#EXTINF:-1,TELE ZURICH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6270.m3u8
+#EXTINF:-1,KANAL 9 (deutsch)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6272.m3u8
+#EXTINF:-1,KANAL 9 (francais)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6273.m3u8
+#EXTINF:-1,TV24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6263.m3u8
+#EXTINF:-1,TV25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6264.m3u8
+#EXTINF:-1,TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6267.m3u8
+#EXTINF:-1,Canal Alpha (Neuchatel)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/6274.m3u8
+#EXTINF:-1,MySports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11256.m3u8
+#EXTINF:-1,MySports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11247.m3u8
+#EXTINF:-1,MySports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11248.m3u8
+#EXTINF:-1,MySports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11249.m3u8
+#EXTINF:-1,MySports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11250.m3u8
+#EXTINF:-1,MySports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11251.m3u8
+#EXTINF:-1,MySports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11252.m3u8
+#EXTINF:-1,MySports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11253.m3u8
+#EXTINF:-1,MySports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11254.m3u8
+#EXTINF:-1,MySports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/live/ibrahim1/ibrahim1/11255.m3u8

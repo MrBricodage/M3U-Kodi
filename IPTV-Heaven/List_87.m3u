@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,joj_family_hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
+#EXTINF:-1,bgtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,R TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.87.151:8000/play/a002/index.m3u8
+#EXTINF:-1,retro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8

@@ -1,51 +1,65 @@
 #EXTM3U
-#EXTINF:-1,HU: Extreme Sports Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream217/stream.m3u8
-#EXTINF:-1,HU: M4 Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream077/stream.m3u8
-#EXTINF:-1,SR: Arena Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream193/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream026/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream068/stream.m3u8
-#EXTINF:-1,HU: Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream003/stream.m3u8
-#EXTINF:-1,HU: Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream004/stream.m3u8
-#EXTINF:-1,HU: M4 Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream173/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream028/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream039/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream044/stream.m3u8
-#EXTINF:-1,SR: Arena Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream196/stream.m3u8
-#EXTINF:-1,SR: Arena Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream197/stream.m3u8
-#EXTINF:-1,EN: FightBox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream218/stream.m3u8
-#EXTINF:-1,SR: Arena Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream195/stream.m3u8
-#EXTINF:-1,HU: Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream140/stream.m3u8
-#EXTINF:-1,HU: Spíler 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream141/stream.m3u8
-#EXTINF:-1,SR: Arena Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream194/stream.m3u8
-#EXTINF:-1,HU: Digi Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream081/stream.m3u8
-#EXTINF:-1,SR: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream191/stream.m3u8
-#EXTINF:-1,SR: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream192/stream.m3u8
-#EXTINF:-1,HU: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream171/stream.m3u8
-#EXTINF:-1,M4 Sport - h265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream204/stream.m3u8
-#EXTINF:-1,HU: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream205/stream.m3u8
-#EXTINF:-1,HU: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.iptvhu.com:7288/stream206/stream.m3u8
+#EXTINF:0,DaRKTv-2 Bein Liga HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/314
+#EXTINF:0,DaRKTv-2 Liga de Campeones HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/315
+#EXTINF:0,DaRKTv-2 Boing_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/316
+#EXTINF:0,LaLiga123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/483
+#EXTINF:0,M DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/484
+#EXTINF:0,TOROS TV_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/485
+#EXTINF:0,M TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/486
+#EXTINF:0,M GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/487
+#EXTINF:0,M MOTOGP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/488
+#EXTINF:0,M FORMULA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/489
+#EXTINF:0,M FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/490
+#EXTINF:0,M EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/491
+#EXTINF:0,M EUROSPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/492
+#EXTINF:0,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/493
+#EXTINF:0,M REAL MADRID TV_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/494
+#EXTINF:0,M BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/495
+#EXTINF:0,GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/496
+#EXTINF:0,M LALIGATV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/497
+#EXTINF:0,M LALIGATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/498
+#EXTINF:0,M LALIGA BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/499
+#EXTINF:0,M LALIGA BAR FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/500
+#EXTINF:0,M LIGA CAMPEONES8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/501
+#EXTINF:0,M LIGA CAMPEONES7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/502
+#EXTINF:0,M LIGA CAMPEONES6_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/503
+#EXTINF:0,M LIGA CAMPEONES5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/504
+#EXTINF:0,M LIGA CAMPEONES4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/505
+#EXTINF:0,M LIGA CAMPEONES3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/506
+#EXTINF:0,M LIGA CAMPEONES2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/507
+#EXTINF:0,M LIGA CAMPEONES1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/508
+#EXTINF:0,LIGA DE CAMPEONES 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/509
+#EXTINF:0,LIGA DE CAMPEONES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/510
+#EXTINF:0,Latinos: Win Sport_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vergratis.ddns.net:25461/GRATIS/GRATIS/693

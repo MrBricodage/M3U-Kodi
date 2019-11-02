@@ -1,59 +1,151 @@
-#EXTM3U
-#EXTINF:-1,GLIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.236.229.66:8000/play/a0ck
-#EXTINF:-1,MP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorod.tv/s/live/18/188.163.49.179/1558600065016/0.m3u8
-#EXTINF:-1,DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel145/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SY DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel132/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FAMILY MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel111/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AVENCHE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel746/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel744/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GOLF + 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel741/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVRHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1,VIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.101.145.18:4000/viajar
-#EXTINF:-1,QADS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel733/tracks-v1a1/mono.m3u8
-#EXTINF:-1,zjtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.centerch.com/zjtv.m3u8
-#EXTINF:-1,ANWAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel731/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel727/tracks-v1a1/mono.m3u8
-#EXTINF:-1,wesaltv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1,surautv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
-#EXTINF:-1,24tvcrimea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1,SetantaSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1,MOCCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1,nt1
-https://s1.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:-1,kapanglocal
-https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1,livesports24
-https://185-82-203-145.livesports24.online/khlhdru.m3u8
-#EXTINF:-1,V7SHOW
-https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
-#EXTINF:-1,sanroque
-https://common01.todostreaming.es/live/sanroque-livestream.m3u8
-#EXTINF:-1,informaciontvlive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1,olayturk
-https://waw1.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
-#EXTINF:-1,bant1
-https://waw1.artiyerelmedya.net/avtv/bant1/playlist.m3u8
-#EXTINF:-1,History-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/CH1-MX-X/MX-History-HD.m3u8
-#EXTINF:-1,HBO2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-HBO2-MX.m3u8
+#EXTM3U Albdroid TV
+#EXTINF:-1,MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2640.ts
+#EXTINF:-1,MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2639.ts
+#EXTINF:-1,MULTISPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2638.ts
+#EXTINF:-1,MULTISPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2637.ts
+#EXTINF:-1,MULTISPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2636.ts
+#EXTINF:-1,MULTISPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2635.ts
+#EXTINF:-1,|FR| M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1584.ts
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1583.ts
+#EXTINF:-1,|FR| M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1582.ts
+#EXTINF:-1,|FR| TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1484.ts
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1482.ts
+#EXTINF:-1,|FR| TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1483.ts
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1184.ts
+#EXTINF:-1,|FR| W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1183.ts
+#EXTINF:-1,|FR| TF1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1176.ts
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1175.ts
+#EXTINF:-1,TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1174.ts
+#EXTINF:-1,EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1097.ts
+#EXTINF:-1,BEINSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/636.ts
+#EXTINF:-1,SOURCE RMC SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/560.ts
+#EXTINF:-1,|FR| RMC SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/570.ts
+#EXTINF:-1,|FR| RMC SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/573.ts
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/577.ts
+#EXTINF:-1,|FR| RMC SPORT5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/580.ts
+#EXTINF:-1,|FR|RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/575.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/586.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/585.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/584.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/583.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/582.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/593.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/592.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/591.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/590.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/589.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/588.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/587.ts
+#EXTINF:-1,|FR| RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/581.ts
+#EXTINF:-1,|FR| RMC SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/567.ts
+#EXTINF:-1,|FR| RMC SPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/579.ts
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/578.ts
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/576.ts
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/574.ts
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/572.ts
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/571.ts
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/569.ts
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/568.ts
+#EXTINF:-1,|FR| CANAL.  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/598.ts
+#EXTINF:-1,|FR| CANAL  SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/599.ts
+#EXTINF:-1,|FR| CANAL  SPORT  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/597.ts
+#EXTINF:-1,|FR| CANAL  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/563.ts
+#EXTINF:-1,|FR| CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/562.ts
+#EXTINF:-1,|FR| CANAL+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/561.ts
+#EXTINF:-1,|FR| beINSPORT3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/605.ts
+#EXTINF:-1,|FR| beINSPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/603.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/620.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/618.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/616.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/614.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/612.ts
+#EXTINF:-1,|FR| BEINSPORT MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/610.ts
+#EXTINF:-1,|FR| beINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/608.ts
+#EXTINF:-1,|FR| beINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/607.ts
+#EXTINF:-1,|FR| beINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/606.ts
+#EXTINF:-1,|FR| beIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/602.ts
+#EXTINF:-1,|FR| beIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/601.ts
+#EXTINF:-1,|FR| beIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/600.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/619.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/617.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/615.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/613.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/611.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/609.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/622.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/621.ts

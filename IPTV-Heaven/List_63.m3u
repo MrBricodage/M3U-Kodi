@@ -1,7 +1,39 @@
 #EXTM3U
-#EXTINF:-1,NTA AFRICA
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1,MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://70.32.0.9:5000/live/518/playlist.m3u8
+#EXTINF:-1,nrwision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1,sporttv3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:-1,malta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1,trt2
+https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
+#EXTINF:-1,tvcreta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1,france3
+https://s1.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1,tecnoxia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1,canal4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,oromartv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,rnn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ss1.domint.net:2122/rnn_str/canal27/media.m3u8
+#EXTINF:-1,tvopoja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,dlaCiebieTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1,SAMA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1,adsport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,sxb-1
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1,smil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://blutv-beta.akamaized.net/fx/fx.smil/playlist.m3u8
+#EXTINF:-1,zhibo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1,ddnews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8

@@ -1,103 +1,399 @@
 #EXTM3U
-#EXTINF:-1,Abu Dhabi Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,Al Kass Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,KTV Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-
-#EXTINF:-1,FOX Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3895
-#EXTINF:-1,FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3896
-#EXTINF:-1,FOX Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3899
-#EXTINF:-1,sport tv 2 hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3202
-#EXTINF:-1,sport tv 3 hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.132.6.61/TV3218
-
-#EXTINF:-1,RO:Telekom SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/60.m3u8
-#EXTINF:-1,RO:Telekom SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/59.m3u8
-#EXTINF:-1,RO:Telekom SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/58.m3u8
-#EXTINF:-1,RO:Telekom SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/57.m3u8
-#EXTINF:-1,RO: DIGI SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/33.m3u8
-#EXTINF:-1,RO: DIGI SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/32.m3u8
-#EXTINF:-1,RO: DIGI SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/31.m3u8
-#EXTINF:-1,RO: DIGI SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/30.m3u8
-#EXTINF:-1,RO: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/28.m3u8
-#EXTINF:-1,RO: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/27.m3u8
-#EXTINF:-1,DSports LQ 270p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_400.m3u8
-#EXTINF:-1,DSports LQ 360p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1,DSports SD 480p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://49.44.124.179:80/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:0,Bein sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1372.m3u8
-#EXTINF:0,Bein sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1373.m3u8
-#EXTINF:0,Bein sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1374.m3u8
-#EXTINF:0,Bein sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1375.m3u8
-#EXTINF:0,Tivibuspor 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1368.m3u8
-#EXTINF:0,Tivibuspor 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1369.m3u8
-#EXTINF:0,Tivibuspor 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1370.m3u8
-#EXTINF:0,Tivibuspor 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1371.m3u8
-#EXTINF:0,Bein 4k İz Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1376.m3u8
-#EXTINF:0,Bein sports Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1471.m3u8
-#EXTINF:0,Bein sports Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1472.m3u8
-#EXTINF:0,Sporsmart
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1436.m3u8
-#EXTINF:0,A Spor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1416.m3u8
-#EXTINF:0,sports tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://8d4a1a46-stream.nmbs.top/c/28/1475.m3u8
+#EXTINF:0,BG: Max Sport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/14936
+#EXTINF:0,BG: Max Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/14937
+#EXTINF:0,BG: Max Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20341
+#EXTINF:0,BG: Max Sport 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26353
+#EXTINF:0,BG: Eurosport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26526
+#EXTINF:0,BG: Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26525
+#EXTINF:0,VIP SW: MYSports Basic HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13958
+#EXTINF:0,VIP SW: MYSports 1HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/16923
+#EXTINF:0,VIP SW: MYSports 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15334
+#EXTINF:0,VIP SW: MYSports 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15335
+#EXTINF:0,VIP SW: MYSports 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15336
+#EXTINF:0,VIP SW: MYSports 5HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15337
+#EXTINF:0,VIP SW: MYSports 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15338
+#EXTINF:0,VIP SW: MYSports HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15349
+#EXTINF:0,VIP SW: MYSports 1HD FR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17273
+#EXTINF:0,VIP SW: MYSports 2HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17272
+#EXTINF:0,VIP SW: MYSports 3HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17271
+#EXTINF:0,VIP SW: MYSports 4HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17270
+#EXTINF:0,VIP SW: MYSports 5HD FR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17269
+#EXTINF:0,VIP SW: MYSports 6HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/17268
+#EXTINF:0,VIP SW: TC Sport 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/9172
+#EXTINF:0,VIP SW: TC Sport 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/9171
+#EXTINF:0,VIP TR: Bein Sport Haber HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/14792
+#EXTINF:0,VIP TR: Bein Sport 1HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/16292
+#EXTINF:0,VIP TR: Bein Sport 2HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/16291
+#EXTINF:0,VIP TR: Bein Sport 3HD 1080P_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/16290
+#EXTINF:0,VIP TR: Bein Sport 4HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/16289
+#EXTINF:0,VIP TR: Bein Sports FHD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25955
+#EXTINF:0,VIP TR: Bein Sports FHD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25954
+#EXTINF:0,VIP TR: Bein Sports FHD3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25953
+#EXTINF:0,VIP TR: Bein Sports FHD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25952
+#EXTINF:0,VIP TR: Bein Sport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7333
+#EXTINF:0,VIP TR: Bein Sport 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7334
+#EXTINF:0,VIP TR: Bein Sport 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7335
+#EXTINF:0,VIP TR: Bein Sport 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7336
+#EXTINF:0,VIP TR: Bein Sport MAX 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/9592
+#EXTINF:0,VIP TR: Bein Sport MAX 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/9591
+#EXTINF:0,VIP TR: TiviBu Sport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7337
+#EXTINF:0,VIP TR: TiviBu Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7338
+#EXTINF:0,VIP TR: TiviBu Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7421
+#EXTINF:0,VIP TR: TiviBu Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7422
+#EXTINF:0,VIP TR: TiviBu Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/14793
+#EXTINF:0,VIP TR: Smart Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/7423
+#EXTINF:0,VIP TR: S sport HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11872
+#EXTINF:0,VIP US: BEIN SPORTS US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10696
+#EXTINF:0,VIP US: BEIN SPORTS Connect FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30738
+#EXTINF:0,VIP US: BEIN SPORTS N FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30739
+#EXTINF:0,VIP US: BEIN SPORTS LA LIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30991
+#EXTINF:0,VIP US: BEIN SPORTS 4 FHD (Live During Events Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30740
+#EXTINF:0,VIP US: BEIN SPORTS 5 FHD (Live During Events Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30741
+#EXTINF:0,VIP US: BEIN SPORTS 6 FHD (Live During Events Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30742
+#EXTINF:0,VIP US: BEIN SPORTS 7 FHD (Live During Events Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30743
+#EXTINF:0,VIP US: BEIN SPORTS 8 FHD (Live During Events Only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/30744
+#EXTINF:0,VIP US: Fox Soccer Plus HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/12568
+#EXTINF:0,VIP US: FOX SOCCER SUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10670
+#EXTINF:0,VIP US: FOX SPORTS Detroit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10650
+#EXTINF:0,VIP US: FOX SPORTS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10769
+#EXTINF:0,VIP US: FOX SPORTS TWO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10716
+#EXTINF:0,VIP US: Fox Sports Arizona HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25868
+#EXTINF:0,VIP US: Fox Sports Indianna HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25877
+#EXTINF:0,VIP US: Fox Sports Kannas CityHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25876
+#EXTINF:0,VIP US: Fox Sports College Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25867
+#EXTINF:0,VIP US: Fox Sports College Pacific HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25869
+#EXTINF:0,VIP US: Fox Sports Detroit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25875
+#EXTINF:0,VIP US: Fox Sports Florida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25874
+#EXTINF:0,VIP US: Fox Sports Mid West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25865
+#EXTINF:0,VIP US: Fox Sports North HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25873
+#EXTINF:0,VIP US: Fox Sports Ohio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25864
+#EXTINF:0,VIP US: Fox Sports Oklahoma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25859
+#EXTINF:0,VIP US: Fox Sports San Diego HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25871
+#EXTINF:0,VIP US: Fox Sports South HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25872
+#EXTINF:0,VIP US: Fox Sports South East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25863
+#EXTINF:0,VIP US: Fox Sports South West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25913
+#EXTINF:0,VIP US: Fox Sports Sun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25862
+#EXTINF:0,VIP US: Fox Sports Tennessee HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25860
+#EXTINF:0,VIP US: Fox Sports West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25861
+#EXTINF:0,VIP US: Fox Sports West Prime Ticket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25866
+#EXTINF:0,VIP US: Fox Sports Wisconsin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25870
+#EXTINF:0,VIP AR: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/2744
+#EXTINF:0,VIP AR: Bein Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/285
+#EXTINF:0,VIP AR: Time Sports_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/27929
+#EXTINF:0,VIP AR: Bein Sport HD1 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13800
+#EXTINF:0,VIP AR: Bein Sport HD2 1080P_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13799
+#EXTINF:0,VIP AR: Bein Sport HD3 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13798
+#EXTINF:0,VIP AR: Bein Sport HD4 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13797
+#EXTINF:0,VIP AR: Bein Sport HD5 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13796
+#EXTINF:0,VIP AR: Bein Sport HD6 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13795
+#EXTINF:0,VIP AR: Bein Sport HD7 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13794
+#EXTINF:0,VIP AR: Bein Sport HD8 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13793
+#EXTINF:0,VIP AR: Bein Sport HD9 1080P_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13792
+#EXTINF:0,VIP AR: Bein Sport HD10 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13791
+#EXTINF:0,VIP AR: Bein Sport HD11 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13660
+#EXTINF:0,VIP AR: Bein Sport HD12 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13661
+#EXTINF:0,VIP AR: Bein Sport HD13 1080P_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18785
+#EXTINF:0,VIP AR: Bein Sport HD14 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18824
+#EXTINF:0,VIP AR: Bein Sport HD15 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18825
+#EXTINF:0,VIP AR: Bein Sport HD16 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18826
+#EXTINF:0,VIP AR: Bein Sport HD17 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18827
+#EXTINF:0,VIP AR: Bein Sport NBA 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/18828
+#EXTINF:0,VIP AR: Bein Sport HD1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15595
+#EXTINF:0,VIP AR: Bein Sport HD2 H265_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15594
+#EXTINF:0,VIP AR: Bein Sport HD3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15593
+#EXTINF:0,VIP AR: Bein Sport HD4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15592
+#EXTINF:0,VIP AR: Bein Sport HD5 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15591
+#EXTINF:0,VIP AR: Bein Sport HD6 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15590
+#EXTINF:0,VIP AR: Bein Sport HD7 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15589
+#EXTINF:0,VIP AR: Bein Sport HD8 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15588
+#EXTINF:0,VIP AR: Bein Sport HD9 H265_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/21378
+#EXTINF:0,VIP AR: Bein Sport HD10 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/21379
+#EXTINF:0,VIP AR: Bein Sport HD11 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26463
+#EXTINF:0,VIP AR: Bein Sport HD12 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26464
+#EXTINF:0,VIP AR: Bein Sport HD13 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/26465
+#EXTINF:0,VIP AR: Bein Sport FHD1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25965
+#EXTINF:0,VIP AR: Bein Sport FHD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25964
+#EXTINF:0,VIP AR: Bein Sport FHD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25963
+#EXTINF:0,VIP AR: Bein Sport FHD4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25962
+#EXTINF:0,VIP AR: Bein Sport FHD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25961
+#EXTINF:0,VIP AR: Bein Sport FHD6_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25960
+#EXTINF:0,VIP AR: Bein Sport FHD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25959
+#EXTINF:0,VIP AR: Bein Sport FHD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25958
+#EXTINF:0,VIP AR: Bein Sport FHD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25957
+#EXTINF:0,VIP AR: Bein Sport FHD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/25956
+#EXTINF:0,VIP AR: Bein Sport HD1 H265 P50_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20735
+#EXTINF:0,VIP AR: Bein Sport HD2 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20734
+#EXTINF:0,VIP AR: Bein Sport HD3 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20733
+#EXTINF:0,VIP AR: Bein Sport HD4 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20732
+#EXTINF:0,VIP AR: Bein Sport HD5 H265 P50_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20731
+#EXTINF:0,VIP AR: Bein Sport HD6 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20730
+#EXTINF:0,VIP AR: Bein Sport HD7 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20729
+#EXTINF:0,VIP AR: Bein Sport HD8 H265 P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20728
+#EXTINF:0,VIP AR: Bein Sport HD1 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20276
+#EXTINF:0,VIP AR: Bein Sport HD2 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20275
+#EXTINF:0,VIP AR: Bein Sport HD3 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20274
+#EXTINF:0,VIP AR: Bein Sport HD4 1080P50_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20273
+#EXTINF:0,VIP AR: Bein Sport HD5 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20272
+#EXTINF:0,VIP AR: Bein Sport HD6 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20271
+#EXTINF:0,VIP AR: Bein Sport HD7 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20270
+#EXTINF:0,VIP AR: Bein Sport HD8 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20269
+#EXTINF:0,VIP AR: Bein Sport HD9 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20267
+#EXTINF:0,VIP AR: Bein Sport HD10 1080P50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/20268
+#EXTINF:0,VIP AR: Bein Sport HD1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13650
+#EXTINF:0,VIP AR: Bein Sport HD2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13651
+#EXTINF:0,VIP AR: Bein Sport HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13652
+#EXTINF:0,VIP AR: Bein Sport HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13653
+#EXTINF:0,VIP AR: Bein Sport HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13654
+#EXTINF:0,VIP AR: Bein Sport HD6_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13655
+#EXTINF:0,VIP AR: Bein Sport HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13656
+#EXTINF:0,VIP AR: Bein Sport HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13657
+#EXTINF:0,VIP AR: Bein Sport HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13658
+#EXTINF:0,VIP AR: Bein Sport HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/13659
+#EXTINF:0,VIP AR: Bein Sport HD1 BKUP1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10272
+#EXTINF:0,VIP AR: Bein Sport HD2 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10271
+#EXTINF:0,VIP AR: Bein Sport HD3 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10270
+#EXTINF:0,VIP AR: Bein Sport HD4 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10269
+#EXTINF:0,VIP AR: Bein Sport HD5 BKUP1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10268
+#EXTINF:0,VIP AR: Bein Sport HD6 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10267
+#EXTINF:0,VIP AR: Bein Sport HD7 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10266
+#EXTINF:0,VIP AR: Bein Sport HD8 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10265
+#EXTINF:0,VIP AR: Bein Sport HD9 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10264
+#EXTINF:0,VIP AR: Bein Sport HD10 BKUP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/10263
+#EXTINF:0,VIP AR: Bein Sport HD1 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11612
+#EXTINF:0,VIP AR: Bein Sport HD2 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11611
+#EXTINF:0,VIP AR: Bein Sport HD3 BKUP2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11610
+#EXTINF:0,VIP AR: Bein Sport HD4 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11609
+#EXTINF:0,VIP AR: Bein Sport HD5 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11608
+#EXTINF:0,VIP AR: Bein Sport HD6 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11607
+#EXTINF:0,VIP AR: Bein Sport HD7 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11606
+#EXTINF:0,VIP AR: Bein Sport HD8 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11605
+#EXTINF:0,VIP AR: Bein Sport HD9 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11604
+#EXTINF:0,VIP AR: Bein Sport HD10 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11602
+#EXTINF:0,VIP AR: Bein Sport HD11 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11601
+#EXTINF:0,VIP AR: Bein Sport HD12 BKUP2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11600
+#EXTINF:0,VIP AR: Bein Sport HD13 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/11603
+#EXTINF:0,VIP AR: Bein Sport HD14 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15599
+#EXTINF:0,VIP AR: Bein Sport HD15 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15598
+#EXTINF:0,VIP AR: Bein Sport HD16 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15597
+#EXTINF:0,VIP AR: Bein Sport HD17 BKUP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15596
+#EXTINF:0,VIP AR: Bein Sport HD1 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15387
+#EXTINF:0,VIP AR: Bein Sport HD2 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15386
+#EXTINF:0,VIP AR: Bein Sport HD3 BKUP3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15385
+#EXTINF:0,VIP AR: Bein Sport HD4 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15384
+#EXTINF:0,VIP AR: Bein Sport HD5 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15383
+#EXTINF:0,VIP AR: Bein Sport HD6 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15382
+#EXTINF:0,VIP AR: Bein Sport HD7 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15381
+#EXTINF:0,VIP AR: Bein Sport HD8 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15380
+#EXTINF:0,VIP AR: Bein Sport HD9 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15379
+#EXTINF:0,VIP AR: Bein Sport HD10 BKUP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/15378
+#EXTINF:0,VIP AR: Bein Sport SD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1188
+#EXTINF:0,VIP AR: Bein Sport SD2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1187
+#EXTINF:0,VIP AR: Bein Sport SD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1186
+#EXTINF:0,VIP AR: Bein Sport SD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1185
+#EXTINF:0,VIP AR: Bein Sport SD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1184
+#EXTINF:0,VIP AR: Bein Sport SD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1183
+#EXTINF:0,VIP AR: Bein Sport SD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1182
+#EXTINF:0,VIP AR: Bein Sport SD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1181
+#EXTINF:0,VIP AR: Bein Sport SD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1180
+#EXTINF:0,VIP AR: Bein Sport SD10_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1179
+#EXTINF:0,VIP AR: Bein Sport SD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1178
+#EXTINF:0,VIP AR: Bein Sport SD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-best2019.club:8080/3af1Dae1Mk/JIo2couXQZ/1177

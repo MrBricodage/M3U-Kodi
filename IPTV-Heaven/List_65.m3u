@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1,julieitalia
-https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,canale_5_hd
-https://1.ip2stream.icu/live/canale_5_hd/chunks.m3u8
-#EXTINF:-1,muzh_kino-mb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://moscow-commpass.cdnvideo.ru:80/muzh_kino-mb/hls-00/mono.m3u8
-#EXTINF:-1,dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://122.155.180.8:5021/live/223
-#EXTINF:-1,dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1,FLASH-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.59.206/TV/FLASH-TV/n/mac/840.m3u8
-#EXTINF:-1,mtv1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://124.41.240.247:1935/live/mtv1/playlist.m3u8
+#EXTINF:-1,BeinMovies1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
+#EXTINF:-1,BeinMovies2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
+#EXTINF:-1,BeinMovies3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
