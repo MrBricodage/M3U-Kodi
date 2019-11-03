@@ -102,23 +102,23 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 </item>
 
 	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Levante VS Barcelona[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Genoa vs Udinese[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
 	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/levante-vs-barcelona/</page>
+	<page>http://60fps.live/genoa-vs-udinese/</page>
 	</regex>
 	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 	</item>
 
 	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Marseille VS Lille[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux VS Nantes[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
 	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/olympique-marseille-vs-lille/</page>
+	<page>http://60fps.live/bordeaux-vs-nantes/</page>
 	</regex>
 	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 	</item>
@@ -143,16 +143,16 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 </item> -->
 
-<!-- <item>
-<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Washington Redskins vs Minnesota[/B][/COLOR]</title>
+<item>
+<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans vs Jacksonville Jaguars[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
 <regex>
 <name>get_hanturl</name>
 <expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/washington-redskins-vs-minnesota-vikings/</page>
+<page>http://60fps.live/houston-texans-vs-jacksonville-jaguars/</page>
 </regex>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-</item> -->
+</item>
 
 
 <!-- 
