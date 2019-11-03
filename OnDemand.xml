@@ -113,16 +113,40 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 	</item>
 
 	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux VS Nantes[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
 	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/bordeaux-vs-nantes/</page>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/girondins-de-bordeaux-live-stream/</page>
+	<referer>http://60fps.live/girondins-de-bordeaux-live-stream/</referer>
 	</regex>
 	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 	</item>
 
+	<item>
+	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Nice [/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/ogc-nice-live-stream/</page>
+	<referer>http://60fps.live/ogc-nice-live-stream/</referer>
+	</regex>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+	</item>
 
 <item>
 <title>[COLOR yellow][B]==========  Football Streams  ==========[/B][/COLOR]</title>
