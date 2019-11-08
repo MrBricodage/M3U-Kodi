@@ -35,24 +35,6 @@
 <fanart></fanart>
 </item>
 
-
-
-<!-- Catalogue de chaines caché derrière ce lien fonctionnel au 24/10/2019? -->
-
-
-	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux VS Nantes[/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/bordeaux-vs-nantes/</page>
-	</regex>
-	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-	</item>
-
-
-
 	<item>
 	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
@@ -89,138 +71,8 @@
 	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
 	</item>
 	
-	
-	
-
-<item>
-<title>[COLOR lime][B]G[/B][/COLOR][COLOR white][B]uingamp [/B][/COLOR]</title>
-<link>http://e1.cdn4.us/ingest011/29375.m3u8?sf=SzFUZm5xNnh0aA==&token=O2d0FGYDR_Ldlvw1z1HnFw&expires=1572649474&rnd=</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/27.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/28.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/30.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
 
 
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/31.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/34.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/127.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/128.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/130.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/131.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 DE[/B][/COLOR]</title>
-<link>http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/134.ts|User-Agent=Vidhemotreqim</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]C[/B][/COLOR][COLOR white][B]anal + FR HD[/B][/COLOR]</title>
-<info>Flux coupé au bout d'environ 30 secondes</info>
-<link>http://95.216.2.179/live/722040/331173/339/13706|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<info>Flux coupé au bout d'environ 30 secondes</info>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 1 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/13746|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=16&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 2 FR HD[/B][/COLOR]</title>
-<info>Flux coupé au bout d'environ 30 secondes</info>
-<link>http://95.216.2.179/live/722040/331173/339/13747|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport 3 FR HD[/B][/COLOR]</title>
-<info>Flux coupé au bout d'environ 30 secondes</info>
-<link>http://95.216.2.179/live/722040/331173/339/13748|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max4 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max5 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/22661|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max6 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/22662|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max7 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/22663|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]eIn Sport Max8 FR HD[/B][/COLOR]</title>
-<link>http://95.216.2.179/live/722040/331173/339/18157|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<!-- Test liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chainesTest liens utilisés par LiveFootBall et request après la diffusion de l'évènement pour trouver les flux occasionnels et les chaines -->
 
 <item>
 	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #1[/B][/COLOR]</title>
@@ -229,20 +81,30 @@
 
 <item>
 <title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #2[/B][/COLOR]</title>
-<link>http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/washington-nationals-vs-houston-astros/</link>
+<link>http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts</link>
+</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #3[/B][/COLOR]</title>
-<link>https://textuploader.com/10x4e/raw</link>
+<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70</link>
+</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3P3GM1D.txt</externallink>
+<externallink>https://iptvlinkm3u.com/wp-content/plugins/download-attachments/includes/download.php?id=12430</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #5[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://iptvlinkm3u.com/wp-content/plugins/download-attachments/includes/download.php?id=11887</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
