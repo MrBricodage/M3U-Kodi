@@ -1,77 +1,97 @@
-#EXTM3U
-#EXTINF:-1,spedahd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8
-#EXTINF:-1,Kurmanci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1,SHOW1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
-#EXTINF:-1,astera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.teradek.live:1935/live/astera/chunklist.m3u8
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/FOX/chunks.m3u8
-#EXTINF:-1,HBO2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/HBO2/chunks.m3u8
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/TBS/chunks.m3u8
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/TNT/chunks.m3u8
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/HBO/chunks.m3u8
-#EXTINF:-1,khersontv
-https://stream.smarthost.com.ua/hls/khersontv.m3u8
-#EXTINF:-1,CHAMPIONS LEAGUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
-#EXTINF:-1,brt2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1,brt1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1,NRT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/chunklist.m3u8
-#EXTINF:-1,elfstedenhal
-https://58fe270971ed0.streamlock.net/live/elfstedenhal.stream/playlist.m3u8
-#EXTINF:-1,rtvutrecht
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1,ch8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1,JX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-FOXAC-MX.m3u8
-#EXTINF:-1,protv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1,StarSports_Hd1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
-#EXTINF:-1,ALJAZZERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.43.140.249/s69/04.m3u8
-#EXTINF:-1,1tvcrimea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,EpicDramaHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,transco14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1,ATV TURKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.17.115.18:8000/play/a00z/index.m3u8
-#EXTINF:-1,s81
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1,cnntv
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1,LAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.79.79.151/USLAT-MX-X/US-CINEL-LAT.m3u8
-#EXTINF:-1,fhzx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1,HKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,zeeaflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
-#EXTINF:-1,AD SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC BOLLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel112/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AD SPORT3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel115/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MY ZEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel114/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PIWI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel720/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel257/tracks-v1a1/mono.m3u8
+#EXTM3U Albdroid TV
+#EXTINF:-1,|BE| ZES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1599.ts
+#EXTINF:-1,|BE| Tele Vesdre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1598.ts
+#EXTINF:-1,|BE| RTL Luxembourg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1597.ts
+#EXTINF:-1,|BE| RTL 2 Luxembourg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1596.ts
+#EXTINF:-1,|BE| Q2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1595.ts
+#EXTINF:-1,|BE| Notele Tournai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1594.ts
+#EXTINF:-1,|BE| Evenaar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1593.ts
+#EXTINF:-1,|BE| ELDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1592.ts
+#EXTINF:-1,|BE| CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1591.ts
+#EXTINF:-1,|BE| CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1590.ts
+#EXTINF:-1,|BE| CHAMBER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1589.ts
+#EXTINF:-1,|BE| CAZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1588.ts
+#EXTINF:-1,|BE| BX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1587.ts
+#EXTINF:-1,|BE| BEL RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1586.ts
+#EXTINF:-1,|FR| NOVELAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/1037.ts
+#EXTINF:-1,|BE| VTM Kazoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/947.ts
+#EXTINF:-1,|BE| VTM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/946.ts
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/190.ts
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/189.ts
+#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/188.ts
+#EXTINF:-1,|BE| VOO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/187.ts
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/186.ts
+#EXTINF:-1,|BE| Vitaya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/945.ts
+#EXTINF:-1,|BE| Vijf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/944.ts
+#EXTINF:-1,|BE| Vier HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/943.ts
+#EXTINF:-1,|BE| TV Lux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/942.ts
+#EXTINF:-1,|BE| RTL TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/941.ts
+#EXTINF:-1,|BE| PROXIMUS 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/194.ts
+#EXTINF:-1,|BE| PROXIMUS 11  3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/197.ts
+#EXTINF:-1,|BE| PROXIMUS 11  2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/196.ts
+#EXTINF:-1,|BE| PROXIMUS 11  1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/195.ts
+#EXTINF:-1,|BE| Plug RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/940.ts
+#EXTINF:-1,|BE| Novele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/939.ts
+#EXTINF:-1,|BE| La Une HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/938.ts
+#EXTINF:-1,|BE| La Trois
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/937.ts
+#EXTINF:-1,|BE| La Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/936.ts
+#EXTINF:-1,|BE| KetOp12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/935.ts
+#EXTINF:-1,|BE| Ketnet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/934.ts
+#EXTINF:-1,|BE| Kadet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/933.ts
+#EXTINF:-1,|BE| ELEVEN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/193.ts
+#EXTINF:-1,|BE| ELEVEN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/192.ts
+#EXTINF:-1,|BE| ELEVEN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/191.ts
+#EXTINF:-1,|BE| EEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/932.ts
+#EXTINF:-1,|BE| Club RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/931.ts
+#EXTINF:-1,|BE| Canvas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/930.ts
+#EXTINF:-1,|BE| Acht
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/929.ts
+#EXTINF:-1,|BE| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/928.ts
+#EXTINF:-1,|BE| 2BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/927.ts

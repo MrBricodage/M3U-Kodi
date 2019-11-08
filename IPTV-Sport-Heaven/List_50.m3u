@@ -1,9 +1,585 @@
 #EXTM3U
-#EXTINF:-1,CHAMPIONS LEAGUE_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
-#EXTINF:-1,StarSports_Hd1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
-#EXTINF:-1,AD SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AD SPORT3_By : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8
+#EXTINF:0,FOX SPORTS 1 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14292
+#EXTINF:0,FOX SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14293
+#EXTINF:0,BEIN SPORTS (Canada) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14282
+#EXTINF:0,LEAFS TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/51076
+#EXTINF:0,TSN 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14178
+#EXTINF:0,TSN 1 | UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55801
+#EXTINF:0,TSN 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14172
+#EXTINF:0,TSN 2 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55800
+#EXTINF:0,TSN 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14173
+#EXTINF:0,TSN 3 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55799
+#EXTINF:0,TSN 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14174
+#EXTINF:0,TSN 4 | UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55798
+#EXTINF:0,TSN 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14175
+#EXTINF:0,TSN 5 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55797
+#EXTINF:0,SPORTSNET (Ontario) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/69919
+#EXTINF:0,SPORTSNET (NewYork -  NY) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/159293
+#EXTINF:0,SPORTSNET ONE | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55794
+#EXTINF:0,SPORTSNET ONE | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14277
+#EXTINF:0,SPORTSNET 360 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/76364
+#EXTINF:0,SPORTSNET PACIFIC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/15764
+#EXTINF:0,SPORTSNET EAST | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/18419
+#EXTINF:0,SPORTSNET WEST | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55792
+#EXTINF:0,SPORTSNET WEST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/15765
+#EXTINF:0,SPORTSNET WORLD | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55796
+#EXTINF:0,SPORTSNET WORLD | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14275
+#EXTINF:0,NHL NETWORK | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55786
+#EXTINF:0,MLB NETWOK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14263
+#EXTINF:0,NFL NETWORK | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14281
+#EXTINF:0,GOLF | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55782
+#EXTINF:0,TENNIS CHANNEL | HD  *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55783
+#EXTINF:0,TENNIS CHANNEL | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14268
+#EXTINF:0,WWE NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14186
+#EXTINF:0,FIGHT NETWORK | HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28484
+#EXTINF:0,CTV (Toronto) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28506
+#EXTINF:0,CTV (Ottawa) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156049
+#EXTINF:0,CTV2 (Barrie) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/59108
+#EXTINF:0,CTV (Kitchener) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28508
+#EXTINF:0,CBC (Toronto) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/69918
+#EXTINF:0,CITY TV (Toronto) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/16400
+#EXTINF:0,CITY TV (Toronto) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28526
+#EXTINF:0,GLOBAL (Toronto) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/8778
+#EXTINF:0,GLOBAL (Toronto) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28473
+#EXTINF:0,CBC (Ottawa) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14225
+#EXTINF:0,GLOBAL (Vancouver) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28470
+#EXTINF:0,CBC (Vancouver) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/13554
+#EXTINF:0,CBC (Calgary) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14219
+#EXTINF:0,GLOBAL (Calgary) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28477
+#EXTINF:0,CBC (Edmonton) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14222
+#EXTINF:0,GLOBAL (Edmonton) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28476
+#EXTINF:0,GLOBAL (Halifax ) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28475
+#EXTINF:0,CBC (Halifax ) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14223
+#EXTINF:0,CBC (Montreal) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14224
+#EXTINF:0,CBC (Windsor) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14228
+#EXTINF:0,CBC (Winnipeg) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14229
+#EXTINF:0,CBC (Fredericton) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14221
+#EXTINF:0,CBC (Charlottetown) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14220
+#EXTINF:0,CBC (Regina) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14226
+#EXTINF:0,CBC (St. John's) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14227
+#EXTINF:0,CBC (Yellowknife) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14230
+#EXTINF:0,LEGISLATIVE ASSEMBLY OF ONTARIO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28456
+#EXTINF:0,NTV NEWFOUND LAND (NTV) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28450
+#EXTINF:0,APTN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28569
+#EXTINF:0,ACTION  | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/16444
+#EXTINF:0,ACTION (West) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55829
+#EXTINF:0,SHOWCASE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/16441
+#EXTINF:0,SHOWCASE | UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55833
+#EXTINF:0,HBO | UHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55835
+#EXTINF:0,HBO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/50962
+#EXTINF:0,HBO 2 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55834
+#EXTINF:0,HBO 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/50961
+#EXTINF:0,CINEMAX (East) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14257
+#EXTINF:0,CINEMAX (West) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55832
+#EXTINF:0,MOVIETIME | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55827
+#EXTINF:0,LIFETIME MOVIE | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55836
+#EXTINF:0,SHOWTIME (West) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/14248
+#EXTINF:0,FX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55850
+#EXTINF:0,FXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28480
+#EXTINF:0,Crave 1 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/74540
+#EXTINF:0,Crave 2 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/74539
+#EXTINF:0,TMN ENCORE 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/37689
+#EXTINF:0,CITY TV (Montreal) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/45936
+#EXTINF:0,CTV (Montreal) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/45935
+#EXTINF:0,GLOBAL (Montreal) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/45937
+#EXTINF:0,TVA MONTR?AL | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29533
+#EXTINF:0,TVA GATINEAU-OTTAWA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29534
+#EXTINF:0,TVA EST-DU-QU?BEC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29532
+#EXTINF:0,V MONTR?AL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29529
+#EXTINF:0,ICI Télévision | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/28460
+#EXTINF:0,TV5 (West) | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29536
+#EXTINF:0,TVA SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55780
+#EXTINF:0,TVA SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55779
+#EXTINF:0,RDS 2 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29547
+#EXTINF:0,RDS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29548
+#EXTINF:0,RDS INFO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29546
+#EXTINF:0,ICI RDI | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29549
+#EXTINF:0,Investigation French | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/74491
+#EXTINF:0,ZESTE | HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55776
+#EXTINF:0,FRISSON | _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/165117
+#EXTINF:0,T?L?-QU?BEC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/55775
+#EXTINF:0,SUPER ?CRAN 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29544
+#EXTINF:0,SUPER ?CRAN 2 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29543
+#EXTINF:0,SUPER ?CRAN 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29542
+#EXTINF:0,SUPER ?CRAN 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29541
+#EXTINF:0,T?L?TOON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29539
+#EXTINF:0,CANAL VIE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29527
+#EXTINF:0,S?RIES + | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29545
+#EXTINF:0,T?L?MAGINO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29538
+#EXTINF:0,TFO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29537
+#EXTINF:0,UNIS TV | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29530
+#EXTINF:0,VRAK TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29526
+#EXTINF:0,YOOPA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29525
+#EXTINF:0,Z T?L? | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/29524
+#EXTINF:0,AHC | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137905
+#EXTINF:0,A&E | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62324
+#EXTINF:0,AWE (A Wealth of Entertainment) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/153296
+#EXTINF:0,OAN (One America News Network) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/153297
+#EXTINF:0,ABC NEWS | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62360
+#EXTINF:0,ADULT SWIM | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62319
+#EXTINF:0,National Geographic | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62362
+#EXTINF:0,ESPN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62399
+#EXTINF:0,ESPN 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62478
+#EXTINF:0,FOX SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62462
+#EXTINF:0,FOX SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62441
+#EXTINF:0,BIG TEN NETWORK (BTN) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62509
+#EXTINF:0,SN SNY | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137962
+#EXTINF:0,NBCSN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62411
+#EXTINF:0,CBS SPORTS NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62500
+#EXTINF:0,CSN BOSTON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62479
+#EXTINF:0,CSN CALIFORNIA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62464
+#EXTINF:0,CSN CALIFORNIA PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137981
+#EXTINF:0,CSN CHICAGO PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137979
+#EXTINF:0,CSN North West | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62448
+#EXTINF:0,CSN PHILADELPHIA | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62439
+#EXTINF:0,CSN New England | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137975
+#EXTINF:0,CSN CHICAGO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62461
+#EXTINF:0,CSN BAY AREA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62508
+#EXTINF:0,NBC SPORTS BAY AREA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62446
+#EXTINF:0,CSN Mid-Atlantic | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137977
+#EXTINF:0,NEW ENGLAND SPORTS NETWORK (NESN) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62407
+#EXTINF:0,NESN PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62388
+#EXTINF:0,MLB NETWORK | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62489
+#EXTINF:0,MLB STRIKE ZONE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62468
+#EXTINF:0,NFL Network | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62467
+#EXTINF:0,NFL NOW | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62482
+#EXTINF:0,BEIN SPORT 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139293
+#EXTINF:0,Eleven Sports Network | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137963
+#EXTINF:0,NBA TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62495
+#EXTINF:0,FOX SOCCER PLUS | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62480
+#EXTINF:0,Esports TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/70959
+#EXTINF:0,SPECTRUM SPORTSNET LA (Los Angeles) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/70958
+#EXTINF:0,SPECTRUM SPORTSNET | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137993
+#EXTINF:0,FANTASY NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62398
+#EXTINF:0,FIGHT BOX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62395
+#EXTINF:0,FIGHT BOX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62393
+#EXTINF:0,FIGHT NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62392
+#EXTINF:0,LONGHORN NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62499
+#EXTINF:0,GOL TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62507
+#EXTINF:0,MOTORSPORTS TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62455
+#EXTINF:0,MSG  | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62442
+#EXTINF:0,MSG | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62451
+#EXTINF:0,MSG 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62437
+#EXTINF:0,MSG BUFFALO PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137988
+#EXTINF:0,RED BULL TV | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62490
+#EXTINF:0,SEC NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62505
+#EXTINF:0,SPORTSMAN CHANNEL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62474
+#EXTINF:0,SPORTSNET LA (Los Angeles) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62471
+#EXTINF:0,TENNIS CHANNEL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62497
+#EXTINF:0,TYC SPORTS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62487
+#EXTINF:0,Univision Deportes | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62503
+#EXTINF:0,FUEL TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62491
+#EXTINF:0,REAL MADRID | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137959
+#EXTINF:0,FLOW SPORTS (UK) | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137961
+#EXTINF:0,MAVTV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62472
+#EXTINF:0,MAV TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/138001
+#EXTINF:0,Stadium | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/115265
+#EXTINF:0,Stadium 1 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137987
+#EXTINF:0,Stadium 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137986
+#EXTINF:0,Stadium 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137984
+#EXTINF:0,NBC GOLF CHANNEL | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62477
+#EXTINF:0,NBC GOLF CHANNEL | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62473
+#EXTINF:0,NBC Olympic Channel | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62501
+#EXTINF:0,NBC SPORTS (Chicago) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62459
+#EXTINF:0,NBC Sports Network | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62445
+#EXTINF:0,NBCSN NORTHWEST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62426
+#EXTINF:0,NBCSN PHILADELPHIA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137997
+#EXTINF:0,NBCSN WASHINGTON | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62418
+#EXTINF:0,BEIN SPORTS 2 (LA LIGA) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139292
+#EXTINF:0,BEIN SPORTS 3 (espa?ol) | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139291
+#EXTINF:0,BEIN SPORTS 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139290
+#EXTINF:0,BEIN SPORTS 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139289
+#EXTINF:0,BEIN SPORTS 6 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139288
+#EXTINF:0,BEIN SPORTS 7 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139287
+#EXTINF:0,BEIN SPORTS 8 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/139286
+#EXTINF:0,PAC-12 ARIZONA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/138004
+#EXTINF:0,PAC-12 BAY AREA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/138002
+#EXTINF:0,PAC-12 LOS ANGELES | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62470
+#EXTINF:0,PAC-12 MOUNTAIN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137999
+#EXTINF:0,PAC-12 NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62453
+#EXTINF:0,PAC-12 OREGAN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62444
+#EXTINF:0,PAC-12 OREGON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/137998
+#EXTINF:0,PAC-12 WASHINGTON | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/62430
+#EXTINF:0,Tennis TV: 1 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156074
+#EXTINF:0,Tennis TV: 2 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156073
+#EXTINF:0,Tennis TV: 3 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156072
+#EXTINF:0,Tennis TV: 4 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156071
+#EXTINF:0,Tennis TV: 5 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156070
+#EXTINF:0,Tennis TV: 6 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156069
+#EXTINF:0,Tennis TV: 7 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156068
+#EXTINF:0,Tennis TV: 8 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156067
+#EXTINF:0,Tennis TV: 9 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156066
+#EXTINF:0,Tennis TV: 10 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156065
+#EXTINF:0,Tennis TV: 11 | UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156064
+#EXTINF:0,Tennis TV: 12 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156063
+#EXTINF:0,Tennis TV: 13 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156062
+#EXTINF:0,Tennis TV: 14 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156061
+#EXTINF:0,Tennis TV: 15 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156060
+#EXTINF:0,Tennis TV: 16 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156059
+#EXTINF:0,Tennis TV: 17 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156058
+#EXTINF:0,Tennis TV: 18 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156057
+#EXTINF:0,Tennis TV: 19 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156056
+#EXTINF:0,Tennis TV: 20 | UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/156055
+#EXTINF:0,SPORTSNET PPV | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/167620
+#EXTINF:0,FOX SPORTS CAROLINAS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168425
+#EXTINF:0,FOX SPORTS TENNESSEE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168427
+#EXTINF:0,FOX SPORTS NETBASE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168426
+#EXTINF:0,FOX SPORTS INDIANA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168428
+#EXTINF:0,FOX SPORTS INDIANA PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168429
+#EXTINF:0,FOX SPORTS FLORIDA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168430
+#EXTINF:0,FOX SPORTS ARIZONA PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168431
+#EXTINF:0,FOX SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168432
+#EXTINF:0,FOX SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168433
+#EXTINF:0,FOX SPORTS SOUTH | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168435
+#EXTINF:0,FOX SPORTS SUN | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168436
+#EXTINF:0,FOX SPORTS WEST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168434
+#EXTINF:0,FOX SPORTS SAN DIEGO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168437
+#EXTINF:0,FOX SPORTS SPORTSTIME OHIO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168438
+#EXTINF:0,FOX SPORTS SOUTHEAST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168439
+#EXTINF:0,FOX SPORTS SOUTHWEST PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168440
+#EXTINF:0,FOX SPORTS SOUTH | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168442
+#EXTINF:0,FOX SPORTS SAN ANTONIO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168443
+#EXTINF:0,FOX SPORTS WISCONSIN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168444
+#EXTINF:0,FOX SPORTS PRIME TICKET | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168445
+#EXTINF:0,FOX SPORTS OHIO PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168446
+#EXTINF:0,FOX SPORTS OHIO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168447
+#EXTINF:0,FOX SPORTS NORTH PLUS | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168448
+#EXTINF:0,FOX SPORTS NORTH | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168449
+#EXTINF:0,FOX SPORTS NEW ORLEANS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168450
+#EXTINF:0,FOX SPORTS KANSAS CITY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168451
+#EXTINF:0,FOX SPORTS MIDWEST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168452
+#EXTINF:0,FOX SPORTS  SOUTHWEST PLUS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168462
+#EXTINF:0,FOX SPORTS YES | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168461
+#EXTINF:0,FOX SPORTS GEORGIA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168460
+#EXTINF:0,FOX SPORTS DEPORTES | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168459
+#EXTINF:0,FOX SPORTS NORTH CAROLINA | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168457
+#EXTINF:0,FOX SPORTS CINCINNATI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168456
+#EXTINF:0,FOX SPORTS DETROIT | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168455
+#EXTINF:0,FOX SPORTS FLORIDA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168454
+#EXTINF:0,FOX SPORTS ARIZONA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168458
+#EXTINF:0,FOX SPORTS HOUSTON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/168453
+#EXTINF:0,SuperSport 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171556
+#EXTINF:0,SuperSport 10 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171565
+#EXTINF:0,SuperSport 11 | HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171566
+#EXTINF:0,SuperSport 12 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171567
+#EXTINF:0,SuperSport 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171557
+#EXTINF:0,SuperSport 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171558
+#EXTINF:0,SuperSport 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171559
+#EXTINF:0,SuperSport 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171560
+#EXTINF:0,SuperSport 6 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171561
+#EXTINF:0,SuperSport 7 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171562
+#EXTINF:0,SuperSport 8 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171563
+#EXTINF:0,SuperSport 9 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171564
+#EXTINF:0,SuperSport Blitz | HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171569
+#EXTINF:0,SuperSport Maximo | HD _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171568
+#EXTINF:0,CAR: RUSH SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171549
+#EXTINF:0,CAR: RUSH SPORTS 1 | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171548
+#EXTINF:0,CAR: RUSH SPORTS 1 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171547
+#EXTINF:0,CAR: RUSH SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171541
+#EXTINF:0,CAR: RUSH SPORTS 2 | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171527
+#EXTINF:0,CAR: RUSH SPORTS 2 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171525
+#EXTINF:0,CAR: RUSH SPORTS 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171523
+#EXTINF:0,CAR: RUSH SPORTS 3 | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171521
+#EXTINF:0,CAR: RUSH SPORTS 3 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171519
+#EXTINF:0,CAR: RUSH SPORTS 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171518
+#EXTINF:0,CAR: RUSH SPORTS 4 | HD*_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171517
+#EXTINF:0,CAR: RUSH SPORTS 4 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171516
+#EXTINF:0,CAR: RUSH SPORTS 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171514
+#EXTINF:0,CAR: RUSH SPORTS 5 | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171512
+#EXTINF:0,CAR: RUSH SPORTS 5 | SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171510
+#EXTINF:0,CAR: RUSH SPORTS 6 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171509
+#EXTINF:0,CAR: RUSH SPORTS 6 | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171507
+#EXTINF:0,CAR: RUSH SPORTS 6 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171501
+#EXTINF:0,CAR: RUSH SPORTS EPL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/1991/1991/171495

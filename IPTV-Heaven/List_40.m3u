@@ -1,27 +1,537 @@
 #EXTM3U
-#EXTINF:-1,liveevent
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.168.28.243/liveevent.m3u8
-#EXTINF:-1,TVR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,TVR3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1,ON E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s216
-#EXTINF:-1,ON DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s214
-#EXTINF:-1,ATNNAT
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:-1,vendharm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
-#EXTINF:-1,BBC
-https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1,milenio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,oasistv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://69.64.33.246:8081/oasistv/83101/chunks.m3u8
-#EXTINF:-1,roadcast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1,WVIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8
-#EXTINF:-1,CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-cdn.ucom.am/s27/04.m3u8
+#EXTINF:-1,|AF| CHELSEA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/665
+#EXTINF:-1,|AF| Comedy Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/666
+#EXTINF:-1,|AF| Dunamis TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/667
+#EXTINF:-1,|AF| EBONYLIFE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/668
+#EXTINF:-1,|AF| SWITCH TV Kenya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/669
+#EXTINF:-1,|AF| Cis TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/670
+#EXTINF:-1,|AF| KTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/671
+#EXTINF:-1,|AF| Eko4Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/672
+#EXTINF:-1,|AF| FuFu Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/673
+#EXTINF:-1,|AF| LIGHT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/674
+#EXTINF:-1,|AF| ETN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/675
+#EXTINF:-1,|AF| AIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/676
+#EXTINF:-1,|AF| GISPORTSTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/677
+#EXTINF:-1,|AF| QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/678
+#EXTINF:-1,|AF| QVC Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/679
+#EXTINF:-1,|AF| TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/680
+#EXTINF:-1,|AF| Spydar Tv Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/681
+#EXTINF:-1,|AF| Nollywood Movies channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/682
+#EXTINF:-1,|AF| Ghana Broadcasting Corporation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/683
+#EXTINF:-1,|AF| Tv Mana Mocambique
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/684
+#EXTINF:-1,|AF| TVC Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/685
+#EXTINF:-1,|AF| TV ZIMBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/686
+#EXTINF:-1,|AF| TPA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/687
+#EXTINF:-1,|AF| Hope Channel Africa2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/688
+#EXTINF:-1,|AF| GALAXY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/689
+#EXTINF:-1,|AF| Vision 4 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/690
+#EXTINF:-1,|AF| 218 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/691
+#EXTINF:-1,|AF| Western4U Tv Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/692
+#EXTINF:-1,|AF| Rapha Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/693
+#EXTINF:-1,|AF| Once Spoken Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/694
+#EXTINF:-1,|AF| AFRICA24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/695
+#EXTINF:-1,|AF| AFRICA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/696
+#EXTINF:-1,|AF| A2i TV Religion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/697
+#EXTINF:-1,|AF| ABN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/698
+#EXTINF:-1,|AF| 3ABN International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/699
+#EXTINF:-1,|AF| A2i TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/700
+#EXTINF:-1,|AF| AIT INTERNATINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/701
+#EXTINF:-1,|AF| 3ABN KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/702
+#EXTINF:-1,|AF| 7TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/703
+#EXTINF:-1,|AF| ANTENNE A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/704
+#EXTINF:-1,|AF| 7 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/705
+#EXTINF:-1,|AF| ALJAZEERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/706
+#EXTINF:-1,|AF| 3 ABN Francais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/707
+#EXTINF:-1,|AF| ITV Networks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/708
+#EXTINF:-1,|AF| KISS TV keneya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/709
+#EXTINF:-1,|AF| Alsace 20 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/710
+#EXTINF:-1,|AF| CFTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/711
+#EXTINF:-1,|AF| CGTN English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/712
+#EXTINF:-1,|AF| Africa TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/713
+#EXTINF:-1,|AF| Africanews ferance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/714
+#EXTINF:-1,|AF| Africa TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/715
+#EXTINF:-1,|AF| CANAL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/716
+#EXTINF:-1,|AF| Bichri TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/717
+#EXTINF:-1,|AF| Bblack Carrabean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/718
+#EXTINF:-1,|AF| RTG 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/719
+#EXTINF:-1,|AF| Biafra TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/720
+#EXTINF:-1,|AF| Amazing Discoveries TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/721
+#EXTINF:-1,|AF| MTA Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/722
+#EXTINF:-1,|AF| BBlack Classik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/723
+#EXTINF:-1,|AF| C News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/724
+#EXTINF:-1,|AF| B-ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/725
+#EXTINF:-1,|AF| Afrique Media TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/726
+#EXTINF:-1,|AF| Amen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/727
+#EXTINF:-1,|AF| BF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/728
+#EXTINF:-1,|AF| BET Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/729
+#EXTINF:-1,|AF| NTA Haussa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/730
+#EXTINF:-1,|AF| Bblack Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/731
+#EXTINF:-1,|AF| Biafra Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/732
+#EXTINF:-1,|AF| Afro Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/733
+#EXTINF:-1,|AF| BEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/734
+#EXTINF:-1,|AF| ARSENALTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/735
+#EXTINF:-1,|AF| KTN KENYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/736
+#EXTINF:-1,|AF| CRTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/737
+#EXTINF:-1,|AF| Capital TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/738
+#EXTINF:-1,|AF| CANAL+ SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/739
+#EXTINF:-1,|AF| CRTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/740
+#EXTINF:-1,|AF| CGTN FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/741
+#EXTINF:-1,|AF| A2ITV MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/742
+#EXTINF:-1,|AF| D5TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/743
+#EXTINF:-1,|AF| Syte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/744
+#EXTINF:-1,|AF| D24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/745
+#EXTINF:-1,|AF| Chosen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/746
+#EXTINF:-1,|AF| 2S TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/747
+#EXTINF:-1,|AF| DBMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/748
+#EXTINF:-1,|AF| Metro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/749
+#EXTINF:-1,|AF| ELIJAH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/750
+#EXTINF:-1,|AF| Ebru Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/751
+#EXTINF:-1,|AF| DTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/752
+#EXTINF:-1,|AF| DUA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/753
+#EXTINF:-1,|AF| Digital Black Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/754
+#EXTINF:-1,|AF| Dare to Dream
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/755
+#EXTINF:-1,|AF| DoveTV Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/756
+#EXTINF:-1,|AF| TVT International TOGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/757
+#EXTINF:-1,|AF| DRTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/758
+#EXTINF:-1,|AF| CANAL2 MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/759
+#EXTINF:-1,|AF| Emmanuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/760
+#EXTINF:-1,|AF| AFRICA NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/761
+#EXTINF:-1,|AF| Chiconi Tv Mayotte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/762
+#EXTINF:-1,|AF| ATINKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/763
+#EXTINF:-1,|AF| Africa TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/764
+#EXTINF:-1,|AF| Espace TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/765
+#EXTINF:-1,|AF| Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/766
+#EXTINF:-1,|AF| FAITH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/767
+#EXTINF:-1,|AF| AFRICAN ENTERTAIMENT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/768
+#EXTINF:-1,|AF| CGTN Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/769
+#EXTINF:-1,|AF| Boom TV cameroun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/770
+#EXTINF:-1,|AF| Hadi TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/771
+#EXTINF:-1,|AF| Generations TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/772
+#EXTINF:-1,|AF| Guinee Buzz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/773
+#EXTINF:-1,|AF| GTV GOV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/774
+#EXTINF:-1,|AF| GTV GHANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/775
+#EXTINF:-1,|AF| GTV SPORTS Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/776
+#EXTINF:-1,|AF| Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/777
+#EXTINF:-1,|AF| GH ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/778
+#EXTINF:-1,|AF| EYE AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/779
+#EXTINF:-1,|AF| Hadi TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/780
+#EXTINF:-1,|AF| France info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/781
+#EXTINF:-1,|AF| God TV Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/782
+#EXTINF:-1,|AF| FusionPlus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/783
+#EXTINF:-1,|AF| Ghana KessbenTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/784
+#EXTINF:-1,|AF| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/785
+#EXTINF:-1,|AF| GH Canada TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/786
+#EXTINF:-1,|AF| GBC24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/787
+#EXTINF:-1,|AF| Hadi TV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/788
+#EXTINF:-1,|AF| STV cameroun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/789
+#EXTINF:-1,|AF| Hope Channel Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/790
+#EXTINF:-1,|AF| Hit TV Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/791
+#EXTINF:-1,|AF| Healing Jesus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/792
+#EXTINF:-1,|AF| Jesus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/793
+#EXTINF:-1,|AF| JOY NEWS GHANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/794
+#EXTINF:-1,|AF| IBN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/795
+#EXTINF:-1,|AF| ImpacTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/796
+#EXTINF:-1,|AF| K24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/797
+#EXTINF:-1,|AF| LoveWorld PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/798
+#EXTINF:-1,|AF| Hadi TV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/799
+#EXTINF:-1,|AF| KWANZA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/800
+#EXTINF:-1,|AF| TCMN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/801
+#EXTINF:-1,|AF| KTV Sierra Leone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/802
+#EXTINF:-1,|AF| MB Live TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/803
+#EXTINF:-1,|AF| Kajou TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/804
+#EXTINF:-1,|AF| Monde Du Loisir TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/805
+#EXTINF:-1,|AF| Kicc tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/806
+#EXTINF:-1,|AF| Kass TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/807
+#EXTINF:-1,|AF| Liberation TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/808
+#EXTINF:-1,|AF| Lagos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/809
+#EXTINF:-1,|AF| LoveWorld Sat TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/810
+#EXTINF:-1,|AF| More Grace TV Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/811
+#EXTINF:-1,|AF| Somali Dayax TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/812
+#EXTINF:-1,|AF| MOUV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/813
+#EXTINF:-1,|AF| MDL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/814
+#EXTINF:-1,|AF| MY COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/815
+#EXTINF:-1,|AF| TOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/816
+#EXTINF:-1,|AF| TRACE MISIKI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/817
+#EXTINF:-1,|AF| RTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/818
+#EXTINF:-1,|AF| RTNC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/819
+#EXTINF:-1,|AF| Ouest TV LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/820
+#EXTINF:-1,|AF| SBC TV SOMALI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/821
+#EXTINF:-1,|AF| TV Slovenija 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/822
+#EXTINF:-1,|AF| Studio 1 tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/823
+#EXTINF:-1,|AF| Sanga music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/824
+#EXTINF:-1,|AF| Somalia SLN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/825
+#EXTINF:-1,|AF| RT FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/826
+#EXTINF:-1,|AF| RT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/827
+#EXTINF:-1,|AF| ROYAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/828
+#EXTINF:-1,|AF| RTS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/829
+#EXTINF:-1,|AF| RTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/830
+#EXTINF:-1,|AF| RTV RWANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/831
+#EXTINF:-1,|AF| RDV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/832
+#EXTINF:-1,|AF| ORTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/833
+#EXTINF:-1,|AF| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/834
+#EXTINF:-1,|AF| TV360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/835
+#EXTINF:-1,|AF| TV7 Colmar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/836
+#EXTINF:-1,|AF| TELE congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/837
+#EXTINF:-1,|AF| ORTM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/838
+#EXTINF:-1,|AF| TOUBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/839
+#EXTINF:-1,|AF| Tamazgha monde TV Kabylie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/840
+#EXTINF:-1,|AF| PIWC AUSTIN WORSHIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/841
+#EXTINF:-1,|AF| Suivez SIKKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/842
+#EXTINF:-1,|AF| PIWC AUSTIN SERMON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/843
+#EXTINF:-1,|AF| PIWC AUSTIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/844
+#EXTINF:-1,|AF| SEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/845
+#EXTINF:-1,|AF| Sanga Novlas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/846
+#EXTINF:-1,|AF| RTI1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/847
+#EXTINF:-1,|AF| RTS1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/848
+#EXTINF:-1,|AF| ROK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/849
+#EXTINF:-1,|AF| PENTV GHANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/850
+#EXTINF:-1,|AF| PIWC APOSTLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/851
+#EXTINF:-1,|AF| TELE BOSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/852
+#EXTINF:-1,|AF| TRACE AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/853
+#EXTINF:-1,|AF| RTI2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/854
+#EXTINF:-1,|AF| TMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/855
+#EXTINF:-1,|AF| Resurrection TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/856
+#EXTINF:-1,|AF| STAD Afric tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/857
+#EXTINF:-1,|AF| Back Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/858
+#EXTINF:-1,|AF| TVM2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/859
+#EXTINF:-1,|AF| Trace Naija
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/860
+#EXTINF:-1,|AF| Tv Francophonie 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/861
+#EXTINF:-1,|AF| Trace Urbaine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/862
+#EXTINF:-1,|AF| TvFrancophonie24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/863
+#EXTINF:-1,|AF| LTM cameroun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/864
+#EXTINF:-1,|AF| adom tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/865
+#EXTINF:-1,|AF| Salvation TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/866
+#EXTINF:-1,|AF| TFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/867
+#EXTINF:-1,|AF| TFM Religions
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/868
+#EXTINF:-1,|AF| OBONUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/869
+#EXTINF:-1,|AF| nollywood MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/870
+#EXTINF:-1,|AF| mouretv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/871
+#EXTINF:-1,|AF| i24 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/872
+#EXTINF:-1,|AF| WALF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/873
+#EXTINF:-1,|AF| Voxafrica local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/874
+#EXTINF:-1,|AF| WES AFRICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/875
+#EXTINF:-1,|AF| AFRICABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/876
+#EXTINF:-1,|AF| Beginning TV Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/877
+#EXTINF:-1,|AF| AFArise News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/878
+#EXTINF:-1,|AF| TV Continental Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/879
+#EXTINF:-1,|AF| salaam tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/880
+#EXTINF:-1,|AF| nollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/881
+#EXTINF:-1,|AF| UTV Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/882
+#EXTINF:-1,|AF| tv3 ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/883
+#EXTINF:-1,|AF| TVM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/884
+#EXTINF:-1,|AF| TM2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/885
+#EXTINF:-1,|AF| Rave TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/886
+#EXTINF:-1,|AF| TRACE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/887
+#EXTINF:-1,|AF| TELE SUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/888
+#EXTINF:-1,|AF| TELE TCHAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/889
+#EXTINF:-1,|AF| Theo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/890
+#EXTINF:-1,|AF| TRACE TOPICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/891
+#EXTINF:-1,|AF| NBS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/892
+#EXTINF:-1,|AF| NTA NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/893
+#EXTINF:-1,|AF| MourchTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/894
+#EXTINF:-1,|AF| OBICE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/895
+#EXTINF:-1,|AF| Cosmos tv togo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/896
+#EXTINF:-1,|AF| NTV Uganda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/897
+#EXTINF:-1,|AF| Somalia Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/898
+#EXTINF:-1,|AF| Somalia PLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/899
+#EXTINF:-1,|AF| NTA LIVE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/900
+#EXTINF:-1,|AF| Lamp Fall TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/901
+#EXTINF:-1,|AF| TCV Cabo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/902
+#EXTINF:-1,|AF| Kalsan TV Somali AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/903
+#EXTINF:-1,|AF| Gospel Channel Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/904
+#EXTINF:-1,|AF|Joy News Ghana AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/905
+#EXTINF:-1,|AF| Somali Cable
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/906
+#EXTINF:-1,|AF| So Quran Hayah Somali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/907
+#EXTINF:-1,|AF| M7 Mali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/908
+#EXTINF:-1,|AF| FLAMING SWORD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/909
+#EXTINF:-1,|AF| JOY PRIME GHANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/910
+#EXTINF:-1,|AF| Tele Colombe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/911
+#EXTINF:-1,|AF| puntlandtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/912
+#EXTINF:-1,|AF| jubalandtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/913
+#EXTINF:-1,|AF| RTG tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/914
+#EXTINF:-1,|AF| Kenya Citizen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/915
+#EXTINF:-1,|AF| Kameme TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/916
+#EXTINF:-1,|AF| NTV LIVE KENYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/917
+#EXTINF:-1,|AF| Dream Tv Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/918
+#EXTINF:-1,|AF| EQUINOXE CAMEROUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/919
+#EXTINF:-1,|AF| Galmudug Somali TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/920
+#EXTINF:-1,|AF| VOX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/921
+#EXTINF:-1,|AF| Walta TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/922
+#EXTINF:-1,|AF| SNRT AFLAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/923
+#EXTINF:-1,|AF| ETV LANGUAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/924
+#EXTINF:-1,|AF| Channels24 Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/925
+#EXTINF:-1,|AF| GRTS Gambia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/926
+#EXTINF:-1,|AF| RTN Somali TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/927
+#EXTINF:-1,|AF| Somali HCTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/928
+#EXTINF:-1,|AF| YELLY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/929
+#EXTINF:-1,|AF| TMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/930
+#EXTINF:-1,|AF| People TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/931
+#EXTINF:-1,|AF| MBM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceafriquepro1/7358658860/932

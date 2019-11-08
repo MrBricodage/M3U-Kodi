@@ -1,39 +1,15 @@
 #EXTM3U
-#EXTINF:0,Sport Klub HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/1566
-#EXTINF:0,Sport Klub 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/192
-#EXTINF:0,Sport Klub 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/193
-#EXTINF:0,Sport Klub 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/194
-#EXTINF:0,Arena Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/44
-#EXTINF:0,Arena Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/45
-#EXTINF:0,Arena Sport 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/46
-#EXTINF:0,Arena Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/47
-#EXTINF:0,Arena Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/1531
-#EXTINF:0,Arena Sport 1 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/63
-#EXTINF:0,Arena Sport 2 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/67
-#EXTINF:0,Arena Sport 3 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/62
-#EXTINF:0,Arena Sport 4 HR_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/61
-#EXTINF:0,Arena Sport 5 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/647
-#EXTINF:0,Arena sport 6 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/3483
-#EXTINF:0,Eurosport 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/122
-#EXTINF:0,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/123
-#EXTINF:0,Fight Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/3481
-#EXTINF:0,Sportska TV_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vtpi.ydns.eu:80/xOhPjDd4wW/Uk56vAcnvk/14
+#EXTINF:-1,Sky Sports Football HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1,Sky Sports Premier League HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1,Sky Sports Football HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1,BT Sport 1HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1,CMore Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1,BT Sport 2HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8

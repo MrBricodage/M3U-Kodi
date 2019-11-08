@@ -1,36 +1,363 @@
-#EXTM3U
-#EXTINF:-1,beinliga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.101.145.18:4000/beinliga
-
-#EXTINF:-1,105Test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wow01.105.net:1935/live/105Test1/livestream.m3u8
-
-#EXTINF:-1,TrentinoTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-
-#EXTINF:-1,sporttv1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213-167-154-115.netvarp.is/beint/sporttv1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Mazzika
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-
-#EXTINF:-1,rtk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1,CH_MILLETHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmitry-tv.ru/his/CH_MILLETHD_720.m3u8
-
-#EXTINF:-1,live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.212.74.3:8000/live/hls/7514.m3u8
-
-#EXTINF:-1,Foxfamily
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.82:8080/Foxfamily/index.m3u8
-
-#EXTINF:-1,star_movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1,005
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://203.207.56.228/live/iptv005.m3u8
-
-#EXTINF:-1,huyalive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTM3U Albdroid TV
+#EXTINF:-1,#* PAKISTANI CHANNELS *#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/32.ts
+#EXTINF:-1,Dawn News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/1415.ts
+#EXTINF:-1,UK - Geo Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/1371.ts
+#EXTINF:-1,Hum News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/1370.ts
+#EXTINF:-1,Aaj News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/1369.ts
+#EXTINF:-1,UK - Sony Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/278.ts
+#EXTINF:-1,UK - Sony Sab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/280.ts
+#EXTINF:-1,UK - Sony Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/279.ts
+#EXTINF:-1,UK - Dunya News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/281.ts
+#EXTINF:-1,UK - Ary New Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/1339.ts
+#EXTINF:-1,Zindagi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/28.ts
+#EXTINF:-1,Urdu TV Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/27.ts
+#EXTINF:-1,Uk - Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/29.ts
+#EXTINF:-1,UK - Colors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/30.ts
+#EXTINF:-1,UK - Ary Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/31.ts
+#EXTINF:-1,Subrang TV (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/26.ts
+#EXTINF:-1,Shine Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/25.ts
+#EXTINF:-1,PTV News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/24.ts
+#EXTINF:-1,PTV Home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/23.ts
+#EXTINF:-1,POP Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/22.ts
+#EXTINF:-1,Nazrana TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/21.ts
+#EXTINF:-1,Minhaj TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/20.ts
+#EXTINF:-1,Lahore News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/19.ts
+#EXTINF:-1,Khyber News TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/18.ts
+#EXTINF:-1,Khyber Middle East TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/17.ts
+#EXTINF:-1,Kay2 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/16.ts
+#EXTINF:-1,JK 24x7 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/15.ts
+#EXTINF:-1,Geo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/14.ts
+#EXTINF:-1,Geo Tez
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/13.ts
+#EXTINF:-1,Geo News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/12.ts
+#EXTINF:-1,Geo Kahani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/11.ts
+#EXTINF:-1,Express TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/10.ts
+#EXTINF:-1,Dunya News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/9.ts
+#EXTINF:-1,Dharti TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/8.ts
+#EXTINF:-1,Channel Win
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/7.ts
+#EXTINF:-1,AVT KHYBER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/6.ts
+#EXTINF:-1,ARY QTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/5.ts
+#EXTINF:-1,ARY Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/4.ts
+#EXTINF:-1,92 News UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/3.ts
+#EXTINF:-1,92 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/2.ts
+#EXTINF:-1,Y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/181.ts
+#EXTINF:-1,Zing USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/191.ts
+#EXTINF:-1,Zee Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/182.ts
+#EXTINF:-1,Wow"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/180.ts
+#EXTINF:-1,TV84
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/179.ts
+#EXTINF:-1,TV100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/178.ts
+#EXTINF:-1,Times Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/177.ts
+#EXTINF:-1,Times Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/176.ts
+#EXTINF:-1,Thirumalai TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/175.ts
+#EXTINF:-1,The Q India
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/174.ts
+#EXTINF:-1,Thanthi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/173.ts
+#EXTINF:-1,Ten Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/172.ts
+#EXTINF:-1,Sur Sagar TV op2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/171.ts
+#EXTINF:-1,Sur Sagar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/170.ts
+#EXTINF:-1,Subrang TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/169.ts
+#EXTINF:-1,Steelbird"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/168.ts
+#EXTINF:-1,Star"Indian" HD Middle East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/166.ts
+#EXTINF:-1,Star World HD Middle East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/167.ts
+#EXTINF:-1,Sikh Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/165.ts
+#EXTINF:-1,Shubhsandesh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/164.ts
+#EXTINF:-1,Shan Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/163.ts
+#EXTINF:-1,Sardari TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/162.ts
+#EXTINF:-1,Safari TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/161.ts
+#EXTINF:-1,Saam TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/160.ts
+#EXTINF:-1,RSTV RajyaSabha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/159.ts
+#EXTINF:-1,Romedy Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/158.ts
+#EXTINF:-1,Republic TV op 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/157.ts
+#EXTINF:-1,Republic Bharat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/156.ts
+#EXTINF:-1,Reporter TV op3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/155.ts
+#EXTINF:-1,Reporter TV op2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/154.ts
+#EXTINF:-1,Reporter TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/153.ts
+#EXTINF:-1,Punjabi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/152.ts
+#EXTINF:-1,Punjabi Tadka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/151.ts
+#EXTINF:-1,Public"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/150.ts
+#EXTINF:-1,Prudent Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/149.ts
+#EXTINF:-1,Propex TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/148.ts
+#EXTINF:-1,Prime Canada TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/147.ts
+#EXTINF:-1,Pop Pataka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/146.ts
+#EXTINF:-1,P Tunes Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/145.ts
+#EXTINF:-1,P Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/144.ts
+#EXTINF:-1,Nethra TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/136.ts
+#EXTINF:-1,Nepali TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/135.ts
+#EXTINF:-1,NDTV 24x7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/134.ts
+#EXTINF:-1,Nazrana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/133.ts
+#EXTINF:-1,Nav Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/132.ts
+#EXTINF:-1,Namdhari
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/131.ts
+#EXTINF:-1,Movie Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/129.ts
+#EXTINF:-1,MNX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/128.ts
+#EXTINF:-1,MN TV"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/127.ts
+#EXTINF:-1,MK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/126.ts
+#EXTINF:-1,MK Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/125.ts
+#EXTINF:-1,MK Six
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/124.ts
+#EXTINF:-1,Mirror Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/123.ts
+#EXTINF:-1,Mello TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/122.ts
+#EXTINF:-1,Lok Sabha TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/121.ts
+#EXTINF:-1,Kadak Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/47.ts
+#EXTINF:-1,Jus One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/120.ts
+#EXTINF:-1,Jus Hindi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/119.ts
+#EXTINF:-1,Jonack TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/118.ts
+#EXTINF:-1,JK 24x7"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/117.ts
+#EXTINF:-1,Jhanjar"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/116.ts
+#EXTINF:-1,Jeevan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/115.ts
+#EXTINF:-1,Jay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/114.ts
+#EXTINF:-1,JattTV (HQ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/113.ts
+#EXTINF:-1,JattTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/112.ts
+#EXTINF:-1,Janta TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/111.ts
+#EXTINF:-1,Janataa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/110.ts
+#EXTINF:-1,Janam TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/109.ts
+#EXTINF:-1,Jaihind TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/108.ts
+#EXTINF:-1,Jaffna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/107.ts
+#EXTINF:-1,ITN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/106.ts
+#EXTINF:-1,Insync"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/105.ts
+#EXTINF:-1,Insight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/104.ts
+#EXTINF:-1,India TV op 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/103.ts
+#EXTINF:-1,India TV op 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/102.ts
+#EXTINF:-1,India TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/101.ts
+#EXTINF:-1,India Today
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/100.ts
+#EXTINF:-1,India Ahead
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/99.ts
+#EXTINF:-1,Inchara TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/98.ts
+#EXTINF:-1,Image Khabar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/97.ts
+#EXTINF:-1,IBN7"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/96.ts
+#EXTINF:-1,Hungama Digital Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/95.ts
+#EXTINF:-1,Hathway Cine Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/94.ts
+#EXTINF:-1,Harvest TV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/93.ts
+#EXTINF:-1,Harvest TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/92.ts
+#EXTINF:-1,Hamdard TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/78.ts
+#EXTINF:-1,Gosree Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/91.ts
+#EXTINF:-1,GCTV Goa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/90.ts
+#EXTINF:-1,Gaunda Punjab TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/89.ts
+#EXTINF:-1,Gabruu TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/88.ts
+#EXTINF:-1,Flowers TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/87.ts
+#EXTINF:-1,Fateh TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/86.ts
+#EXTINF:-1,Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/85.ts
+#EXTINF:-1,ET Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/84.ts
+#EXTINF:-1,E9 Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/83.ts
+#EXTINF:-1,DY365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/82.ts
+#EXTINF:-1,DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/81.ts
+#EXTINF:-1,DSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/80.ts
+#EXTINF:-1,Divya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/75.ts
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/79.ts
+#EXTINF:-1,Dil Se
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/66.ts
+#EXTINF:-1,Dhamaal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/64.ts
+#EXTINF:-1,Desi Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/65.ts
+#EXTINF:-1,Desi Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/69.ts
+#EXTINF:-1,DD"Indian" (Option 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/74.ts
+#EXTINF:-1,DD"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/73.ts
+#EXTINF:-1,DD Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/68.ts
+#EXTINF:-1,DD Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/67.ts
+#EXTINF:-1,DD National
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/72.ts
+#EXTINF:-1,CNBC TV18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/63.ts
+#EXTINF:-1,CNBC Bajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/62.ts
+#EXTINF:-1,CNBC Awaaz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/61.ts
+#EXTINF:-1,Classics Marathi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/71.ts
+#EXTINF:-1,Cinema TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/70.ts
+#EXTINF:-1,Cine Voice (Option 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/60.ts
+#EXTINF:-1,Cine Voice (Option 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/59.ts
+#EXTINF:-1,Cine Voice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/58.ts
+#EXTINF:-1,Channel S (Bangla)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/77.ts
+#EXTINF:-1,CCC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/76.ts
+#EXTINF:-1,Boogle Bollywood TV (Option 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/54.ts
+#EXTINF:-1,Boogle Bollywood (Option 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/53.ts
+#EXTINF:-1,Boogle Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/52.ts
+#EXTINF:-1,Bollywood Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/51.ts
+#EXTINF:-1,Bollywood Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/50.ts
+#EXTINF:-1,Bhakti Sagar (Option 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/57.ts
+#EXTINF:-1,Bhakti Sagar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/56.ts
+#EXTINF:-1,Amar Ujala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/40.ts
+#EXTINF:-1,Akaal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/41.ts
+#EXTINF:-1,ABP"Indian"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/45.ts
+#EXTINF:-1,ABP Majha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/44.ts
+#EXTINF:-1,ABP Asmita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/43.ts
+#EXTINF:-1,ABP Ananda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/42.ts
+#EXTINF:-1,5aab TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/38.ts
+#EXTINF:-1,"Indian"X Kannada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/141.ts
+#EXTINF:-1,"Indian"X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/143.ts
+#EXTINF:-1,"Indian"State Madhya Pradesh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/140.ts
+#EXTINF:-1,"Indian"State
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/139.ts
+#EXTINF:-1,"Indian"Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/130.ts
+#EXTINF:-1,"Indian"Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/138.ts
+#EXTINF:-1,"Indian"24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/137.ts
+#EXTINF:-1,"Indian"18 Lokmat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amm.istar.fun:32990/live/anderhiha/anderhiha/142.ts

@@ -1,18 +1,67 @@
 #EXTM3U
-#EXTINF:-1,Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-
-#EXTINF:-1,Nile Cinema 128p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/01.m3u8
-
-#EXTINF:-1,Nile Cinema 360p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/02.m3u8
-
-#EXTINF:-1,Nile Cinema 480p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
-
-#EXTINF:-1,Nile Cinema 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-
-#EXTINF:-1,Nile Cinema 1080p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/05.m3u8
+#EXTINF:-1,TOP: 80's
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/277
+#EXTINF:-1,TOP: Великолепный Век
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/6
+#EXTINF:-1,TOP: BUDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/428
+#EXTINF:-1,TOP: CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/1611
+#EXTINF:-1,TOP: USSR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/6641
+#EXTINF:-1,RU: Первый канал
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/5
+#EXTINF:-1,RU: ТНТ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/1
+#EXTINF:-1,RU: Россия К
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/99
+#EXTINF:-1,RU: Россия 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/95
+#EXTINF:-1,RU: Россия 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/2
+#EXTINF:-1,RU: Восток ТВ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/489
+#EXTINF:-1,RU: Мир
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/54
+#EXTINF:-1,RU: НТВ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/97
+#EXTINF:-1,RU: Пятница
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/300
+#EXTINF:-1,RU: Рен ТВ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/106
+#EXTINF:-1,RU: СТС
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/100
+#EXTINF:-1,RU: ТВ Центр
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/56
+#EXTINF:-1,RU: МАТЧ!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/27
+#EXTINF:-1,AM: 1TV Armenia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/224
+#EXTINF:-1,AM: Armenian News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/225
+#EXTINF:-1,AM: SHANT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/222
+#EXTINF:-1,AM: ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/302
+#EXTINF:-1,AZ: AZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/366
+#EXTINF:-1,AZ: Inter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/358
+#EXTINF:-1,BL: Беларусь 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/6773
+#EXTINF:-1,BL: Белсат
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/6697
+#EXTINF:-1,UA: 1+1 International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/335
+#EXTINF:-1,UA: Iнтер
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/38
+#EXTINF:-1,UA: 24 Канал
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/82
+#EXTINF:-1,TR: TRT WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/219
+#EXTINF:-1,TR: TRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/345
+#EXTINF:-1,TR: TRT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/497
+#EXTINF:-1,RU: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topchantv.net:3456/911site/iSSthIhHpM1bTxqz0/53

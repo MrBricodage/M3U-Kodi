@@ -1,35 +1,71 @@
 #EXTM3U
-#EXTINF:-1,DMC Drama_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/dmc-drama-Backup-M.m3u8
-#EXTINF:-1,DMC Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/dmc-Backup-M.m3u8
-#EXTINF:-1,CBC Sofra_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:-1,CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/CBC-Backup-M.m3u8
-#EXTINF:-1,Toyour Baby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
-#EXTINF:-1,CnArabia_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,SPACETOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-#EXTINF:-1,Al Mayadeen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1,Sama TV_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1,LBC International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1,Imagine Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
-#EXTINF:-1,Toyor Aljanah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
-#EXTINF:-1,Ar Karameesh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
-#EXTINF:-1,Majid-Kids_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/Majid-Backup.m3u8
-#EXTINF:-1,Al Mayadeen TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
-#EXTINF:-1,MBC Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1,CBC Drama_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/CBC-Drama-Backup-M.m3u8
+#EXTINF:-1,(KU) MEDYA HABER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/6.ts
+#EXTINF:-1,(KU) MEDYA HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/5.ts
+#EXTINF:-1,(KU) STERK TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/8.ts
+#EXTINF:-1,(KU) STERK TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/7.ts
+#EXTINF:-1,(KU) RONAHI TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/10.ts
+#EXTINF:-1,(KU) RONAHI TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/9.ts
+#EXTINF:-1,(KU) ARYEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/11.ts
+#EXTINF:-1,(KU) ÇIRA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/12.ts
+#EXTINF:-1,(KU) JIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/16.ts
+#EXTINF:-1,(KU) ARTI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/13.ts
+#EXTINF:-1,(KU) CAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/32.ts
+#EXTINF:-1,DENGE WELAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/38.ts
+#EXTINF:-1,(KU) ROJAVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/36.ts
+#EXTINF:-1,(KU) MED MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/14.ts
+#EXTINF:-1,(KU) ZAROK TV*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/15.ts
+#EXTINF:-1,(KU) KURDMAX PEPULE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/1.ts
+#EXTINF:-1,(KU) KURDSAT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/18.ts
+#EXTINF:-1,(KU) NRT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/19.ts
+#EXTINF:-1,(KU) KNN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/22.ts
+#EXTINF:-1,(KU) RUDAW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/21.ts
+#EXTINF:-1,(KU) KURDISTAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/25.ts
+#EXTINF:-1,(KU) KURDMAX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/2.ts
+#EXTINF:-1,ZAGROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/37.ts
+#EXTINF:-1,KURDMAX SHOW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/3.ts
+#EXTINF:-1,(KU) LALISH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/26.ts
+#EXTINF:-1,(KU) WAAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/30.ts
+#EXTINF:-1,(KU) UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/4.ts
+#EXTINF:-1,(KU) SPEDA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/29.ts
+#EXTINF:-1,(KU) VIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/27.ts
+#EXTINF:-1,(KU) REGA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/28.ts
+#EXTINF:-1,(KU) GELE KURDISTAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/24.ts
+#EXTINF:-1,(KU) KURDISTAN 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/20.ts
+#EXTINF:-1,(KU) NRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/23.ts
+#EXTINF:-1,KOREK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/34.ts
+#EXTINF:-1,(KU) NEW LINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/31.ts

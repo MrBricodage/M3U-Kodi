@@ -1,7 +1,71 @@
 #EXTM3U
-#EXTINF:-1,NTA AFRICA
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1,MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,(KU) MEDYA HABER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/6.ts
+#EXTINF:-1,(KU) MEDYA HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/5.ts
+#EXTINF:-1,(KU) STERK TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/8.ts
+#EXTINF:-1,(KU) STERK TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/7.ts
+#EXTINF:-1,(KU) RONAHI TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/10.ts
+#EXTINF:-1,(KU) RONAHI TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/9.ts
+#EXTINF:-1,(KU) ARYEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/11.ts
+#EXTINF:-1,(KU) ÇIRA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/12.ts
+#EXTINF:-1,(KU) JIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/16.ts
+#EXTINF:-1,(KU) ARTI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/13.ts
+#EXTINF:-1,(KU) CAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/32.ts
+#EXTINF:-1,DENGE WELAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/38.ts
+#EXTINF:-1,(KU) ROJAVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/36.ts
+#EXTINF:-1,(KU) MED MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/14.ts
+#EXTINF:-1,(KU) ZAROK TV*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/15.ts
+#EXTINF:-1,(KU) KURDMAX PEPULE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/1.ts
+#EXTINF:-1,(KU) KURDSAT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/18.ts
+#EXTINF:-1,(KU) NRT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/19.ts
+#EXTINF:-1,(KU) KNN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/22.ts
+#EXTINF:-1,(KU) RUDAW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/21.ts
+#EXTINF:-1,(KU) KURDISTAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/25.ts
+#EXTINF:-1,(KU) KURDMAX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/2.ts
+#EXTINF:-1,ZAGROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/37.ts
+#EXTINF:-1,KURDMAX SHOW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/3.ts
+#EXTINF:-1,(KU) LALISH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/26.ts
+#EXTINF:-1,(KU) WAAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/30.ts
+#EXTINF:-1,(KU) UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/4.ts
+#EXTINF:-1,(KU) SPEDA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/29.ts
+#EXTINF:-1,(KU) VIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/27.ts
+#EXTINF:-1,(KU) REGA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/28.ts
+#EXTINF:-1,(KU) GELE KURDISTAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/24.ts
+#EXTINF:-1,(KU) KURDISTAN 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/20.ts
+#EXTINF:-1,(KU) NRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/23.ts
+#EXTINF:-1,KOREK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/34.ts
+#EXTINF:-1,(KU) NEW LINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://medyabox2.zapto.org:8000/live/Stream_kurdo_stal/hdgd548ytgd/31.ts

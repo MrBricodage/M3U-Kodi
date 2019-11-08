@@ -1,31 +1,9 @@
 #EXTM3U
-#EXTINF:0,SPO: BEIN SPORTS 1 UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22427
-#EXTINF:0,SPO: BEIN SPORTS 2 UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22428
-#EXTINF:0,SPO: BEIN SPORTS 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22429
-#EXTINF:0,SPO: BEIN SPORTS 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22430
-#EXTINF:0,SPO: BEIN SPORTS 5 UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22431
-#EXTINF:0,SPO: BEIN SPORTS 6 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22432
-#EXTINF:0,SPO: BEIN SPORTS 7 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22433
-#EXTINF:0,SPO: BEIN SPORTS 8 UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22434
-#EXTINF:0,SPO: BEIN SPORTS 9 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22435
-#EXTINF:0,SPO: BEIN SPORTS 10 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22436
-#EXTINF:0,SPO: BEIN SPORTS 11 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22437
-#EXTINF:0,SPO: BEIN SPORTS 12 UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22438
-#EXTINF:0,SPO: BEIN SPORTS 13 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22439
-#EXTINF:0,SPO: BEIN SPORTS NBA UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22440
-#EXTINF:0,SPO: BEIN SPORTS NEWS_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22441
+#EXTINF:-1,BEINSPORTS 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.ts
+#EXTINF:-1,BEINSPORTS 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts
+#EXTINF:-1,BEINSPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
+#EXTINF:-1,BEINSPORTS 2 HD BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/4.ts

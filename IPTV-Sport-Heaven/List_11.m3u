@@ -1,31 +1,161 @@
 #EXTM3U
-#EXTINF:0,SPO: BEIN SPORTS 1 UHD_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22427
-#EXTINF:0,SPO: BEIN SPORTS 2 UHD_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22428
-#EXTINF:0,SPO: BEIN SPORTS 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22429
-#EXTINF:0,SPO: BEIN SPORTS 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22430
-#EXTINF:0,SPO: BEIN SPORTS 5 UHD_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22431
-#EXTINF:0,SPO: BEIN SPORTS 6 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22432
-#EXTINF:0,SPO: BEIN SPORTS 7 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22433
-#EXTINF:0,SPO: BEIN SPORTS 8 UHD_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22434
-#EXTINF:0,SPO: BEIN SPORTS 9 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22435
-#EXTINF:0,SPO: BEIN SPORTS 10 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22436
-#EXTINF:0,SPO: BEIN SPORTS 11 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22437
-#EXTINF:0,SPO: BEIN SPORTS 12 UHD_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22438
-#EXTINF:0,SPO: BEIN SPORTS 13 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22439
-#EXTINF:0,SPO: BEIN SPORTS NBA UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22440
-#EXTINF:0,SPO: BEIN SPORTS NEWS_Website: tv.tousecurity.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jadobox.eu:8000/HgQ1Oy0o0U/gBuMOJZ0ys/22441
+#EXTINF:0,bein SPORTS 1 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24697.ts
+#EXTINF:0,beIN SPORTS 1 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22157.ts
+#EXTINF:0,beIN SPORTS 1 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14980.ts
+#EXTINF:0,beIN SPORTS 1 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14981.ts
+#EXTINF:0,bein SPORTS 2 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24696.ts
+#EXTINF:0,beIN SPORTS 2 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22158.ts
+#EXTINF:0,beIN SPORTS 2 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14982.ts
+#EXTINF:0,beIN SPORTS 2 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14983.ts
+#EXTINF:0,bein SPORTS 3 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24695.ts
+#EXTINF:0,beIN SPORTS 3 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22159.ts
+#EXTINF:0,beIN SPORTS 3 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14984.ts
+#EXTINF:0,beIN SPORTS 3 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14985.ts
+#EXTINF:0,bein SPORTS 4 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24694.ts
+#EXTINF:0,beIN SPORTS 4 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22160.ts
+#EXTINF:0,beIN SPORTS 4 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14986.ts
+#EXTINF:0,beIN SPORTS 4 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14987.ts
+#EXTINF:0,bein SPORTS 5 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24693.ts
+#EXTINF:0,beIN SPORTS 5 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22161.ts
+#EXTINF:0,beIN SPORTS 5 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14988.ts
+#EXTINF:0,beIN SPORTS 5 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14989.ts
+#EXTINF:0,bein SPORTS 6 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24692.ts
+#EXTINF:0,beIN SPORTS 6 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22162.ts
+#EXTINF:0,beIN SPORTS 6 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14990.ts
+#EXTINF:0,beIN SPORTS 6 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14991.ts
+#EXTINF:0,bein SPORTS 7 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24691.ts
+#EXTINF:0,beIN SPORTS 7 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22163.ts
+#EXTINF:0,beIN SPORTS 7 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14992.ts
+#EXTINF:0,beIN SPORTS 7 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14993.ts
+#EXTINF:0,bein SPORTS 8 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24690.ts
+#EXTINF:0,beIN SPORTS 8 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18284.ts
+#EXTINF:0,beIN SPORTS 8 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14994.ts
+#EXTINF:0,beIN SPORTS 8 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14995.ts
+#EXTINF:0,bein SPORTS 9 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24689.ts
+#EXTINF:0,beIN SPORTS 9 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/21515.ts
+#EXTINF:0,beIN SPORTS 9 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14996.ts
+#EXTINF:0,beIN SPORTS 9 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14997.ts
+#EXTINF:0,bein SPORTS 10 4K ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/24688.ts
+#EXTINF:0,beIN SPORTS 10 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/21516.ts
+#EXTINF:0,beIN SPORTS 10 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14998.ts
+#EXTINF:0,beIN SPORTS 10 SD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14999.ts
+#EXTINF:0,beIN SPORTS 11 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15000.ts
+#EXTINF:0,beIN SPORTS 12 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15001.ts
+#EXTINF:0,beIN SPORTS 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14977.ts
+#EXTINF:0,beIN SPORTS 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/5522.ts
+#EXTINF:0,beIN SPORTS 2 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14978.ts
+#EXTINF:0,beIN SPORTS 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15637.ts
+#EXTINF:0,beIN SPORTS 3 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/4477.ts
+#EXTINF:0,beIN SPORTS 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/14979.ts
+#EXTINF:0,beIN SPORTS MAX 4 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18218.ts
+#EXTINF:0,beIN SPORTS MAX 5 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18219.ts
+#EXTINF:0,beIN SPORTS MAX 6 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18220.ts
+#EXTINF:0,beIN SPORTS MAX 7 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18221.ts
+#EXTINF:0,beIN SPORTS MAX 8 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18222.ts
+#EXTINF:0,beIN SPORTS MAX 10 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18224.ts
+#EXTINF:0,beIN SPORTS MAX 9 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/18223.ts
+#EXTINF:0,beIN SPORTS 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15719.ts
+#EXTINF:0,beIN SPORTS 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15943.ts
+#EXTINF:0,beIN SPORTS 3 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/6414.ts
+#EXTINF:0,beIN SPORTS 3 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15721.ts
+#EXTINF:0,beIN SPORTS 4 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15722.ts
+#EXTINF:0,beIN SPORTS 4 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/13665.ts
+#EXTINF:0,beIN SPORTS 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/17739.ts
+#EXTINF:0,beIN SPORTS 2 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/17740.ts
+#EXTINF:0,beIN SPORTS 3 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/17741.ts
+#EXTINF:0,beIN SPORTS 4 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/19038.ts
+#EXTINF:0,beIN SPORTS MAX 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/15723.ts
+#EXTINF:0,beIN SPORTS HABER HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/17896.ts
+#EXTINF:0,beIN SPORTS GLOBAL FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/21927.ts
+#EXTINF:0,beIN SPORTS GLOBAL HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/21926.ts
+#EXTINF:0,beIN SPORTS MAX 1 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22164.ts
+#EXTINF:0,beIN SPORTS MAX 2 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/22167.ts
+#EXTINF:0,beIN SPORTS MAX 3 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/27394.ts
+#EXTINF:0,beIN SPORTS MAX 4 FHD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/27395.ts
+#EXTINF:0,beIN DLife HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/19158.ts
+#EXTINF:0,beIN SPORTS N FHD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/23261.ts
+#EXTINF:0,beIN SPORTS 13 HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/21517.ts
+#EXTINF:0,beIN SERIES Comedy HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/19659.ts
+#EXTINF:0,beIN SERIES box HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/19662.ts
+#EXTINF:0,bein SPORTS 2 PH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/27937.ts
+#EXTINF:0,bein SPORTS 1 PH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/131117131117/TpfD9D6815/27938.ts

@@ -1,153 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Sky Sports Football
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/170.m3u8
-#EXTINF:-1,Sky Sports Premier League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/1.m3u8
-#EXTINF:-1,Sky Sports Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/2.m3u8
-#EXTINF:-1,Sky Sports Main Event
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/3.m3u8
-#EXTINF:-1,Sky Sports Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/4.m3u8
-#EXTINF:-1,Sky Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/5.m3u8
-#EXTINF:-1,Sky Sports Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/144.m3u8
-#EXTINF:-1,Sky Sports Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/129.m3u8
-#EXTINF:-1,Sky Sports MIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/145.m3u8
-#EXTINF:-1,Sky Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/6.m3u8
-#EXTINF:-1,BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/7.m3u8
-#EXTINF:-1,BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/8.m3u8
-#EXTINF:-1,BT Sport 3 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/9.m3u8
-#EXTINF:-1,BT Sport ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/123.m3u8
-#EXTINF:-1,Permier Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/10.m3u8
-#EXTINF:-1,Premier Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/11.m3u8
-#EXTINF:-1,Box Nation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/12.m3u8
-#EXTINF:-1,NBC Sports Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/13.m3u8
-#EXTINF:-1,Fox Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/14.m3u8
-#EXTINF:-1,Fox Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/15.m3u8
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/16.m3u8
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/17.m3u8
-#EXTINF:-1,MUTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/44.m3u8
-#EXTINF:-1,LFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/169.m3u8
-#EXTINF:-1,Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/43.m3u8
-#EXTINF:-1,WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/27.m3u8
-#EXTINF:-1,ufc test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/152.m3u8
-#EXTINF:-1,TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/19.m3u8
-#EXTINF:-1,TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/20.m3u8
-#EXTINF:-1,TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/21.m3u8
-#EXTINF:-1,TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/22.m3u8
-#EXTINF:-1,PPV LINK 1 (LIVE ON EVENT NIGHT ONLY)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/25.m3u8
-#EXTINF:-1,PPV LINK 2 (LIVE ON EVENT NIGHT ONLY)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/23.m3u8
-#EXTINF:-1,PPV LINK 3 (LIVE ON EVENT NIGHT ONLY)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/24.m3u8
-#EXTINF:-1,NBC Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/26.m3u8
-#EXTINF:-1,EDGE Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/28.m3u8
-#EXTINF:-1,Fight Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/30.m3u8
-#EXTINF:-1,NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/31.m3u8
-#EXTINF:-1,MotorSport TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/32.m3u8
-#EXTINF:-1,MLB Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/33.m3u8
-#EXTINF:-1,AD Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/34.m3u8
-#EXTINF:-1,AD Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/35.m3u8
-#EXTINF:-1,AD Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/36.m3u8
-#EXTINF:-1,AD Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/37.m3u8
-#EXTINF:-1,Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/38.m3u8
-#EXTINF:-1,Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/39.m3u8
-#EXTINF:-1,Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/40.m3u8
-#EXTINF:-1,Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/41.m3u8
-#EXTINF:-1,Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/42.m3u8
-#EXTINF:-1,Setanta Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/45.m3u8
-#EXTINF:-1,Bein Sport English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/126.m3u8
-#EXTINF:-1,Bein Sport 11 English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/127.m3u8
-#EXTINF:-1,Bein Sport 12 English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/128.m3u8
-#EXTINF:-1,Euro Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/130.m3u8
-#EXTINF:-1,Eleven Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/132.m3u8
-#EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/137.m3u8
-#EXTINF:-1,viasat golf test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/150.m3u8
-#EXTINF:-1,viasat sport hd test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/151.m3u8
-#EXTINF:-1,Bein Sport 1 (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/160.m3u8
-#EXTINF:-1,Bein Sport 2 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/161.m3u8
-#EXTINF:-1,Bein Sport 3 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/162.m3u8
-#EXTINF:-1,Bein Sport 4 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/163.m3u8
-#EXTINF:-1,Bein Sport 5 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/164.m3u8
-#EXTINF:-1,Bein Sport 6 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/165.m3u8
-#EXTINF:-1,Bein Sport 7 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/166.m3u8
-#EXTINF:-1,Bein Sport 8 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/167.m3u8
-#EXTINF:-1,Bein Sport 9 (arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/168.m3u8
-#EXTINF:-1,Super Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/171.m3u8
-#EXTINF:-1,Super Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/172.m3u8
-#EXTINF:-1,Super Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/173.m3u8
-#EXTINF:-1,Super Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/174.m3u8
-#EXTINF:-1,Canal Sport (Shows Premier Leagure Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/184.m3u8
-#EXTINF:-1,Canal Sport 2 (Shows Premier League Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/185.m3u8
-#EXTINF:-1,Canal Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/186.m3u8
-#EXTINF:-1,Canal Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/187.m3u8
-#EXTINF:-1,bt sport test
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stealth-sports.dynu.net:25461/live/SsWmmgAiw7/wO4nMVmQPg/189.m3u8
+#EXTINF:-1,MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://70.32.0.9:5000/live/518/playlist.m3u8
+#EXTINF:-1,nrwision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1,sporttv3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:-1,malta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1,trt2
+https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
+#EXTINF:-1,tvcreta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1,france3
+https://s1.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1,tecnoxia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1,canal4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,oromartv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,rnn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ss1.domint.net:2122/rnn_str/canal27/media.m3u8
+#EXTINF:-1,tvopoja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,dlaCiebieTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1,SAMA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1,adsport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,sxb-1
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1,smil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://blutv-beta.akamaized.net/fx/fx.smil/playlist.m3u8
+#EXTINF:-1,zhibo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1,ddnews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8

@@ -1,29 +1,413 @@
 #EXTM3U
-#EXTINF:0,Fox Sports SD H264_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6987.ts
-#EXTINF:0,Fox Sports HD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6988.ts
-#EXTINF:0,Fox Sports FULLHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6989.ts
-#EXTINF:0,Fox Sports 2 SD H264_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6990.ts
-#EXTINF:0,Fox Sports 2 HD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6991.ts
-#EXTINF:0,Fox Sports 2 FULLHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/6992.ts
-#EXTINF:0,SporTV SD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7146.ts
-#EXTINF:0,SporTV HD H264_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7147.ts
-#EXTINF:0,SporTV FULLHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7148.ts
-#EXTINF:0,SporTV 2 SD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7149.ts
-#EXTINF:0,SporTV 2 HD H264_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7150.ts
-#EXTINF:0,SporTV 2 FULLHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7151.ts
-#EXTINF:0,SporTV 3 SD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7152.ts
-#EXTINF:0,SporTV 3 HD H264_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/7153.ts
+#EXTINF:0,TR: BEINSPORT HABER_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/71054
+#EXTINF:0,TR: BEINSPORT 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/113932
+#EXTINF:0,TR: BEINSPORT 1 U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/137869
+#EXTINF:0,TR: BEINSPORT 1 UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/137867
+#EXTINF:0,TR: BEINSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/137868
+#EXTINF:0,TR: BEINSPORT 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15655
+#EXTINF:0,TR: Bein Sports 1 Sd Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/150931
+#EXTINF:0,TR: BEINSPORT 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13651
+#EXTINF:0,TR: BEINSPORT 1 HD 1080i ( 60 fps )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3417
+#EXTINF:0,TR: BEINSPORT 1 HD 265.hvec (60 Fps)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10048
+#EXTINF:0,TR: BEINSPORT 1 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12238
+#EXTINF:0,TR: BEINSPORT 1 HD SUPERLIG YEDEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/14216
+#EXTINF:0,TR: BEINSPORT MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56186
+#EXTINF:0,TR: BEINSPORT MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56187
+#EXTINF:0,TR: BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10049
+#EXTINF:0,TR: BEINSPORT 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3418
+#EXTINF:0,TR: BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15897
+#EXTINF:0,TR: BEINSPORT 2 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/14218
+#EXTINF:0,TR: BEIN SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13652
+#EXTINF:0,TR: BEINSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/11074
+#EXTINF:0,TR: BEINSPORT 3 HD ESKI LIGTV-3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10050
+#EXTINF:0,TR: BEINSPORT 3 HD+_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3419
+#EXTINF:0,TR: BEINSPORT 3 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13653
+#EXTINF:0,TR: BEINSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15899
+#EXTINF:0,TR: BEINSPORT 3 EX ESKI LIGTV-3 EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12077
+#EXTINF:0,TR: BEINSPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3420
+#EXTINF:0,TR: BEINSPORT 4 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10051
+#EXTINF:0,TR: BEINSPORT 4 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13654
+#EXTINF:0,TR: TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/14242
+#EXTINF:0,TR: TIVIBUSPOR 1 YEDEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/16374
+#EXTINF:0,TR: TIVIBUSPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/16248
+#EXTINF:0,TR: TIVIBUSPOR 2 HD+_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/14241
+#EXTINF:0,TR: TIVIBUSPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/11
+#EXTINF:0,TR: TIVIBUSPOR 2 EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/4487
+#EXTINF:0,TR: TIVIBUSPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13565
+#EXTINF:0,TR: TIVIBUSPOR 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13655
+#EXTINF:0,TR: TIVIBUSPOR 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12717
+#EXTINF:0,TR: SMARTSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/4683
+#EXTINF:0,TR: SMARTSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/52112
+#EXTINF:0,TR: TIVIBUSPOR 1 EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/52114
+#EXTINF:0,TR: TIVISBUPOR 2 EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/52115
+#EXTINF:0,TR: TIVISBUPOR 3 EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/52116
+#EXTINF:0,TR: SMARTSPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/51442
+#EXTINF:0,TR: TRT SPOR  UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/136201
+#EXTINF:0,TR: S SPORT HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/150961
+#EXTINF:0,TR: SPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/14246
+#EXTINF:0,TR: SPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3427
+#EXTINF:0,TR: NTV SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/3426
+#EXTINF:0,TR: NTV SPOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15770
+#EXTINF:0,TR: A SPOR FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10121
+#EXTINF:0,TR: A SPOR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/21188
+#EXTINF:0,TR: A SPOR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15760
+#EXTINF:0,TR: SPORTS TV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/4473
+#EXTINF:0,TR: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10871
+#EXTINF:0,TR: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10872
+#EXTINF:0,TR: FB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/5873
+#EXTINF:0,TR: FB TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/16569
+#EXTINF:0,TR: TAY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15614
+#EXTINF:0,TR: TAY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/11124
+#EXTINF:0,TR: GS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/17535
+#EXTINF:0,TR: GS TV SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/5872
+#EXTINF:0,TR: SPORTSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10075
+#EXTINF:0,TR: BURSASPOR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/21743
+#EXTINF:0,TR: TRT SPOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13570
+#EXTINF:0,DE: DAZN  1 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/132211
+#EXTINF:0,DE: DAZN 1 BAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/132079
+#EXTINF:0,DE: DAZN 2 BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/132212
+#EXTINF:0,DE: DAZN 2 BAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/132080
+#EXTINF:0,DE: SKY SPORT AUSTRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9974
+#EXTINF:0,DE: EUROSPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/10984
+#EXTINF:0,DE:  EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/777
+#EXTINF:0,DE: SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/8068
+#EXTINF:0,DE: SPORT 1 +  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/8355
+#EXTINF:0,DE: SPORT+ 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/51800
+#EXTINF:0,DE: SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15909
+#EXTINF:0,DE: AUTO MOTOR SPORT HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/136166
+#EXTINF:0,DE: AUTO MOTOR SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/136167
+#EXTINF:0,DE: EUROSPORT 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56259
+#EXTINF:0,DE: EUROSPORT 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56260
+#EXTINF:0,DE: EUROSPORT 2 EXTRA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56261
+#EXTINF:0,DE: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64639
+#EXTINF:0,DE: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64640
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9987
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/67
+#EXTINF:0,DE: SKY BUNDESLIGA 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15658
+#EXTINF:0,DE: SKY BUNDESLIGA 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15659
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9988
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15960
+#EXTINF:0,DE: SKY BUNDESLIGA 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15662
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15663
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9989
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/70
+#EXTINF:0,DE: SKY BUNDESLIGA 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15961
+#EXTINF:0,DE: SKY BUNDESLIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9990
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/71
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64647
+#EXTINF:0,DE: SKY BUNDESLIGA 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9991
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64646
+#EXTINF:0,DE: SKY BUNDESLIGA 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/72
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15963
+#EXTINF:0,DE: SKY BUNDESLIGA 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15964
+#EXTINF:0,DE: SKY BUNDESLIGA 7 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64638
+#EXTINF:0,DE: SKY BUNDESLIGA 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/73
+#EXTINF:0,DE: SKY BUNDESLIGA 8 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64637
+#EXTINF:0,DE: SKY BUNDESLIGA 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9994
+#EXTINF:0,DE: SKY BUNDESLIGA 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64636
+#EXTINF:0,DE: SKY BUNDESLIGA 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9995
+#EXTINF:0,DE: SKY BUNDESLIGA 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/64633
+#EXTINF:0,DE: SKY BUNDESLIGA 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9996
+#EXTINF:0,DE: SKY SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/68585
+#EXTINF:0,DE: SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/68586
+#EXTINF:0,DE: SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/5777
+#EXTINF:0,DE: SKY SPORT 1 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9975
+#EXTINF:0,DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/77
+#EXTINF:0,DE: SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/78
+#EXTINF:0,DE: SKY SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15944
+#EXTINF:0,DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9976
+#EXTINF:0,DE: SKY SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7495
+#EXTINF:0,DE: SKY SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15950
+#EXTINF:0,DE: SKY SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9977
+#EXTINF:0,DE: SKY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7496
+#EXTINF:0,DE: SKY SPORT 4 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15951
+#EXTINF:0,DE: SKY SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9978
+#EXTINF:0,DE: SKY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7497
+#EXTINF:0,DE: SKY SPORT 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15952
+#EXTINF:0,DE: SKY SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9979
+#EXTINF:0,DE: SKY SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7498
+#EXTINF:0,DE: SKY SPORT 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15953
+#EXTINF:0,DE: SKY SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9980
+#EXTINF:0,DE: SKY SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7499
+#EXTINF:0,DE: SKY SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15954
+#EXTINF:0,DE: SKY SPORT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9981
+#EXTINF:0,DE: SKY SPORT 8 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7500
+#EXTINF:0,DE: SKY SPORT 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15955
+#EXTINF:0,DE: SKY SPORT 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9982
+#EXTINF:0,DE: SKY SPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9983
+#EXTINF:0,DE: SKY SPORT 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15956
+#EXTINF:0,DE: SKY SPORT 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7501
+#EXTINF:0,DE: SKY SPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/7502
+#EXTINF:0,DE: SKY SPORT 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/15957
+#EXTINF:0,DE: SKY SPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/9984
+#EXTINF:0,AR: BEINSPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12906
+#EXTINF:0,AR: BEINSPORT 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/774
+#EXTINF:0,AR: BEINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20541
+#EXTINF:0,AR: BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12907
+#EXTINF:0,AR: BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20554
+#EXTINF:0,AR: BEINSPORT 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/787
+#EXTINF:0,AR: BEINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20555
+#EXTINF:0,AR: BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12908
+#EXTINF:0,AR: BEINSPORT 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/786
+#EXTINF:0,AR: BEINSPORT 4 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20557
+#EXTINF:0,AR: BEINSPORT 4 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20556
+#EXTINF:0,AR: BEINSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12909
+#EXTINF:0,-AR: BEINSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20559
+#EXTINF:0,AR: BEINSPORTS 5 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/780
+#EXTINF:0,AR: BEINSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12910
+#EXTINF:0,AR: BEINSPORT 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20558
+#EXTINF:0,AR: BEINSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12911
+#EXTINF:0,AR: BEINSPORT 6 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20560
+#EXTINF:0,AR: BEINSPORT 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20561
+#EXTINF:0,AR: BEINSPORTS 6 (AR)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/781
+#EXTINF:0,AR: BEINSPORTS 7 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/782
+#EXTINF:0,AR: BEINSPORT 7 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20563
+#EXTINF:0,AR: BEINSPORT 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20562
+#EXTINF:0,AR: BEINSPORT 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20569
+#EXTINF:0,AR: BEINSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20564
+#EXTINF:0,AR: BEINSPORTS 8 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/783
+#EXTINF:0,AR: BEINSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12913
+#EXTINF:0,AR: BEINSPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20565
+#EXTINF:0,AR: BEINSPORTS 9 (AR)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/784
+#EXTINF:0,AR: BEINSPORT 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20570
+#EXTINF:0,AR: BEINSPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12914
+#EXTINF:0,AR: BEINSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/12915
+#EXTINF:0,AR: BEINSPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/785
+#EXTINF:0,AR: BEINSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20566
+#EXTINF:0,AR: BEINSPORT 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20571
+#EXTINF:0,FR: BEINSPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20542
+#EXTINF:0,FR: BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/1110
+#EXTINF:0,FR: BEINSPORTS 1 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20544
+#EXTINF:0,FR: BEINSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/6254
+#EXTINF:0,FR: BEINSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20550
+#EXTINF:0,FR: BEINSPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20551
+#EXTINF:0,FR: BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/13076
+#EXTINF:0,FR: BEIN SPORT 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/1111
+#EXTINF:0,FR: BEINSPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20546
+#EXTINF:0,FR: BEINSPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20548
+#EXTINF:0,FR: BEIN SPORT 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/1112
+#EXTINF:0,FR: BEINSPORTS 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20547
+#EXTINF:0,FR: BEINSPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20553
+#EXTINF:0,AL: ARENA SPORT 1 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20802
+#EXTINF:0,AL: ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20803
+#EXTINF:0,AL: ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20804
+#EXTINF:0,AL: ARENA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/20805
+#EXTINF:0,AL: SUPERSPORT KOSOVO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/170636
+#EXTINF:0,EX-YOU: ARENA SPORT 1 HD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/135493
+#EXTINF:0,EX-YOU: ARENA SPORT 2 HD sr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138760
+#EXTINF:0,EX-YOU: ARENA SPORT 2 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138761
+#EXTINF:0,EX-YOU: ARENA SPORT 3 HD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138763
+#EXTINF:0,EX-YOU: ARENA SPORT 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138762
+#EXTINF:0,EX-YOU: ARENA SPORT 4 HD sr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138764
+#EXTINF:0,EX-YOU: ARENA SPORT 4 HD HR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138765
+#EXTINF:0,EX-YOU: ARENA SPORT 5 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/138766
+#EXTINF:0,IN: STAR SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/11663
+#EXTINF:0,RO: DOLCE SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56177
+#EXTINF:0,RO: DOLCE SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/56178
+#EXTINF:0,PK: PTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvhdlive.xyz:8080/7MVIyOgNUC/p0O8GfV9et/11962
