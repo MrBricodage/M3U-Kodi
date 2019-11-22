@@ -519,6 +519,40 @@
 </item>
 
 <item>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]San Francisco 49ers[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/san-francisco-49ers-live-stream/</page>
+	</regex>
+	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Arizona Cardinals[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/arizona-cardinals-live-stream/</page>
+	</regex>
+	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
+</item>
+
+<item>
 	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Indianapolis Colts[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -536,6 +570,40 @@
 </item>
 
 <item>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Los Angeles Rams[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/los-angeles-rams-live-stream/</page>
+	</regex>
+	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Seattle Seahawks[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/seattle-seahawks-live-stream/</page>
+	</regex>
+	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
+</item>
+
+<item>
 	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -547,6 +615,23 @@
 	<name>get_matchurl</name>
 	<expres>class="title" href=.*[",'](.*?)[",']</expres>
 	<page>http://60fps.live/houston-texans-live-stream/</page>
+	</regex>
+	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Minnesota Vikings[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/minnesota-vikings-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
