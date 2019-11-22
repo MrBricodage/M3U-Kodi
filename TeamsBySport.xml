@@ -507,7 +507,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
+	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -519,7 +519,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Indianapolis Colts[/B][/COLOR]</title>
+	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]Indianapolis Colts[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -536,7 +536,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans[/B][/COLOR]</title>
+	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -553,7 +553,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Colorado Avalanche [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Colorado Avalanche [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -572,7 +572,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Chicago Blackhawks [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Chicago Blackhawks [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -591,7 +591,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Saint-Louis Blues [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Saint-Louis Blues [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -610,7 +610,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Boston Bruins [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Boston Bruins [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -629,7 +629,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Montreal Canadiens [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Montreal Canadiens [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -648,7 +648,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Vancouver Canucks [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Vancouver Canucks [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -667,7 +667,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Washington Capitals [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Washington Capitals [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -686,7 +686,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Arizona Coyotes [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Arizona Coyotes [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -705,7 +705,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]New Jersey Devils [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]New Jersey Devils [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -725,7 +725,7 @@
 
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Anaheim Ducks [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Anaheim Ducks [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -744,7 +744,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Calgary Flames [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Calgary Flames [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -763,7 +763,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Philadelphia Flyers [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Philadelphia Flyers [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -782,7 +782,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Carolina Hurricanes [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Carolina Hurricanes [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -801,7 +801,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]New York Islanders [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]New York Islanders [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -820,7 +820,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Columbus Blue Jackets [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Columbus Blue Jackets [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -839,7 +839,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Winnipeg Jets [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Winnipeg Jets [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -858,7 +858,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Los Angeles Kings [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Los Angeles Kings [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -877,7 +877,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Las Vegas Knights [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Las Vegas Knights [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -896,7 +896,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Toronto Maple Leafs [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Toronto Maple Leafs [/B][/COLOR]</title>
 <link>http://nhl4.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -915,7 +915,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Tampa Bay Lightning [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Tampa Bay Lightning [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -934,7 +934,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Edmonton Oilers [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Edmonton Oilers [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -953,7 +953,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Florida Panthers [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Florida Panthers [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -972,7 +972,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Pittsburgh Penguins [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Pittsburgh Penguins [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -991,7 +991,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Nashville Predators [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Nashville Predators [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1010,7 +1010,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]New York Rangers [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]New York Rangers [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1029,7 +1029,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Buffalo Sabres [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Buffalo Sabres [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1048,7 +1048,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Ottawa Senators [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Ottawa Senators [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1067,7 +1067,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]San José Sharks [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]San José Sharks [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1086,7 +1086,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Dallas Stars [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Dallas Stars [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1105,7 +1105,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Minnesota Wild [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Minnesota Wild [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1124,7 +1124,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]NHL [/B][/COLOR] : [COLOR white][B]Detroit Red Wings [/B][/COLOR]</title>
+<title>[COLOR black][B]NHL [/B][/COLOR] : [COLOR white][B]Detroit Red Wings [/B][/COLOR]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
