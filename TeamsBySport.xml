@@ -1228,7 +1228,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer France [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]France [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1247,7 +1247,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer France[/B][/COLOR] : [COLOR white][B]Lille OSC[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]France [/B][/COLOR] : [COLOR white][B]Lille OSC[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1264,7 +1264,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer France [/B][/COLOR] : [COLOR white][B]Nice [/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]France [/B][/COLOR] : [COLOR white][B]Nice [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1283,7 +1283,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer France[/B][/COLOR] : [COLOR white][B]Paris Saint-Germain[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]France [/B][/COLOR] : [COLOR white][B]Paris Saint-Germain[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1300,7 +1300,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer France [/B][/COLOR] : [COLOR white][B]Saint-Etienne [/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]France [/B][/COLOR] : [COLOR white][B]Saint-Etienne [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1320,7 +1320,7 @@
 
 
 <item>
-	<title>[COLOR blue][B]Soccer Germany[/B][/COLOR] : [COLOR white][B]Borussia Dortmund[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]Germany [/B][/COLOR] : [COLOR white][B]Borussia Dortmund[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1337,7 +1337,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer Germany[/B][/COLOR] : [COLOR white][B]Paderborn[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]Germany [/B][/COLOR] : [COLOR white][B]Paderborn[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1354,7 +1354,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer Spain[/B][/COLOR] : [COLOR white][B]Levante[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]Spain [/B][/COLOR] : [COLOR white][B]Levante[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1371,7 +1371,7 @@
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer Spain[/B][/COLOR] : [COLOR white][B]Mallorca[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR green][B]Spain [/B][/COLOR] : [COLOR white][B]Mallorca[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
