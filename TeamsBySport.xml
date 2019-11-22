@@ -1098,7 +1098,7 @@
 
 
 <item>
-	<title>[COLOR blue][B]Soccer [/B][/COLOR] : [COLOR white][B]Lille OSC[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer France[/B][/COLOR] : [COLOR white][B]Lille OSC[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1111,11 +1111,11 @@
 	<page>http://60fps.live/losc-lille-metropole-live-stream-2/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
-	<fanart>https://i.pinimg.com/originals/06/0c/8a/060c8a2b0180acdb20bf63c667e1f6a9.png</fanart>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
 </item>
 
 <item>
-	<title>[COLOR blue][B]Soccer [/B][/COLOR] : [COLOR white][B]PSG[/B][/COLOR]</title>
+	<title>[COLOR blue][B]Soccer France[/B][/COLOR] : [COLOR white][B]PSG[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -1128,5 +1128,39 @@
 	<page>http://60fps.live/paris-saint-germain-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
-	<fanart>https://i.pinimg.com/originals/06/0c/8a/060c8a2b0180acdb20bf63c667e1f6a9.png</fanart>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer Germany[/B][/COLOR] : [COLOR white][B]Borussia Dortmund[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/borussia-dortmund-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer Germany[/B][/COLOR] : [COLOR white][B]Paderborn[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/paderborn-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
 </item>
