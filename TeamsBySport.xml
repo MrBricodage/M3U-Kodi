@@ -5,7 +5,7 @@
 
 <item>
 <title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]14/10/2019 23:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
-<info>Derniere Vérification : 20/10/2019 23:00 UTC</info>
+<info>Derniere Vérification : 23/11/2019 01:00 UTC</info>
 <link>http://ignore.me<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -507,7 +507,7 @@
 </item>
 
 <item>
-	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -519,7 +519,7 @@
 </item>
 
 <item>
-	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]Indianapolis Colts[/B][/COLOR]</title>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Indianapolis Colts[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
@@ -536,7 +536,7 @@
 </item>
 
 <item>
-	<title>[COLOR red][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans[/B][/COLOR]</title>
+	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
 	<name>get_hanturl</name>
