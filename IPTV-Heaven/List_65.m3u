@@ -1,151 +1,545 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,MULTISPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2640.ts
-#EXTINF:-1,MULTISPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2639.ts
-#EXTINF:-1,MULTISPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2638.ts
-#EXTINF:-1,MULTISPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2637.ts
-#EXTINF:-1,MULTISPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2636.ts
-#EXTINF:-1,MULTISPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/2635.ts
-#EXTINF:-1,|FR| M6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1584.ts
-#EXTINF:-1,|FR| M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1583.ts
-#EXTINF:-1,|FR| M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1582.ts
-#EXTINF:-1,|FR| TMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1484.ts
-#EXTINF:-1,|FR| TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1482.ts
-#EXTINF:-1,|FR| TMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1483.ts
-#EXTINF:-1,|FR| W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1184.ts
-#EXTINF:-1,|FR| W9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1183.ts
-#EXTINF:-1,|FR| TF1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1176.ts
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1175.ts
-#EXTINF:-1,TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1174.ts
-#EXTINF:-1,EQUIPE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/1097.ts
-#EXTINF:-1,BEINSPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/636.ts
-#EXTINF:-1,SOURCE RMC SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/560.ts
-#EXTINF:-1,|FR| RMC SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/570.ts
-#EXTINF:-1,|FR| RMC SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/573.ts
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/577.ts
-#EXTINF:-1,|FR| RMC SPORT5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/580.ts
-#EXTINF:-1,|FR|RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/575.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/586.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/585.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/584.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/583.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/582.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/593.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/592.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/591.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/590.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/589.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/588.ts
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/587.ts
-#EXTINF:-1,|FR| RMC SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/581.ts
-#EXTINF:-1,|FR| RMC SPORT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/567.ts
-#EXTINF:-1,|FR| RMC SPORT 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/579.ts
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/578.ts
-#EXTINF:-1,|FR| RMC SPORT 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/576.ts
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/574.ts
-#EXTINF:-1,|FR| RMC SPORT 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/572.ts
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/571.ts
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/569.ts
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/568.ts
-#EXTINF:-1,|FR| CANAL.  SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/598.ts
-#EXTINF:-1,|FR| CANAL  SPORT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/599.ts
-#EXTINF:-1,|FR| CANAL  SPORT  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/597.ts
-#EXTINF:-1,|FR| CANAL  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/563.ts
-#EXTINF:-1,|FR| CANAL  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/562.ts
-#EXTINF:-1,|FR| CANAL+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/561.ts
-#EXTINF:-1,|FR| beINSPORT3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/605.ts
-#EXTINF:-1,|FR| beINSPORT1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/603.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/620.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/618.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/616.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/614.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/612.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/610.ts
-#EXTINF:-1,|FR| beINSPORT 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/608.ts
-#EXTINF:-1,|FR| beINSPORT 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/607.ts
-#EXTINF:-1,|FR| beINSPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/606.ts
-#EXTINF:-1,|FR| beIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/602.ts
-#EXTINF:-1,|FR| beIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/601.ts
-#EXTINF:-1,|FR| beIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/600.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/619.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/617.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/615.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/613.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/611.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/609.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/622.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourcesportfr/BmwUVaxx0Q/621.ts
+#EXTM3U
+#EXTINF:-1,PORTADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/67.ts
+#EXTINF:-1,LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/81.ts
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/117.ts
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/83.ts
+#EXTINF:-1,ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/4.ts
+#EXTINF:-1,ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/90.ts
+#EXTINF:-1,CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/15.ts
+#EXTINF:-1,CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/106.ts
+#EXTINF:-1,TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/71.ts
+#EXTINF:-1,TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/148.ts
+#EXTINF:-1,LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/26.ts
+#EXTINF:-1,LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/118.ts
+#EXTINF:-1,ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/19.ts
+#EXTINF:-1,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/18.ts
+#EXTINF:-1,Fdf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/111.ts
+#EXTINF:-1,NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/143.ts
+#EXTINF:-1,NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/140.ts
+#EXTINF:-1,MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/152.ts
+#EXTINF:-1,DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/432.ts
+#EXTINF:-1,BE MAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/97.ts
+#EXTINF:-1,mtmad 24h HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/452.ts
+#EXTINF:-1,Astres Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/353.ts
+#EXTINF:-1,Gran Hermano VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/391.ts
+#EXTINF:-1,À Punt HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/361.ts
+#EXTINF:-1,7 RM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/357.ts
+#EXTINF:-1,ARAGON TV INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/91.ts
+#EXTINF:-1,24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/89.ts
+#EXTINF:-1,CANAL SUR A.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/100.ts
+#EXTINF:-1,CANAL SUR A. HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/354.ts
+#EXTINF:-1,TeleMadrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/356.ts
+#EXTINF:-1,ETB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/358.ts
+#EXTINF:-1,Canal Castilla La Mancha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/355.ts
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/1.ts
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/87.ts
+#EXTINF:-1,M. ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/86.ts
+#EXTINF:-1,M. ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/39.ts
+#EXTINF:-1,M. ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/30.ts
+#EXTINF:-1,M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/120.ts
+#EXTINF:-1,M. COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/85.ts
+#EXTINF:-1,M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/122.ts
+#EXTINF:-1,M.DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/38.ts
+#EXTINF:-1,M.DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/126.ts
+#EXTINF:-1,M.CineDoc&Roll hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/150.ts
+#EXTINF:-1,M.CineDoc&Roll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/130.ts
+#EXTINF:-1,M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/44.ts
+#EXTINF:-1,M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/129.ts
+#EXTINF:-1,M. DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/37.ts
+#EXTINF:-1,M.Seriesmania HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/138.ts
+#EXTINF:-1,M. SERIESMANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/45.ts
+#EXTINF:-1,M. Cine Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/121.ts
+#EXTINF:-1,XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/367.ts
+#EXTINF:-1,Somos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/368.ts
+#EXTINF:-1,Dark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/366.ts
+#EXTINF:-1,PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/144.ts
+#EXTINF:-1,COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/79.ts
+#EXTINF:-1,COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/104.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/94.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/92.ts
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/96.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/95.ts
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/112.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/23.ts
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/80.ts
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/113.ts
+#EXTINF:-1,COMEDYCENTRALHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/78.ts
+#EXTINF:-1,COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/14.ts
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/73.ts
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/149.ts
+#EXTINF:-1,HOLLYWOODHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/25.ts
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/115.ts
+#EXTINF:-1,Calle13 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/9.ts
+#EXTINF:-1,Calle13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/8.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/2.ts
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/3.ts
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/70.ts
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/69.ts
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/147.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/68.ts
+#EXTINF:-1,Sundance FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/447.ts
+#EXTINF:-1,SUNDANCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/146.ts
+#EXTINF:-1,TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/72.ts
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/62.ts
+#EXTINF:-1,NAT GEOGRAPH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/63.ts
+#EXTINF:-1,NG WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/64.ts
+#EXTINF:-1,NAT GEO WILD sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/151.ts
+#EXTINF:-1,HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/375.ts
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/114.ts
+#EXTINF:-1,ODISEA hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/370.ts
+#EXTINF:-1,CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/12.ts
+#EXTINF:-1,DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/442.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/107.ts
+#EXTINF:-1,Discovery Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/373.ts
+#EXTINF:-1,CAZAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/429.ts
+#EXTINF:-1,CAZAyPESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/13.ts
+#EXTINF:-1,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/101.ts
+#EXTINF:-1,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/116.ts
+#EXTINF:-1,TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/75.ts
+#EXTINF:-1,TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/74.ts
+#EXTINF:-1,BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/98.ts
+#EXTINF:-1,CRIMEN+INVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/105.ts
+#EXTINF:-1,CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/103.ts
+#EXTINF:-1,VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/76.ts
+#EXTINF:-1,Decasa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/446.ts
+#EXTINF:-1,CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/11.ts
+#EXTINF:-1,Canal Cocina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/448.ts
+#EXTINF:-1,Canal cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/10.ts
+#EXTINF:-1,DAZN MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/369.ts
+#EXTINF:-1,#VAMOSHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/77.ts
+#EXTINF:-1,#VAMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/88.ts
+#EXTINF:-1,M. laliga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/93.ts
+#EXTINF:-1,M.LALIGA1 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/49.ts
+#EXTINF:-1,M. LaLiga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/127.ts
+#EXTINF:-1,M. LaLiga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/128.ts
+#EXTINF:-1,M. LaLiga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/41.ts
+#EXTINF:-1,M. LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/42.ts
+#EXTINF:-1,M.LALIGA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/50.ts
+#EXTINF:-1,M.LALIGA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/131.ts
+#EXTINF:-1,M.LALIGA4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/132.ts
+#EXTINF:-1,M.LALIGA5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/51.ts
+#EXTINF:-1,M.LALIGA6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/52.ts
+#EXTINF:-1,M.LALIGA7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/53.ts
+#EXTINF:-1,M.LALIGA8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/133.ts
+#EXTINF:-1,LALIGATV BAR hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/82.ts
+#EXTINF:-1,LALIGATVBAR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/27.ts
+#EXTINF:-1,LALIGATVBAR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/119.ts
+#EXTINF:-1,LALIGATVBAR3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/28.ts
+#EXTINF:-1,LALIGATVBAR4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/29.ts
+#EXTINF:-1,M.LCAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/21.ts
+#EXTINF:-1,M.LCAMPEONES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/60.ts
+#EXTINF:-1,M.LCAMPEON1 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/134.ts
+#EXTINF:-1,M.LCAMPEON2 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/136.ts
+#EXTINF:-1,M.LCAMPEON1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/54.ts
+#EXTINF:-1,M.LCAMPEON2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/135.ts
+#EXTINF:-1,M.LCAMPEON3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/55.ts
+#EXTINF:-1,M.LCAMPEON4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/137.ts
+#EXTINF:-1,M.LCAMPEON5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/56.ts
+#EXTINF:-1,M.LCAMPEON6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/57.ts
+#EXTINF:-1,M.LCAMPEON7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/58.ts
+#EXTINF:-1,M.LCAMPEON8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/59.ts
+#EXTINF:-1,M.FORMULA1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/48.ts
+#EXTINF:-1,M.FORMULA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/47.ts
+#EXTINF:-1,M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/84.ts
+#EXTINF:-1,M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/40.ts
+#EXTINF:-1,M. DEPORTESHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/36.ts
+#EXTINF:-1,M. DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/31.ts
+#EXTINF:-1,M.DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/46.ts
+#EXTINF:-1,M. DEPORTES1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/123.ts
+#EXTINF:-1,M. DEPORTES2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/32.ts
+#EXTINF:-1,M. DEPORTES3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/33.ts
+#EXTINF:-1,M. DEPORTES4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/34.ts
+#EXTINF:-1,M. DEPORTES5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/35.ts
+#EXTINF:-1,M. DEPORTES6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/124.ts
+#EXTINF:-1,M. DEPORTES7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/125.ts
+#EXTINF:-1,GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/24.ts
+#EXTINF:-1,Barca tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/6.ts
+#EXTINF:-1,R. MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/145.ts
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/139.ts
+#EXTINF:-1,EUROSPORT1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/22.ts
+#EXTINF:-1,EUROSPORT 1 -sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/20.ts
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/110.ts
+#EXTINF:-1,CLAN  TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/102.ts
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/109.ts
+#EXTINF:-1,DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/108.ts
+#EXTINF:-1,DISNEY CH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/16.ts
+#EXTINF:-1,DISNEY CH.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/17.ts
+#EXTINF:-1,NICKELODEONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/65.ts
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/142.ts
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/141.ts
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/7.ts
+#EXTINF:-1,Baby tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/5.ts
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/99.ts
+#EXTINF:-1,SOL MUSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/443.ts
+#EXTINF:-1,Formix TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/352.ts
+#EXTINF:-1,Power hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/351.ts
+#EXTINF:-1,Musictop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/350.ts
+#EXTINF:-1,La Mega Mundial
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/349.ts
+#EXTINF:-1,MTV ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/61.ts
+#EXTINF:-1,Penthouse Quickies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/252.ts
+#EXTINF:-1,Penthouse Passion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/253.ts
+#EXTINF:-1,Penthouse Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/251.ts
+#EXTINF:-1,Sext & Senso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/272.ts
+#EXTINF:-1,XY Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/243.ts
+#EXTINF:-1,Prive TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/271.ts
+#EXTINF:-1,Pink Erotic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/286.ts
+#EXTINF:-1,Pink Erotic 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/287.ts
+#EXTINF:-1,Pink Erotic 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/288.ts
+#EXTINF:-1,Pink Erotic 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/289.ts
+#EXTINF:-1,Pink Erotic 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/290.ts
+#EXTINF:-1,Pink Erotic 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/291.ts
+#EXTINF:-1,French Lover Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/299.ts
+#EXTINF:-1,Hustler TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/265.ts
+#EXTINF:-1,Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/242.ts
+#EXTINF:-1,Hot TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/277.ts
+#EXTINF:-1,XY Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/245.ts
+#EXTINF:-1,Blue Hustler
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/311.ts
+#EXTINF:-1,XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/266.ts
+#EXTINF:-1,PLAYBOY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/live/jose/jose/66.ts
+#EXTINF:-1,Yo soy Dolemite
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/435.mp4
+#EXTINF:-1,The King
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/439.mp4
+#EXTINF:-1,Serpiente de cascabel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/438.mp4
+#EXTINF:-1,Mejor que nunca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/437.mp4
+#EXTINF:-1,Los Descendientes 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/434.mp4
+#EXTINF:-1,A dos metros de ti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/436.mp4
+#EXTINF:-1,El Rey Leon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/431.mp4
+#EXTINF:-1,El Grins
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/428.mkv
+#EXTINF:-1,Wounds
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/426.mkv
+#EXTINF:-1,Victoria, 3 de marzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/412.mkv
+#EXTINF:-1,Una Pequeña Mentira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/424.mkv
+#EXTINF:-1,Una Nueva Identidad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/423.mkv
+#EXTINF:-1,The Tobacconist
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/422.mkv
+#EXTINF:-1,The Laundromat: Dinero sucio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/420.mp4
+#EXTINF:-1,Nescesitamos tu Voto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/418.mkv
+#EXTINF:-1,MR. link: el origen perdido
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/417.mkv
+#EXTINF:-1,La Cancion De Mi Padre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/416.mkv
+#EXTINF:-1,Hurricane
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/415.mkv
+#EXTINF:-1,Enemigos Intimos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/413.mkv
+#EXTINF:-1,Eli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/427.mp4
+#EXTINF:-1,El Sol También Es Una Estrella
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/421.mkv
+#EXTINF:-1,Driven El origen de la leyenda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/414.mkv
+#EXTINF:-1,Diecisiete
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/419.mkv
+#EXTINF:-1,10 días sin mamá
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/411.mkv
+#EXTINF:-1,Hotel Artemis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/410.mp4
+#EXTINF:-1,Annabelle vuelve a casa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/409.mp4
+#EXTINF:-1,Stuber Express
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/408.mp4
+#EXTINF:-1,Tolkien
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/407.mp4
+#EXTINF:-1,The Prodigy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/404.mp4
+#EXTINF:-1,Rocketman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/402.mp4
+#EXTINF:-1,Mula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/403.mp4
+#EXTINF:-1,Liga de la Justicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/401.mp4
+#EXTINF:-1,La forma del agua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/406.mp4
+#EXTINF:-1,La cabaña
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/405.mp4
+#EXTINF:-1,Fractura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/400.mp4
+#EXTINF:-1,El Camino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/399.mp4
+#EXTINF:-1,Capitana Marvel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/398.mp4
+#EXTINF:-1,Aniquilacion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/397.mp4
+#EXTINF:-1,Men in Black: International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/395.mp4
+#EXTINF:-1,En la hierba alta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/396.mp4
+#EXTINF:-1,Vengadores: Endgame
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/394.mp4
+#EXTINF:-1,El Sotano de Ma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/393.mp4
+#EXTINF:-1,Spider-man: lejos de casa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/392.mp4
+#EXTINF:-1,Toy Story 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/390.mkv
+#EXTINF:-1,Hotel Transilvania 3: Unas vacaciones monstruosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/389.mp4
+#EXTINF:-1,Timadoras Compulsivas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/386.mkv
+#EXTINF:-1,Super Empollonas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/385.mkv
+#EXTINF:-1,Sombra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/384.mkv
+#EXTINF:-1,Oscar Wilde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/383.mkv
+#EXTINF:-1,La Viuda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/382.mkv
+#EXTINF:-1,La Ultima Leccion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/381.mkv
+#EXTINF:-1,La Corresponsal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/380.mkv
+#EXTINF:-1,John Wick Capitulo 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/379.mkv
+#EXTINF:-1,Infiltrado en Miami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/378.mkv
+#EXTINF:-1,In The Shadow of the Moon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/377.mkv
+#EXTINF:-1,El Lado Siniestro De La Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/387.mkv
+#EXTINF:-1,Como Pez Fuera del Agua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/376.mkv
+#EXTINF:-1,Xmen Fenix Oscura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/348.mkv
+#EXTINF:-1,Voces Ocultas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/347.mkv
+#EXTINF:-1,Un Hombre Fiel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/346.mkv
+#EXTINF:-1,Todo por Grace
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/345.mkv
+#EXTINF:-1,Mug
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/344.mkv
+#EXTINF:-1,Me Llamo Gennet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/343.mkv
+#EXTINF:-1,Lo dejo Cuando Quiera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/342.mkv
+#EXTINF:-1,Kreepers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/341.mkv
+#EXTINF:-1,Hellboy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/340.mkv
+#EXTINF:-1,Godzilla El Rey De Los Monstruos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/339.mkv
+#EXTINF:-1,Gloia Bell
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/338.mkv
+#EXTINF:-1,Estafadores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/337.mkv
+#EXTINF:-1,El Juego del Asesino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/336.mkv
+#EXTINF:-1,El Año de la Plaga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/335.mkv
+#EXTINF:-1,Dragged Across Concrete
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/334.mkv
+#EXTINF:-1,Corgi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/333.mkv
+#EXTINF:-1,Casi Imposible
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/332.mkv
+#EXTINF:-1,Aladin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://254tv.mine.nu:8000/movie/jose/jose/331.mkv

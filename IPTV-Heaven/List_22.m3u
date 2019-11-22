@@ -1,15 +1,857 @@
 #EXTM3U
-#EXTINF:-1,dmcdrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/dmcdrama/01.m3u8
-#EXTINF:-1,sada_balad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls//sada_balad/01.m3u8
-#EXTINF:-1,Sada Elbalad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
-#EXTINF:-1,Sada Elbalad 360p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/02.m3u8
-#EXTINF:-1,Sada Elbalad 480p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/03.m3u8
-#EXTINF:-1,Sada Elbalad 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
-#EXTINF:-1,Sada Elbalad 1080p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae/hls/sada_balad/05.m3u8
+#EXTINF:-1,TR : TR| BEIN SPORT 4 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/750.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 4 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/749.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/774.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 3 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/748.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 3 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/747.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/773.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 1 HD 480p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/743.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 1 HD 360p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/744.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/741.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/771.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 2 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/746.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/745.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/772.ts
+#EXTINF:-1,TR : TR| BEIN SPORT 1 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/742.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 2 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/754.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/753.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/776.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 1 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/752.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/751.ts
+#EXTINF:-1,TR : TR| BEIN SPORT MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/775.ts
+#EXTINF:-1,TR : TR| TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/770.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 3 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/769.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 3 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/768.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 2 HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/767.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/766.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 1 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/765.ts
+#EXTINF:-1,TR : TR| TIVIBU SPORT 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/764.ts
+#EXTINF:-1,TR : TR| SPOR  SMART HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/756.ts
+#EXTINF:-1,TR : TR| SPOR  SMART HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/755.ts
+#EXTINF:-1,TR : TR| SARAN SPORT HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/757.ts
+#EXTINF:-1,TR : TR| SARAN SPORT  HD 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/758.ts
+#EXTINF:-1,TR : TR| NBA HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/762.ts
+#EXTINF:-1,TR : TR| FOX SPORT HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/759.ts
+#EXTINF:-1,TR : TR| EURO SPORT 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/761.ts
+#EXTINF:-1,TR : TR| EURO SPORT 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/760.ts
+#EXTINF:-1,TR : TR| ASPORT HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/763.ts
+#EXTINF:-1,TR : TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/777.ts
+#EXTINF:-1,TR : TRT Spor 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/783.ts
+#EXTINF:-1,TR : TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/779.ts
+#EXTINF:-1,TR : TAY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/782.ts
+#EXTINF:-1,TR : FIGHT BOX.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/781.ts
+#EXTINF:-1,TR : FB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/780.ts
+#EXTINF:-1,TR : ATV SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/778.ts
+#EXTINF:-1,TR : YILDIZ EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/902.ts
+#EXTINF:-1,TR : YENI KOCAELI  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/901.ts
+#EXTINF:-1,TR : ULKE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/825.ts
+#EXTINF:-1,TR : TV8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/803.ts
+#EXTINF:-1,TR : TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/822.ts
+#EXTINF:-1,TR : TV KAYSERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/821.ts
+#EXTINF:-1,TR : TV DEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/823.ts
+#EXTINF:-1,TR : TV A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/820.ts
+#EXTINF:-1,TR : TV 8.5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/804.ts
+#EXTINF:-1,TR : TV 8 INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/819.ts
+#EXTINF:-1,TR : TV 41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/818.ts
+#EXTINF:-1,TR : TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/817.ts
+#EXTINF:-1,TR : TV 100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/816.ts
+#EXTINF:-1,TR : TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/815.ts
+#EXTINF:-1,TR : TURKIYEM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/814.ts
+#EXTINF:-1,TR : TR| TRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/796.ts
+#EXTINF:-1,TR : TRT MUZIK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/899.ts
+#EXTINF:-1,TR : TRT KURDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/898.ts
+#EXTINF:-1,TR : TRT 1 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/797.ts
+#EXTINF:-1,TR : TON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/897.ts
+#EXTINF:-1,TR : TMB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/896.ts
+#EXTINF:-1,TR : TGRT EU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/811.ts
+#EXTINF:-1,TR : TEVE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/806.ts
+#EXTINF:-1,TR : TEMPO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/813.ts
+#EXTINF:-1,TR : TELE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/812.ts
+#EXTINF:-1,TR : TEK RUMELI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/895.ts
+#EXTINF:-1,TR : STAR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/801.ts
+#EXTINF:-1,TR : SPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/894.ts
+#EXTINF:-1,TR : SHOW TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/799.ts
+#EXTINF:-1,TR : SEMERKAND TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/893.ts
+#EXTINF:-1,TR : SEMERKAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/892.ts
+#EXTINF:-1,TR : RUMELI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/891.ts
+#EXTINF:-1,TR : REHBER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/890.ts
+#EXTINF:-1,TR : POWERTURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/826.ts
+#EXTINF:-1,TR : POWER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/824.ts
+#EXTINF:-1,TR : PARK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/889.ts
+#EXTINF:-1,TR : PAMUKKALETV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/888.ts
+#EXTINF:-1,TR : ORDU ALTAS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/887.ts
+#EXTINF:-1,TR : ON6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/886.ts
+#EXTINF:-1,TR : ON4 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/885.ts
+#EXTINF:-1,TR : OLAY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/884.ts
+#EXTINF:-1,TR : NUMBER1 TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/828.ts
+#EXTINF:-1,TR : NUMBER 1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/827.ts
+#EXTINF:-1,TR : NR1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/883.ts
+#EXTINF:-1,TR : NR1 TURK TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/882.ts
+#EXTINF:-1,TR : MGC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/881.ts
+#EXTINF:-1,TR : MERCAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/880.ts
+#EXTINF:-1,TR : MELTEM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/879.ts
+#EXTINF:-1,TR : MEGA MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/878.ts
+#EXTINF:-1,TR : MEDINE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/877.ts
+#EXTINF:-1,TR : MAVI KARADENIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/876.ts
+#EXTINF:-1,TR : MAKSIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/875.ts
+#EXTINF:-1,TR : KUDUS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/874.ts
+#EXTINF:-1,TR : KRT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/873.ts
+#EXTINF:-1,TR : KOZA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/872.ts
+#EXTINF:-1,TR : KON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/871.ts
+#EXTINF:-1,TR : KENT TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/870.ts
+#EXTINF:-1,TR : KANAL V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/869.ts
+#EXTINF:-1,TR : KANAL URFA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/868.ts
+#EXTINF:-1,TR : KANAL FIRAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/867.ts
+#EXTINF:-1,TR : KANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/802.ts
+#EXTINF:-1,TR : KANAL B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/866.ts
+#EXTINF:-1,TR : KANAL AVRUPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/865.ts
+#EXTINF:-1,TR : KANAL ANTALYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/864.ts
+#EXTINF:-1,TR : KANAL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/805.ts
+#EXTINF:-1,TR : KANAL 68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/863.ts
+#EXTINF:-1,TR : KANAL 58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/862.ts
+#EXTINF:-1,TR : KANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/861.ts
+#EXTINF:-1,TR : KANAL 43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/860.ts
+#EXTINF:-1,TR : KANAL 42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/859.ts
+#EXTINF:-1,TR : KANAL 33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/858.ts
+#EXTINF:-1,TR : KANAL 32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/857.ts
+#EXTINF:-1,TR : KANAL 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/856.ts
+#EXTINF:-1,TR : KANAL 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/855.ts
+#EXTINF:-1,TR : KANAL 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/854.ts
+#EXTINF:-1,TR : KADIRGA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/853.ts
+#EXTINF:-1,TR : HRT AKDENIZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/852.ts
+#EXTINF:-1,TR : HILAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/851.ts
+#EXTINF:-1,TR : GUNEYDOGU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/846.ts
+#EXTINF:-1,TR : GALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/845.ts
+#EXTINF:-1,TR : FOX HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/798.ts
+#EXTINF:-1,TR : FM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/844.ts
+#EXTINF:-1,TR : EUROSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/810.ts
+#EXTINF:-1,TR : EURO D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/809.ts
+#EXTINF:-1,TR : ES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/850.ts
+#EXTINF:-1,TR : ER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/849.ts
+#EXTINF:-1,TR : EGETURK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/848.ts
+#EXTINF:-1,TR : DRT DENIZLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/847.ts
+#EXTINF:-1,TR : DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/842.ts
+#EXTINF:-1,TR : DREAM TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/843.ts
+#EXTINF:-1,TR : DOST TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/841.ts
+#EXTINF:-1,TR : DIYAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/840.ts
+#EXTINF:-1,TR : DEHA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/839.ts
+#EXTINF:-1,TR : CAY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/838.ts
+#EXTINF:-1,TR : BRTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/837.ts
+#EXTINF:-1,TR : BEYKENT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/836.ts
+#EXTINF:-1,TR : BEYAZ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/808.ts
+#EXTINF:-1,TR : BENGUTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/835.ts
+#EXTINF:-1,TR : ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/800.ts
+#EXTINF:-1,TR : AS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/834.ts
+#EXTINF:-1,TR : ANADOLU DERNEK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/833.ts
+#EXTINF:-1,TR : AKSU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/832.ts
+#EXTINF:-1,TR : AKIT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/831.ts
+#EXTINF:-1,TR : AKILLI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/830.ts
+#EXTINF:-1,TR : A2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/807.ts
+#EXTINF:-1,TR : A VUSLAT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/829.ts
+#EXTINF:-1,UK| BBC TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/792.ts
+#EXTINF:-1,UK| BBC ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/791.ts
+#EXTINF:-1,UK|     CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/794.ts
+#EXTINF:-1,UK|     BBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/793.ts
+#EXTINF:-1,UK|     BBC ALBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/795.ts
+#EXTINF:-1,UK|     ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/790.ts
+#EXTINF:-1,UK|     ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/789.ts
+#EXTINF:-1,UK|     ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/788.ts
+#EXTINF:-1,UK|     ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/787.ts
+#EXTINF:-1,UK|     U-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/784.ts
+#EXTINF:-1,UK|     STV NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/785.ts
+#EXTINF:-1,UK|     ITV BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/786.ts
+#EXTINF:-1,UK |  ZEE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/738.ts
+#EXTINF:-1,UK |  SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/685.ts
+#EXTINF:-1,UK |  SKY WITNESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/684.ts
+#EXTINF:-1,UK |  SKY TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/735.ts
+#EXTINF:-1,UK |  SKY SPORTS RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/689.ts
+#EXTINF:-1,UK |  SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/688.ts
+#EXTINF:-1,UK |  SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/683.ts
+#EXTINF:-1,UK |  SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/733.ts
+#EXTINF:-1,UK |  SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/732.ts
+#EXTINF:-1,UK |  SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/731.ts
+#EXTINF:-1,UK |  SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/682.ts
+#EXTINF:-1,UK |  SKY ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/681.ts
+#EXTINF:-1,UK |  SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/680.ts
+#EXTINF:-1,UK |  SKY CINEMA THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/679.ts
+#EXTINF:-1,UK |  SKY CINEMA SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/678.ts
+#EXTINF:-1,UK |  SKY CINEMA SCI-FI HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/677.ts
+#EXTINF:-1,UK |  Sky Cinema Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/736.ts
+#EXTINF:-1,UK |  SKY CINEMA PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/676.ts
+#EXTINF:-1,UK |  SKY CINEMA PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/687.ts
+#EXTINF:-1,UK |  SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/675.ts
+#EXTINF:-1,UK |  SKY CINEMA HEROES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/674.ts
+#EXTINF:-1,UK |  SKY CINEMA GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/673.ts
+#EXTINF:-1,UK |  SKY CINEMA FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/672.ts
+#EXTINF:-1,UK |  SKY CINEMA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/671.ts
+#EXTINF:-1,UK |  SKY CINEMA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/670.ts
+#EXTINF:-1,UK |  SKY CINEMA COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/669.ts
+#EXTINF:-1,UK |  SKY CINEMA ACTION MEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/686.ts
+#EXTINF:-1,UK |  SKY CINEMA ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/668.ts
+#EXTINF:-1,UK |  SKY ARTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/728.ts
+#EXTINF:-1,UK |  RTE TWO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/667.ts
+#EXTINF:-1,UK |  RTE TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/727.ts
+#EXTINF:-1,UK |  RTE ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/666.ts
+#EXTINF:-1,UK |  RTE ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/726.ts
+#EXTINF:-1,UK |  RTE NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/725.ts
+#EXTINF:-1,UK |  PREMIER SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/693.ts
+#EXTINF:-1,UK |  FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/721.ts
+#EXTINF:-1,UK |  FILM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/665.ts
+#EXTINF:-1,UK |  EUROSPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/692.ts
+#EXTINF:-1,UK |  EUROSPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/691.ts
+#EXTINF:-1,UK |  EIR SPORTS 2 ( NEW )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/720.ts
+#EXTINF:-1,UK |  EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/740.ts
+#EXTINF:-1,UK |  EDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/664.ts
+#EXTINF:-1,UK |  E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/663.ts
+#EXTINF:-1,UK |  DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/718.ts
+#EXTINF:-1,UK |  DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/717.ts
+#EXTINF:-1,UK |  CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/702.ts
+#EXTINF:-1,UK |  COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/701.ts
+#EXTINF:-1,UK |  COLORS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/700.ts
+#EXTINF:-1,UK |  CHANNEL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/698.ts
+#EXTINF:-1,UK |  CHANNEL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/697.ts
+#EXTINF:-1,UK |  BT SPORTS ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/662.ts
+#EXTINF:-1,UK |  BT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/661.ts
+#EXTINF:-1,UK |  BT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/660.ts
+#EXTINF:-1,UK |  BT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/659.ts
+#EXTINF:-1,UK |  BOXNATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/696.ts
+#EXTINF:-1,UK |  ALIBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/658.ts
+#EXTINF:-1,UK |  5Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/713.ts
+#EXTINF:-1,UK |  5 USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/712.ts
+#EXTINF:-1,UK |  5 SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/710.ts
+#EXTINF:-1,UK |  4Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/709.ts
+#EXTINF:-1,UK |  4 SEVEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/695.ts
+#EXTINF:-1,UK |   ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/694.ts
+#EXTINF:-1,UK SD: SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/730.ts
+#EXTINF:-1,XXL | XXX STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/972.ts
+#EXTINF:-1,XXL | XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/962.ts
+#EXTINF:-1,XXL | SCT BOY TO BOY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/965.ts
+#EXTINF:-1,XXL | SATISFACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/959.ts
+#EXTINF:-1,XXL | RUSSKAYA NOCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/966.ts
+#EXTINF:-1,XXL | REDLIGHT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/971.ts
+#EXTINF:-1,XXL | PINK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/963.ts
+#EXTINF:-1,XXL | PENTHAUSE2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/973.ts
+#EXTINF:-1,XXL | PASSION XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/961.ts
+#EXTINF:-1,XXL | HUSTLER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/960.ts
+#EXTINF:-1,XXL | HUSTLER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/970.ts
+#EXTINF:-1,XXL | EROXXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/969.ts
+#EXTINF:-1,XXL | EROX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/968.ts
+#EXTINF:-1,XXL | DUSK XXXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/967.ts
+#EXTINF:-1,XXL | DORCEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/974.ts
+#EXTINF:-1,XXL | DORCEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/964.ts
+#EXTINF:-1,BG | VIVACOM ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/1.ts
+#EXTINF:-1,BG | Viasat Nature East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/104.ts
+#EXTINF:-1,BG | Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/123.ts
+#EXTINF:-1,BG | Viasat Explore East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/124.ts
+#EXTINF:-1,BG | VH1 Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/126.ts
+#EXTINF:-1,BG | TV PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/105.ts
+#EXTINF:-1,BG | TV Evropa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/98.ts
+#EXTINF:-1,BG | TV 1000 Balkan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/122.ts
+#EXTINF:-1,BG | Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/133.ts
+#EXTINF:-1,BG | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/112.ts
+#EXTINF:-1,BG | TIANKOV ORIENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/5.ts
+#EXTINF:-1,BG | THE WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/37.ts
+#EXTINF:-1,BG | THE VOICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/16.ts
+#EXTINF:-1,BG | SUPER TENIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/49.ts
+#EXTINF:-1,BG | SPORTKLUB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/38.ts
+#EXTINF:-1,BG | SPORTKLUB 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/39.ts
+#EXTINF:-1,BG | SPORTKLUB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/40.ts
+#EXTINF:-1,BG | SPORT PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/41.ts
+#EXTINF:-1,BG | SPORT KLUP START
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/42.ts
+#EXTINF:-1,BG | SKAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/99.ts
+#EXTINF:-1,BG | ROMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/50.ts
+#EXTINF:-1,BG | Ring.bg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/94.ts
+#EXTINF:-1,BG | Ring.bg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/87.ts
+#EXTINF:-1,BG | PPV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/51.ts
+#EXTINF:-1,BG | PPV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/52.ts
+#EXTINF:-1,BG | PPV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/53.ts
+#EXTINF:-1,BG | PPV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/54.ts
+#EXTINF:-1,BG | PPV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/55.ts
+#EXTINF:-1,BG | PPV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/56.ts
+#EXTINF:-1,BG | Planeta TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/129.ts
+#EXTINF:-1,BG | Planeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/115.ts
+#EXTINF:-1,BG | PLANETA FOLK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/3.ts
+#EXTINF:-1,BG | Nova TV Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/132.ts
+#EXTINF:-1,BG | NOVA SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/77.ts
+#EXTINF:-1,BG | Nickelodeon Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/121.ts
+#EXTINF:-1,BG | National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/95.ts
+#EXTINF:-1,BG | Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/96.ts
+#EXTINF:-1,BG | MUSIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/74.ts
+#EXTINF:-1,BG | MTEL SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/78.ts
+#EXTINF:-1,BG | MTEL SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/79.ts
+#EXTINF:-1,BG | MOVIE STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/57.ts
+#EXTINF:-1,BG | MAX SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/48.ts
+#EXTINF:-1,BG | MAX SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/47.ts
+#EXTINF:-1,BG | MAGIC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/7.ts
+#EXTINF:-1,BG | KINO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/2.ts
+#EXTINF:-1,BG | KANAL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/8.ts
+#EXTINF:-1,BG | JimJam Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/117.ts
+#EXTINF:-1,BG | HOBBY LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/24.ts
+#EXTINF:-1,BG | HOBBY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/26.ts
+#EXTINF:-1,BG | Hit Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/92.ts
+#EXTINF:-1,BG | HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/9.ts
+#EXTINF:-1,BG | HBO3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/60.ts
+#EXTINF:-1,BG | HBO2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/10.ts
+#EXTINF:-1,BG | HBO Romania & Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/116.ts
+#EXTINF:-1,BG | HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/61.ts
+#EXTINF:-1,BG | HBO 2 COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/59.ts
+#EXTINF:-1,BG | FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/11.ts
+#EXTINF:-1,BG | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/12.ts
+#EXTINF:-1,BG | FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/13.ts
+#EXTINF:-1,BG | Fox Crime Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/86.ts
+#EXTINF:-1,BG | FISHING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/14.ts
+#EXTINF:-1,BG | FISHING HUNTING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/62.ts
+#EXTINF:-1,BG | FINE LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/15.ts
+#EXTINF:-1,BG | FILMBOX PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/63.ts
+#EXTINF:-1,BG | FilmBox Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/110.ts
+#EXTINF:-1,BG | FILMBOX EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/64.ts
+#EXTINF:-1,BG | FEN TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/17.ts
+#EXTINF:-1,BG | Fen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/128.ts
+#EXTINF:-1,BG | FASHION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/6.ts
+#EXTINF:-1,BG | F PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/18.ts
+#EXTINF:-1,BG | EVROKOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/66.ts
+#EXTINF:-1,BG | EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/19.ts
+#EXTINF:-1,BG | EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/20.ts
+#EXTINF:-1,BG | EPIC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/4.ts
+#EXTINF:-1,BG | Ekids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/114.ts
+#EXTINF:-1,BG | EDGE SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/67.ts
+#EXTINF:-1,BG | E KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/65.ts
+#EXTINF:-1,BG | DOCUBOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/68.ts
+#EXTINF:-1,BG | Disney Junior Romania & Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/119.ts
+#EXTINF:-1,BG | Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/120.ts
+#EXTINF:-1,BG | DISCOVERY ID EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/21.ts
+#EXTINF:-1,BG | DISCOVERY HD SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/69.ts
+#EXTINF:-1,BG | Discovery Channel Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/125.ts
+#EXTINF:-1,BG | Diema Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/118.ts
+#EXTINF:-1,BG | DIEMA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/43.ts
+#EXTINF:-1,BG | DIEMA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/45.ts
+#EXTINF:-1,BG | DIEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/107.ts
+#EXTINF:-1,BG | Diema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/130.ts
+#EXTINF:-1,BG | Diema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/131.ts
+#EXTINF:-1,BG | DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/106.ts
+#EXTINF:-1,BG | Da Vinci Learning
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/93.ts
+#EXTINF:-1,BG | Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/97.ts
+#EXTINF:-1,BG | COMEDY PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/73.ts
+#EXTINF:-1,BG | CITY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/22.ts
+#EXTINF:-1,BG | CINEMAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/23.ts
+#EXTINF:-1,BG | CINEMAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/70.ts
+#EXTINF:-1,BG | CINEMAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/25.ts
+#EXTINF:-1,BG | CINEMAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/71.ts
+#EXTINF:-1,BG | CINEMA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/72.ts
+#EXTINF:-1,BG | Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/111.ts
+#EXTINF:-1,BG | bTV Lady
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/89.ts
+#EXTINF:-1,BG | bTV Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/91.ts
+#EXTINF:-1,BG | bTV Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/90.ts
+#EXTINF:-1,BG | BTV ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/27.ts
+#EXTINF:-1,BG | bTV Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/88.ts
+#EXTINF:-1,BG | BTK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/109.ts
+#EXTINF:-1,BG | BOX TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/28.ts
+#EXTINF:-1,BG | BOX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/76.ts
+#EXTINF:-1,BG | BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/75.ts
+#EXTINF:-1,BG | BNT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/44.ts
+#EXTINF:-1,BG | BNT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/108.ts
+#EXTINF:-1,BG | BNT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/29.ts
+#EXTINF:-1,BG | BNT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/30.ts
+#EXTINF:-1,BG | BNT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/31.ts
+#EXTINF:-1,BG | BLOOMBERG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/32.ts
+#EXTINF:-1,BG | BLOOMBERG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/33.ts
+#EXTINF:-1,BG | Balkanika Music TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/127.ts
+#EXTINF:-1,BG | BALKANIKA MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/34.ts
+#EXTINF:-1,BG | Baby TV Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/100.ts
+#EXTINF:-1,BG | AXN BULGARIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/35.ts
+#EXTINF:-1,BG | AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/101.ts
+#EXTINF:-1,BG | ARENA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/46.ts
+#EXTINF:-1,BG | ARENA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/80.ts
+#EXTINF:-1,BG | ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/81.ts
+#EXTINF:-1,BG | ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/82.ts
+#EXTINF:-1,BG | ARENA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/83.ts
+#EXTINF:-1,BG | ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/36.ts
+#EXTINF:-1,BG | Animal Planet Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/102.ts
+#EXTINF:-1,BG | AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/113.ts
+#EXTINF:-1,BG | ACTION PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/58.ts
+#EXTINF:-1,BG | 360TuneBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/134.ts
+#EXTINF:-1,BG | 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/85.ts
+#EXTINF:-1,Ote: OTE | Village Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/944.ts
+#EXTINF:-1,Ote: OTE | Viasat Nature GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/916.ts
+#EXTINF:-1,Ote: OTE | Viasat History GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/904.ts
+#EXTINF:-1,Ote: OTE | Viasat Explore GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/915.ts
+#EXTINF:-1,Ote: OTE | Travel Channel HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/909.ts
+#EXTINF:-1,Ote: OTE | TCM Gr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/947.ts
+#EXTINF:-1,Ote: OTE | Sundance TV GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/921.ts
+#EXTINF:-1,Ote: OTE | Star HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/907.ts
+#EXTINF:-1,Ote: OTE | Smile TV GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/952.ts
+#EXTINF:-1,Ote: OTE | SKAI Tileorasi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/908.ts
+#EXTINF:-1,Ote: OTE | Outdoor HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/913.ts
+#EXTINF:-1,Ote: OTE | Open Beyond HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/903.ts
+#EXTINF:-1,Ote: OTE | Nickelodeon HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/954.ts
+#EXTINF:-1,Ote: OTE | Nautical Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/945.ts
+#EXTINF:-1,Ote: OTE | National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/948.ts
+#EXTINF:-1,Ote: OTE | Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/950.ts
+#EXTINF:-1,Ote: OTE | Mad TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/906.ts
+#EXTINF:-1,Ote: OTE | Mad Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/905.ts
+#EXTINF:-1,Ote: OTE | Luxe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/956.ts
+#EXTINF:-1,Ote: OTE | History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/946.ts
+#EXTINF:-1,Ote: OTE | GINX eSportsTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/955.ts
+#EXTINF:-1,Ote: OTE | Fox Sports HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/919.ts
+#EXTINF:-1,Ote: OTE | Fox Life Greece HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/942.ts
+#EXTINF:-1,Ote: OTE | Fox Greece HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/943.ts
+#EXTINF:-1,Ote: OTE | Food Network HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/918.ts
+#EXTINF:-1,Ote: OTE | Fine Living HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/912.ts
+#EXTINF:-1,Ote: OTE | EuroNews Greek
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/922.ts
+#EXTINF:-1,Ote: OTE | ERT3 GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/925.ts
+#EXTINF:-1,Ote: OTE | ERT2 GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/926.ts
+#EXTINF:-1,Ote: OTE | ERT1 GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/927.ts
+#EXTINF:-1,Ote: OTE | ERT HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/924.ts
+#EXTINF:-1,Ote: OTE | E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/949.ts
+#EXTINF:-1,Ote: OTE | Disney XD Hellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/951.ts
+#EXTINF:-1,Ote: OTE | Disney Channel GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/953.ts
+#EXTINF:-1,Ote: OTE | Crime   Investigation GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/914.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport Highlights HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/941.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/932.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/933.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/934.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/935.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/936.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/937.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/938.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/939.ts
+#EXTINF:-1,Ote: OTE | Cosmote Sport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/940.ts
+#EXTINF:-1,Ote: OTE | Cosmote Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/928.ts
+#EXTINF:-1,Ote: OTE | Cosmote Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/929.ts
+#EXTINF:-1,Ote: OTE | Cosmote Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/930.ts
+#EXTINF:-1,Ote: OTE | Cosmote Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/931.ts
+#EXTINF:-1,Ote: OTE | CMusic Gr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/910.ts
+#EXTINF:-1,Ote: OTE | CBS Reality GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/917.ts
+#EXTINF:-1,Ote: OTE | BBC Earth HD GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/920.ts
+#EXTINF:-1,Ote: OTE | ANT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/923.ts
+#EXTINF:-1,Ote: OTE | Alpha TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/911.ts
+#EXTINF:-1,Ote: GR | NOVA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/958.ts
+#EXTINF:-1,Ote: GR | NOVA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bg.rose35.com:1958/live/54321m/54321m/957.ts

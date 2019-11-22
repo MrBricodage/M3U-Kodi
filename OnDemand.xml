@@ -173,7 +173,7 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <fanart></fanart>
 </item>
 
-<!-- 
+
 <item>
 <title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 <link>$doregex[get_hanturl]</link>
@@ -183,7 +183,7 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <page>http://60fps.live/nfl-redzone/</page>
 </regex>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-</item> -->
+</item>
 
 <item>
 <title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans vs Jacksonville Jaguars[/B][/COLOR]</title>

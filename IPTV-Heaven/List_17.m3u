@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1,la2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.101.145.18:4000/la2
-#EXTINF:-1,DRT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://118.69.161.10:8134/liveevent.m3u8
-#EXTINF:-1,P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.148.16.31:8080/udp/224.0.90.172:1234
-#EXTINF:-1,RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://86.57.225.245:7015/play/a002
-#EXTINF:-1,5 RT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://86.57.225.245:7015/play/a002
+
+
+#EXTINF:-1,ON SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s213
+
+#EXTINF:-1,SPOR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a002/index.m3u8
+
+#EXTINF:-1,SPOR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a006/index.m3u8
+
+#EXTINF:-1,ukrfoot1_FOLLOW : twitter.com/dailyfreeiptv
+https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
+
+#EXTINF:-1,mfootball1
+https://sportbar.biz/lba/123/g6/mfootball1.m3u8
+
+#EXTINF:-1,tv1pt
+https://sportbar.biz/lba/123/g6/tv1pt.m3u8

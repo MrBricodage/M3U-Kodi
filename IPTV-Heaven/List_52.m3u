@@ -1,7 +1,467 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,CANAL+ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/29.ts
-#EXTINF:-1,CANAL+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/28.ts
-#EXTINF:-1,CANAL+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/27.ts
+#EXTM3U
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/1
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/2
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/3
+#EXTINF:-1,Az Corazon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/4
+#EXTINF:-1,Az Mundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/5
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/7
+#EXTINF:-1,Antena 3 Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/8
+#EXTINF:-1,BBC World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/10
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/11
+#EXTINF:-1,Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/13
+#EXTINF:-1,CNN Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/14
+#EXTINF:-1,CNN Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/15
+#EXTINF:-1,Cable Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/16
+#EXTINF:-1,Canal Claro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/17
+#EXTINF:-1,Canal de las estrellas Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/18
+#EXTINF:-1,Caracol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/19
+#EXTINF:-1,Caracol Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/20
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/21
+#EXTINF:-1,Cine Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/22
+#EXTINF:-1,Cine Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/23
+#EXTINF:-1,Cinema Dinamita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/24
+#EXTINF:-1,Cinema Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/25
+#EXTINF:-1,City TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/26
+#EXTINF:-1,Claro Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/27
+#EXTINF:-1,Claro Music 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/28
+#EXTINF:-1,Claro Music 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/29
+#EXTINF:-1,Claro Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/30
+#EXTINF:-1,Claro Sports Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/31
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/32
+#EXTINF:-1,Concert Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/33
+#EXTINF:-1,DHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/34
+#EXTINF:-1,DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/35
+#EXTINF:-1,DW America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/36
+#EXTINF:-1,De Pelicula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/37
+#EXTINF:-1,Dia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/38
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/39
+#EXTINF:-1,Discovery Home and Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/40
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/41
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/42
+#EXTINF:-1,Discovery Theater
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/43
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/44
+#EXTINF:-1,Discovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/45
+#EXTINF:-1,Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/46
+#EXTINF:-1,Disney JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/47
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/48
+#EXTINF:-1,E !
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/49
+#EXTINF:-1,El Gourmet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/50
+#EXTINF:-1,Mas Chic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/100
+#EXTINF:-1,MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/99
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/98
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/97
+#EXTINF:-1,Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/96
+#EXTINF:-1,I.Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/95
+#EXTINF:-1,Hola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/94
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/93
+#EXTINF:-1,History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/92
+#EXTINF:-1,HTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/91
+#EXTINF:-1,HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/90
+#EXTINF:-1,HBO plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/89
+#EXTINF:-1,HBO Subtitulado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/88
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/87
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/86
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/85
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/84
+#EXTINF:-1,Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/83
+#EXTINF:-1,Golden Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/82
+#EXTINF:-1,Golden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/81
+#EXTINF:-1,Glitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/80
+#EXTINF:-1,Fx Movie Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/79
+#EXTINF:-1,Fx Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/78
+#EXTINF:-1,France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/77
+#EXTINF:-1,Fox Sports 3 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/76
+#EXTINF:-1,Fox Sports 3 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/75
+#EXTINF:-1,Fox Sports 2 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/74
+#EXTINF:-1,Fox Sports 2 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/73
+#EXTINF:-1,Fox Sports 1 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/72
+#EXTINF:-1,Fox Sports 1 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/71
+#EXTINF:-1,Fox Premium Series Subtitulado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/70
+#EXTINF:-1,Fox Premium Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/69
+#EXTINF:-1,Fox News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/68
+#EXTINF:-1,Fox Premium Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/67
+#EXTINF:-1,Fox Life Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/66
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/65
+#EXTINF:-1,Fox Premium Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/64
+#EXTINF:-1,Fox Premium Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/63
+#EXTINF:-1,Fox Premium Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/62
+#EXTINF:-1,Fox Cinema Subtitulado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/61
+#EXTINF:-1,Fox Premium Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/60
+#EXTINF:-1,Fox Premium Action MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/59
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/57
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/56
+#EXTINF:-1,Euro Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/55
+#EXTINF:-1,Espn Plus Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/54
+#EXTINF:-1,Espn 3 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/53
+#EXTINF:-1,Espn 2 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/52
+#EXTINF:-1,Espn 1 Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/51
+#EXTINF:-1,Win Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/136
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/135
+#EXTINF:-1,Vh1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/134
+#EXTINF:-1,Vh1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/133
+#EXTINF:-1,Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/132
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/131
+#EXTINF:-1,Unicable
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/130
+#EXTINF:-1,Tru TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/129
+#EXTINF:-1,Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/128
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/127
+#EXTINF:-1,Telemundo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/126
+#EXTINF:-1,TNT Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/125
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/124
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/123
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/122
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/121
+#EXTINF:-1,Sundance Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/120
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/119
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/118
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/117
+#EXTINF:-1,RCN Telenovelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/116
+#EXTINF:-1,Pasiones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/115
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/114
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/113
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/112
+#EXTINF:-1,Nick 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/111
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/110
+#EXTINF:-1,Nat Geo Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/109
+#EXTINF:-1,Nat Geo Kids Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/108
+#EXTINF:-1,Nat Geo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/107
+#EXTINF:-1,National Geographic Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/106
+#EXTINF:-1,Multipremier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/105
+#EXTINF:-1,Mtv Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/104
+#EXTINF:-1,Max Up
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/103
+#EXTINF:-1,Max Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/102
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/101
+#EXTINF:-1,MX | Azteca 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/137
+#EXTINF:-1,MX | Azteca Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/138
+#EXTINF:-1,MX | ADN 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/139
+#EXTINF:-1,MX | Az Corazón
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/140
+#EXTINF:-1,MX | Az Mundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/141
+#EXTINF:-1,MX | Az Clic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/142
+#EXTINF:-1,MX | Az Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/143
+#EXTINF:-1,MX | A3 Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/144
+#EXTINF:-1,MX | Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/145
+#EXTINF:-1,MX | Aym Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/146
+#EXTINF:-1,MX | Foro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/150
+#EXTINF:-1,MX | Europa Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/151
+#EXTINF:-1,MX | Distrito Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/152
+#EXTINF:-1,MX | Multimedios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/153
+#EXTINF:-1,MX | Televisa MTY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/155
+#EXTINF:-1,MX | Garage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/156
+#EXTINF:-1,MX | Congreso de la Unión
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/157
+#EXTINF:-1,MX | Imagen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/158
+#EXTINF:-1,MX | Latin American Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/159
+#EXTINF:-1,MX | Teleritmo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/160
+#EXTINF:-1,MX | Milenio TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/161
+#EXTINF:-1,MX | Espn Sec Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/162
+#EXTINF:-1,MX | Espn U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/163
+#EXTINF:-1,MX | Espn Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/164
+#EXTINF:-1,MX | Espn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/165
+#EXTINF:-1,MX | Espn 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/166
+#EXTINF:-1,MX | Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/168
+#EXTINF:-1,MX | Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/169
+#EXTINF:-1,MX | Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/170
+#EXTINF:-1,MX | RT Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/171
+#EXTINF:-1,MX | Espn 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/167
+#EXTINF:-1,MX | RT en Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/172
+#EXTINF:-1,MX | Tl Novelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/173
+#EXTINF:-1,MX | A Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/174
+#EXTINF:-1,MX | Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/175
+#EXTINF:-1,MX | Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/176
+#EXTINF:-1,MX | Bandamax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/177
+#EXTINF:-1,MX | Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/178
+#EXTINF:-1,MX | Televisa Puebla
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/179
+#EXTINF:-1,MX | Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/180
+#EXTINF:-1,MX | Ingenio TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/181
+#EXTINF:-1,MX | Ritmoson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/182
+#EXTINF:-1,MX | Telehit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/183
+#EXTINF:-1,MX | TVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/184
+#EXTINF:-1,MX | TVC Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/185
+#EXTINF:-1,MX | Telefórmula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/186
+#EXTINF:-1,MX | Golden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/187
+#EXTINF:-1,MX | Golden Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/188
+#EXTINF:-1,Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/189
+#EXTINF:-1,Directv Sports Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/190
+#EXTINF:-1,Directv Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/191
+#EXTINF:-1,Directv Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/192
+#EXTINF:-1,Univision UDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/193
+#EXTINF:-1,Univision TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/194
+#EXTINF:-1,PE | TV Peru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/195
+#EXTINF:-1,PE | Peru Magico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/196
+#EXTINF:-1,PE | Panamericana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/197
+#EXTINF:-1,PE | Movistar Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/198
+#EXTINF:-1,PE | Gol Peru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/199
+#EXTINF:-1,PE | Frecuencia Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/200
+#EXTINF:-1,PE | America TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/202
+#EXTINF:-1,COL | Trece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/203
+#EXTINF:-1,PE | ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/201
+#EXTINF:-1,COL | RCN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/204
+#EXTINF:-1,COL | RCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/205
+#EXTINF:-1,COL | NTN24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/206
+#EXTINF:-1,COL | El Tiempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/207
+#EXTINF:-1,COL | Caracol 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/208
+#EXTINF:-1,COL | Caracol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/209
+#EXTINF:-1,COL | Cantinazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/210
+#EXTINF:-1,COL | Canal Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/211
+#EXTINF:-1,COL | Canal Capital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/212
+#EXTINF:-1,COL | Cable Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/214
+#EXTINF:-1,CL | Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/215
+#EXTINF:-1,CL | Chilevision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/216
+#EXTINF:-1,CL | CDO Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/217
+#EXTINF:-1,CL | CDO Basico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/218
+#EXTINF:-1,CL | CDF Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/219
+#EXTINF:-1,CL | CDF Basico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/220
+#EXTINF:-1,CL | CDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/221
+#EXTINF:-1,URU | VTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/222
+#EXTINF:-1,AR | TNT Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/225
+#EXTINF:-1,URU | VTV Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/223
+#EXTINF:-1,AR | TyC Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/224
+#EXTINF:-1,AR | Television Publica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/226
+#EXTINF:-1,AR | Telefe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/227
+#EXTINF:-1,AR | Fox Sports Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/228
+#EXTINF:-1,AR | Encuentro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/229
+#EXTINF:-1,AR | El trece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/230
+#EXTINF:-1,AR | El Nueve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/231
+#EXTINF:-1,AR | Cronica Television
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/232
+#EXTINF:-1,AR | CN23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/233
+#EXTINF:-1,AR | CINE.AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/234
+#EXTINF:-1,AR | Canal 26 Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/235
+#EXTINF:-1,AR | C5N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/236
+#EXTINF:-1,AR | America TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/237
+#EXTINF:-1,AR | A24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/238
+#EXTINF:-1,MX | Galatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/321
+#EXTINF:-1,MX | Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/322
+#EXTINF:-1,MX | Canal 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/323
+#EXTINF:-1,Fox Premium Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tucine.xyz:8080/ZapinTV/oPlOjKj7t5/324

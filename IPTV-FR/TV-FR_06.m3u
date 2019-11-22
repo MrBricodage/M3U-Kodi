@@ -1,195 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1" tvg-logo="https://media3.woopic.com/api/v1/images/201%2Fchannel%2F8f5%2Fd19%2Fb6d10fcb2f382f9c617b595444%2Fab1%7Cclair_5.png" group-title="FRENCH",FR: AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/8663
-#EXTINF:-1 tvg-id="" tvg-name="FR:  RDSIN" tvg-logo="https://i.ytimg.com/vi/yeWRIqhDNEU/maxresdefault.jpg" group-title="FRENCH",FR:  RDSIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31300
-#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="FR: LCN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/La_Canal_Nouvelles_2014.png/150px-La_Canal_Nouvelles_2014.png" group-title="FRENCH",FR: LCN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/21075
-#EXTINF:-1 tvg-id="CanalEvasion.ca" tvg-name="FR: EVASION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/150px-%C3%89vasion_logo.svg.png" group-title="FRENCH",FR: EVASION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/5012
-#EXTINF:-1 tvg-id="MAX.ca" tvg-name="FR: MAX < V MEDIA GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Max_TV_Canada.png" group-title="FRENCH",FR: MAX < V MEDIA GROUP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/21072
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pcreparation.fr/logo/Arte%20HD.png" group-title="FRENCH",FR: ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11632
-#EXTINF:-1 tvg-id="" tvg-name="FR: BX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VyJtr94mdk6SoMU.jpg" group-title="FRENCH",FR: BX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31296
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="https://www.stream4free.live/images/avatars/c8.png" group-title="FRENCH",FR: C8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11631
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/200px-BFM_TV_logo.png" group-title="FRENCH",FR: BFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11693
-#EXTINF:-1 tvg-id="RDS.ca" tvg-name="FR: RDS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/200px-RDS_logo.svg.png" group-title="FRENCH",FR: RDS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/21053
-#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="FR: RDS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a984.png" group-title="FRENCH",FR: RDS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/4992
-#EXTINF:-1 tvg-id="Rtcg.hr" tvg-name="FR: RTC LIEGE" tvg-logo="https://ds1.static.rtbf.be/article/image/370x208/a/4/f/c7da2202001ef3739c67954b4c9dbb31-1475823310.png" group-title="FRENCH",FR: RTC LIEGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31282
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="FR: RTL TVI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/RTL_TVI_HD.png/revision/latest?cb=20150314140612" group-title="FRENCH",FR: RTL TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31281
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS DEUX" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/RTS-deux.jpg" group-title="FRENCH",FR: RTS DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11653
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="https://www.gmkfreelogos.com/logos/S/img/Serieclub.gif" group-title="FRENCH",FR: SERIE CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11651
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIES HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0009/1836/brand.gif" group-title="FRENCH",FR: SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31280
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/220px-SYFY.svg.png" group-title="FRENCH",FR: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11667
-#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="FR: TELETOON" tvg-logo="https://seeklogo.com/images/T/teletoon-logo-459F3F0F57-seeklogo.com.gif" group-title="FRENCH",FR: TELETOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11650
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: TEVA" tvg-logo="https://media3.woopic.com/api/v1/images/201%2Fchannel%2F5e0%2Fb32%2F16f5150b55eed01bdb3e000d4b%2Fteva%7Cclair_191.png" group-title="FRENCH",FR: TEVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11649
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0f2avOMAbGJvEs2D94dtl3wZ7IFA-FD3neCSlWo8oA7MrFLnp" group-title="FRENCH",FR: TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31277
-#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="https://d3v4jsc54141g1.cloudfront.net/uploads/mentor/avatar/65859/normal_toutel_histoire.png" group-title="FRENCH",FR: TOUTE L HISTOIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11676
-#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FR: FOOT 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycZAwOdAKSNJ19KY61_QtJTpOVNFx5KehvHlrmCuLkQQAZxVD" group-title="FRENCH",FR: FOOT 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11674
-#EXTINF:-1 tvg-id="TVLimburg.be" tvg-name="FR: TV LUXEMBOURG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/T%C3%A9l%C3%A9_Luxembourg.jpg/revision/latest?cb=20130214115912" group-title="FRENCH",FR: TV LUXEMBOURG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31278
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: USHUAIA TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.frontviewproduction.com/frontview/kernel/wp-content/uploads/2016/08/Ushuaia-tv.jpeg" group-title="FRENCH",FR: USHUAIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11648
-#EXTINF:-1 tvg-id="Vier.be" tvg-name="FR: ANQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/VIER_logo.png/220px-VIER_logo.png" group-title="FRENCH",FR: ANQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31276
-#EXTINF:-1 tvg-id="VijfTV.be" tvg-name="FR: VIJF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/VIJF_logo.png" group-title="FRENCH",FR: VIJF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31275
-#EXTINF:-1 tvg-id="vitaya.be" tvg-name="FR: VITAYA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pbs.twimg.com/profile_images/721919556764053504/rpP8kSjN_200x200.jpg" group-title="FRENCH",FR: VITAYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31274
-#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="FR: VOYAGE" tvg-logo="https://media1.woopic.com/api/v1/images/201%2Fchannel%2F9eb%2Ff7e%2F2b5cc735b8fdca7989950e4009%2Fvoyage%7Cclair_212.png?format=200x200&facedetect=1&quality=85" group-title="FRENCH",FR: VOYAGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11647
-#EXTINF:-1 tvg-id="Vtm.be" tvg-name="FR: VTM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAYcng9xtF8hX2Jb7cmMHXblqvag0lBlncszJ8njApKoeQZKEbQ" group-title="FRENCH",FR: VTM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31267
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9" tvg-logo="https://media1.woopic.com/api/v1/images/201%2Fchannel%2Fc69%2Faf2%2F0e63040d1a8e4c79b458c88157%2Fw9%7Cclair_119.png" group-title="FRENCH",FR: W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11646
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="FR: WEO" tvg-logo="https://www.chyro.tv/images/references/Weo-Nord-Pas-de-Calais.png" group-title="FRENCH",FR: WEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11645
-#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-name="FR: CLUB RTL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCy1rAgGgKHLYuXo5GGF2TalA4-IubpWy1R2cWmwznQgpCL1H" group-title="FRENCH",FR: CLUB RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31291
-#EXTINF:-1 tvg-id="" tvg-name="FR: CLUBBING" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ad/Logosplash.png" group-title="FRENCH",FR: CLUBBING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11689
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR: E! ENTERTAINEMENT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/50px-E%21_Logo_2012.svg.png" group-title="FRENCH",FR: E! ENTERTAINEMENT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11668
-#EXTINF:-1 tvg-id="een.nl" tvg-name="FR: EEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/%C3%89%C3%A9n_logo_2015.png" group-title="FRENCH",FR: EEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31290
-#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.chevalmag.com/var/chevalmag/storage/images/actualites/divers/equidia-life-en-danger/5083671-1-fre-FR/Equidia-Life-en-danger_photo_a_la_une.png" group-title="FRENCH",FR: EQUIDIA LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11683
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: FRANCE24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.68.58/logo/france/france24_francais.png" group-title="FRENCH",FR: FRANCE24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11679
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI France" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBalP6CoEXgAzKjpDqJxONeRRnvaCvmeJbUew=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: LCI France
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88276
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: GULLI" tvg-logo="https://i.pinimg.com/originals/10/ef/21/10ef21abf141546b42b8332bacfba21f.png" group-title="FRENCH",FR: GULLI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11633
-#EXTINF:-1 tvg-id="HD1.fr" tvg-name="FR: HD1" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="FRENCH",FR: HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11677
-#EXTINF:-1 tvg-id="Ketnet.nl" tvg-name="FR: KETNET" tvg-logo="https://privacy.ketnet.be/themes/custom/ketnet/logo.svg" group-title="FRENCH",FR: KETNET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31288
-#EXTINF:-1 tvg-id="" tvg-name="FR: METEOMEDIA" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/9909/brand.gif" group-title="FRENCH",FR: METEOMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31287
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR: L'EQUIPE 21" tvg-logo="https://i0.wp.com/tv-plus.tv/wp-content/uploads/2018/12/Logo_097_Lequipe21_HD.png" group-title="FRENCH",FR: L'EQUIPE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11673
-#EXTINF:-1 tvg-id="LaDeux.be" tvg-name="FR: LA DEUX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/La_deux_HD.png" group-title="FRENCH",FR: LA DEUX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31286
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="FR: LA TROIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/La_trois_HD.png" group-title="FRENCH",FR: LA TROIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31285
-#EXTINF:-1 tvg-id="LaUne.be" tvg-name="FR: LA UNE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1730/brand.gif" group-title="FRENCH",FR: LA UNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11672
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR: LCP" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6870.1504134065.png" group-title="FRENCH",FR: LCP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11671
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bce.lu/wp-content/uploads/2016/06/LOGO-M6.png" group-title="FRENCH",FR: M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31307
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: NICKELODEON" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://images.fanpop.com/images/image_uploads/OSN-logo-old-school-nickelodeon-801791_200_200.jpg" group-title="FRENCH",FR: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11662
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12" tvg-logo="https://media.licdn.com/dms/image/C510BAQEecgr1KrfPwg/company-logo_200_200/0?e=2159024400&v=beta&t=MFMfJWNSziQ0QHqLrr2clQC3yQ4TK_1rPCfuwvtYs8Q" group-title="FRENCH",FR: NRJ 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11661
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="FR: MOI ET CIE" tvg-logo="https://media2.woopic.com/api/v1/images/201%2Fchannel%2Fa13%2F707%2Fde0aa31d99dea8a603acfdff95%2Focs-max%7Cclair_730.png?format=200x200&facedetect=1&quality=85" group-title="FRENCH",FR: MOI ET CIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11659
-#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="FR: PLANETE A&E" tvg-logo="https://cunninghamtelephoneandcable.com/wp-content/uploads/2016/07/ae.gif" group-title="FRENCH",FR: PLANETE A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/8648
-#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="FR: PLANETE CI" tvg-logo="https://media2.woopic.com/api/v1/images/201%2Fchannel%2F2ea%2F461%2F1f4296d3ff341beb75b0dcedc2%2Fplanete-ci%7Cclair_662.png?format=200x200&facedetect=1&quality=85" group-title="FRENCH",FR: PLANETE CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11684
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR: PLANETE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kbbpf.lescigales.org/Logos/PLANETE-PLUS.HD.png" group-title="FRENCH",FR: PLANETE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11654
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR: BFM BUSINESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BFM-Business_2010.png/200px-BFM-Business_2010.png" group-title="FRENCH",FR: BFM BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11666
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6 TER" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCmcz6DI1hv2KoS6n-nfDtlA1yLCtwEHyEktg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: 6 TER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11636
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="FR: TCM CINEMA" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAmpSWqfSpSq8zLqL8jmRsru-d_mDhDk0jTkg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: TCM CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11638
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: PARIS PREMIERE" tvg-logo="https://seeklogo.com/images/P/Paris_Premiere-logo-DAD3641538-seeklogo.com.gif" group-title="FRENCH",FR: PARIS PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/8651
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: PARAMOUNT CHANNEL" tvg-logo="https://www.vertelevisor.com/imagenes/paramount-channel.png" group-title="FRENCH",FR: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11655
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORVHjaesKIstbC_YPyYbnwxLahEEDN3Jw-dnToD2vQjNEzFVpvg" group-title="FRENCH",FR: CANAL SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11634
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR: CANAL DECALE HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL DECALE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/8660
-#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR: CANAL FAMILY" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11630
-#EXTINF:-1 tvg-id="ElleGirl.fr" tvg-name="FR: ORANGE CINE 1" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11685
-#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11652
-#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 3" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11658
-#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 4" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11656
-#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11657
-#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 6" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0006/5878/brand.gif" group-title="FRENCH",FR: ORANGE CINE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/8652
-#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="FR: BEIN MOVIES ACTION HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1211_1.png" group-title="FRENCH",FR: BEIN MOVIES ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31220
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="FR: BEIN MOVIES DRAMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1324_1.png" group-title="FRENCH",FR: BEIN MOVIES DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31219
-#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="FR: BEIN MOVIES FAMILY" tvg-logo="https://ulango.tv/uploads/channels/3782344/logo_bein%20movies%20family.png" group-title="FRENCH",FR: BEIN MOVIES FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31218
-#EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="FR: BEIN MOVIES PREMIERE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_G7NPk_dQWMp0_LYBSVAzqluRgUgdwDUsF06OV7kYW695IPqO" group-title="FRENCH",FR: BEIN MOVIES PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31217
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR: CINE CLUB HD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/285.png" group-title="FRENCH",FR: CINE CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11625
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE EMOTION" tvg-logo="https://media2.woopic.com/api/v1/images/201%2Fchannel%2F055%2F091%2Feeb301e5f896cd1f4c421743ba%2Fcine-emotion%7Cclair_283.png" group-title="FRENCH",FR: CINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11627
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FRISSON" tvg-logo="https://media1.woopic.com/api/v1/images/201%2Fchannel%2Fddf%2Fb36%2F41c62414b976ac9c7e70299c74%2Fcine-frisson%7Cclair_284.png" group-title="FRENCH",FR: CINE FRISSON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11628
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE PREMIER HD" tvg-logo="https://media3.woopic.com/api/v1/images/201%2Fchannel%2F396%2F03c%2Fd2d5250fc3dc1a153478509afb%2Fcine-premier%7Cclair_282.png" group-title="FRENCH",FR: CINE PREMIER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11626
-#EXTINF:-1 tvg-id="Cinema1.sa" tvg-name="FR: CINEMA 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.68.58/logo/france/canalplus_fr_cinema.png" group-title="FRENCH",FR: CINEMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31294
-#EXTINF:-1 tvg-id="Cinema2.sa" tvg-name="FR: CINEMA 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.68.58/logo/france/canalplus_fr_cinema.png" group-title="FRENCH",FR: CINEMA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31293
-#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/a850740dfb8c73a7b8d80f57ce61aab41544416563_large.jpg" group-title="FRENCH",FR: TCM CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31292
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FR: FRANCE 0" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBImRSxn5XIphVspA2v6YPih39hJQEzaml_2w=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: FRANCE 0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88275
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBImRSxn5XIphVspA2v6YPih39hJQEzaml_2w=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88274
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBImRSxn5XIphVspA2v6YPih39hJQEzaml_2w=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: FRANCE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88273
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBImRSxn5XIphVspA2v6YPih39hJQEzaml_2w=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: FRANCE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88272
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBImRSxn5XIphVspA2v6YPih39hJQEzaml_2w=s176-c-k-c0x00ffffff-no-rj-mo" group-title="FRENCH",FR: FRANCE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/88271
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11644
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11642
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 3" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11641
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11640
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11639
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31306
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/11637
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31305
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="FR: CANAL PLAY 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL PLAY 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31321
-#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="FR: CANAL PLAY 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL PLAY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31320
-#EXTINF:-1 tvg-id="Canal2.cr" tvg-name="FR: CANAL PLAY 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL PLAY 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31319
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="FR: CANAL PLAY 4" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL PLAY 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31318
-#EXTINF:-1 tvg-id="Canal32.fr" tvg-name="FR: CANAL PLAY 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/3019/brand.gif" group-title="FRENCH",FR: CANAL PLAY 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/giovanni/giovanni/31317
+#EXTINF:-1,CANAL VIE (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/59086
+#EXTINF:-1,CANAL D (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/9633
+#EXTINF:-1,CANAL V (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/9634
+#EXTINF:-1,MOI & CIE (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/60034
+#EXTINF:-1,CASA HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46738
+#EXTINF:-1,CINEPOP HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46739
+#EXTINF:-1,EVASION HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46740
+#EXTINF:-1,EXPLORA HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46741
+#EXTINF:-1,METEOMEDIA HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46742
+#EXTINF:-1,TELETOON HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46743
+#EXTINF:-1,DISNEY (CA) (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/64054
+#EXTINF:-1,TELEMAGINO (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/64056
+#EXTINF:-1,TF0 HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46744
+#EXTINF:-1,UNIS HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46745
+#EXTINF:-1,ZESTE HD (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/46746
+#EXTINF:-1,LCN (FR) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/9635
+#EXTINF:-1,TVA (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2395
+#EXTINF:-1,CANAL SAVOIR (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/15075
+#EXTINF:-1,ICI (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5919
+#EXTINF:-1,ICI MULTICULTURE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/15076
+#EXTINF:-1,RDS (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2404
+#EXTINF:-1,RDS 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2405
+#EXTINF:-1,TVA 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2406
+#EXTINF:-1,TVA 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2407
+#EXTINF:-1,RDI (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2396
+#EXTINF:-1,SRC (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2399
+#EXTINF:-1,CBC (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2402
+#EXTINF:-1,ARTV (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2403
+#EXTINF:-1,ADDIK (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2412
+#EXTINF:-1,SERIES  (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2409
+#EXTINF:-1,ZTELE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2411
+#EXTINF:-1,YOOPA (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2394
+#EXTINF:-1,VRAK (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2408
+#EXTINF:-1,TV5 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2417
+#EXTINF:-1,TV5 MONDE HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2420
+#EXTINF:-1,TELE QUEBEC (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2400
+#EXTINF:-1,SUPER ECRAN 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2414
+#EXTINF:-1,SUPER ECRAN 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2415
+#EXTINF:-1,SUPER ECRAN 3 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2416
+#EXTINF:-1,SUPER ECRAN 4 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/25196
+#EXTINF:-1,PRISE2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2413
+#EXTINF:-1,MUSIQUE  (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2401
+#EXTINF:-1,HISTORIA (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/2410
+#EXTINF:-1,CPAC (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/64052
+#EXTINF:-1,KTO (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/64053
+#EXTINF:-1,FRANCE 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5921
+#EXTINF:-1,FRANCE 5 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5922
+#EXTINF:-1,RTS 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5906
+#EXTINF:-1,6TER HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5910
+#EXTINF:-1,BEIN 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5918
+#EXTINF:-1,BEIN 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5917
+#EXTINF:-1,CANAL CINEMA HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/7141
+#EXTINF:-1,EQUIPE 21 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/7144
+#EXTINF:-1,CANAL  DECALE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5903
+#EXTINF:-1,PLANETE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5914
+#EXTINF:-1,CANAL HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5911
+#EXTINF:-1,FRANCE O (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/7143
+#EXTINF:-1,BFM (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5916
+#EXTINF:-1,W9 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5901
+#EXTINF:-1,INFO SPORTS  HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/7142
+#EXTINF:-1,RTL9 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/7145
+#EXTINF:-1,DISCOVERY SCIENCE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5915
+#EXTINF:-1,HD1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5912
+#EXTINF:-1,HISTOIRE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5907
+#EXTINF:-1,C8 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5902
+#EXTINF:-1,SCIENCE&VIE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5904
+#EXTINF:-1,TF1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/5920
+#EXTINF:-1,13 EME RUE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79914
+#EXTINF:-1,AB MOTEURS (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79892
+#EXTINF:-1,AB1 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79893
+#EXTINF:-1,ANIMAUX (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79894
+#EXTINF:-1,ARTE HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79922
+#EXTINF:-1,BET FRANCE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79900
+#EXTINF:-1,BFM BUSINESS (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79899
+#EXTINF:-1,BOOMERANG (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79918
+#EXTINF:-1,CANAL J (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79913
+#EXTINF:-1,CANAL PLAY 1 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79891
+#EXTINF:-1,CANAL PLAY 2 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79890
+#EXTINF:-1,CANAL PLAY 3 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79889
+#EXTINF:-1,CANAL PLAY 4 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79888
+#EXTINF:-1,CANAL PLAY 5 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79887
+#EXTINF:-1,CHERIE 25 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79895
+#EXTINF:-1,CINE CLASSIC (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79909
+#EXTINF:-1,CINE EMOTION (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79912
+#EXTINF:-1,CINE FAMIZ (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79911
+#EXTINF:-1,CINE FX (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79910
+#EXTINF:-1,CINE POLAR (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79908
+#EXTINF:-1,CINE PREMIER (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79907
+#EXTINF:-1,COMEDIE HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79906
+#EXTINF:-1,CSTAR HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79905
+#EXTINF:-1,DISCOVERY INVESTIGATION (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79901
+#EXTINF:-1,FRANCE 3 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79919
+#EXTINF:-1,GAME ONE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79897
+#EXTINF:-1,GULLI HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79896
+#EXTINF:-1,NAT GEO HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79916
+#EXTINF:-1,NAT GEO WILD HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79915
+#EXTINF:-1,NRJ 12 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79920
+#EXTINF:-1,NRJ HITS (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79921
+#EXTINF:-1,PIWI (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79904
+#EXTINF:-1,PLANETE CRIME INVESTIGATION (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79903
+#EXTINF:-1,USHUAIA TV (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/Vx4Cz6Zll4/Y7XzOjmfQi/79902

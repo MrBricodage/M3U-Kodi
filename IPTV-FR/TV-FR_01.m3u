@@ -1,1235 +1,1063 @@
 #EXTM3U
-#EXTINF:-1,|FR| W9 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9372.m3u8
-#EXTINF:-1,|FR| W9 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15111.m3u8
-#EXTINF:-1,|FR| W9 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9488.m3u8
-#EXTINF:-1,|FR| W9 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51173.m3u8
-#EXTINF:-1,|FR| TMC FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51167.m3u8
-#EXTINF:-1,|FR| TFX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50639.m3u8
-#EXTINF:-1,|FR| TFX HD |Backup|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50640.m3u8
-#EXTINF:-1,|FR| TFX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50641.m3u8
-#EXTINF:-1,|FR| TFX FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51168.m3u8
-#EXTINF:-1,|FR|  NRJ12 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9366.m3u8
-#EXTINF:-1,|FR| NRJ12 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15142.m3u8
-#EXTINF:-1,|FR| NRJ12 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9521.m3u8
-#EXTINF:-1,|FR| LCP FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51139.m3u8
-#EXTINF:-1,|FR| France 4  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9274.m3u8
-#EXTINF:-1,|FR| France 4 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15168.m3u8
-#EXTINF:-1,|FR| FRANCE 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9544.m3u8
-#EXTINF:-1,|FR| FRANCE 4 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51176.m3u8
-#EXTINF:-1,|FR| CNEWS FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51147.m3u8
-#EXTINF:-1,|FR| CSTAR HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15182.m3u8
-#EXTINF:-1,|FR| CSTAR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9561.m3u8
-#EXTINF:-1,|FR| CSTAR FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51151.m3u8
-#EXTINF:-1,|FR| France O  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9272.m3u8
-#EXTINF:-1,|FR| France O HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15165.m3u8
-#EXTINF:-1,|FR| FRANCE O FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9542.m3u8
-#EXTINF:-1,|FR| TF1 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15121.m3u8
-#EXTINF:-1,|FR| TF1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9210.m3u8
-#EXTINF:-1,|FR| TF1 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9211.m3u8
-#EXTINF:-1,|FR| TF1 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51179.m3u8
-#EXTINF:-1,|FR| France 2 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9277.m3u8
-#EXTINF:-1,|FR| France 2 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15226.m3u8
-#EXTINF:-1,|FR| FRANCE 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9546.m3u8
-#EXTINF:-1,|FR| FRANCE 2 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51178.m3u8
-#EXTINF:-1,|FR| France 3 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9276.m3u8
-#EXTINF:-1,|FR| France 3 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15169.m3u8
-#EXTINF:-1,|FR| FRANCE 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9545.m3u8
-#EXTINF:-1,|FR| FRANCE 3 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51177.m3u8
-#EXTINF:-1,|FR| CANAL  FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51165.m3u8
-#EXTINF:-1,|FR| France 5 HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9273.m3u8
-#EXTINF:-1,|FR| France 5 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15167.m3u8
-#EXTINF:-1,|FR| FRANCE 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9543.m3u8
-#EXTINF:-1,|FR| FRANCE 5 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51175.m3u8
-#EXTINF:-1,|FR| M6 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9260.m3u8
-#EXTINF:-1,|FR| M6 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15154.m3u8
-#EXTINF:-1,|FR| M6 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9531.m3u8
-#EXTINF:-1,|FR| M6 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51174.m3u8
-#EXTINF:-1,|FR| ARTE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9354.m3u8
-#EXTINF:-1,|FR| Arte HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15212.m3u8
-#EXTINF:-1,|FR| ARTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9590.m3u8
-#EXTINF:-1,|FR| C8 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9293.m3u8
-#EXTINF:-1,|FR| C8 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15232.m3u8
-#EXTINF:-1,|FR| C8 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9574.m3u8
-#EXTINF:-1,|FR| C8 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51171.m3u8
-#EXTINF:-1,|FR| TF1 SERIES FILMS FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51169.m3u8
-#EXTINF:-1,|FR| 6TER HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9364.m3u8
-#EXTINF:-1,|FR| 6ter HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15216.m3u8
-#EXTINF:-1,|FR| 6TER FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9595.m3u8
-#EXTINF:-1,|FR| 6TER FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51172.m3u8
-#EXTINF:-1,|FR| CHERIE 25 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9313.m3u8
-#EXTINF:-1,|FR| Cherie 25 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15188.m3u8
-#EXTINF:-1,|FR| CHERIE 25 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9572.m3u8
-#EXTINF:-1,|FR| CHERIE 25 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51148.m3u8
-#EXTINF:-1,|FR| TEVA HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49804.m3u8
-#EXTINF:-1,|FR| TEVA HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49805.m3u8
-#EXTINF:-1,|FR| Teva Full HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9212.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15137.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9238.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51129.m3u8
-#EXTINF:-1,|FR| RTL9 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9374.m3u8
-#EXTINF:-1,|FR| Rtl9 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15130.m3u8
-#EXTINF:-1,|FR| RTL9 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9507.m3u8
-#EXTINF:-1,|FR| TV BREIZH HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9206.m3u8
-#EXTINF:-1,|FR| TV BREIZH HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15116.m3u8
-#EXTINF:-1,|FR| TV BREIZH FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9491.m3u8
-#EXTINF:-1,|FR| TV BREIZH FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51119.m3u8
-#EXTINF:-1,|FR| Bet etoile HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30814.m3u8
-#EXTINF:-1,|FR| Bet Etoile FullHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30813.m3u8
-#EXTINF:-1,|FR| BET FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51153.m3u8
-#EXTINF:-1,|FR| AB1 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15233.m3u8
-#EXTINF:-1,|FR| AB1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9594.m3u8
-#EXTINF:-1,|FR| AB3 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9357.m3u8
-#EXTINF:-1,|FR| AB3 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15215.m3u8
-#EXTINF:-1,|FR| AB3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9593.m3u8
-#EXTINF:-1,|FR| SERIE CLUB HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9226.m3u8
-#EXTINF:-1,|FR| 13 EME RUE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9365.m3u8
-#EXTINF:-1,|FR| 13EME RUE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15217.m3u8
-#EXTINF:-1,|FR| 13EME RUE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9596.m3u8
-#EXTINF:-1,|FR| Syfy HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9214.m3u8
-#EXTINF:-1,|FR| Syfy HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15123.m3u8
-#EXTINF:-1,|FR| SYFY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9498.m3u8
-#EXTINF:-1,|FR| Syfy  FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9213.m3u8
-#EXTINF:-1,|FR| E! HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15175.m3u8
-#EXTINF:-1,|FR| E! Entertainment HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9285.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINMENT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9553.m3u8
-#EXTINF:-1,|FR| My Cuisine FullHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30818.m3u8
-#EXTINF:-1,|FR| MCM FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51112.m3u8
-#EXTINF:-1,|FR| COMEDIE Plus HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9297.m3u8
-#EXTINF:-1,|FR| COMEDIE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15183.m3u8
-#EXTINF:-1,|FR| COMEDIE  FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9563.m3u8
-#EXTINF:-1,|FR| CANAL  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32155.m3u8
-#EXTINF:-1,|FR| CANAL HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9324.m3u8
-#EXTINF:-1,|FR| CANAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9579.m3u8
-#EXTINF:-1,|FR| Canal Cinema HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9332.m3u8
-#EXTINF:-1,|FR| Canal cinema  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15195.m3u8
-#EXTINF:-1,|FR| CANAL CINEMA FULL HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9582.m3u8
-#EXTINF:-1,|FR| Canal Decale HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9331.m3u8
-#EXTINF:-1,|FR| CANAL DECALE  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15194.m3u8
-#EXTINF:-1,|FR| CANAL DECALE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9581.m3u8
-#EXTINF:-1,|FR| Canal Family HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9330.m3u8
-#EXTINF:-1,|FR| Canal family  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15193.m3u8
-#EXTINF:-1,|FR| CANAL  FAMILY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9580.m3u8
-#EXTINF:-1,|FR| Canal Series HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9328.m3u8
-#EXTINF:-1,|FR| CANAL SERIE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15192.m3u8
-#EXTINF:-1,|FR| CANAL  SERIES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9578.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40882.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13739.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13916.m3u8
+#EXTINF:-1,|FR| FRANCE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1007.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13738.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13915.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1008.m3u8
+#EXTINF:-1,|FR| FRANCE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13737.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13914.m3u8
+#EXTINF:-1,|FR| FRANCE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1009.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13736.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13913.m3u8
+#EXTINF:-1,|FR| FRANCE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1013.m3u8
+#EXTINF:-1,|FR| FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13735.m3u8
+#EXTINF:-1,|FR| FRANCE O SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1021.m3u8
+#EXTINF:-1,|FR| TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13847.m3u8
+#EXTINF:-1,|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13917.m3u8
+#EXTINF:-1,|FR| TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13817.m3u8
+#EXTINF:-1,|FR| M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/95
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/96
+#EXTINF:-1,|FR| M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/90.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13824.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13993.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1030.m3u8
+#EXTINF:-1,|FR| TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13696.m3u8
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13979.m3u8
+#EXTINF:-1,|FR| TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1014.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13693.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13975.m3u8
+#EXTINF:-1,|FR| TV BREIZH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1032.m3u8
+#EXTINF:-1,|FR| 6TER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13793.m3u8
+#EXTINF:-1,|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14046.m3u8
+#EXTINF:-1,|FR| 6TER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1024.m3u8
+#EXTINF:-1,|FR| ARTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13788.m3u8
+#EXTINF:-1,|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14043.m3u8
+#EXTINF:-1,|FR| ARTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/426.m3u8
+#EXTINF:-1,|FR|*****CINEMA FRANCE*****|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24927.m3u8
+#EXTINF:-1,|FR| CANAL + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14157.m3u8
+#EXTINF:-1,|FR| CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14167.m3u8
+#EXTINF:-1,|FR| CANAL + SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28345.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13768.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14035.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28346.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13767.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14033.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28348.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13769.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28942.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28347.m3u8
+#EXTINF:-1,|FR| OCS MAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13825.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13996.m3u8
+#EXTINF:-1,|FR| OCS MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38198.m3u8
+#EXTINF:-1,|FR| OCS GEANTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13833.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13846.m3u8
+#EXTINF:-1,|FR| OCS GEANT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38199.m3u8
+#EXTINF:-1,|FR| OCS CITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13827.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13994.m3u8
+#EXTINF:-1,|FR| OCS CITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38200.m3u8
+#EXTINF:-1,|FR| OCS CHOC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13834.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13995.m3u8
+#EXTINF:-1,|FR| OCS CHOC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38201.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13759.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14021.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28332.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13754.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14023.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28331.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13755.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13941.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28329.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13756.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14024.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28330.m3u8
+#EXTINF:-1,|FR| ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13790.m3u8
+#EXTINF:-1,|FR| ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14045.m3u8
+#EXTINF:-1,|FR| ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28334.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14025.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28328.m3u8
+#EXTINF:-1,|FR| CINE POLAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13752.m3u8
+#EXTINF:-1,|FR| CINE+ POLAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14027.m3u8
+#EXTINF:-1,|FR| CINE+ POLAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28335.m3u8
+#EXTINF:-1,|FR| WARNER TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13784.m3u8
+#EXTINF:-1,|FR| POLAR+  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13763.m3u8
+#EXTINF:-1,|FR| POLAR+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25041.m3u8
+#EXTINF:-1,|FR| TCM CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13697.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13980.m3u8
+#EXTINF:-1,|FR| TCM CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28337.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13758.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14026.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28327.m3u8
+#EXTINF:-1,|FR| CINE+ FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13753.m3u8
+#EXTINF:-1,|FR| CINE+ FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14022.m3u8
+#EXTINF:-1,|FR| CINE+ FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28336.m3u8
 #EXTINF:-1,|FR| ALTICE STUDIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40881.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO FHD bkp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40880.m3u8
-#EXTINF:-1,|FR| OCS CHOC HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9247.m3u8
-#EXTINF:-1,|FR| OCS CHOC HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15140.m3u8
-#EXTINF:-1,|FR| OCS CHOC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9518.m3u8
-#EXTINF:-1,|FR| OCS CITY HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9246.m3u8
-#EXTINF:-1,|FR| OCS CITY HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15223.m3u8
-#EXTINF:-1,|FR| OCS CITY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9517.m3u8
-#EXTINF:-1,|FR| OCS GEANT HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9245.m3u8
-#EXTINF:-1,|FR| OCS GEANTS HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15139.m3u8
-#EXTINF:-1,|FR| OCS GEANTS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9516.m3u8
-#EXTINF:-1,|FR| OCS MAX HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9244.m3u8
-#EXTINF:-1,|FR| OCS MAX HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15222.m3u8
-#EXTINF:-1,|FR| OCS MAX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9515.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9322.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9321.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9320.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9319.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9318.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9317.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9316.m3u8
-#EXTINF:-1,|FR| CINE CLASSIC HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9311.m3u8
-#EXTINF:-1,|FR| CINE CLASSIC HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15187.m3u8
-#EXTINF:-1,|FR| CINE  CLASSIC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9570.m3u8
-#EXTINF:-1,|FR| CINE CLUB FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9569.m3u8
-#EXTINF:-1,|FR| CINE EMOTION HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9309.m3u8
-#EXTINF:-1,|FR| CINE EMOTION HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15186.m3u8
-#EXTINF:-1,|FR| CINE  EMOTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9568.m3u8
-#EXTINF:-1,|FR| Cine Famiz HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9307.m3u8
-#EXTINF:-1,|FR| Cine Famiz HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9306.m3u8
-#EXTINF:-1,|FR| CINE  FAMIZ FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9567.m3u8
-#EXTINF:-1,|FR| CINE FRISSON HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9304.m3u8
-#EXTINF:-1,|FR| CINE FRISSON + HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15185.m3u8
-#EXTINF:-1,|FR| Cine Frisson FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9303.m3u8
-#EXTINF:-1,|FR| CINE  FRISSON FULL HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9566.m3u8
-#EXTINF:-1,|FR| CINE FX HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9302.m3u8
-#EXTINF:-1,|FR| CINE FX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9565.m3u8
-#EXTINF:-1,|FR| CINE POLAR HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9301.m3u8
-#EXTINF:-1,|FR| CINE POLAR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9564.m3u8
-#EXTINF:-1,|FR| CINE PREMIER HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9300.m3u8
-#EXTINF:-1,|FR| cine premier HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15230.m3u8
-#EXTINF:-1,|FR| CINE   PREMIER FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9571.m3u8
-#EXTINF:-1,|FR| CINE PREMIER FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9299.m3u8
-#EXTINF:-1,|FR| ACTION HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9356.m3u8
-#EXTINF:-1,|FR| ACTION HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15214.m3u8
-#EXTINF:-1,|FR| ACTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9592.m3u8
-#EXTINF:-1,|FR| TMC HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9194.m3u8
-#EXTINF:-1,|FR| tmc HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15119.m3u8
-#EXTINF:-1,|FR| TMC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9494.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9240.m3u8
-#EXTINF:-1,|FR| Paramount Channel HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15138.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9514.m3u8
-#EXTINF:-1,|FR| TCM CINEMA HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9195.m3u8
-#EXTINF:-1,|FR| TCM Cinema Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9497.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15242.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15241.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15240.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28413.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13713.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13911.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28340.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13829.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28339.m3u8
+#EXTINF:-1,|FR| CANALPLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13970.m3u8
+#EXTINF:-1,|FR| CANALPLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13962.m3u8
+#EXTINF:-1,|FR| CANALPLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13961.m3u8
+#EXTINF:-1,|FR| CANALPLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13960.m3u8
+#EXTINF:-1,|FR| CANALPLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13959.m3u8
+#EXTINF:-1,|FR| CANALPLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13958.m3u8
+#EXTINF:-1,|FR| CANALPLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13957.m3u8
+#EXTINF:-1,|FR| CANALPLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13956.m3u8
+#EXTINF:-1,|FR| CANALPLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13955.m3u8
+#EXTINF:-1,|FR| CANALPLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13969.m3u8
+#EXTINF:-1,|FR| CANALPLAY 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13968.m3u8
+#EXTINF:-1,|FR| CANALPLAY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13967.m3u8
+#EXTINF:-1,|FR| CANALPLAY 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13966.m3u8
+#EXTINF:-1,|FR| CANALPLAY 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13965.m3u8
+#EXTINF:-1,|FR| CANALPLAY 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13964.m3u8
+#EXTINF:-1,|FR| CANALPLAY 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13963.m3u8
+#EXTINF:-1,|FR|***ORANGE***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24928.m3u8
+#EXTINF:-1,|FR| ORANGE CINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13926.m3u8
 #EXTINF:-1,|FR| ORANGE CINE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15247.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 2 +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15246.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13925.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13924.m3u8
 #EXTINF:-1,|FR| ORANGE CINE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15245.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13923.m3u8
 #EXTINF:-1,|FR| ORANGE CINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15244.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13922.m3u8
 #EXTINF:-1,|FR| ORANGE CINE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15243.m3u8
-#EXTINF:-1,|FR| ORANGE CINE Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15239.m3u8
-#EXTINF:-1,|FR| ORANGE CINE Aventure
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15238.m3u8
-#EXTINF:-1,|FR| ORANGE CINE Aventure HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15237.m3u8
-#EXTINF:-1,|FR| Orange Cine horreur HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9242.m3u8
-#EXTINF:-1,|FR| ORANGE COMMENT C'EST FAIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15236.m3u8
-#EXTINF:-1,|FR| ORANGE Documentaire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15235.m3u8
-#EXTINF:-1,|FR| ORANGE ENQUETE EXCLUSIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15234.m3u8
-#EXTINF:-1,|FR| Orange enquete exclusive HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9241.m3u8
-#EXTINF:-1,|FR| A LA CARTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9201.m3u8
-#EXTINF:-1,|FR| A LA CARTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9200.m3u8
-#EXTINF:-1,|FR| A LA CARTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9199.m3u8
-#EXTINF:-1,|FR| A LA CARTE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9203.m3u8
-#EXTINF:-1,|FR| A LA CARTE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9202.m3u8
-#EXTINF:-1,|FR| A LA CARTE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9362.m3u8
-#EXTINF:-1,|FR| A LA CARTE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9361.m3u8
-#EXTINF:-1,|FR| A LA CARTE 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9360.m3u8
-#EXTINF:-1,|FR| A LA CARTE 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9363.m3u8
-#EXTINF:-1,|FR| CANAL SPORT  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39203.m3u8
-#EXTINF:-1,|FR| CANAL SPORT HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15191.m3u8
-#EXTINF:-1,|FR| CANAL SPORT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9326.m3u8
-#EXTINF:-1,|FR| CANAL  SPORT FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51166.m3u8
-#EXTINF:-1,|FR| BeIN Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15204.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9340.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 HD (BACKUP)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9345.m3u8
-#EXTINF:-1,|FR| BEINSPORT 1 FR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9589.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51102.m3u8
-#EXTINF:-1,|FR| BeIN Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15203.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9339.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2 HD (BACKUP)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9344.m3u8
-#EXTINF:-1,|FR| BEINSPORT 2 FR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9588.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51101.m3u8
-#EXTINF:-1,|FR| BeIN Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15202.m3u8
-#EXTINF:-1,|FR|  BEIN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9341.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9343.m3u8
-#EXTINF:-1,|FR| BEINSPORT 3 FR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9587.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51100.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15210.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15209.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15208.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15207.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15206.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15205.m3u8
-#EXTINF:-1,|FR| BeIN Sports MAX 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15211.m3u8
-#EXTINF:-1,|FR| RMC Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15127.m3u8
-#EXTINF:-1,|FR| RMC Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9218.m3u8
-#EXTINF:-1,|FR| RMC Sport 1 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9502.m3u8
-#EXTINF:-1,|FR| RMC Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15126.m3u8
-#EXTINF:-1,|FR| RMC Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9217.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9501.m3u8
-#EXTINF:-1,|FR| RMC Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15125.m3u8
-#EXTINF:-1,|FR| RMC Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9216.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9500.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15124.m3u8
-#EXTINF:-1,|FR| RMC Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9215.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9499.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40480.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40479.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40478.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40477.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40476.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13921.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13920.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13919.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13918.m3u8
+#EXTINF:-1,|FR| ALACARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13949.m3u8
+#EXTINF:-1,|FR| ALACARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13947.m3u8
+#EXTINF:-1,|FR| ALACARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13946.m3u8
+#EXTINF:-1,|FR| ALACARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13945.m3u8
+#EXTINF:-1,|FR| ALACARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13954.m3u8
+#EXTINF:-1,|FR| ALACARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13953.m3u8
+#EXTINF:-1,|FR| ALACARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13952.m3u8
+#EXTINF:-1,|FR| ALACARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13951.m3u8
+#EXTINF:-1,|FR| ALACARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13950.m3u8
+#EXTINF:-1,|FR| ALACARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13948.m3u8
+#EXTINF:-1,|FR|***SPORT***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24929.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35031.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32713.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32718.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39589.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37931.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32714.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32719.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39588.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37930.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32715.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32720.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39587.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37929.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32716.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32721.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37942.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32717.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37941.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37940.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37939.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37938.m3u8
 #EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40475.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40474.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37937.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37936.m3u8
 #EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40473.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40472.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37935.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37934.m3u8
 #EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40471.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37933.m3u8
 #EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40470.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37932.m3u8
 #EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40469.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40484.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40483.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40482.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40481.m3u8
-#EXTINF:-1,|FR| BFM SPORT  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9337.m3u8
-#EXTINF:-1,|FR| Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15172.m3u8
-#EXTINF:-1,|FR| EUROSPORT1 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9281.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9549.m3u8
-#EXTINF:-1,|FR| EUROSPORT FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51105.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9279.m3u8
-#EXTINF:-1,|FR| Eurosport 2  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9280.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9548.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51106.m3u8
-#EXTINF:-1,|FR| EXTREME SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15227.m3u8
-#EXTINF:-1,|FR| INFOSPORT HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9265.m3u8
-#EXTINF:-1,|FR| INFOSPORT HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15156.m3u8
-#EXTINF:-1,|FR| INFOSPORT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9534.m3u8
-#EXTINF:-1,|FR| MOTORSPORT TV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15147.m3u8
-#EXTINF:-1,|FR| MOTORSPORT.TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9526.m3u8
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9264.m3u8
-#EXTINF:-1,|FR| L EQUIPE 21 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15155.m3u8
-#EXTINF:-1,|FR| L'EQUIPE 21 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9533.m3u8
-#EXTINF:-1,|FR| OLTV HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9243.m3u8
-#EXTINF:-1,|FR| OMTV HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30599.m3u8
-#EXTINF:-1,|FR| AB Moteur HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9359.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIFE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15228.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIFE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9551.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9282.m3u8
-#EXTINF:-1,|FR| Equidia Live HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15173.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9550.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51140.m3u8
-#EXTINF:-1,|FR| GOLF  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9270.m3u8
-#EXTINF:-1,|FR| GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15161.m3u8
-#EXTINF:-1,|FR| GOLF  FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9540.m3u8
-#EXTINF:-1,|FR| GOLF  CHANNEL HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9378.m3u8
-#EXTINF:-1,|FR| GOLF CHANNEL HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15162.m3u8
-#EXTINF:-1,|FR| GOLF CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9539.m3u8
-#EXTINF:-1,|FR| GOLF CHANNEL FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51103.m3u8
-#EXTINF:-1,|FR | Foot+ 24/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32819.m3u8
-#EXTINF:-1,|FR| FOOT  24/24 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51104.m3u8
-#EXTINF:-1,|FR| Golf+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/43446.m3u8
-#EXTINF:-1,|FR| Golf+ HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/43445.m3u8
-#EXTINF:-1,|FR| GOLF  FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51107.m3u8
-#EXTINF:-1,|FR| EURONEWS HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9376.m3u8
-#EXTINF:-1,|FR| FRANCE 24 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9197.m3u8
-#EXTINF:-1,|FR| France24 HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15164.m3u8
-#EXTINF:-1,|FR| I24 NEWS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9535.m3u8
-#EXTINF:-1,|FR| BFM TV HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9336.m3u8
-#EXTINF:-1,|FR| bfm HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15201.m3u8
-#EXTINF:-1,|FR| BFM TV FULL HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9585.m3u8
-#EXTINF:-1,|FR| BFM BUSINESS HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9338.m3u8
-#EXTINF:-1,|FR| BFM Business HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15200.m3u8
-#EXTINF:-1,|FR| BFM BUSINESS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9586.m3u8
-#EXTINF:-1,|FR| LCI HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9261.m3u8
-#EXTINF:-1,|FR| LCI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9532.m3u8
-#EXTINF:-1,|FR| France INFO HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15166.m3u8
-#EXTINF:-1,|FR| C News HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15197.m3u8
-#EXTINF:-1,|FR| CANAL NEWS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9575.m3u8
-#EXTINF:-1,|FR| TV5 MONDE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9192.m3u8
-#EXTINF:-1,|FR| FRANCE INFO HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/43444.m3u8
-#EXTINF:-1,|FR| LCP ASSEMBLEE NATIONALE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/47688.m3u8
-#EXTINF:-1,|FR| PLANETE  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9236.m3u8
-#EXTINF:-1,|FR| PLANETE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15135.m3u8
-#EXTINF:-1,|FR| PLANETE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9512.m3u8
-#EXTINF:-1,|FR| PLANETE A&E HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9235.m3u8
-#EXTINF:-1,|FR| PLANETE A&E HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15134.m3u8
-#EXTINF:-1,|FR| PLANETE AE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9511.m3u8
-#EXTINF:-1,|FR| PLANETE CI HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9234.m3u8
-#EXTINF:-1,|FR| Planete ci HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15133.m3u8
-#EXTINF:-1,|FR| PLANETE CI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9510.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9559.m3u8
-#EXTINF:-1,|FR| DISCOVERY HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9292.m3u8
-#EXTINF:-1,|FR| DISCOVERY HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15180.m3u8
-#EXTINF:-1,|FR| DISCOVERY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9560.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30662.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9291.m3u8
-#EXTINF:-1,|FR| Discovery Science HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15179.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FULL HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9558.m3u8
-#EXTINF:-1,|FR|  NATIONAL GEOGRAPHIC HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9368.m3u8
-#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15144.m3u8
-#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9523.m3u8
-#EXTINF:-1,|FR|  Nat Geo Wild  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9367.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15145.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9524.m3u8
-#EXTINF:-1,|FR| SCIENCES ET VIE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9228.m3u8
-#EXTINF:-1,|FR| Science et Vie  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15129.m3u8
-#EXTINF:-1,|FR| SCIENCES & VIE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9504.m3u8
-#EXTINF:-1,|FR| ANIMAUX HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9355.m3u8
-#EXTINF:-1,|FR| Animaux HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15213.m3u8
-#EXTINF:-1,|FR| ANIMAUX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9591.m3u8
-#EXTINF:-1,|FR| USHUAIA  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9205.m3u8
-#EXTINF:-1,|FR| USHUAIA TV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15115.m3u8
-#EXTINF:-1,|FR| USHUAIA TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9490.m3u8
-#EXTINF:-1,|FR| RMC Decouverte  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15131.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9233.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9508.m3u8
-#EXTINF:-1,|FR| VOYAGE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9191.m3u8
-#EXTINF:-1,|FR| VOYAGE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15112.m3u8
-#EXTINF:-1,|FR| VOYAGE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9489.m3u8
-#EXTINF:-1,|FR| TREK HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9193.m3u8
-#EXTINF:-1,|FR| TREK HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15117.m3u8
-#EXTINF:-1,|FR| TREK FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9492.m3u8
-#EXTINF:-1,|FR| Chasse et Peche HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15189.m3u8
-#EXTINF:-1,|FR| Chasse et Peche HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9314.m3u8
-#EXTINF:-1,|FR| Seasons HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9227.m3u8
-#EXTINF:-1,|FR| SEASON HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15128.m3u8
-#EXTINF:-1,|FR| SEASON FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9503.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9296.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9562.m3u8
-#EXTINF:-1,|FR| HISTOIRE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15158.m3u8
-#EXTINF:-1,|FR| HISTOIRE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9536.m3u8
-#EXTINF:-1,|FR| toute l'histoire HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15118.m3u8
-#EXTINF:-1,|FR| TOUTE L HISTOIRE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9208.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9290.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15178.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9557.m3u8
-#EXTINF:-1,|FR|  DISNEY JUNIOR HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9369.m3u8
-#EXTINF:-1,|FR| Disney Junior + HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15177.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9287.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9555.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9288.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35340.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14160.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28941.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/92.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14159.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28943.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/93.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14158.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14163.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/94.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/95.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39882.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1089.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1113.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1468.m3u8
+#EXTINF:-1,|FR| BEINSPORT MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1469.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1470.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT F.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14156.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14161.m3u8
+#EXTINF:-1,|FR| SPORT 365 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25040.m3u8
+#EXTINF:-1,|FR| FOOT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13937.m3u8
+#EXTINF:-1,|FR| FOOT+24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/425.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13936.m3u8
+#EXTINF:-1,|FR| ONZEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13786.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13807.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13802.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13806.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13805.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13804.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13803.m3u8
+#EXTINF:-1,|FR| NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/46216.m3u8
+#EXTINF:-1,|FR| TRACE SPORT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13797.m3u8
+#EXTINF:-1,|FR| BFM SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13843.m3u8
+#EXTINF:-1,|FR| BFM SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13943.m3u8
+#EXTINF:-1,|FR| BFM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13839.m3u8
+#EXTINF:-1,|FR| INFOSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13729.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/93
+#EXTINF:-1,|FR| EQUIPE 21 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1023.m3u8
+#EXTINF:-1,|FR| OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13842.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13740.m3u8
+#EXTINF:-1,|FR| MUSCULATION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13801.m3u8
+#EXTINF:-1,|FR| AUTOMOTO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1035.m3u8
+#EXTINF:-1,|FR| MOTORSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13782.m3u8
+#EXTINF:-1,|FR| MOTORSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13722.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13742.m3u8
+#EXTINF:-1,|FR| EUROSPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14011.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13741.m3u8
+#EXTINF:-1,|FR| EUROSPORT2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14010.m3u8
+#EXTINF:-1,|FR| l'equipe 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13743.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14012.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13744.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14013.m3u8
+#EXTINF:-1,|FR| FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/89.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1036.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/85.m3u8
+#EXTINF:-1,|FR| LUCKY JACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/42548.m3u8
+#EXTINF:-1,|FR|***SPORT GOLF***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24930.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13734.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13689.m3u8
+#EXTINF:-1,|FR| GOLF CHANNELS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13977.m3u8
+#EXTINF:-1,|FR|***DIVERTISSEMENT***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24931.m3u8
+#EXTINF:-1,|FR| SERIE CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13830.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13986.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13766.m3u8
+#EXTINF:-1,|FR| CANAL + SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28944.m3u8
+#EXTINF:-1,|FR| 13EME RUE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13794.m3u8
+#EXTINF:-1,|FR| 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14048.m3u8
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13981.m3u8
+#EXTINF:-1,|FR| SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13698.m3u8
+#EXTINF:-1,|FR| SUNDANCE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13733.m3u8
+#EXTINF:-1,|FR| SUNDANCE CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28338.m3u8
+#EXTINF:-1,|FR| TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35331.m3u8
+#EXTINF:-1,|FR| TEVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25039.m3u8
+#EXTINF:-1,|FR| TEVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1031.m3u8
+#EXTINF:-1,|FR| COMEDIE+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13751.m3u8
+#EXTINF:-1,|FR| COMEDIE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14019.m3u8
+#EXTINF:-1,|FR| MY CUISINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13781.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13746.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINEMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14015.m3u8
+#EXTINF:-1,|FR| NO STOP PEOPLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13780.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13928.m3u8
+#EXTINF:-1,|FR| VIVOLTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25044.m3u8
+#EXTINF:-1,|FR| IL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13934.m3u8
+#EXTINF:-1,|FR| NRJ12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13717.m3u8
+#EXTINF:-1,|FR| NRJ12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14047.m3u8
+#EXTINF:-1,|FR| NRJ12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1019.m3u8
+#EXTINF:-1,|FR| ELLE GIRL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13745.m3u8
+#EXTINF:-1,|FR| ELLE GIRL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14014.m3u8
+#EXTINF:-1,|FR| BET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13841.m3u8
+#EXTINF:-1,|FR| VICELAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13772.m3u8
+#EXTINF:-1,|FR| TV 5 MONDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25042.m3u8
+#EXTINF:-1,|FR| TV 5 monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1033.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13760.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14028.m3u8
+#EXTINF:-1,|FR| CHERIE 25 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1027.m3u8
+#EXTINF:-1,|FR| TF1 +1 fhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13732.m3u8
+#EXTINF:-1,|FR| TF1 SÉRIES FILMS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1022.m3u8
+#EXTINF:-1,|FR| C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13823.m3u8
+#EXTINF:-1,|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14036.m3u8
+#EXTINF:-1,|FR| C8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/188.m3u8
+#EXTINF:-1,|FR| CSTAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13749.m3u8
+#EXTINF:-1,|FR| DIRECT8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1091.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13940.m3u8
+#EXTINF:-1,|FR| AZUR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25043.m3u8
+#EXTINF:-1,|FR| WEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13795.m3u8
+#EXTINF:-1,|FR| WEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25045.m3u8
+#EXTINF:-1,|FR| TV8 MONT BLANC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13796.m3u8
+#EXTINF:-1,|FR| RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13707.m3u8
+#EXTINF:-1,|FR| RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13989.m3u8
+#EXTINF:-1,|FR| RTL9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1029.m3u8
+#EXTINF:-1,|FR| A+  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13695.m3u8
+#EXTINF:-1,|FR| RMC STORY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13715.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13997.m3u8
+#EXTINF:-1,|FR| RMC STORY   SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1025.m3u8
+#EXTINF:-1,|FR| TFX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13716.m3u8
+#EXTINF:-1,|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13998.m3u8
+#EXTINF:-1,|FR| TFX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1015.m3u8
+#EXTINF:-1,|FR| W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13690.m3u8
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13973.m3u8
+#EXTINF:-1,|FR| W9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/421.m3u8
+#EXTINF:-1,|FR| OFIVE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1038.m3u8
+#EXTINF:-1,|FR| LUXE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1054.m3u8
+#EXTINF:-1,|FR| GUYSEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1063.m3u8
+#EXTINF:-1,|FR| ALSACE 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25048.m3u8
+#EXTINF:-1,|FR| VOSGES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1102.m3u8
+#EXTINF:-1,|FR| M6 BOUTIQUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1097.m3u8
+#EXTINF:-1,|FR| FASHIONTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1064.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13861.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24948.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1040.m3u8
+#EXTINF:-1,|FR| DISNEY CHA +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13849.m3u8
+#EXTINF:-1,|FR| DISNEY CHA+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1041.m3u8
+#EXTINF:-1,|FR| DISNEY XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13862.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24942.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13863.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24934.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13860.m3u8
 #EXTINF:-1,|FR| DISNEY CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15229.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9556.m3u8
-#EXTINF:-1,|FR| DISNEY XD HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9286.m3u8
-#EXTINF:-1,|FR| DISNEY XD HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15176.m3u8
-#EXTINF:-1,|FR| DISNEY XD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9554.m3u8
-#EXTINF:-1,|FR| NICKELODEON HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9251.m3u8
-#EXTINF:-1,|FR| NICKELODEON HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15143.m3u8
-#EXTINF:-1,|FR| NICKELODEON FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9522.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9250.m3u8
-#EXTINF:-1,|FR| Nick Jr HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9252.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15225.m3u8
-#EXTINF:-1,|FR| Nickelodeon 4 Teen HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49802.m3u8
-#EXTINF:-1,|FR| Nickelodeon 4 Teen HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49801.m3u8
-#EXTINF:-1,|FR| TELETOON HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9373.m3u8
-#EXTINF:-1,|FR| TELETOON FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9496.m3u8
-#EXTINF:-1,|FR| PIWI HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9237.m3u8
-#EXTINF:-1,|FR| PIWI HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15136.m3u8
-#EXTINF:-1,|FR| PIWI  FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9513.m3u8
-#EXTINF:-1,|FR| Zouzous HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15109.m3u8
-#EXTINF:-1,|FR| Zouzou TV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9204.m3u8
-#EXTINF:-1,|FR| CANAL J HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9323.m3u8
-#EXTINF:-1,|FR| Canal J  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15231.m3u8
-#EXTINF:-1,|FR| CANAL J FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9576.m3u8
-#EXTINF:-1,|FR| TIJI HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9209.m3u8
-#EXTINF:-1,|FR| Tiji HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15120.m3u8
-#EXTINF:-1,|FR| TIJI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9495.m3u8
-#EXTINF:-1,|FR| BOOMERANG HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9334.m3u8
-#EXTINF:-1,|FR| Boomerang HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15198.m3u8
-#EXTINF:-1,|FR| BOOMERANG FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9583.m3u8
-#EXTINF:-1,|FR| BOING HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9335.m3u8
-#EXTINF:-1,|FR| Boing HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15199.m3u8
-#EXTINF:-1,|FR| BOING FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9584.m3u8
-#EXTINF:-1,|FR| Cartoon Network HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9315.m3u8
-#EXTINF:-1,|FR|  CARTOON NETWORK  HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9371.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15190.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9573.m3u8
-#EXTINF:-1,|FR| GAME ONE HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9271.m3u8
-#EXTINF:-1,|FR| GameOne HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15163.m3u8
-#EXTINF:-1,|FR| GAME ONE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9541.m3u8
-#EXTINF:-1,|FR| GULLI HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9269.m3u8
-#EXTINF:-1,|FR| GULLI HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15160.m3u8
-#EXTINF:-1,|FR| GULLI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9538.m3u8
-#EXTINF:-1,|FR| MANGAS HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9257.m3u8
-#EXTINF:-1,|FR| MANGAS HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15152.m3u8
-#EXTINF:-1,|FR| MANGA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9530.m3u8
-#EXTINF:-1,|FR| J ONE Full HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30600.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24940.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14037.m3u8
+#EXTINF:-1,|FR| NICKELODEON+1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13854.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13851.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24935.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28344.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24957.m3u8
 #EXTINF:-1,|FR| TOONAMI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/46532.m3u8
-#EXTINF:-1,|FR| M6 MUSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15153.m3u8
-#EXTINF:-1,|FR| TRACE URBAN HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9207.m3u8
-#EXTINF:-1,|FR| TRACE URBAN  HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15218.m3u8
-#EXTINF:-1,|FR| TRACE URBAN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9493.m3u8
-#EXTINF:-1,|FR| MTV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15146.m3u8
-#EXTINF:-1,|FR| MTV FRANCE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9525.m3u8
-#EXTINF:-1,|FR| MCM HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9256.m3u8
-#EXTINF:-1,|FR| MCM HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15151.m3u8
-#EXTINF:-1,|FR| MCM FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9529.m3u8
-#EXTINF:-1,|FR| MCM TOP HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9255.m3u8
-#EXTINF:-1,|FR| MCM TOP HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15150.m3u8
-#EXTINF:-1,|FR| MCM TOP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9528.m3u8
-#EXTINF:-1,|FR| RFM TV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15132.m3u8
-#EXTINF:-1,|FR| RFM TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9509.m3u8
-#EXTINF:-1,|FR| NRJ Hits FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9249.m3u8
-#EXTINF:-1,|FR| MEZZO HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15149.m3u8
-#EXTINF:-1,|FR| MEZZO LIVE HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15148.m3u8
-#EXTINF:-1,|FR| MEZZO LIVE FULL HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9527.m3u8
-#EXTINF:-1,|FR| CLUBBING TV HD BKP.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49803.m3u8
-#EXTINF:-1,|FR| 6TER H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56312.m3u8
-#EXTINF:-1,|FR| ACTION H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56311.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56310.m3u8
-#EXTINF:-1,|FR| ANIMAUX  H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56309.m3u8
-#EXTINF:-1,|FR| ARTE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56308.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56307.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56306.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56305.m3u8
-#EXTINF:-1,|FR| BFMTV H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56304.m3u8
-#EXTINF:-1,|FR| BOOMERANG H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56303.m3u8
-#EXTINF:-1,|FR| C8 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56302.m3u8
-#EXTINF:-1,|FR| CANAL CINEMA H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56301.m3u8
-#EXTINF:-1,|FR| CANAL DECALE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56300.m3u8
-#EXTINF:-1,|FR| CANAL FAMILY H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56299.m3u8
-#EXTINF:-1,|FR| CANAL H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56298.m3u8
-#EXTINF:-1,|FR| CANAL J H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56297.m3u8
-#EXTINF:-1,|FR| CANAL SERIES H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56296.m3u8
-#EXTINF:-1,|FR| CANAL SPORT H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56295.m3u8
-#EXTINF:-1,|FR| CARTOON H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56294.m3u8
-#EXTINF:-1,|FR| CHASSE PECHE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56293.m3u8
-#EXTINF:-1,|FR| CINE CLASSIC H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56292.m3u8
-#EXTINF:-1,|FR| CINE EMOTION H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56291.m3u8
-#EXTINF:-1,|FR| CINE FAMIZ H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56290.m3u8
-#EXTINF:-1,|FR| CINE FRISSON H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56289.m3u8
-#EXTINF:-1,|FR| CINE PREMIER H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56288.m3u8
-#EXTINF:-1,|FR| CNEWS H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56287.m3u8
-#EXTINF:-1,|FR| CSTAR H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56286.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56285.m3u8
-#EXTINF:-1,|FR| DISCOVERY H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56284.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56283.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56282.m3u8
-#EXTINF:-1,|FR| EQUIDIA H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56281.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56280.m3u8
-#EXTINF:-1,|FR| EUROSPORT H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56279.m3u8
-#EXTINF:-1,|FR| FRANCE2 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56278.m3u8
-#EXTINF:-1,|FR| FRANCE3 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56277.m3u8
-#EXTINF:-1,|FR| FRANCE4 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56276.m3u8
-#EXTINF:-1,|FR| FRANCE5 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56275.m3u8
-#EXTINF:-1,|FR| FRANCEINFO H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56274.m3u8
-#EXTINF:-1,|FR| FRANCEO H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56273.m3u8
-#EXTINF:-1,|FR| GAME ONE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56272.m3u8
-#EXTINF:-1,|FR| GULLI H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56271.m3u8
-#EXTINF:-1,|FR| L'EQUIPE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56270.m3u8
-#EXTINF:-1,|FR| LCI H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56269.m3u8
-#EXTINF:-1,|FR| M6 MUSIC H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56268.m3u8
-#EXTINF:-1,|FR| MCM TOP H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56267.m3u8
-#EXTINF:-1,|FR| MY CUISINE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56266.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56265.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO CHANNEL H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56264.m3u8
-#EXTINF:-1,|FR| NICK JUNIOR H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56263.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4TEEN H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56262.m3u8
-#EXTINF:-1,|FR| NICKELODEON H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56261.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56260.m3u8
-#EXTINF:-1,|FR| NRJ12 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56259.m3u8
-#EXTINF:-1,|FR| NUMERO23 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56258.m3u8
-#EXTINF:-1,|FR| OCS CHOC H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56257.m3u8
-#EXTINF:-1,|FR| OCS CITY H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56256.m3u8
-#EXTINF:-1,|FR| OCS GEANTS H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56255.m3u8
-#EXTINF:-1,|FR| OCS MAX H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56254.m3u8
-#EXTINF:-1,|FR| PLANETE AE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56253.m3u8
-#EXTINF:-1,|FR| PLANETE CI H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56252.m3u8
-#EXTINF:-1,|FR| PLANETE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56251.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56250.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56249.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56248.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56247.m3u8
-#EXTINF:-1,|FR| RMC STORY H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56246.m3u8
-#EXTINF:-1,|FR| RMC_DECOUVERTE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56245.m3u8
-#EXTINF:-1,|FR| SCIENCES VIE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56244.m3u8
-#EXTINF:-1,|FR| SEASONS H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56243.m3u8
-#EXTINF:-1,|FR| TEVA H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56242.m3u8
-#EXTINF:-1,|FR| TF1 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56241.m3u8
-#EXTINF:-1,|FR| TF1 SERIES H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56240.m3u8
-#EXTINF:-1,|FR| TFX H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56239.m3u8
-#EXTINF:-1,|FR| TMC H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56238.m3u8
-#EXTINF:-1,|FR| ULTRA NATURE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56237.m3u8
-#EXTINF:-1,|FR| USHUAIA H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56236.m3u8
-#EXTINF:-1,|FR| W9 H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56235.m3u8
-#EXTINF:-1,|FR| WARNER H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56234.m3u8
-#EXTINF:-1,|FR HEVC| 6TER FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51214.m3u8
-#EXTINF:-1,|FR HEVC| ACTION FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51188.m3u8
-#EXTINF:-1,|FR HEVC| ANIMAUX FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51200.m3u8
-#EXTINF:-1,|FR HEVC| ARTE FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51210.m3u8
-#EXTINF:-1,|FR HEVC| BEIN SPORTS 1 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51199.m3u8
-#EXTINF:-1,|FR HEVC| BEIN SPORTS 2 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51198.m3u8
-#EXTINF:-1,|FR HEVC| BEIN SPORTS 3 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51197.m3u8
-#EXTINF:-1,|FR HEVC| BFM TV FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51209.m3u8
-#EXTINF:-1,|FR HEVC| BOOMERANG FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51187.m3u8
-#EXTINF:-1,|FR HEVC| C8 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51204.m3u8
-#EXTINF:-1,|FR HEVC| CANAL  CINEMA FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51196.m3u8
-#EXTINF:-1,|FR HEVC| CANAL FHD H.265 ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51195.m3u8
-#EXTINF:-1,|FR HEVC| CANAL  SERIES FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51194.m3u8
-#EXTINF:-1,|FR HEVC| CANAL  SPORT FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51193.m3u8
-#EXTINF:-1,|FR HEVC| CARTOON NETWORK FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51192.m3u8
-#EXTINF:-1,|FR HEVC| CINE  EMOTION FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51186.m3u8
-#EXTINF:-1,|FR HEVC| CINE  PREMIER FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51185.m3u8
-#EXTINF:-1,|FR HEVC| CNEWS FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51208.m3u8
-#EXTINF:-1,|FR HEVC| CSTAR FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51203.m3u8
-#EXTINF:-1,|FR HEVC| CSTAR HITS FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51184.m3u8
-#EXTINF:-1,|FR HEVC| DISNEY CHANNEL FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51183.m3u8
-#EXTINF:-1,|FR HEVC| DISNEY JUNIOR FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51182.m3u8
-#EXTINF:-1,|FR HEVC| EQUIDIA FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51191.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE 2 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51221.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE 3 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51220.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE 4 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51219.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE 5 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51218.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE INFO FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51207.m3u8
-#EXTINF:-1,|FR HEVC| FRANCE Ô FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51217.m3u8
-#EXTINF:-1,|FR HEVC| GULLI FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51202.m3u8
-#EXTINF:-1,|FR HEVC| L'EQUIPE FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51201.m3u8
-#EXTINF:-1,|FR HEVC| LCI FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51206.m3u8
-#EXTINF:-1,|FR HEVC| M6 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51216.m3u8
-#EXTINF:-1,|FR HEVC| M6 MUSIC FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51190.m3u8
-#EXTINF:-1,|FR HEVC| NAT GEO WILD FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51189.m3u8
-#EXTINF:-1,|FR HEVC| NATIONAL GEOGRAPHIC FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51181.m3u8
-#EXTINF:-1,|FR HEVC| NRJ12 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51205.m3u8
-#EXTINF:-1,|FR HEVC| RMC STORY FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51213.m3u8
-#EXTINF:-1,|FR HEVC| TEVA FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51180.m3u8
-#EXTINF:-1,|FR HEVC| TF1 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51222.m3u8
-#EXTINF:-1,|FR HEVC| TFX FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51211.m3u8
-#EXTINF:-1,|FR HEVC| TMC FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51212.m3u8
-#EXTINF:-1,|FR HEVC| W9 FHD H.265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51215.m3u8
-#EXTINF:-1,###### -- |BE| CHAINES BELGES |BE| -- ######
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/22457.m3u8
-#EXTINF:-1,|nBE| ATV Antwerpen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48158.m3u8
-#EXTINF:-1,|nBE| BEL RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48157.m3u8
-#EXTINF:-1,|nBE| BFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48156.m3u8
-#EXTINF:-1,|nBE| Bruxelles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48155.m3u8
-#EXTINF:-1,|nBE| BXL1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48154.m3u8
-#EXTINF:-1,|nBE| CANAL ZOOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48149.m3u8
-#EXTINF:-1,|nBE| Canvas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48159.m3u8
-#EXTINF:-1,|nBE| CAZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48153.m3u8
-#EXTINF:-1,|nBE| CINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48152.m3u8
-#EXTINF:-1,|nBE| CINEMA 1 FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48151.m3u8
-#EXTINF:-1,|nBE| CINEMA 2 FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48150.m3u8
-#EXTINF:-1,|nBE| CLUB RTL FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48160.m3u8
-#EXTINF:-1,|nBE| DOBBIT TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48136.m3u8
-#EXTINF:-1,|nBE| een HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48161.m3u8
-#EXTINF:-1,|nBE| ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48135.m3u8
-#EXTINF:-1,|nBE| ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48134.m3u8
-#EXTINF:-1,|nBE| ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48133.m3u8
-#EXTINF:-1,|nBE| KADET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48147.m3u8
-#EXTINF:-1,|nBE| KETNET KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48146.m3u8
-#EXTINF:-1,|nBE| KetOp12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48162.m3u8
-#EXTINF:-1,|nBE| LA DEUX FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48163.m3u8
-#EXTINF:-1,|nBE| LA TROIS FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48164.m3u8
-#EXTINF:-1,|nBE| LA UNE HD FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48165.m3u8
-#EXTINF:-1,|nBE| MY COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48148.m3u8
-#EXTINF:-1,|nBE| PLUG RTL FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48166.m3u8
-#EXTINF:-1,|nBE| Q2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48174.m3u8
-#EXTINF:-1,|nBE| RTL LUXENBURG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48145.m3u8
-#EXTINF:-1,|nBE| RTL TVI FR-BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48167.m3u8
-#EXTINF:-1,|nBE| TV LIMBURG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48144.m3u8
-#EXTINF:-1,|nBE| TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48168.m3u8
-#EXTINF:-1,|nBE| VIER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48169.m3u8
-#EXTINF:-1,|nBE| VIJF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48170.m3u8
-#EXTINF:-1,|nBE| Vitaya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48171.m3u8
-#EXTINF:-1,|nBE| VOO SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48141.m3u8
-#EXTINF:-1,|nBE| Voo Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48140.m3u8
-#EXTINF:-1,|nBE| Voo Sport World 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48138.m3u8
-#EXTINF:-1,|nBE| Voo Sport World 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48137.m3u8
-#EXTINF:-1,|nBE| Voo Sport World 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48139.m3u8
-#EXTINF:-1,|nBE| VTM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48172.m3u8
-#EXTINF:-1,|nBE| VTM NIEUWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48143.m3u8
-#EXTINF:-1,|nBE| VTMKazoom/Kanaal Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48173.m3u8
-#EXTINF:-1,|nBE| ZES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48142.m3u8
-#EXTINF:-1,|BE| VTM HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17050.m3u8
-#EXTINF:-1,|BE| VTM Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17051.m3u8
-#EXTINF:-1,|BE| Voo Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17052.m3u8
-#EXTINF:-1,|BE| VITAYA HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17053.m3u8
-#EXTINF:-1,|BE| Vitaya Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17054.m3u8
-#EXTINF:-1,|BE| VIJF Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17055.m3u8
-#EXTINF:-1,|BE| VIER HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17056.m3u8
-#EXTINF:-1,|BE| Vier Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17057.m3u8
-#EXTINF:-1,|BE| RTL TVI Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17058.m3u8
-#EXTINF:-1,|BE| Q2 HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17059.m3u8
-#EXTINF:-1,|BE| Plug RTL Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17060.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13850.m3u8
+#EXTINF:-1,|FR|TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24956.m3u8
+#EXTINF:-1,|FR| TELETOON+1  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13855.m3u8
+#EXTINF:-1,|FR| NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24958.m3u8
+#EXTINF:-1,|FR| TELETOON+1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13869.m3u8
+#EXTINF:-1,|FR| PIWI+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13867.m3u8
+#EXTINF:-1,|FR| PIWI+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24937.m3u8
+#EXTINF:-1,|FR| MONDE DES PETITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13848.m3u8
+#EXTINF:-1,|FR| CANAL J FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13764.m3u8
+#EXTINF:-1,|FR| Canal J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24941.m3u8
+#EXTINF:-1,|FR| TIJI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13868.m3u8
+#EXTINF:-1,|FR| TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24949.m3u8
+#EXTINF:-1,|FR| BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13858.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24954.m3u8
+#EXTINF:-1,|FR| BOING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13859.m3u8
+#EXTINF:-1,|FR| BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24945.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13761.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24933.m3u8
+#EXTINF:-1,|FR| GAME ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13856.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24952.m3u8
+#EXTINF:-1,|FR| GAMEONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1034.m3u8
+#EXTINF:-1,|FR| GAME ONE +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13857.m3u8
+#EXTINF:-1,|FR| J ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13852.m3u8
+#EXTINF:-1,|FR| GULLI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13864.m3u8
+#EXTINF:-1,|FR| GULLI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1020.m3u8
+#EXTINF:-1,|FR| GONG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13853.m3u8
+#EXTINF:-1,|FR| GONG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24936.m3u8
+#EXTINF:-1,|FR| MANGAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13865.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24932.m3u8
+#EXTINF:-1,|FR| CINE KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24959.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24939.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24950.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24951.m3u8
+#EXTINF:-1,|FR| ***** DOCUMENTAIRE ***** |FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24961.m3u8
+#EXTINF:-1,|FR| PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6700.m3u8
+#EXTINF:-1,|FR| DISNEYS CARTOON CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6713.m3u8
+#EXTINF:-1,|FR| MILA MILA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6736.m3u8
+#EXTINF:-1,|FR| TOM AND JERRY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6757.m3u8
+#EXTINF:-1,|FR| MASHA ET MICHKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/7185.m3u8
+#EXTINF:-1,|FR| LAPIN CRETIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/7258.m3u8
+#EXTINF:-1,|FR| PLANETE+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13712.m3u8
+#EXTINF:-1,|FR| PLANETE+  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13991.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13710.m3u8
+#EXTINF:-1,|FR| PLANETE+  CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13992.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13711.m3u8
+#EXTINF:-1,|FR| PLANETE+  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13971.m3u8
+#EXTINF:-1,|FR| DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13748.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14017.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13747.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14016.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13836.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13828.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13811.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25047.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13719.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14000.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13718.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13999.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13987.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13704.m3u8
+#EXTINF:-1,|FR| ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13789.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14044.m3u8
+#EXTINF:-1,|FR| USHUAIA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13692.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/younesstemara/SdtVyQDfqf/4720.ts
+#EXTINF:-1,|FR| USHUAIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1055.m3u8
+#EXTINF:-1,|FR| ULTRA NATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25049.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13708.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13990.m3u8
+#EXTINF:-1,|FR| RMC STORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1026.m3u8
+#EXTINF:-1,|FR| VOYAGE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13691.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13972.m3u8
+#EXTINF:-1,|FR| TREK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13694.m3u8
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13976.m3u8
+#EXTINF:-1,|FR| CHASSE&PECHE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13837.m3u8
+#EXTINF:-1,|FR| CHASSE & PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14029.m3u8
+#EXTINF:-1,|FR| SEASON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13703.m3u8
+#EXTINF:-1,|FR| SEASON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13988.m3u8
+#EXTINF:-1,|FR| CAMPAGNE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13942.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13750.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14018.m3u8
+#EXTINF:-1,|FR| MUSEUM CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13714.m3u8
+#EXTINF:-1,|FR| HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13731.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14007.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13832.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25050.m3u8
+#EXTINF:-1,|FR| HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1056.m3u8
+#EXTINF:-1,|FR|***FRANCE INFO***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24963.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13783.m3u8
+#EXTINF:-1,|FR| EURONEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13835.m3u8
+#EXTINF:-1,|FR| EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13938.m3u8
+#EXTINF:-1,|FR| FRANCE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/162.m3u8
+#EXTINF:-1,|FR| BFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13770.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14039.m3u8
+#EXTINF:-1,|FR| BFM TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/424.m3u8
+#EXTINF:-1,|FR| BFM BUISINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1045.m3u8
+#EXTINF:-1,|FR| LCI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13727.m3u8
+#EXTINF:-1,|FR| LCI sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1042.m3u8
+#EXTINF:-1,|FR| LCP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13809.m3u8
+#EXTINF:-1,|FR| LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1016.m3u8
+#EXTINF:-1,|FR| LCP100%
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1046.m3u8
+#EXTINF:-1,|FR| CNEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14020.m3u8
+#EXTINF:-1,|FR| CNEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1017.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13935.m3u8
+#EXTINF:-1,|FR| FRANCE INFO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1917.m3u8
+#EXTINF:-1,|FR| TV5 MONDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25051.m3u8
+#EXTINF:-1,|FR| TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25052.m3u8
+#EXTINF:-1,|FR| I24 NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13730.m3u8
+#EXTINF:-1,|FR| i24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1050.m3u8
+#EXTINF:-1,|FR| RT FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35341.m3u8
+#EXTINF:-1,|FR|***MUSSIC***|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24964.m3u8
+#EXTINF:-1,|FR| M6 MUSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13826.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13844.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13978.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1099.m3u8
+#EXTINF:-1,|FR| TRACE URBAN INTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/9127.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/9128.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13771.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13720.m3u8
+#EXTINF:-1,|FR| MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25054.m3u8
+#EXTINF:-1,|FR| BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25057.m3u8
+#EXTINF:-1,|FR| TRACE NAIJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25055.m3u8
+#EXTINF:-1,|FR| TRACE TOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25056.m3u8
+#EXTINF:-1,|FR| MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/8050.m3u8
+#EXTINF:-1,|FR| BBLACK CLASSIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/8052.m3u8
+#EXTINF:-1,|FR| INDIES LIVE MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25058.m3u8
+#EXTINF:-1,|FR| MTV MUSIC LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13721.m3u8
+#EXTINF:-1,|FR| MTV MUSIC LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13930.m3u8
+#EXTINF:-1,|FR| MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13931.m3u8
+#EXTINF:-1,|FR| MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13932.m3u8
+#EXTINF:-1,|FR| MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14009.m3u8
+#EXTINF:-1,|FR| MCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13725.m3u8
+#EXTINF:-1,|FR| MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14002.m3u8
+#EXTINF:-1,|FR| MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1037.m3u8
+#EXTINF:-1,|FR| MCM TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13724.m3u8
+#EXTINF:-1,|FR| RFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13709.m3u8
+#EXTINF:-1,|FR| RFM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24960.m3u8
+#EXTINF:-1,|FR| NRJ HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13927.m3u8
+#EXTINF:-1,|FR| MEZZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14001.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13723.m3u8
+#EXTINF:-1,|FR| BBLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13840.m3u8
+#EXTINF:-1,|FR| VH1 CLASSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13815.m3u8
+#EXTINF:-1,|FR| MELODY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13808.m3u8
+#EXTINF:-1,|FR| BRAVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14038.m3u8
+#EXTINF:-1,|FR| DJAZZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13939.m3u8
+#EXTINF:-1,|FR| TELESUD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1101.m3u8
+#EXTINF:-1,|FR|***** CANAL+  SD *****|FR|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39549.m3u8
+#EXTINF:-1,|BE|*******BELGIQUE*******|BE|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24965.m3u8
+#EXTINF:-1,|BE|  LA UNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29821.m3u8
+#EXTINF:-1,|BE| LA DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14149.m3u8
+#EXTINF:-1,|BE| LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14148.m3u8
+#EXTINF:-1,|BE| CLUB RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14144.m3u8
 #EXTINF:-1,|BE| PLUG RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17061.m3u8
-#EXTINF:-1,|BE| La Une Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17062.m3u8
-#EXTINF:-1,|BE| La Trois Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17063.m3u8
-#EXTINF:-1,|BE| La Deux Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17064.m3u8
-#EXTINF:-1,|BE| EEN HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17065.m3u8
-#EXTINF:-1,|BE| Een Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17066.m3u8
-#EXTINF:-1,|BE| Club RTL Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17067.m3u8
-#EXTINF:-1,|BE| Cinema 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17068.m3u8
-#EXTINF:-1,|BE| Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17069.m3u8
-#EXTINF:-1,|BE| Canvas Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17070.m3u8
-#EXTINF:-1,|BE| 2BE Belgium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17072.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14147.m3u8
+#EXTINF:-1,|BE| RTL TVi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14146.m3u8
+#EXTINF:-1,|BE| AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14143.m3u8
+#EXTINF:-1,|BE| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14115.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14142.m3u8
+#EXTINF:-1,|BE| AB XPLORE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29560.m3u8
+#EXTINF:-1,|BE| CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14141.m3u8
+#EXTINF:-1,|BE| ZES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14140.m3u8
+#EXTINF:-1,|BE| TELE BRUXELLES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcebelgiquepro2/6875360917/1890
+#EXTINF:-1,|BE|*******SPORTS*******|BE|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24966.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/46646.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/46647.m3u8
+#EXTINF:-1,|BE| PROXIMUS 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35336.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14128.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14133.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/46648.m3u8
+#EXTINF:-1,|BE|*******VLAANDEREN*******|BE|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24967.m3u8
+#EXTINF:-1,|BE| EEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14122.m3u8
+#EXTINF:-1,|BE| VIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14111.m3u8
+#EXTINF:-1,|BE| VIJF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14112.m3u8
+#EXTINF:-1,|BE|  VITAYA  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14109.m3u8
+#EXTINF:-1,|BE| CANVAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14110.m3u8
+#EXTINF:-1,|BE| 192 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14124.m3u8
+#EXTINF:-1,|BE| KETNET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14119.m3u8
+#EXTINF:-1,|BE| TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14117.m3u8
+#EXTINF:-1,|BE| VTM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14126.m3u8
+#EXTINF:-1,|BE| VTM KAZOOM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14125.m3u8
+#EXTINF:-1,|BE| Q2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14127.m3u8
+#EXTINF:-1,|BE| KET OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14120.m3u8
+#EXTINF:-1,|BE| ACHT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14113.m3u8
+#EXTINF:-1,|BE| KADET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14121.m3u8
+#EXTINF:-1,|BE| ATV ANTWERPEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14123.m3u8
+#EXTINF:-1,|BE| NO TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25119.m3u8
+#EXTINF:-1,|BE| CANAL ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25120.m3u8
+#EXTINF:-1,|BE| CANAL C
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25118.m3u8
+#EXTINF:-1,|LU|*****LUXEMBOURG***** |LU|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/45414.m3u8
+#EXTINF:-1,|LU| TV LUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/45413.m3u8
+#EXTINF:-1,|LU| RTL LUX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcebelgiquepro2/6875360917/1888
+#EXTINF:-1,|LU| RTL LUX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcebelgiquepro2/6875360917/1887
+#EXTINF:-1,|LU| ELDO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/45410.m3u8
+#EXTINF:-1,|LU| CHAMBER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/45409.m3u8
+#EXTINF:-1,|CH|*******SUISSE*******|CH|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24968.m3u8
+#EXTINF:-1,|CH| RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13705.m3u8
+#EXTINF:-1,|CH| RTS DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13706.m3u8
+#EXTINF:-1,|CH| BE CURIOUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21776.m3u8
+#EXTINF:-1,|CH| RSI LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29567.m3u8
+#EXTINF:-1,|CH| RSI LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29568.m3u8
+#EXTINF:-1,|CH| BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21775.m3u8
+#EXTINF:-1,|CH|  BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21773.m3u8
+#EXTINF:-1,|CH| CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21772.m3u8
+#EXTINF:-1,|CH| MOTORS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21771.m3u8
+#EXTINF:-1,|CH|  ROUGE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21770.m3u8
+#EXTINF:-1,|CH|*****TELECLUB*****|CH|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29569.m3u8
+#EXTINF:-1,|CH|  TELECLUB CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21769.m3u8
+#EXTINF:-1,|CH|  TELECLUB ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21768.m3u8
+#EXTINF:-1,|CH| TELECLUB EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21767.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21764.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21763.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29574.m3u8
+#EXTINF:-1,|CH| OCS Go Cine 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29573.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29572.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29571.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/29570.m3u8
+#EXTINF:-1,|CH| TELE M1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21762.m3u8
+#EXTINF:-1,|CH|  TELEBASEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21761.m3u8
+#EXTINF:-1,|CH| TELE BIELINGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21760.m3u8
+#EXTINF:-1,|CH| TELE ZURICH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21759.m3u8
+#EXTINF:-1,|CH| SRF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21755.m3u8
+#EXTINF:-1,|CH| SRF ZWEI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21754.m3u8
+#EXTINF:-1,|CH| SRF INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/21753.m3u8

@@ -1,75 +1,201 @@
 #EXTM3U
-#EXTINF:0,SPORTSNET ONE | UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55794
-#EXTINF:0,SPORTSNET ONE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14277
-#EXTINF:0,SPORTSNET 360 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/76364
-#EXTINF:0,SPORTSNET PACIFIC | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/15764
-#EXTINF:0,SPORTSNET EAST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/18419
-#EXTINF:0,SPORTSNET WEST | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55792
-#EXTINF:0,SPORTSNET WEST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/15765
-#EXTINF:0,SPORTSNET WORLD | UHD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55796
-#EXTINF:0,SPORTSNET WORLD | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14275
-#EXTINF:0,NHL NETWORK | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55786
-#EXTINF:0,MLB NETWOK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14263
-#EXTINF:0,NFL NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14281
-#EXTINF:0,GOLF | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55782
-#EXTINF:0,TENNIS CHANNEL | HD  *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/55783
-#EXTINF:0,TENNIS CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14268
-#EXTINF:0,WWE NETWORK | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14186
-#EXTINF:0,FIGHT NETWORK | HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/28484
-#EXTINF:0,BEIN SPORTS 2 (LA LIGA) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139292
-#EXTINF:0,BEIN SPORTS 3 (espa?ol) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139291
-#EXTINF:0,BEIN SPORTS 4 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139290
-#EXTINF:0,BEIN SPORTS 5 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139289
-#EXTINF:0,BEIN SPORTS 6 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139288
-#EXTINF:0,BEIN SPORTS 7 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139287
-#EXTINF:0,BEIN SPORTS 8 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/139286
-#EXTINF:0,Star Sports 1 | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/80674
-#EXTINF:0,Star Sports 1 | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/157566
-#EXTINF:0,Star Sports 1 Hindi | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/80675
-#EXTINF:0,Star Sports 1 Tamil | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/157133
-#EXTINF:0,Star Sports 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/80676
-#EXTINF:0,Star Sports 2 | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/141506
-#EXTINF:0,SKY SPORTS (Cricket) | UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/14179
-#EXTINF:0,SKY SPORTS (Cricket) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/69917
-#EXTINF:0,Sports Trends (CA) | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/164255
-#EXTINF:0,Astro Cricket | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/159599
-#EXTINF:0,STAR SPORTS SELECT 1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/8942
-#EXTINF:0,Star Sports Select 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/147845
-#EXTINF:0,Star Sports First | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lotustv.be:80/jacks1/jacks1/157134
+#EXTINF:0,LA_SD:FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/4879.ts
+#EXTINF:0,LA_SD:FOX SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/4964.ts
+#EXTINF:0,LA_SD:FOX SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/5005.ts
+#EXTINF:0,LA_SD:SUR_FOX SPORT VEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/11096.ts
+#EXTINF:0,LA_SD:TIGO SPORTS 3 SD (BOLIVIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70213.ts
+#EXTINF:0,LA_HD:FOX SPORTS PREM (ARG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70192.ts
+#EXTINF:0,HD:FOX SPORTS R.U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70189.ts
+#EXTINF:0,HD:BETIS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70188.ts
+#EXTINF:0,HD:NTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70187.ts
+#EXTINF:0,HD:SPORT 2U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70186.ts
+#EXTINF:0,HD:ABU DHABI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70184.ts
+#EXTINF:0,HD:ABU DHABI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70183.ts
+#EXTINF:0,HD:SPORTS KUWAIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70182.ts
+#EXTINF:0,HD:ALL SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70181.ts
+#EXTINF:0,HD:SPORTS AUTOMOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70180.ts
+#EXTINF:0,HD:SPORTS RED BULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70179.ts
+#EXTINF:0,ES:LA LIGA TV BAR 4 [LIVE-EVENT]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70146.ts
+#EXTINF:0,ES:LA LIGA TV BAR 3 [LIVE-EVENT]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70145.ts
+#EXTINF:0,ES:LA LIGA TV BAR 2 [LIVE-EVENT]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70144.ts
+#EXTINF:0,ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/70143.ts
+#EXTINF:0,IT: Rai Sport + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71520.ts
+#EXTINF:0,IT: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71523.ts
+#EXTINF:0,IT: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71524.ts
+#EXTINF:0,IT: RAI SPORT +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71525.ts
+#EXTINF:0,IT: RAI SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71526.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71489.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71490.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71491.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71492.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71493.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71494.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71495.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71496.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71497.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71498.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71499.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71500.ts
+#EXTINF:0,AR SPORTS: beIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/71501.ts
+#EXTINF:0,LA_HD_MEX2:Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/58844.ts
+#EXTINF:0,LA_HD_MEX2:Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/58534.ts
+#EXTINF:0,LA_HD_MEX2:Fox Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/58533.ts
+#EXTINF:0,LA_HD_MEX3:Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/72896.ts
+#EXTINF:0,LA_HD_MEX3:Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/72897.ts
+#EXTINF:0,LA_HD_MEX3:Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/72898.ts
+#EXTINF:0,LA_FHD2:FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/35808.ts
+#EXTINF:0,LA_FHD2:FOX SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/35807.ts
+#EXTINF:0,LA_FHD2:FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/35809.ts
+#EXTINF:0,ES:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/48954.ts
+#EXTINF:0,ES:EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/48956.ts
+#EXTINF:0,ES:EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/48958.ts
+#EXTINF:0,ES:ESPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/48959.ts
+#EXTINF:0,ES:LALIGA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/48970.ts
+#EXTINF:0,LA_SD:UR_EVENTOS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/52506.ts
+#EXTINF:0,LA_SD:UR_EVENTOS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/52505.ts
+#EXTINF:0,US_HD:Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55882.ts
+#EXTINF:0,US_HD:Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55881.ts
+#EXTINF:0,US_HD:Fox Sports Arizona HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55880.ts
+#EXTINF:0,US_HD:Fox Sports Carolinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55879.ts
+#EXTINF:0,US_HD:Fox Sports Carolinas Southeast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55878.ts
+#EXTINF:0,US_HD:Fox Sports Charlotte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55877.ts
+#EXTINF:0,US_HD:Fox Sports Detroit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55876.ts
+#EXTINF:0,US_HD:Fox Sports Detroit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55875.ts
+#EXTINF:0,US_HD:Fox Sports East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55874.ts
+#EXTINF:0,US_HD:Fox Sports Florida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55873.ts
+#EXTINF:0,US_HD:Fox Sports Indiana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55872.ts
+#EXTINF:0,US_HD:Fox Sports Kansas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55871.ts
+#EXTINF:0,US_HD:Fox Sports North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55870.ts
+#EXTINF:0,US_HD:Fox Sports North Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55869.ts
+#EXTINF:0,US_HD:Fox Sports Oakland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55868.ts
+#EXTINF:0,US_HD:Fox Sports Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55867.ts
+#EXTINF:0,US_HD:Fox Sports Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55866.ts
+#EXTINF:0,US_HD:Fox Sports Sand Diego HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55865.ts
+#EXTINF:0,US_HD:Fox Sports Southeast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55864.ts
+#EXTINF:0,US_HD:Fox Sports Southwest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55863.ts
+#EXTINF:0,US_HD:Fox Sports Sun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55862.ts
+#EXTINF:0,US_HD:Fox Sports Tampa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55861.ts
+#EXTINF:0,US_HD:Fox Sports West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55860.ts
+#EXTINF:0,US_HD:Fox Sports West Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55859.ts
+#EXTINF:0,US_HD:Fox Sports Wisconsin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55858.ts
+#EXTINF:0,US_HD:Fox Sports Wisconsin Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55857.ts
+#EXTINF:0,US_HD:Fox Sportstime Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55856.ts
+#EXTINF:0,US_HD:Sportsman HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55679.ts
+#EXTINF:0,US_HD:Sportsnet Y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55678.ts
+#EXTINF:0,US_HD:Stadium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55677.ts
+#EXTINF:0,US_HD:Stadium 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55676.ts
+#EXTINF:0,US_HD:Stadium 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55675.ts
+#EXTINF:0,US_HD:Stadium 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/55674.ts
+#EXTINF:0,VIP_USA::BEIN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66384.ts
+#EXTINF:0,LA_FHD:DIRECTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/11454.ts
+#EXTINF:0,LA_SD:SUR_DIRECTV SPORTS 1 A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/11453.ts
+#EXTINF:0,LA_SD:SUR_DIRECTV SPPORTS 1 B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/11452.ts
+#EXTINF:0,LA_SD:SUR_DIRECTV SPORTS 2 B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/9985.ts
+#EXTINF:0,LA_SD:SUR_DIRECTV SPORTS 2 A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/9984.ts
+#EXTINF:0,LA_FHD:DIRECTV SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/9983.ts
+#EXTINF:0,LA_SD:SUR_DIRECTV PLUS A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/9981.ts
+#EXTINF:0,US_HD:Bein 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66383.ts
+#EXTINF:0,US_HD:Bein 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66382.ts
+#EXTINF:0,US_HD:Bein 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66381.ts
+#EXTINF:0,US_HD:Bein 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66380.ts
+#EXTINF:0,US_HD:Bein 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/JFCKVHGVchjgj_6688/ggcjgfcKFKg778tgjh/66379.ts
