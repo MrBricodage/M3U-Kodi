@@ -30,47 +30,12 @@
 
 <item>
 <title>[COLOR yellow][B]Work Area[/B][/COLOR]</title>
-<link>http://ignore.me<link>
+<link>http://ignore.me</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>$doregex[get_sxstream1]</page>
-	<referer>$doregex[get_sxstream1]</referer>
-	</regex>
-	<regex>
-	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
-	<page>http://60fps.live/girondins-de-bordeaux-live-stream/</page>
-	<referer>http://60fps.live/girondins-de-bordeaux-live-stream/</referer>
-	</regex>
-	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-	</item>
 
-	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Nice [/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>$doregex[get_sxstream1]</page>
-	<referer>$doregex[get_sxstream1]</referer>
-	</regex>
-	<regex>
-	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
-	<page>http://60fps.live/ogc-nice-live-stream/</page>
-	<referer>http://60fps.live/ogc-nice-live-stream/</referer>
-	</regex>
-	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-	</item>
-	
 
 
 
@@ -81,15 +46,13 @@
 
 <item>
 <title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #2[/B][/COLOR]</title>
-<link>http://31.220.1.50:7899/Austin/Austin/26584</link>
-</link>
+<link>https://hlslive-akc.med2.med.nhl.com/hdnts=exp=1574619603~acl=/*~id=nhlGatewayId:2356766~data=69949003~hmac=7a8f6ed7b3e7dda5a7687959a02154d380d0f36e79edcf9fd2772a810de34913/acd7341e8b0a58512bea0ed8cbdb079d/ls03/nhl/2019/11/23/NHL_GAME_VIDEO_VANWSH_M2_HOME_20191123_1572203551196/2500K/2500_complete.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #3[/B][/COLOR]</title>
-<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70</link>
-</link>
+<link>https://hlslive-akc.med2.med.nhl.com/hdnts=exp=1574613604~acl=/*~id=nhlGatewayId:2356766~data=69949003~hmac=5ba77c17cea050f1493312cc167c2df71e07a69ae336222b00578f06812dd39c/acd7341e8b0a58512bea0ed8cbdb079d/ls03/nhl/2019/11/23/NHL_GAME_VIDEO_VANWSH_M2_HOME_20191123_1572203551196/1800K/1800_complete.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
