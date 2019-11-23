@@ -2004,6 +2004,42 @@
 <!-- Soccer France -->
 
 <item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Amiens[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/amiens-sc-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Angers SCO[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/angers-sco-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Bordeaux [/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -2022,6 +2058,42 @@
 </item>
 
 <item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Brest[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/brest-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Dijon[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/dijon-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Lille OSC[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -2033,6 +2105,114 @@
 	<name>get_matchurl</name>
 	<expres>class="title" href=.*[",'](.*?)[",']</expres>
 	<page>http://60fps.live/losc-lille-metropole-live-stream-2/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Olympique Lyonnais[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/olympique-lyonnais-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Olympique Marseille[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/olympique-marseille-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Metz[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/metz-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Monaco[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/monaco-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Montpellier[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/montpellier-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Nantes[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/nantes-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
@@ -2057,6 +2237,24 @@
 </item>
 
 <item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Nîmes[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/nimes-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Paris Saint-Germain[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -2068,6 +2266,42 @@
 	<name>get_matchurl</name>
 	<expres>class="title" href=.*[",'](.*?)[",']</expres>
 	<page>http://60fps.live/paris-saint-germain-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Stade de Reims[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/stade-de-reims-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Stade Rennais[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/stade-rennais-fc-live-stream-2/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
@@ -2090,6 +2324,43 @@
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
 </item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Strasbourg[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/strasbourg-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold[B]France [/B][/COLOR] : [COLOR white][B]Toulouse[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_sxstream1]</page>
+	<referer>$doregex[get_sxstream1]</referer>
+	</regex>
+	<regex>
+	<name>get_sxstream1</name>
+	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<page>http://60fps.live/toulouse-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
 
 <!-- Soccer Germany -->
 <!-- Bundesliga -->
