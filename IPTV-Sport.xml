@@ -4,7 +4,7 @@
 
 
 <item>
-<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]25/11/2019 23:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]25/11/2019 23:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 	<info>Derniere Vérification : 25/11/2019 23:00 UTC</info>
 	<link>http://ignore.me<link>
 </item>
@@ -14,6 +14,8 @@
 	<link>http://ignore.me<link>
 </item>
 
+<!-- A -->
+
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 1 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g6/arena1rs.m3u8</link>
@@ -22,7 +24,6 @@
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 1 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g6/arena1rs.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 2 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g10/arena2sport.m3u8</link>
@@ -32,7 +33,6 @@
 	<link>https://goool7.ws/lba/123/g7/arena2sport.m3u8
 </link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 3 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g1/sportarena3rs.m3u8</link>
@@ -41,7 +41,6 @@
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 3 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g1/sportarena3rs.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 4 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g3/arenaserbia4.m3u8</link>
@@ -50,17 +49,80 @@
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 4 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g3/arenaserbia4.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 5 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g7/ar5sport.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA Sport 5 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g7/ar5sport.m3u8</link>
 </item>
+<item>
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]PEHA Sport HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g1/rumatcharena.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 1[/B][/COLOR]</title>
+	<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
+	<thumbnail>https://i.imgur.com/lKl2wZH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 2[/B][/COLOR]</title>
+	<link>http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8</link>
+	<thumbnail>https://i.imgur.com/lKl2wZH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 3[/B][/COLOR]</title>
+	<link>http://adtv.ercdn.net/adsport3/adsport3_1080p.m3u8</link>
+	<thumbnail>https://i.imgur.com/U6XDpXY.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 4[/B][/COLOR]</title>
+	<link>http://adtv.ercdn.net/adsport4/adsport4_1080p.m3u8</link>
+	<thumbnail>https://i.imgur.com/U6XDpXY.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass One[/B][/COLOR]</title>
+	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1</link>
+	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Two[/B][/COLOR]</title>
+	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2</link>
+	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Three[/B][/COLOR]</title>
+	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3</link>
+	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Four[/B][/COLOR]</title>
+	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4</link>
+	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Five[/B][/COLOR]</title>
+	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5</link>
+	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]ll Sports[/B][/COLOR]</title>
+	<link>http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8</link>
+	<thumbnail>http://iptvdroid.eu/olav2/images/play.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]ragón Deporte HD[/B][/COLOR]</title>
+	<link>https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8</link>
+	<thumbnail>https://i.imgur.com/j6zrg4O.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]TG[/B][/COLOR]</title>
+	<link>https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8</link>
+	<thumbnail>https://i.imgur.com/5CdW62M.png</thumbnail> 
+</item>
 
+<!-- B -->
 
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
@@ -70,7 +132,6 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g2/btuk1.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g3/ukbt2sport.m3u8</link>
@@ -79,7 +140,6 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g3/ukbt2sport.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
 	<link>https://sport7.biz/lba/123/g4/3btsporteu.m3u8</link>
@@ -88,7 +148,6 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g4/3btsporteu.m3u8</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN HD[/B][/COLOR]</title>
 	<link>https://sportbar.biz/lba/123/g7/btse.m3u8</link>
@@ -97,16 +156,6 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g7/btse.m3u8</link>
 </item>
-
-<item>
-	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]ANAL+ SPORT  FHD[/B][/COLOR]</title>
-	<link>http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14156.m3u8</link>
-</item>
-<item>
-	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]ANAL.+ SPORT HD[/B][/COLOR]</title>
-	<link>http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14161.m3u8</link>
-</item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EINSPORT 2 AR HD[/B][/COLOR]</title>
 	<link>http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts</link>
@@ -119,57 +168,265 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EINSPORT 4 AR HD[/B][/COLOR]</title>
 	<link>http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIN SPORTS 1 FR HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIN SPORTS 2 FR HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]eIN SPORTS 3 FR HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 4 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 5 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 6 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 7 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 8 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 9 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60</link>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]EIN SPORT MAX 10 HD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/61</link>
 </item>
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 1 Turkey[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g5/beinsport1tur.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ahrain Sport 1[/B][/COLOR]</title>
+	<link>http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494</link>
+	<thumbnail>https://i.imgur.com/G9BMhDS.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2[/B][/COLOR]</title>
+	<link>https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8</link>
+	<thumbnail>https://i.imgur.com/PS6Bb8H.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN[/B][/COLOR]</title>
+	<link>https://sportbar.biz/lba/123/g7/btse.m3u8</link>
+	<thumbnail>https://i.imgur.com/8vfNhjn.jpg</thumbnail> 
+</item>
 
+<!-- <item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.1[/B][/COLOR]</title>
+<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8</link>
+</item>
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.1[/B][/COLOR]</title>
+<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8</link>
+</item>
+ -->
+<!-- <item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.2[/B][/COLOR]</title>
+<link>http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8</link>
+</item>
+ -->
+<!-- <item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.3[/B][/COLOR]</title>
+<link>http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8</link>
+</item>
+ -->
+<!-- <item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.4[/B][/COLOR]</title>
+<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8</link>
+</item>
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.4[/B][/COLOR]</title>
+<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8</link>
+</item>
+ -->
+<!-- 
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.5[/B][/COLOR]</title>
+<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8</link>
+</item>
+ -->
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.6[/B][/COLOR]</title>
+	<link>http://94.236.230.110:3333/6</link>
+</item>
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.7[/B][/COLOR]</title>
+	<link>http://94.236.230.110:3333/7</link>
+</item>
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.8[/B][/COLOR]</title>
+	<link>http://94.236.230.110:3333/8</link>
+</item>
+
+<!-- C -->
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]ANAL+ SPORT  FHD[/B][/COLOR]</title>
+	<link>http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14156.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]ANAL.+ SPORT HD[/B][/COLOR]</title>
+	<link>http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14161.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]DO[/B][/COLOR]</title>
+	<link>http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv</link>
+	<thumbnail>https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]hannel 9 Sport[/B][/COLOR]</title>
+	<link>http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8</link>
+	<thumbnail>https://i.imgur.com/vL0VnBZ.png</thumbnail> 
+</item>
+
+<!-- D -->
+
+<item>
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]igi Sport 2 HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g7/digisport2ro.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]igi Sport 3 HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g7/digi3ro.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B] Sport[/B][/COLOR]</title>
+	<link>http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8</link>
+	<thumbnail>http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]Sport[/B][/COLOR]</title>
+	<link>http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]IGI Sport 1 HD[/B][/COLOR]</title>
+	<link>http://37.152.135.169:9002/play/a002/index.m3u8</link>
+	<thumbnail>https://i.imgur.com/y5XN7Vd.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]IGI Sport 2 HD[/B][/COLOR]</title>
+	<link>http://37.152.135.169:9002/play/a006/index.m3u8</link>
+	<thumbnail>https://i.imgur.com/b9jOeMY.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Racing[/B][/COLOR]</title>
+	<link>http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8</link>
+	<thumbnail>https://i.imgur.com/eytrf0Y.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Sports 2[/B][/COLOR]</title>
+	<link>http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8</link>
+	<thumbnail>https://i.imgur.com/qBdOZ1x.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Sports 3[/B][/COLOR]</title>
+	<link>http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8</link>
+	<thumbnail>https://i.imgur.com/hxxjMPJ.jpg</thumbnail> 
+</item>
+
+<!-- E -->
+
+<item>
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN USA [/B]576p[/COLOR]</title>
+	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b1600000.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN USA [/B]720p[/COLOR]</title>
+	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]DGEsport[/B][/COLOR]</title>
+	<link>https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8</link>
+	<thumbnail>https://i.imgur.com/ye3ckSd.png</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport 1 Russia[/B][/COLOR]</title>
+	<link>https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8</link>
+	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
+</item>
+
+
+<!-- F -->
+<item>
+	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]IGHT SPORTS HD[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/1749356553|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]OX SPORTS 2[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/1232604094|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]OX SPORTS 3[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/1262347504|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ootball 1 Ukraina HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g8/sport1ukraine.m3u8</link>
+</item>
+
+<!-- G -->
+<item> 
+	<title>[COLOR lime][B]G[/B][/COLOR][COLOR white][B]OLTV[/B][/COLOR]</title>
+	<link>http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8</link>
+	<thumbnail>https://i.imgur.com/OxIKeaX.jpg</thumbnail> 
+</item>
+
+<!-- H -->
+<item> 
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]orizon Sports[/B][/COLOR]</title>
+	<link>https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8</link>
+	<thumbnail>https://i.imgur.com/jt6g1Jt.png</thumbnail> 
+</item>
+
+<!-- I -->
+<item> 
+	<title>[COLOR lime][B]I[/B][/COLOR][COLOR white][B]RC Sport TV[/B][/COLOR]</title>
+	<link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
+	<thumbnail>https://www.ircsporttv.it/assets/front/img/logo.png</thumbnail> 
+</item>
+<!-- M -->
+<item>
+	<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]engkacak Sport 1[/B][/COLOR]</title>
+	<link>https://goool7.ws/lba/123/g6/ukrfoot1.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]LB Network [/B]720p[/COLOR]</title>
+	<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
+	<fanart>https://exstreamist.com/how-to-watch-major-league-baseball-mlb-online-for-free/</fanart>
+</item>
+
+<!-- N -->
+<item>
+	<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC News [/B]720p[/COLOR]</title>
+	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
+</item>
+
+<!-- O -->
+<item> 
+	<title>[COLOR lime][B]O[/B][/COLOR][COLOR white][B]lympic Channel (HD)[/B][/COLOR]</title>
+	<link>http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8</link>
+	<thumbnail>https://i.imgur.com/IpssJvp.png</thumbnail> 
+</item>
+
+<!-- R -->
 <item>
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]MC SPORT 1 FHD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40</link>
@@ -250,540 +507,204 @@
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]MC SPORT LIVE 16 FHD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/54</link>
 </item>
-
-
-<!-- <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.1[/B][/COLOR]</title>
-<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8</link>
-</item>
-<item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.1[/B][/COLOR]</title>
-<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8</link>
-</item>
- -->
-<!-- <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.2[/B][/COLOR]</title>
-<link>http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8</link>
-</item>
- -->
-<!-- <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.3[/B][/COLOR]</title>
-<link>http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8</link>
-</item>
- -->
-<!-- <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.4[/B][/COLOR]</title>
-<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8</link>
-</item>
-<item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.4[/B][/COLOR]</title>
-<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8</link>
-</item>
- -->
-<!-- 
-<item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.5[/B][/COLOR]</title>
-<link>http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8</link>
-</item>
- -->
-<item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.6[/B][/COLOR]</title>
-	<link>http://94.236.230.110:3333/6</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.7[/B][/COLOR]</title>
-	<link>http://94.236.230.110:3333/7</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein.Sports.8[/B][/COLOR]</title>
-	<link>http://94.236.230.110:3333/8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]igi Sport 2 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g7/digisport2ro.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]igi Sport 3 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g7/digi3ro.m3u8</link>
-</item>
-
-
-<item>
-	<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]engkacak Sport 1[/B][/COLOR]</title>
-	<link>https://goool7.ws/lba/123/g6/ukrfoot1.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 2 ALB[/B][/COLOR]</title>
-	<link>https://goool7.ws/lba/123/g2/ss2al.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 3 ALB[/B][/COLOR]</title>
-	<link>https://goool7.ws/lba/123/g8/albaniasport3.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]üper Sport 3 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g8/albaniasport3.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 4 ALB[/B][/COLOR]</title>
-	<link>https://goool7.ws/lba/123/g10/super4sport.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]PEHA Sport HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g1/rumatcharena.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]etna Sport HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g8/setantarus.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ootball 1 Ukraina HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g8/sport1ukraine.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperTennis IT[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g5/itsupertennis.m3u8</link>
-</item>
-
-
-<item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 1 Turkey[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g5/beinsport1tur.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 1 Portugal HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g6/tv1pt.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 2 Portugal HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g1/sport2port.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 3 Portugal HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g2/pt3sport.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 4 Portugal HD[/B][/COLOR]</title>
-	<link>https://goool7.ws/lba/123/g9/portugalsport4.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 5 Portugal HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g8/ptsport5.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT Klub 1 Serbia HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g5/sportklub1rs.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT Klub 3 Serbia HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g8/rs3sk.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN USA [/B]576p[/COLOR]</title>
-	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b1600000.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN USA [/B]720p[/COLOR]</title>
-	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]IGHT SPORTS HD[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/1749356553|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]OX SPORTS 2[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/1232604094|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]OX SPORTS 3[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/1262347504|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 1[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/2131729618|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 2[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/995885125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 3[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/1592443304|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 4[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/774721098|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 5[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/426904342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 6[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/285699748|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS HD[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/2013868628|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS PLUS[/B][/COLOR]</title>
-	<link>http://221.178.148.115:9981/stream/channelid/768345644|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD1[/B][/COLOR]</title>
-	<link>https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD2[/B][/COLOR]</title>
-	<link>https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD3[/B][/COLOR]</title>
-	<link>https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD4[/B][/COLOR]</title>
-	<link>https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8</link>
-</item>
-
-<item>
-	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD5[/B][/COLOR]</title>
-	<link>https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8</link>
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 1[/B][/COLOR]</title>
-	<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8</link>
-	<thumbnail>https://i.imgur.com/lKl2wZH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 2[/B][/COLOR]</title>
-	<link>http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8</link>
-	<thumbnail>https://i.imgur.com/lKl2wZH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 3[/B][/COLOR]</title>
-	<link>http://adtv.ercdn.net/adsport3/adsport3_1080p.m3u8</link>
-	<thumbnail>https://i.imgur.com/U6XDpXY.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]bu Dhabi Sports 4[/B][/COLOR]</title>
-	<link>http://adtv.ercdn.net/adsport4/adsport4_1080p.m3u8</link>
-	<thumbnail>https://i.imgur.com/U6XDpXY.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass One[/B][/COLOR]</title>
-	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1</link>
-	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Two[/B][/COLOR]</title>
-	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2</link>
-	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Three[/B][/COLOR]</title>
-	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3</link>
-	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Four[/B][/COLOR]</title>
-	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4</link>
-	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]l Kass Five[/B][/COLOR]</title>
-	<link>http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5</link>
-	<thumbnail>https://i.imgur.com/o90fKsH.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]ll Sports[/B][/COLOR]</title>
-	<link>http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8</link>
-	<thumbnail>http://iptvdroid.eu/olav2/images/play.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]ragón Deporte HD[/B][/COLOR]</title>
-	<link>https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8</link>
-	<thumbnail>https://i.imgur.com/j6zrg4O.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]TG[/B][/COLOR]</title>
-	<link>https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8</link>
-	<thumbnail>https://i.imgur.com/5CdW62M.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ahrain Sport 1[/B][/COLOR]</title>
-	<link>http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494</link>
-	<thumbnail>https://i.imgur.com/G9BMhDS.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2[/B][/COLOR]</title>
-	<link>https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8</link>
-	<thumbnail>https://i.imgur.com/PS6Bb8H.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN[/B][/COLOR]</title>
-	<link>https://sportbar.biz/lba/123/g7/btse.m3u8</link>
-	<thumbnail>https://i.imgur.com/8vfNhjn.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]DO[/B][/COLOR]</title>
-	<link>http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv</link>
-	<thumbnail>https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]hannel 9 Sport[/B][/COLOR]</title>
-	<link>http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8</link>
-	<thumbnail>https://i.imgur.com/vL0VnBZ.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B] Sport[/B][/COLOR]</title>
-	<link>http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8</link>
-	<thumbnail>http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]Sport[/B][/COLOR]</title>
-	<link>http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]IGI Sport 1 HD[/B][/COLOR]</title>
-	<link>http://37.152.135.169:9002/play/a002/index.m3u8</link>
-	<thumbnail>https://i.imgur.com/y5XN7Vd.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]IGI Sport 2 HD[/B][/COLOR]</title>
-	<link>http://37.152.135.169:9002/play/a006/index.m3u8</link>
-	<thumbnail>https://i.imgur.com/b9jOeMY.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Racing[/B][/COLOR]</title>
-	<link>http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8</link>
-	<thumbnail>https://i.imgur.com/eytrf0Y.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Sports 2[/B][/COLOR]</title>
-	<link>http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8</link>
-	<thumbnail>https://i.imgur.com/qBdOZ1x.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]D[/B][/COLOR][COLOR white][B]ubai Sports 3[/B][/COLOR]</title>
-	<link>http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8</link>
-	<thumbnail>https://i.imgur.com/hxxjMPJ.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]DGEsport[/B][/COLOR]</title>
-	<link>https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8</link>
-	<thumbnail>https://i.imgur.com/ye3ckSd.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport 1 Russia[/B][/COLOR]</title>
-	<link>https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8</link>
-	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]G[/B][/COLOR][COLOR white][B]OLTV[/B][/COLOR]</title>
-	<link>http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8</link>
-	<thumbnail>https://i.imgur.com/OxIKeaX.jpg</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]orizon Sports[/B][/COLOR]</title>
-	<link>https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8</link>
-	<thumbnail>https://i.imgur.com/jt6g1Jt.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]I[/B][/COLOR][COLOR white][B]RC Sport TV[/B][/COLOR]</title>
-	<link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
-	<thumbnail>https://www.ircsporttv.it/assets/front/img/logo.png</thumbnail> 
-</item>
-
-<item> 
-	<title>[COLOR lime][B]O[/B][/COLOR][COLOR white][B]lympic Channel (HD)[/B][/COLOR]</title>
-	<link>http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8</link>
-	<thumbnail>https://i.imgur.com/IpssJvp.png</thumbnail> 
-</item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]acing.com[/B][/COLOR]</title>
 	<link>https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8</link>
 	<thumbnail>https://i.imgur.com/1M4zMdC.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ai Sport[/B][/COLOR]</title>
 	<link>http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8</link>
 	<thumbnail>https://i.imgur.com/Lqtz4tS.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]eal Betis TV[/B][/COLOR]</title>
 	<link>https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8</link>
 	<thumbnail>https://i.imgur.com/oBRbWV3.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]eal Madrid TV[/B][/COLOR]</title>
 	<link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</link>
 	<thumbnail>https://i.imgur.com/2M9WfqA.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]ed Bull TV[/B][/COLOR]</title>
 	<link>http://i.mjh.nz/nz/tv.redbull.tv.m3u8</link>
 	<thumbnail>https://i.imgur.com/7NeBmWX.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]TM Sports[/B][/COLOR]</title>
 	<link>http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]TV Sports[/B][/COLOR]</title>
 	<link>https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita_t64SEQoNzIwcCk=.m3u8</link>
 	<thumbnail>https://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png</thumbnail> 
 </item>
 
+
+<!-- S -->
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 2 ALB[/B][/COLOR]</title>
+	<link>https://goool7.ws/lba/123/g2/ss2al.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 3 ALB[/B][/COLOR]</title>
+	<link>https://goool7.ws/lba/123/g8/albaniasport3.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]üper Sport 3 HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g8/albaniasport3.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperSport 4 ALB[/B][/COLOR]</title>
+	<link>https://goool7.ws/lba/123/g10/super4sport.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]etna Sport HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g8/setantarus.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]uperTennis IT[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g5/itsupertennis.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 1 Portugal HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g6/tv1pt.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 2 Portugal HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g1/sport2port.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 3 Portugal HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g2/pt3sport.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 4 Portugal HD[/B][/COLOR]</title>
+	<link>https://goool7.ws/lba/123/g9/portugalsport4.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT 5 Portugal HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g8/ptsport5.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT Klub 1 Serbia HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g5/sportklub1rs.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]PORT Klub 3 Serbia HD[/B][/COLOR]</title>
+	<link>https://sport7.biz/lba/123/g8/rs3sk.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 1[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/2131729618|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 2[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/995885125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 3[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/1592443304|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 4[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/774721098|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 5[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/426904342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS 6[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/285699748|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS HD[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/2013868628|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
+<item>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]KYNET SPORTS PLUS[/B][/COLOR]</title>
+	<link>http://221.178.148.115:9981/stream/channelid/768345644|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0</link>
+</item>
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]etanta Sports[/B][/COLOR]</title>
 	<link>http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]etanta Sports 2[/B][/COLOR]</title>
 	<link>http://92.43.140.200/s82/04.m3u8</link>
 	<thumbnail>https://i.imgur.com/P4NDvnU.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]etanta Sports +[/B][/COLOR]</title>
 	<link>http://92.46.127.146:8080/SetantaSportPlus/index.m3u8</link>
 	<thumbnail>https://i.imgur.com/7BiFYUC.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]harjah Sports[/B][/COLOR]</title>
 	<link>https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8</link>
 	<thumbnail>https://i.imgur.com/IaRaabJ.jpg</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1[/B][/COLOR]</title>
 	<link>https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 2[/B][/COLOR]</title>
 	<link>https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 3[/B][/COLOR]</title>
 	<link>https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 4[/B][/COLOR]</title>
 	<link>https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 5[/B][/COLOR]</title>
 	<link>https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
-
 <item> 
 	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 6[/B][/COLOR]</title>
 	<link>https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8</link>
 	<thumbnail>https://i.imgur.com/hVmWVHj.png</thumbnail> 
 </item>
 
+
+<!-- T -->
+
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD1[/B][/COLOR]</title>
+	<link>https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD2[/B][/COLOR]</title>
+	<link>https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD3[/B][/COLOR]</title>
+	<link>https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD4[/B][/COLOR]</title>
+	<link>https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD5[/B][/COLOR]</title>
+	<link>https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8</link>
+</item>
 <item>
 	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]BS[/B][/COLOR]</title>
 	<link>http://sv8.dailymotion.com.1cdn.host/live/tbs/playlist.m3u8|Referer=http://123tvnow.com/watch/tbs/</link>
 	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]LB Network [/B]720p[/COLOR]</title>
-	<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
-	<fanart>https://exstreamist.com/how-to-watch-major-league-baseball-mlb-online-for-free/</fanart>
-</item>
-
-<item>
-	<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC News [/B]720p[/COLOR]</title>
-	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0</link>
 </item>
