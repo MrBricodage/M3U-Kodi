@@ -1,41 +1,43 @@
 #EXTM3U
-#EXTINF:-1,zdorovood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1,Estrellas
-https://mj1b2xsspj.singularcdn.net.br:443/encompass/Estrellas/master_Layer3.m3u8
-#EXTINF:-1,jambitv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1,HRT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.205.41:8080/HRT2/index.m3u8
-#EXTINF:-1,BEIN 2 
-https://makalemun.net/dd3_201.m3u8
-#EXTINF:-1,BEIN 3
-https://makalemun.net/dd3_202.m3u8
-#EXTINF:-1,BEIN1
-https://makalemun.net/dd3_200.m3u8
-#EXTINF:-1,Canalj
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1,Teletoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1,dhartitv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer12.dstreamone.com/dhartitv/dhartitv/chunklist.m3u8
-#EXTINF:-1,247tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.me:5000/247tv/247tv/chunklist.m3u8
-#EXTINF:-1,rtvutrecht
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1,Jaffnatv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
-#EXTINF:-1,ottv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/961/index.m3u8
-#EXTINF:-1,ru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1102/index.m3u
-#EXTINF:-1,rcnhd
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1,giniko
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#EXTINF:-1,TV1000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.174.8.7:8000/play/22/index.m3u8
-#EXTINF:-1,rainews1
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1200/chunklist.m3u8
+#EXTINF:-1,KT: TRT Kurdi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1,KT: Cira TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3672.ts
+#EXTINF:-1,KT: ARTI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3677.ts
+#EXTINF:-1,KT: STERK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3674.ts
+#EXTINF:-1,KT: ZAROK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/18462.ts
+#EXTINF:-1,KT: Medya Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3668.ts
+#EXTINF:-1,KT: KURDMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3682.ts
+#EXTINF:-1,KT: Kurdistan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3673.ts
+#EXTINF:-1,KT: Kurdistan 24 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3676.ts
+#EXTINF:-1,KT: Med Muzik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3671.ts
+#EXTINF:-1,KT: Dersim TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3681.ts
+#EXTINF:-1,KT: ROJAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3670.ts
+#EXTINF:-1,KT: NRT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3669.ts
+#EXTINF:-1,KT: Rohani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3680.ts
+#EXTINF:-1,KT: Kurdsat News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3679.ts
+#EXTINF:-1,KT: Rudaw live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3667.ts
+#EXTINF:-1,KT: Waar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/3675.ts
+#EXTINF:-1,KT: HEVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/18466.ts
+#EXTINF:-1,KT: KOREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/18463.ts
+#EXTINF:-1,KT: SPEDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/18464.ts
+#EXTINF:-1,KT: ZAGROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://forever.moppie.info:7444/live/anahsjstsgdfsscc9262_ii/kronivca98642aswwe/18465.ts

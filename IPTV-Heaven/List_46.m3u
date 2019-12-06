@@ -1,7 +1,1329 @@
-#EXTM3U PANEL_BEIN
-#EXTINF:-1,BEINSPORTS 11 HD BACKUP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN11spo/HHggFVfhgg/22.ts
-#EXTINF:-1,BEINSPORTS 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN11spo/HHggFVfhgg/21.ts
-#EXTINF:-1,BEINSPORTS 11 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN11spo/HHggFVfhgg/35.ts
+#EXTM3U
+#EXTINF:-1,Zoomoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1
+#EXTINF:-1,Zoomoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/2
+#EXTINF:-1,Warner Bros SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/3
+#EXTINF:-1,Warner Bros HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/4
+#EXTINF:-1,Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/5
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/6
+#EXTINF:-1,VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/7
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/8
+#EXTINF:-1,Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/11
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/12
+#EXTINF:-1,TV Rio Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/13
+#EXTINF:-1,TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/14
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/15
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/16
+#EXTINF:-1,Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/17
+#EXTINF:-1,TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/18
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/20
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/21
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/22
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/23
+#EXTINF:-1,Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/24
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/25
+#EXTINF:-1,Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/26
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/27
+#EXTINF:-1,Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/28
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/29
+#EXTINF:-1,Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/30
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/31
+#EXTINF:-1,Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/32
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/33
+#EXTINF:-1,Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/34
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/35
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/36
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/37
+#EXTINF:-1,Tbs SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/38
+#EXTINF:-1,Tbs HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/39
+#EXTINF:-1,Syfy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/40
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/41
+#EXTINF:-1,Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/42
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/43
+#EXTINF:-1,SporTV3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/44
+#EXTINF:-1,SporTV3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/45
+#EXTINF:-1,SporTV2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/46
+#EXTINF:-1,SporTV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/47
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/48
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/49
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/50
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/51
+#EXTINF:-1,Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/52
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/53
+#EXTINF:-1,Sbt SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/58
+#EXTINF:-1,Sbt HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/59
+#EXTINF:-1,RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/60
+#EXTINF:-1,RedeTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/61
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/62
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/63
+#EXTINF:-1,Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/64
+#EXTINF:-1,Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/65
+#EXTINF:-1,Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/66
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/67
+#EXTINF:-1,Record HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/68
+#EXTINF:-1,Rá- Tim- Bum SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/69
+#EXTINF:-1,Rá -Tim Bum- HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/70
+#EXTINF:-1,Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/71
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/72
+#EXTINF:-1,Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/73
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/74
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/75
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/76
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/77
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/78
+#EXTINF:-1,Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/79
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/80
+#EXTINF:-1,Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/81
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/82
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/83
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/84
+#EXTINF:-1,Premiere 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/85
+#EXTINF:-1,Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/86
+#EXTINF:-1,Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/90
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/91
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/92
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/93
+#EXTINF:-1,Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/94
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/95
+#EXTINF:-1,NHK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/96
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/97
+#EXTINF:-1,National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/98
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/99
+#EXTINF:-1,Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/100
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/101
+#EXTINF:-1,Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/102
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/104
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/105
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/106
+#EXTINF:-1,Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/108
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/109
+#EXTINF:-1,Max UP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/110
+#EXTINF:-1,Max UP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/111
+#EXTINF:-1,Max SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/112
+#EXTINF:-1,MAX Prime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/113
+#EXTINF:-1,Mais Globosat SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/116
+#EXTINF:-1,Mais Globosat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/117
+#EXTINF:-1,Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/118
+#EXTINF:-1,ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/120
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/121
+#EXTINF:-1,History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/122
+#EXTINF:-1,HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/124
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/126
+#EXTINF:-1,HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/127
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/128
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/129
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/130
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/131
+#EXTINF:-1,HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/132
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/133
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/134
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/135
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/137
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/138
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/139
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/140
+#EXTINF:-1,GloboNews SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/142
+#EXTINF:-1,GloboNews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/143
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/144
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/145
+#EXTINF:-1,Fox Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/146
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/147
+#EXTINF:-1,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/148
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/150
+#EXTINF:-1,Fox Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/151
+#EXTINF:-1,FOX Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/155
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/156
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/157
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/158
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/159
+#EXTINF:-1,FISH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/161
+#EXTINF:-1,Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/162
+#EXTINF:-1,Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/163
+#EXTINF:-1,Espn Extra  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/164
+#EXTINF:-1,Espn Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/165
+#EXTINF:-1,Espn 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/166
+#EXTINF:-1,Espn 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/167
+#EXTINF:-1,Espn Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/168
+#EXTINF:-1,Espn Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/169
+#EXTINF:-1,Espn2  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/170
+#EXTINF:-1,Espn2  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/171
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/172
+#EXTINF:-1,Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/174
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/175
+#EXTINF:-1,Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/176
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/177
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/178
+#EXTINF:-1,Disney Channel  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/179
+#EXTINF:-1,Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/180
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/181
+#EXTINF:-1,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/182
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/183
+#EXTINF:-1,Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/184
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/185
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/186
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/187
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/188
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/189
+#EXTINF:-1,Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/190
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/191
+#EXTINF:-1,Canal HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/192
+#EXTINF:-1,Canal HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/193
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/194
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/195
+#EXTINF:-1,Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/196
+#EXTINF:-1,Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/197
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/198
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/199
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/200
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/201
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/202
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/203
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/204
+#EXTINF:-1,Canal Woohoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/206
+#EXTINF:-1,Canal Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/207
+#EXTINF:-1,Canal OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/208
+#EXTINF:-1,Canal OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/209
+#EXTINF:-1,Canal Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/210
+#EXTINF:-1,Canal Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/211
+#EXTINF:-1,Canal Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/212
+#EXTINF:-1,Canal Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/213
+#EXTINF:-1,Canal Canal Canção SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/214
+#EXTINF:-1,Canal Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/215
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/216
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/217
+#EXTINF:-1,BIZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/218
+#EXTINF:-1,BIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/219
+#EXTINF:-1,Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/220
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/221
+#EXTINF:-1,Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/223
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/224
+#EXTINF:-1,BabyTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/225
+#EXTINF:-1,BabyTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/226
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/227
+#EXTINF:-1,DogTv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/229
+#EXTINF:-1,DogTv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/230
+#EXTINF:-1,Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/231
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/232
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/233
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/235
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/236
+#EXTINF:-1,EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/237
+#EXTINF:-1,EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/238
+#EXTINF:-1,Record SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/239
+#EXTINF:-1,Record HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/240
+#EXTINF:-1,Band Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/241
+#EXTINF:-1,Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/242
+#EXTINF:-1,EPTV Campinas HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/246
+#EXTINF:-1,Premiere 1 HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/247
+#EXTINF:-1,Todo Mundo Odeia o Cris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/317
+#EXTINF:-1,Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/319
+#EXTINF:-1,Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/321
+#EXTINF:-1,Amc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/512
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/516
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/517
+#EXTINF:-1,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/518
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/519
+#EXTINF:-1,MAX Prime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/520
+#EXTINF:-1,Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/521
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/522
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/523
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/524
+#EXTINF:-1,FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/525
+#EXTINF:-1,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/526
+#EXTINF:-1,Fox Premium 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/527
+#EXTINF:-1,Fox Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/528
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/529
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/530
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/531
+#EXTINF:-1,History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/532
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/535
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/536
+#EXTINF:-1,Black Kamen Rider 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/537
+#EXTINF:-1,Canal CSI 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/538
+#EXTINF:-1,Caverna do Dragao  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/539
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/540
+#EXTINF:-1,Um Maluco No Pedaco  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/541
+#EXTINF:-1,Two And a Half Man 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/542
+#EXTINF:-1,The Big Bang Theory 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/543
+#EXTINF:-1,South Park 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/544
+#EXTINF:-1,MARVEL & DC 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/545
+#EXTINF:-1,MR. Bean 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/546
+#EXTINF:-1,Chaves 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/547
+#EXTINF:-1,Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/548
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/549
+#EXTINF:-1,Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/550
+#EXTINF:-1,Cine Family 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/551
+#EXTINF:-1,Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/552
+#EXTINF:-1,Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/554
+#EXTINF:-1,CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/555
+#EXTINF:-1,Tom & Jerry  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/557
+#EXTINF:-1,The Backyardigans 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/558
+#EXTINF:-1,Show da Luna 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/559
+#EXTINF:-1,Pokemon 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/560
+#EXTINF:-1,POCOYO 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/561
+#EXTINF:-1,Peppa Pig 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/562
+#EXTINF:-1,Os Simpsons 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/563
+#EXTINF:-1,Naruto 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/564
+#EXTINF:-1,Looney Tunnes 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/565
+#EXTINF:-1,Homem-Aranha 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/566
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/567
+#EXTINF:-1,DR. House 24HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/568
+#EXTINF:-1,Familia Dinossauro  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/569
+#EXTINF:-1,Jaspion 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/570
+#EXTINF:-1,Globo Ribeirão HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/985
+#EXTINF:-1,Globo Ribeirão SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/986
+#EXTINF:-1,Premiere 1 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1461
+#EXTINF:-1,Premiere 2 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1462
+#EXTINF:-1,Premiere 3 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1463
+#EXTINF:-1,Premiere 4 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1464
+#EXTINF:-1,Premiere 5 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1465
+#EXTINF:-1,Premiere 6 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1466
+#EXTINF:-1,Premiere 7 HD Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1467
+#EXTINF:-1,Lion Man 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1473
+#EXTINF:-1,Larva 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1474
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1475
+#EXTINF:-1,Galinha Pintadinha 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1476
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1477
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1478
+#EXTINF:-1,Cybercop 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1479
+#EXTINF:-1,Dragoes  24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1480
+#EXTINF:-1,Familia da Pesada 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1481
+#EXTINF:-1,Os Vingadores 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1482
+#EXTINF:-1,X-Men Evolution 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/flavio1/1234/1483
+#EXTINF:-1,Eli 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/1568.mkv
+#EXTINF:-1,Vingadores Utimato
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/1581.mp4
+#EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2077.mp4
+#EXTINF:-1,Harry Potter e o Enigma do Príncipe 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2076.mp4
+#EXTINF:-1,Harry Potter e o Cálice de Fogo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2075.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2074.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2073.mp4
+#EXTINF:-1,Harry Potter e a Pedra Filosofal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2072.mp4
+#EXTINF:-1,Harry Potter e a Ordem da Fénix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2071.mp4
+#EXTINF:-1,Harry Potter e a Câmara Secreta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2070.mp4
+#EXTINF:-1,Animais Fantásticos e Onde Habitam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2079.mkv
+#EXTINF:-1,Monstros Fantásticos: Os Crimes de Grindelwald - 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2078.mkv
+#EXTINF:-1,A Hora do Pesadelo 6 - Pesadelo Final A Morte de Freddy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2085.mp4
+#EXTINF:-1,A Hora do Pesadelo 7 - O Novo Pesadelo - O Retorno de Freddy Krueger
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2086.mp4
+#EXTINF:-1,A Hora do Pesadelo 5 - O Maior Horror de Freddy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2084.mp4
+#EXTINF:-1,A Hora do Pesadelo 4 - O Mestre dos Sonhos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2083.mp4
+#EXTINF:-1,A Hora do Pesadelo 3 - Os Guerreiros dos Sonhos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2082.mp4
+#EXTINF:-1,A Hora do Pesadelo 2 - A Vingança de Freddy 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2081.mp4
+#EXTINF:-1,A Hora do Pesadelo 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2080.mp4
+#EXTINF:-1,O Exterminador do Futuro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2087.mkv
+#EXTINF:-1,Exterminador Implacável 2: O Dia do Julgamento 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2088.mkv
+#EXTINF:-1,O Exterminador do Futuro 3 - A Rebelião das Máquinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2089.mkv
+#EXTINF:-1,O Exterminador do Futuro: A Salvação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2090.mkv
+#EXTINF:-1,Anna – O Perigo Tem Nome
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2091.mkv
+#EXTINF:-1,Um Panda em Apuros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2093.mp4
+#EXTINF:-1,Nada a Perder
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2092.mkv
+#EXTINF:-1,Braddock – O Super Comando
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2096.avi
+#EXTINF:-1,Braddock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2095.avi
+#EXTINF:-1,Carga Explosiva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2097.mkv
+#EXTINF:-1,Carga Explosiva 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2098.mkv
+#EXTINF:-1,Carga Explosiva 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2099.mkv
+#EXTINF:-1,De Volta Para o Futuro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2104.avi
+#EXTINF:-1,De Volta Para o Futuro II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2105.avi
+#EXTINF:-1,De Volta Para o Futuro III 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2106.avi
+#EXTINF:-1,O Exterminador do Futuro: Gênesis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2107.mp4
+#EXTINF:-1,Homens de Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2108.mp4
+#EXTINF:-1,Mad Max - 1979
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2113.mkv
+#EXTINF:-1,O Bicho Vai Pegar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2114.mp4
+#EXTINF:-1,O Bicho Vai Pegar 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2115.mp4
+#EXTINF:-1,O Bicho Vai Pegar 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2116.mp4
+#EXTINF:-1,Se Beber, Não Case! - Parte I
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2117.mp4
+#EXTINF:-1,Se Beber, Não Case! - Parte II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2118.mp4
+#EXTINF:-1,Se Beber, Não Case! - Parte III 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2119.mp4
+#EXTINF:-1,Tinker Bell - Uma Aventura no Mundo das Fadas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2120.mkv
+#EXTINF:-1,Voando Alto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2193.mkv
+#EXTINF:-1,O Natal Está no Ar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2192.mkv
+#EXTINF:-1,It: Capítulo 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2191.mp4
+#EXTINF:-1,Dead Kids 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2190.mkv
+#EXTINF:-1,Mogli: A Lenda da Selva 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2195.mkv
+#EXTINF:-1,A Justiceira 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2194.mkv
+#EXTINF:-1,O Irlandês
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2196.mkv
+#EXTINF:-1,Super Monstros - Superamigos para Sempre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2197.mkv
+#EXTINF:-1,Evocando Espiritos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2212.mkv
+#EXTINF:-1,Um Passado de Presente
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2211.mkv
+#EXTINF:-1,Tá Rindo do Quê? 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2210.mkv
+#EXTINF:-1,Security
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2209.mkv
+#EXTINF:-1,Rambo: Até o Fim
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2208.mkv
+#EXTINF:-1,Pedro Coelho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2207.mp4
+#EXTINF:-1,O Segredo da Caveira: Um Mistério de Aurora Teagarden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2206.avi
+#EXTINF:-1,Operação Supletivo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2205.mp4
+#EXTINF:-1,Killerman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2204.mkv
+#EXTINF:-1,Coringa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2203.mkv
+#EXTINF:-1,Doutor Sono
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2201.mkv
+#EXTINF:-1,A Proposta 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2200.mp4
+#EXTINF:-1,Quarto de Guerra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2250.mp4
+#EXTINF:-1,Estrada Sem Lei
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2249.mp4
+#EXTINF:-1,A Força
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2248.mp4
+#EXTINF:-1,Sob o Sol do Oeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2246.mp4
+#EXTINF:-1,Sete Homens e um Destino - 1960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2245.mkv
+#EXTINF:-1,Sete Homens e um Destino - 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2244.mkv
+#EXTINF:-1,Rápida E Mortal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2243.mp4
+#EXTINF:-1,Os Renegados
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2242.mp4
+#EXTINF:-1,Jovens Pistoleiros 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2241.mkv
+#EXTINF:-1,Os Imperdoáveis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2240.mkv
+#EXTINF:-1,Ultimo Duelo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2239.mp4
+#EXTINF:-1,Jonah Hex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2238.mkv
+#EXTINF:-1,American Pie 2 - A Segunda Vez é Ainda Melhor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2251.mp4
+#EXTINF:-1,American Pie — A Primeira Vez é Inesquecível
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2252.mp4
+#EXTINF:-1,American Pie: O Livro do Amor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2253.mp4
+#EXTINF:-1,American Pie - Caindo em Tentação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2254.mp4
+#EXTINF:-1,American Pie: O Casamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2255.mp4
+#EXTINF:-1,American Pie: O Reencontro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2256.mp4
+#EXTINF:-1,American Pie - O Último Stifler Virgem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2257.mp4
+#EXTINF:-1,American Pie - Tocando a Maior Zona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2258.mp4
+#EXTINF:-1,Agente 00-Gato
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2259.mp4
+#EXTINF:-1,A Lenda do Cavaleiro Sem Cabeça 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2260.mp4
+#EXTINF:-1,Cortina de Fogo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2261.mp4
+#EXTINF:-1,Jack Reacher: Sem Retorno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2262.mp4
+#EXTINF:-1,O Implacável
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2263.mp4
+#EXTINF:-1,O Protetor 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2264.mp4
+#EXTINF:-1,O Sexto Dia 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2265.mp4
+#EXTINF:-1,Paulo, Apóstolo de Cristo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2266.mp4
+#EXTINF:-1,Rejeitados pelo Diabo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2267.mp4
+#EXTINF:-1,Shaft
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2268.mp4
+#EXTINF:-1,Snatch - Porcos E Diamantes 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2269.mp4
+#EXTINF:-1,Um Tira Muito Suspeito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2270.mp4
+#EXTINF:-1,Velozes & Furiosos: Hobbs & Shaw 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2271.mp4
+#EXTINF:-1,Zumbilandia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2272.mp4
+#EXTINF:-1,O Nosso Milagre 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2273.mp4
+#EXTINF:-1,Aquaman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2274.mp4
+#EXTINF:-1,As Panteras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2275.mp4
+#EXTINF:-1,Heróis Muito Loucos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2276.mp4
+#EXTINF:-1,O Justiceiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2277.mp4
+#EXTINF:-1,Timecop - O Guardião do Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2278.mp4
+#EXTINF:-1,Venom 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2279.mp4
+#EXTINF:-1,Capitão América: O Soldado do Inverno - 2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2294.mp4
+#EXTINF:-1,Capitão América: Guerra Civil - 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2295.mp4
+#EXTINF:-1,Capitão América - O Primeiro Vingador - 2011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2296.mp4
+#EXTINF:-1,Doutor Estranho - 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2297.mp4
+#EXTINF:-1,Homem-Formiga - 2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2298.mp4
+#EXTINF:-1,Homem de Ferro - 2008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2299.mp4
+#EXTINF:-1,Homem de Ferro 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2300.mp4
+#EXTINF:-1,Homem de Ferro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2301.mp4
+#EXTINF:-1,Hulk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2302.mp4
+#EXTINF:-1,Os Vingadores -The Avengers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2303.mp4
+#EXTINF:-1,Pantera Negra 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2304.mp4
+#EXTINF:-1,Thor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2305.mp4
+#EXTINF:-1,Thor: O Mundo Sombrio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2306.mp4
+#EXTINF:-1,Thor: Ragnarok
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2307.mp4
+#EXTINF:-1,Shrek - 2001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2308.mp4
+#EXTINF:-1,Shrek 2 - 2004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2309.mp4
+#EXTINF:-1,Shrek Para Sempre - 2010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2310.mp4
+#EXTINF:-1,Shrek o Terceiro - 2007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2311.mp4
+#EXTINF:-1,Velozes e Furiosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2312.mp4
+#EXTINF:-1,+ Velozes + Furiosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2313.mp4
+#EXTINF:-1,Velozes e Furiosos 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2314.mp4
+#EXTINF:-1,Velozes e Furiosos 5: Operação Rio - 2011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2315.mp4
+#EXTINF:-1,Velozes e Furiosos 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2316.mp4
+#EXTINF:-1,Velozes e Furiosos 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2317.mp4
+#EXTINF:-1,Velozes e Furiosos: Desafio em Tóquio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2318.mp4
+#EXTINF:-1,Kung Fu Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2319.mp4
+#EXTINF:-1,Kung Fu Panda 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2320.mp4
+#EXTINF:-1,Kung Fu Panda 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2321.mp4
+#EXTINF:-1,Olhos Famintos 3 - 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2322.mp4
+#EXTINF:-1,Olhos Famintos 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2323.mp4
+#EXTINF:-1,Olhos Famintos 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2324.mp4
+#EXTINF:-1,O Senhor dos Anéis: As Duas Torres - 2002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2325.mp4
+#EXTINF:-1,o senhor dos anéis: a sociedade do anel - 2001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2326.mp4
+#EXTINF:-1,O Senhor dos Anéis: O Retorno do Rei - 2003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2327.mp4
+#EXTINF:-1,Pânico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2328.mp4
+#EXTINF:-1,Pânico 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2329.mp4
+#EXTINF:-1,Pânico 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2330.mp4
+#EXTINF:-1,Pânico 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2331.mp4
+#EXTINF:-1,Busca Implacável 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2332.mp4
+#EXTINF:-1,Busca Implacável 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2333.mp4
+#EXTINF:-1,Busca Implacável 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/movie/flavio1/1234/2334.mp4
+#EXTINF:-1,Titans S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1570.mkv
+#EXTINF:-1,Titans S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1571.mkv
+#EXTINF:-1,Titans S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1572.mkv
+#EXTINF:-1,Titans S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1573.mkv
+#EXTINF:-1,Titans S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1574.mkv
+#EXTINF:-1,Titans S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1575.mkv
+#EXTINF:-1,Titans S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1576.mkv
+#EXTINF:-1,Titans S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1577.mkv
+#EXTINF:-1,Titans S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1578.mkv
+#EXTINF:-1,Titans S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1579.mkv
+#EXTINF:-1,Titans S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1580.mkv
+#EXTINF:-1,Lucifer S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1582.mkv
+#EXTINF:-1,Lucifer S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1583.mkv
+#EXTINF:-1,Lucifer S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1584.mkv
+#EXTINF:-1,Lucifer S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1585.mkv
+#EXTINF:-1,Lucifer S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1586.mkv
+#EXTINF:-1,Lucifer S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1587.mkv
+#EXTINF:-1,Lucifer S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1588.mkv
+#EXTINF:-1,Lucifer S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1589.mkv
+#EXTINF:-1,Lucifer S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1590.mkv
+#EXTINF:-1,Lucifer S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1591.mkv
+#EXTINF:-1,Lucifer S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1592.mkv
+#EXTINF:-1,Lucifer S01 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1593.mkv
+#EXTINF:-1,Lucifer S01 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1594.mkv
+#EXTINF:-1,Lucifer S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1595.mkv
+#EXTINF:-1,Lucifer S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1596.mkv
+#EXTINF:-1,Lucifer S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1597.mkv
+#EXTINF:-1,Lucifer S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1598.mkv
+#EXTINF:-1,Lucifer S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1599.mkv
+#EXTINF:-1,Lucifer S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1600.mkv
+#EXTINF:-1,Lucifer S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1601.mkv
+#EXTINF:-1,Lucifer S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1602.mkv
+#EXTINF:-1,Lucifer S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1603.mkv
+#EXTINF:-1,Lucifer S02 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1604.mkv
+#EXTINF:-1,Lucifer S02 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1605.mkv
+#EXTINF:-1,Lucifer S02 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1606.mkv
+#EXTINF:-1,Lucifer S02 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1607.mkv
+#EXTINF:-1,Lucifer S02 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1608.mkv
+#EXTINF:-1,Lucifer S02 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1609.mkv
+#EXTINF:-1,Lucifer S02 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1610.mkv
+#EXTINF:-1,Lucifer S02 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1611.mkv
+#EXTINF:-1,Lucifer S02 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1612.mkv
+#EXTINF:-1,Lucifer S03 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1613.mkv
+#EXTINF:-1,Lucifer S03 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1614.mkv
+#EXTINF:-1,Lucifer S03 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1615.mkv
+#EXTINF:-1,Lucifer S03 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1616.mkv
+#EXTINF:-1,Lucifer S03 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1617.mkv
+#EXTINF:-1,Lucifer S03 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1618.mkv
+#EXTINF:-1,Lucifer S03 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1619.mkv
+#EXTINF:-1,Lucifer S03 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1620.mkv
+#EXTINF:-1,Lucifer S03 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1621.mkv
+#EXTINF:-1,Lucifer S03 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1622.mkv
+#EXTINF:-1,Lucifer S03 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1623.mkv
+#EXTINF:-1,Lucifer S03 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1624.mkv
+#EXTINF:-1,Lucifer S03 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1625.mkv
+#EXTINF:-1,Lucifer S03 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1626.mkv
+#EXTINF:-1,Lucifer S03 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1627.mkv
+#EXTINF:-1,Lucifer S03 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1628.mkv
+#EXTINF:-1,Lucifer S03 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1629.mkv
+#EXTINF:-1,Lucifer S03 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1630.mkv
+#EXTINF:-1,Lucifer S03 E19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1631.mkv
+#EXTINF:-1,Lucifer S03 E20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1632.mkv
+#EXTINF:-1,Lucifer S03 E21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1633.mkv
+#EXTINF:-1,Lucifer S03 E22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1634.mkv
+#EXTINF:-1,Lucifer S03 E23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1635.mkv
+#EXTINF:-1,Lucifer S03 E24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1636.mkv
+#EXTINF:-1,Lucifer S03 E25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1637.mkv
+#EXTINF:-1,Lucifer S03 E26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1638.mkv
+#EXTINF:-1,Lucifer S04 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1639.mkv
+#EXTINF:-1,Lucifer S04 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1640.mkv
+#EXTINF:-1,Lucifer S04 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1641.mkv
+#EXTINF:-1,Lucifer S04 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1642.mkv
+#EXTINF:-1,Lucifer S04 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1643.mkv
+#EXTINF:-1,Lucifer S04 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1644.mkv
+#EXTINF:-1,Lucifer S04 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1645.mkv
+#EXTINF:-1,Lucifer S04 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1646.mkv
+#EXTINF:-1,Lucifer S04 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1647.mkv
+#EXTINF:-1,Lucifer S04 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1648.mkv
+#EXTINF:-1,Manifest S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1649.mkv
+#EXTINF:-1,Manifest S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1650.mkv
+#EXTINF:-1,Manifest S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1651.mkv
+#EXTINF:-1,Manifest S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1652.mkv
+#EXTINF:-1,Manifest S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1653.mkv
+#EXTINF:-1,Manifest S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1654.mkv
+#EXTINF:-1,Manifest S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1655.mkv
+#EXTINF:-1,Manifest S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1656.mkv
+#EXTINF:-1,Manifest S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1657.mkv
+#EXTINF:-1,Manifest S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1658.mkv
+#EXTINF:-1,Manifest S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1659.mkv
+#EXTINF:-1,Manifest S01 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1660.mkv
+#EXTINF:-1,Manifest S01 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1661.mkv
+#EXTINF:-1,Manifest S01 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1662.mkv
+#EXTINF:-1,Manifest S01 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1663.mkv
+#EXTINF:-1,Manifest S01 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1664.mkv
+#EXTINF:-1,Vis a vis S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1665.mkv
+#EXTINF:-1,Vis a vis S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1666.mkv
+#EXTINF:-1,Vis a vis S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1667.mkv
+#EXTINF:-1,Vis a vis S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1668.mkv
+#EXTINF:-1,Vis a vis S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1669.mkv
+#EXTINF:-1,Vis a vis S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1670.mkv
+#EXTINF:-1,Vis a vis S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1671.mkv
+#EXTINF:-1,Vis a vis S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1672.mkv
+#EXTINF:-1,Vis a vis S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1673.mkv
+#EXTINF:-1,Vis a vis S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1674.mkv
+#EXTINF:-1,Vis a vis S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1675.mkv
+#EXTINF:-1,Vis a vis S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1676.mkv
+#EXTINF:-1,Vis a vis S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1677.mkv
+#EXTINF:-1,Vis a vis S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1678.mkv
+#EXTINF:-1,Vis a vis S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1679.mkv
+#EXTINF:-1,Vis a vis S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1680.mkv
+#EXTINF:-1,Vis a vis S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1681.mkv
+#EXTINF:-1,Vis a vis S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1682.mkv
+#EXTINF:-1,Vis a vis S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1683.mkv
+#EXTINF:-1,Vis a vis S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1684.mkv
+#EXTINF:-1,Vis a vis S02 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1685.mkv
+#EXTINF:-1,Vis a vis S02 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1686.mkv
+#EXTINF:-1,Vis a vis S02 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1687.mkv
+#EXTINF:-1,Vis a vis S02 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1688.mkv
+#EXTINF:-1,Vis a vis S03 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1689.mkv
+#EXTINF:-1,Vis a vis S03 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1690.mkv
+#EXTINF:-1,Vis a vis S03 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1691.mkv
+#EXTINF:-1,Vis a vis S03 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1692.mkv
+#EXTINF:-1,Vis a vis S03 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1693.mkv
+#EXTINF:-1,Vis a vis S03 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1694.mkv
+#EXTINF:-1,Vis a vis S03 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1695.mkv
+#EXTINF:-1,Vis a vis S03 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1696.mkv
+#EXTINF:-1,Vis a vis S04 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1697.mkv
+#EXTINF:-1,Vis a vis S04 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1698.mkv
+#EXTINF:-1,Vis a vis S04 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1699.mkv
+#EXTINF:-1,Vis a vis S04 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1700.mkv
+#EXTINF:-1,Vis a vis S04 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1701.mkv
+#EXTINF:-1,Vis a vis S04 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1702.mkv
+#EXTINF:-1,Vis a vis S04 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1703.mkv
+#EXTINF:-1,Vis a vis S04 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1704.mkv
+#EXTINF:-1,Casa de Papel S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1705.mkv
+#EXTINF:-1,Casa de Papel S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1706.mkv
+#EXTINF:-1,Casa de Papel S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1707.mkv
+#EXTINF:-1,Casa de Papel S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1708.mkv
+#EXTINF:-1,Casa de Papel S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1709.mkv
+#EXTINF:-1,Casa de Papel S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1710.mkv
+#EXTINF:-1,Casa de Papel S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1711.mkv
+#EXTINF:-1,Casa de Papel S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1712.mkv
+#EXTINF:-1,Casa de Papel S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1713.mkv
+#EXTINF:-1,Casa de Papel S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1714.mkv
+#EXTINF:-1,Casa de Papel S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1715.mkv
+#EXTINF:-1,Casa de Papel S01 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1716.mkv
+#EXTINF:-1,Casa de Papel S01 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1717.mkv
+#EXTINF:-1,Casa de Papel S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1718.mkv
+#EXTINF:-1,Casa de Papel S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1719.mkv
+#EXTINF:-1,Casa de Papel S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1720.mkv
+#EXTINF:-1,Casa de Papel S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1721.mkv
+#EXTINF:-1,Casa de Papel S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1722.mkv
+#EXTINF:-1,Casa de Papel S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1723.mkv
+#EXTINF:-1,Casa de Papel S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1724.mkv
+#EXTINF:-1,Casa de Papel S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1725.mkv
+#EXTINF:-1,Casa de Papel S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1726.mkv
+#EXTINF:-1,Casa de Papel S03 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1727.mkv
+#EXTINF:-1,Casa de Papel S03 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1728.mkv
+#EXTINF:-1,Casa de Papel S03 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1729.mkv
+#EXTINF:-1,Casa de Papel S03 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1730.mkv
+#EXTINF:-1,Casa de Papel S03 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1731.mkv
+#EXTINF:-1,Casa de Papel S03 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1732.mkv
+#EXTINF:-1,Casa de Papel S03 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1733.mkv
+#EXTINF:-1,Casa de Papel S03 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/1734.mkv
+#EXTINF:-1,Supergirl S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2127.mkv
+#EXTINF:-1,Supergirl S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2128.mkv
+#EXTINF:-1,Supergirl S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2129.mkv
+#EXTINF:-1,Supergirl S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2130.mkv
+#EXTINF:-1,Supergirl S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2131.mkv
+#EXTINF:-1,Supergirl S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2132.mkv
+#EXTINF:-1,Supergirl S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2133.mkv
+#EXTINF:-1,Supergirl S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2134.mkv
+#EXTINF:-1,Supergirl S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2135.mkv
+#EXTINF:-1,Supergirl S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2136.mkv
+#EXTINF:-1,Supergirl S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2137.mkv
+#EXTINF:-1,Supergirl S01 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2138.mkv
+#EXTINF:-1,Supergirl S01 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2139.mkv
+#EXTINF:-1,Supergirl S01 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2140.mkv
+#EXTINF:-1,Supergirl S01 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2141.mkv
+#EXTINF:-1,Supergirl S01 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2142.mkv
+#EXTINF:-1,Supergirl S01 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2143.mkv
+#EXTINF:-1,Supergirl S01 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2144.mkv
+#EXTINF:-1,Supergirl S01 E19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2145.mkv
+#EXTINF:-1,Supergirl S01 E20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2146.mkv
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2147.mp4
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2148.mkv
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2149.mkv
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2150.mkv
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2151.mkv
+#EXTINF:-1,His Dark Materials - Fronteiras do Universo S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2152.mkv
+#EXTINF:-1,The Good Doctor S01 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2154.mkv
+#EXTINF:-1,The Good Doctor S01 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2153.mp4
+#EXTINF:-1,The Good Doctor S01 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2155.mkv
+#EXTINF:-1,The Good Doctor S01 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2156.mkv
+#EXTINF:-1,The Good Doctor S01 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2157.mkv
+#EXTINF:-1,The Good Doctor S01 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2158.mkv
+#EXTINF:-1,The Good Doctor S01 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2159.mkv
+#EXTINF:-1,The Good Doctor S01 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2160.mkv
+#EXTINF:-1,The Good Doctor S01 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2161.mkv
+#EXTINF:-1,The Good Doctor S01 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2162.mkv
+#EXTINF:-1,The Good Doctor S01 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2163.mkv
+#EXTINF:-1,The Good Doctor S01 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2164.mkv
+#EXTINF:-1,The Good Doctor S01 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2165.mkv
+#EXTINF:-1,The Good Doctor S01 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2166.mkv
+#EXTINF:-1,The Good Doctor S01 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2167.mkv
+#EXTINF:-1,The Good Doctor S01 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2168.mkv
+#EXTINF:-1,The Good Doctor S01 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2169.mkv
+#EXTINF:-1,The Good Doctor S01 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2170.mkv
+#EXTINF:-1,The Good Doctor S01 E19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2171.mkv
+#EXTINF:-1,The Good Doctor S02 E01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2172.mkv
+#EXTINF:-1,The Good Doctor S02 E02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2173.mkv
+#EXTINF:-1,The Good Doctor S02 E03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2174.mkv
+#EXTINF:-1,The Good Doctor S02 E04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2175.mkv
+#EXTINF:-1,The Good Doctor S02 E05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2176.mkv
+#EXTINF:-1,The Good Doctor S02 E06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2177.mkv
+#EXTINF:-1,The Good Doctor S02 E07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2178.mkv
+#EXTINF:-1,The Good Doctor S02 E08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2179.mkv
+#EXTINF:-1,The Good Doctor S02 E09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2180.mkv
+#EXTINF:-1,The Good Doctor S02 E10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2181.mkv
+#EXTINF:-1,The Good Doctor S02 E11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2182.mkv
+#EXTINF:-1,The Good Doctor S02 E12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2183.mkv
+#EXTINF:-1,The Good Doctor S02 E13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2184.mkv
+#EXTINF:-1,The Good Doctor S02 E14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2185.mkv
+#EXTINF:-1,The Good Doctor S02 E15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2186.mkv
+#EXTINF:-1,The Good Doctor S02 E16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2187.mkv
+#EXTINF:-1,The Good Doctor S02 E17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2188.mkv
+#EXTINF:-1,The Good Doctor S02 E18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/series/flavio1/1234/2189.mkv

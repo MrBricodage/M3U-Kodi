@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CHAMPIONS LEAGUE_By : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
+#EXTINF:-1,StarSports_Hd1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
+#EXTINF:-1,AD SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AD SPORT3_By : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8

@@ -1,547 +1,961 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT SPOR UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2815.m3u8
-#EXTINF:-1,TR: TRT SPOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3378.m3u8
-#EXTINF:-1,TR: TRT SPOR 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23199.m3u8
-#EXTINF:-1,TR: A SPOR UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3412.m3u8
-#EXTINF:-1,TR: A SPOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3409.m3u8
-#EXTINF:-1,TR: BEIN SPORTS HABER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/8642.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/11513.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 UHD BACKUP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/14953.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 4K H265 50HZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/16863.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6399.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 HQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6398.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 1 HD [ YEDEK ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12216.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3424.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6400.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 2 HD [ YEDEK ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3426.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3423.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6401.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 3 HD [ YEDEK ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3422.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3421.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6402.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 4 HD [ YEDEK ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/10799.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 5 HD [ YEDEK ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6403.m3u8
-#EXTINF:-1,TR: BEIN SPORTS 4K UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12215.m3u8
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12223.m3u8
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6410.m3u8
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12224.m3u8
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/6411.m3u8
-#EXTINF:-1,TR: BEiN SPORT 1 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18218.m3u8
-#EXTINF:-1,TR: BEiN SPORT 2 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18219.m3u8
-#EXTINF:-1,TR: BEiN SPORT 3 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18220.m3u8
-#EXTINF:-1,TR: BEiN SPORT 4 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18221.m3u8
-#EXTINF:-1,TR: BEiN MAX 1 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18222.m3u8
-#EXTINF:-1,TR: BEiN MAX 2 HD [ PLAY ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/18223.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3420.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2807.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3419.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2808.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3418.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2635.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2634.m3u8
-#EXTINF:-1,TR: EUROSPORT 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2694.m3u8
-#EXTINF:-1,TR: EUROSPORT 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2693.m3u8
-#EXTINF:-1,TR: FB TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2690.m3u8
-#EXTINF:-1,TR: FB TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/15932.m3u8
-#EXTINF:-1,TR: BJK TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2695.m3u8
-#EXTINF:-1,TR: GS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/3410.m3u8
-#EXTINF:-1,TR: NBA TV UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12228.m3u8
-#EXTINF:-1,TR: SARAN SPORT UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12226.m3u8
-#EXTINF:-1,TR: SARAN SPORT 2 UHD (MACTA ACiK)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/17933.m3u8
-#EXTINF:-1,TR: SPORTS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2650.m3u8
-#EXTINF:-1,TR: SPORTS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/14630.m3u8
-#EXTINF:-1,TR: SMART SPORT UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/12225.m3u8
-#EXTINF:-1,TR: SMART SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2664.m3u8
-#EXTINF:-1,TR: TJK TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/2805.m3u8
-#EXTINF:-1,*** NL SPORTS UHD XTREME iPTV ***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21009.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20638.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21115.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20618.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21116.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20639.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21117.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21118.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21119.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21120.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20659.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21122.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20660.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21121.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT RACING UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21123.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT GOLF UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20658.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21124.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21125.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21126.m3u8
-#EXTINF:-1,NL: MOTOR SPORT UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21127.m3u8
-#EXTINF:-1,NL: EUROSPORT 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20650.m3u8
-#EXTINF:-1,NL: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21114.m3u8
-#EXTINF:-1,NL: EUROSPORT 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20619.m3u8
-#EXTINF:-1,AR: ON SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22506.m3u8
-#EXTINF:-1,AR: ON SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22527.m3u8
-#EXTINF:-1,*** GERMANY SPORTS UHD XTREME iPTV ***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21307.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20800.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20799.m3u8
-#EXTINF:-1,DE: SPORTDIGITAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20803.m3u8
-#EXTINF:-1,DE: SPORT 1+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20802.m3u8
-#EXTINF:-1,DE: SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20804.m3u8
-#EXTINF:-1,DE: SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20801.m3u8
-#EXTINF:-1,DE: MOTORVISION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20805.m3u8
-#EXTINF:-1,DE: EUROSPORT U1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20806.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD XTRA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20808.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20807.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22158.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22159.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22160.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22167.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22161.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22162.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22163.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22164.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22165.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22166.m3u8
-#EXTINF:-1,FR: BFM SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22157.m3u8
-#EXTINF:-1,FR: CANAL+ SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22156.m3u8
-#EXTINF:-1,FR: EQUIDIA LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22092.m3u8
-#EXTINF:-1,FR: EQUIPE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22101.m3u8
-#EXTINF:-1,FR: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22154.m3u8
-#EXTINF:-1,FR: FOOT 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22153.m3u8
-#EXTINF:-1,FR: SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22168.m3u8
-#EXTINF:-1,FR: SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22169.m3u8
-#EXTINF:-1,FR: SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22170.m3u8
-#EXTINF:-1,FR: SFR SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22171.m3u8
-#EXTINF:-1,UK: BRITISH EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21901.m3u8
-#EXTINF:-1,UK: BRITISH EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21902.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21897.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21898.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21900.m3u8
-#EXTINF:-1,UK: BT SPORT EUROPE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21899.m3u8
-#EXTINF:-1,UK: EIR SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21905.m3u8
-#EXTINF:-1,UK: BOXNATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21896.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21891.m3u8
-#EXTINF:-1,UK: SKY SPORTS CRICKET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21890.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21894.m3u8
-#EXTINF:-1,UK: SKY SPORTS GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21892.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21889.m3u8
-#EXTINF:-1,UK: SKY SPORTS NEWS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21895.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21893.m3u8
-#EXTINF:-1,SP: M. MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21267.m3u8
-#EXTINF:-1,SP: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21266.m3u8
-#EXTINF:-1,SP: M. F.TBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21273.m3u8
-#EXTINF:-1,SP: M. ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21263.m3u8
-#EXTINF:-1,SP: M. eSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21274.m3u8
-#EXTINF:-1,SP: M. DEP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21271.m3u8
-#EXTINF:-1,SP: M. DEP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21270.m3u8
-#EXTINF:-1,IT: RAI SPORT 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23287.m3u8
-#EXTINF:-1,IT: RAI SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23288.m3u8
-#EXTINF:-1,PT: SPORTING TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21411.m3u8
-#EXTINF:-1,PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21423.m3u8
-#EXTINF:-1,PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21325.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21386.m3u8
-#EXTINF:-1,PT: SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21337.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21385.m3u8
-#EXTINF:-1,PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21345.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21382.m3u8
-#EXTINF:-1,PT: SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21358.m3u8
-#EXTINF:-1,PT: SPORT TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21407.m3u8
-#EXTINF:-1,PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21380.m3u8
-#EXTINF:-1,PT: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21400.m3u8
-#EXTINF:-1,PT: EURONEWS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21413.m3u8
-#EXTINF:-1,PT: EUROCHANNEL 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21311.m3u8
-#EXTINF:-1,PT: EURO SPORT 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21313.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21451.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21447.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21446.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21450.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21448.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21449.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21445.m3u8
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21444.m3u8
-#EXTINF:-1,PL: POLSAT SPORT NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21180.m3u8
-#EXTINF:-1,PL: POLSAT SPORT FIGHT HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21188.m3u8
-#EXTINF:-1,PL: POLSAT SPORT EXTRA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21170.m3u8
-#EXTINF:-1,PL: POLSAT SPORT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21172.m3u8
-#EXTINF:-1,PL: FIGHTBOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21174.m3u8
-#EXTINF:-1,PL: EXTREME SPORTS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21197.m3u8
-#EXTINF:-1,PL: EURO SPORT 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21186.m3u8
-#EXTINF:-1,PL: EURO SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21193.m3u8
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21201.m3u8
-#EXTINF:-1,PL: CANAL + SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21196.m3u8
-#EXTINF:-1,HU: DIGI SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22326.m3u8
-#EXTINF:-1,HU: DIGI SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22325.m3u8
-#EXTINF:-1,HU: DIGI SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22328.m3u8
-#EXTINF:-1,HU: DIGI SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22327.m3u8
-#EXTINF:-1,HU: DIGI SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22330.m3u8
-#EXTINF:-1,HU: DIGI SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22329.m3u8
-#EXTINF:-1,HU: M4 SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22324.m3u8
-#EXTINF:-1,HU: M4 SPORT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22323.m3u8
-#EXTINF:-1,HU: SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22331.m3u8
-#EXTINF:-1,HU: SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22332.m3u8
-#EXTINF:-1,HU: EXTREME SPORTS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22339.m3u8
-#EXTINF:-1,HU: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22333.m3u8
-#EXTINF:-1,HU: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22334.m3u8
-#EXTINF:-1,HU: SPILER 1 TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22336.m3u8
-#EXTINF:-1,HU: SPILER 1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22335.m3u8
-#EXTINF:-1,HU: SPILER 2 TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22338.m3u8
-#EXTINF:-1,HU: SPILER 2 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22337.m3u8
-#EXTINF:-1,HU: SOROZAT + 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22392.m3u8
-#EXTINF:-1,BG: DIEMA SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20960.m3u8
-#EXTINF:-1,BG: DIEMA SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20958.m3u8
-#EXTINF:-1,BG: DIEMA SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20959.m3u8
-#EXTINF:-1,BG: SPORTKLUB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20894.m3u8
-#EXTINF:-1,BG: SPORTKLUB 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20893.m3u8
-#EXTINF:-1,BG: SPORTKLUB 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20892.m3u8
-#EXTINF:-1,BG: SPORT PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20895.m3u8
-#EXTINF:-1,BG: SPORT KLUP START
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20896.m3u8
-#EXTINF:-1,BG: SUPER TENIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20891.m3u8
-#EXTINF:-1,BG: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20947.m3u8
-#EXTINF:-1,BG: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20946.m3u8
-#EXTINF:-1,BG: ARENA SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21000.m3u8
-#EXTINF:-1,BG: ARENA SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20999.m3u8
-#EXTINF:-1,BG: ARENA SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20998.m3u8
-#EXTINF:-1,BG: ARENA SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20997.m3u8
-#EXTINF:-1,BG: ARENA SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20996.m3u8
-#EXTINF:-1,BG: EDGE SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20950.m3u8
-#EXTINF:-1,BG: MTEL SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20914.m3u8
-#EXTINF:-1,BG: MTEL SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20913.m3u8
-#EXTINF:-1,BG: MAX SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20917.m3u8
-#EXTINF:-1,BG: MAX SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20916.m3u8
-#EXTINF:-1,BG: NOVA TV BULGARIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20906.m3u8
-#EXTINF:-1,BG: NOVA SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/20907.m3u8
-#EXTINF:-1,GR: OTE SPORT 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22763.m3u8
-#EXTINF:-1,GR: OTE SPORT 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22764.m3u8
-#EXTINF:-1,GR: OTE SPORT 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22765.m3u8
-#EXTINF:-1,GR: OTE SPORT 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22766.m3u8
-#EXTINF:-1,GR: OTE SPORT 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22767.m3u8
-#EXTINF:-1,GR: OTE SPORT 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22768.m3u8
-#EXTINF:-1,GR: OTE SPORT 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22769.m3u8
-#EXTINF:-1,GR: OTE SPORT 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22770.m3u8
-#EXTINF:-1,SRB: ARENA SPORT 5 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21607.m3u8
-#EXTINF:-1,SRB: ARENA SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21600.m3u8
-#EXTINF:-1,SRB: ARENA SPORT 3 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21611.m3u8
-#EXTINF:-1,SRB: ARENA SPORT 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21612.m3u8
-#EXTINF:-1,SRB: ARENA SPORT 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21609.m3u8
-#EXTINF:-1,ALB: TRING SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21773.m3u8
-#EXTINF:-1,ALB: TRING SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21772.m3u8
-#EXTINF:-1,ALB: TRING SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21771.m3u8
-#EXTINF:-1,ALB: TRING SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21770.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21779.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21778.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21777.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21776.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21775.m3u8
-#EXTINF:-1,ALB: SUPER SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21774.m3u8
-#EXTINF:-1,ALB: KUJTESA SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21769.m3u8
-#EXTINF:-1,ALB: KUJTESA SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21768.m3u8
-#EXTINF:-1,ALB: KUJTESA SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21767.m3u8
-#EXTINF:-1,ALB: KUJTESA SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21766.m3u8
-#EXTINF:-1,ALB: KUJTESA SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/21765.m3u8
-#EXTINF:-1,IN: STAR SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22876.m3u8
-#EXTINF:-1,IN: STAR SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22877.m3u8
-#EXTINF:-1,IN: STAR SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22878.m3u8
-#EXTINF:-1,IN: STAR SPORTS Select 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22879.m3u8
-#EXTINF:-1,IN: STAR SPORTS Select 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22880.m3u8
-#EXTINF:-1,USA: AFN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22958.m3u8
-#EXTINF:-1,USA: AFN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22959.m3u8
-#EXTINF:-1,USA: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22946.m3u8
-#EXTINF:-1,USA: BBC AMERICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22961.m3u8
-#EXTINF:-1,USA: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22948.m3u8
-#EXTINF:-1,USA: FOX SPORTS ARIZONA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23008.m3u8
-#EXTINF:-1,USA: FOX SPORTS CAROLINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23009.m3u8
-#EXTINF:-1,USA: FOX SPORTS COLLEGE ATLANTIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23010.m3u8
-#EXTINF:-1,USA: FOX SPORTS DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23011.m3u8
-#EXTINF:-1,USA: FOX SPORTS DETROIT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23012.m3u8
-#EXTINF:-1,USA: FOX SPORTS FLORIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23013.m3u8
-#EXTINF:-1,USA: FOX SPORTS MIDWEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23014.m3u8
-#EXTINF:-1,USA: FOX SPORTS NORTH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23015.m3u8
-#EXTINF:-1,USA: FOX SPORTS PRIME TICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23017.m3u8
-#EXTINF:-1,USA: FOX SPORTS RACING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23018.m3u8
-#EXTINF:-1,USA: FOX SPORTS SUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23016.m3u8
-#EXTINF:-1,USA: FOX SPORTS WISCONSIN  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23019.m3u8
-#EXTINF:-1,USA: TSN HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22933.m3u8
-#EXTINF:-1,USA: TSN HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22934.m3u8
-#EXTINF:-1,USA: TSN HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22935.m3u8
-#EXTINF:-1,USA: TSN HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22936.m3u8
-#EXTINF:-1,USA: TSN HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/22937.m3u8
-#EXTINF:-1,USA: TV LAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23068.m3u8
-#EXTINF:-1,USA: UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23080.m3u8
-#EXTINF:-1,USA: UNIVERSO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23069.m3u8
-#EXTINF:-1,USA: USA NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23070.m3u8
-#EXTINF:-1,USA: VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23074.m3u8
-#EXTINF:-1,USA: WGN 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23075.m3u8
-#EXTINF:-1,USA: WILLOW CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23076.m3u8
-#EXTINF:-1,USA: WWE NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23077.m3u8
-#EXTINF:-1,USA: WWE NETWORK HD MYC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23078.m3u8
-#EXTINF:-1,USA: WWE NETWORK HD NXT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/live/lokman3/3lokman/23079.m3u8
+#EXTINF:-1,|FR.H265| BEIN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60717.m3u8
+#EXTINF:-1,|FR.H265| BEIN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60718.m3u8
+#EXTINF:-1,|FR.H265| BEIN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60719.m3u8
+#EXTINF:-1,|FR.H265| RMC SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60720.m3u8
+#EXTINF:-1,|FR.H265| RMC SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60721.m3u8
+#EXTINF:-1,|FR.H265| RMC SPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60722.m3u8
+#EXTINF:-1,|FR.H265| RMC SPORT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60723.m3u8
+#EXTINF:-1,|FR.H265| CANAL SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60727.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30999.m3u8
+#EXTINF:-1,|.UK.| SKY SPORT ARENA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30863.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30995.m3u8
+#EXTINF:-1,|.UK.| SKY SPORT F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30967.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS FOOTBALL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30997.m3u8
+#EXTINF:-1,|.UK.| SKY SPORT FOOTBALL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30862.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31086.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30941.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31085.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS CRICKET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30940.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31087.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30942.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31084.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS MAIN EVENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30945.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31025.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS MIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30994.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31088.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS PREMIER LEAGUE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30943.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS THE OPEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30858.m3u8
+#EXTINF:-1,|.UK.| SKY SPORTS RACING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31033.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30904.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30871.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30989.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31044.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30905.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31001.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31036.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31027.m3u8
+#EXTINF:-1,|.UK.| BT SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31000.m3u8
+#EXTINF:-1,|.UK.| BT SPORT ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31041.m3u8
+#EXTINF:-1,|.UK.| BT SPORT ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30906.m3u8
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31037.m3u8
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31038.m3u8
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31039.m3u8
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31040.m3u8
+#EXTINF:-1,|.UK.| EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31055.m3u8
+#EXTINF:-1,|.UK.| EIR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31056.m3u8
+#EXTINF:-1,|.UK.| PREMIERE SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31024.m3u8
+#EXTINF:-1,|.UK.| BOX NATION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30903.m3u8
+#EXTINF:-1,|.UK.| MOTORS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30960.m3u8
+#EXTINF:-1,|.UK.| MANCHESTER UNITED TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30958.m3u8
+#EXTINF:-1,|.UK.| CHELSEA FC TV (MATCHTIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31047.m3u8
+#EXTINF:-1,|.UK.| CELTIC FC TV (MATCHTIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30894.m3u8
+#EXTINF:-1,|.UK.| RANGERS FC TV (MATCHTIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/30893.m3u8
+#EXTINF:-1,|.UK.| RACING TV (MATCHTIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31078.m3u8
+#EXTINF:-1,|. UK.| PPV 1 WWE Survivor Series 6PM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59320.m3u8
+#EXTINF:-1,|. UK.| PPV 2 WWE PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59319.m3u8
+#EXTINF:-1,|. UK.| PPV 3 WWE SURVIVOR SERIES (360p-500kbps LW-HQ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59318.m3u8
+#EXTINF:-1,|USA  | MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31724.m3u8
+#EXTINF:-1,|USA  | MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31808.m3u8
+#EXTINF:-1,|USA  | NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31786.m3u8
+#EXTINF:-1,|USA  | NBCSNHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31768.m3u8
+#EXTINF:-1,|USA  | Bein Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31827.m3u8
+#EXTINF:-1,|USA  | BTN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31709.m3u8
+#EXTINF:-1,|USA  | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31765.m3u8
+#EXTINF:-1,|USA  | ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31755.m3u8
+#EXTINF:-1,|USA  | ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31805.m3u8
+#EXTINF:-1,|USA  | ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31778.m3u8
+#EXTINF:-1,|USA  | CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31710.m3u8
+#EXTINF:-1,|USA  | CBSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31731.m3u8
+#EXTINF:-1,|USA  | Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31766.m3u8
+#EXTINF:-1,|USA  | Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31767.m3u8
+#EXTINF:-1,|USA  | Fox sport 1 backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31708.m3u8
+#EXTINF:-1,|USA  | MLB Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31807.m3u8
+#EXTINF:-1,|USA  |  NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31741.m3u8
+#EXTINF:-1,|USA  | NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31759.m3u8
+#EXTINF:-1,|USA  | NHL Network(1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31809.m3u8
+#EXTINF:-1,|USA  | SEC Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31810.m3u8
+#EXTINF:-1,|USA  | TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31762.m3u8
+#EXTINF:-1,|USA  | TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31813.m3u8
+#EXTINF:-1,|USA  | TSN 3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31815.m3u8
+#EXTINF:-1,|USA  | CA | TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31814.m3u8
+#EXTINF:-1,|USA  | CA | TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31816.m3u8
+#EXTINF:-1,|USA  | CA | TSN 5*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31817.m3u8
+#EXTINF:-1,|USA  | Tennis Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31749.m3u8
+#EXTINF:-1,|USA  | WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31775.m3u8
+#EXTINF:-1,|USA  | AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31825.m3u8
+#EXTINF:-1,|USA  | AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31826.m3u8
+#EXTINF:-1,|USA  | FIGHT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31818.m3u8
+#EXTINF:-1,|USA  | FOX 43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31806.m3u8
+#EXTINF:-1,|USA  | FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31756.m3u8
+#EXTINF:-1,|USA  | FOXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31834.m3u8
+#EXTINF:-1,|USA  | FUEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31791.m3u8
+#EXTINF:-1,|USA  | FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31835.m3u8
+#EXTINF:-1,|USA  | Fight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31735.m3u8
+#EXTINF:-1,|USA  | NFL Network 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31798.m3u8
+#EXTINF:-1,|USA  | NFL Network 1080i
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31727.m3u8
+#EXTINF:-1,|USA  | NFL REDZONE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31726.m3u8
+#EXTINF:-1,|USA  | PAC-12 Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31769.m3u8
+#EXTINF:-1,|USA  | PAC-12 Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31770.m3u8
+#EXTINF:-1,|USA  | PAC-12 Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31771.m3u8
+#EXTINF:-1,|USA  | PAC-12 Oregon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31772.m3u8
+#EXTINF:-1,|USA  | PAC-12 Washington
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31773.m3u8
+#EXTINF:-1,|USA  | Sports-Net
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31844.m3u8
+#EXTINF:-1,|USA  | Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31812.m3u8
+#EXTINF:-1,|USA  | VIP: BAYERN FC TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/31712.m3u8
+#EXTINF:-1,|FR| CANAL SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/39203.m3u8
+#EXTINF:-1,|FR| CANAL SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15191.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9326.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/51166.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15204.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9340.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9345.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9589.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/51102.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15203.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9339.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9344.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9588.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/51101.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15202.m3u8
+#EXTINF:-1,|FR|  BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9341.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9343.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9587.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/51100.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15210.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15209.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15208.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15207.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15206.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15205.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15211.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59873.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40482.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40481.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40469.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15127.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9218.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9502.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15126.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9217.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9501.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15125.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9216.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9500.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15124.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9215.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9499.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40480.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40479.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40478.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40477.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40476.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40475.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40474.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40473.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40472.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40471.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40470.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40484.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/40483.m3u8
+#EXTINF:-1,|FR| INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9265.m3u8
+#EXTINF:-1,|FR| INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15156.m3u8
+#EXTINF:-1,|FR| INFOSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9534.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32819.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/51104.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9264.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15155.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9533.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15147.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9526.m3u8
+#EXTINF:-1,|FR| GOLF+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9270.m3u8
+#EXTINF:-1,|FR| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15161.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9540.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9378.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15162.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9539.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9282.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15173.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9550.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15227.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9152.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9156.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32015.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9131.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32146.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28265.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32014.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9134.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9135.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28266.m3u8
+#EXTINF:-1,|AR| Bein Sport 3SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32013.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9136.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9137.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28267.m3u8
+#EXTINF:-1,|AR| Bein Sport 4SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32012.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9138.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9139.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28268.m3u8
+#EXTINF:-1,|AR| Bein Sport 5SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32011.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9140.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9141.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28269.m3u8
+#EXTINF:-1,|AR| Bein Sport 6SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32010.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9142.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9143.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28270.m3u8
+#EXTINF:-1,|AR| Bein Sport 7SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32009.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9144.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9145.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/28271.m3u8
+#EXTINF:-1,|AR| Bein Sport 8SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32008.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9146.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9147.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/39224.m3u8
+#EXTINF:-1,|AR| Bein Sport 9SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32007.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9148.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9149.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/39225.m3u8
+#EXTINF:-1,|AR| Bein Sport 10SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/32006.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9150.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 10 HD |Backup|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9151.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 10 FHD HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/39226.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 11 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9153.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9154.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD (english)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9155.m3u8
+#EXTINF:-1,|AR| MBC PRO SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15830.m3u8
+#EXTINF:-1,|AR| MBC PRO SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15829.m3u8
+#EXTINF:-1,|AR| MBC PRO SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15828.m3u8
+#EXTINF:-1,|AR| MBC PRO SPORTS HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15877.m3u8
+#EXTINF:-1,|AR| AD SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9189.m3u8
+#EXTINF:-1,|AR| AD SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15838.m3u8
+#EXTINF:-1,|AR| AD SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9188.m3u8
+#EXTINF:-1,|AR| AD SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9187.m3u8
+#EXTINF:-1,|AR| AD SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/9186.m3u8
+#EXTINF:-1,|AR| OSN Alkass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15696.m3u8
+#EXTINF:-1,|AR| OSN Alkass Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15695.m3u8
+#EXTINF:-1,|AR| OSN Alkass Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15694.m3u8
+#EXTINF:-1,|AR| OSN Alkass Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15693.m3u8
+#EXTINF:-1,|AR| OSN Alkass Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15692.m3u8
+#EXTINF:-1,|AR|* AR BEIN SPORT AlKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16230.m3u8
+#EXTINF:-1,|AR|* AR BEIN SPORT AlKASS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16229.m3u8
+#EXTINF:-1,|AR|* AR BEIN SPORT AlKASS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16228.m3u8
+#EXTINF:-1,|AR|* AR:BEIN-SPORT-AlKASS-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16080.m3u8
+#EXTINF:-1,|AR|* AR:BEIN-SPORT-AlKASS-4-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16079.m3u8
+#EXTINF:-1,|SW| TeleClub SPORT Flash HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20590.m3u8
+#EXTINF:-1,|SW| Teleclub Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20592.m3u8
+#EXTINF:-1,|SW| Teleclub Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20593.m3u8
+#EXTINF:-1,|nBE| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48135.m3u8
+#EXTINF:-1,|nBE| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48134.m3u8
+#EXTINF:-1,|nBE| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48133.m3u8
+#EXTINF:-1,|nBE| VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48141.m3u8
+#EXTINF:-1,|nBE| Voo Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48140.m3u8
+#EXTINF:-1,|nBE| Voo Sport World 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48138.m3u8
+#EXTINF:-1,|nBE| Voo Sport World 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48137.m3u8
+#EXTINF:-1,|nBE| Voo Sport World 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48139.m3u8
+#EXTINF:-1,|.PT.| REAL MADRID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58873.m3u8
+#EXTINF:-1,|.PT.| TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58874.m3u8
+#EXTINF:-1,|.PT.| SPORTINGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58875.m3u8
+#EXTINF:-1,|.PT.| BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58876.m3u8
+#EXTINF:-1,|.PT.| BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58877.m3u8
+#EXTINF:-1,|.PT.| SPORTTV+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58878.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58879.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58880.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58881.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58882.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58883.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58884.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58885.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58886.m3u8
+#EXTINF:-1,|.PT.| SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58887.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58888.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58889.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58890.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58891.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58892.m3u8
+#EXTINF:-1,|.PT.| ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58893.m3u8
+#EXTINF:-1,|.ES.| TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59811.m3u8
+#EXTINF:-1,|.ES.| TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59812.m3u8
+#EXTINF:-1,|.ES.| TOROS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59813.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59814.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59815.m3u8
+#EXTINF:-1,|.ES.| DEPORTES1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59816.m3u8
+#EXTINF:-1,|.ES.| M FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59817.m3u8
+#EXTINF:-1,|.ES.| M FORMULA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59818.m3u8
+#EXTINF:-1,|.ES.| M GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59819.m3u8
+#EXTINF:-1,|.ES.| M GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59820.m3u8
+#EXTINF:-1,|.ES.| #VAMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59821.m3u8
+#EXTINF:-1,|.ES.| #VAMOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59822.m3u8
+#EXTINF:-1,|.ES.| GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59823.m3u8
+#EXTINF:-1,|.ES.| ARAGON TV INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59824.m3u8
+#EXTINF:-1,|.ES.| ARAGON TV INT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59825.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59826.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59827.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59828.m3u8
+#EXTINF:-1,|.ES.| M DEPORTES5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59829.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59830.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59831.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59832.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59833.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59834.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59835.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59836.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59837.m3u8
+#EXTINF:-1,|.ES.| M LCAMPEON8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59838.m3u8
+#EXTINF:-1,|.BR.| Sport TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60177.m3u8
+#EXTINF:-1,|.BR.| Sport TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60178.m3u8
+#EXTINF:-1,|.BR.| Sport TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60179.m3u8
+#EXTINF:-1,|.BR.| Sport TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60255.m3u8
+#EXTINF:-1,|.BR.| Sport TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60256.m3u8
+#EXTINF:-1,|.BR.| Sport TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60257.m3u8
+#EXTINF:-1,|.BR.| SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60336.m3u8
+#EXTINF:-1,|.BR.| SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60337.m3u8
+#EXTINF:-1,|.BR.| REDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60338.m3u8
+#EXTINF:-1,|.BR.| REDE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60339.m3u8
+#EXTINF:-1,|.BR.| Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60340.m3u8
+#EXTINF:-1,|.BR.| FOX Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60341.m3u8
+#EXTINF:-1,|.BR.| ESPN plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60342.m3u8
+#EXTINF:-1,|.BR.| ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60343.m3u8
+#EXTINF:-1,|.BR.| ESPN Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60344.m3u8
+#EXTINF:-1,|.DE.| Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59995.m3u8
+#EXTINF:-1,|.DE.| Eurosport 1 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59996.m3u8
+#EXTINF:-1,|.DE.| Eurosport 2 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59997.m3u8
+#EXTINF:-1,|.DE.| Sky sport news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59998.m3u8
+#EXTINF:-1,|.DE.| Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59999.m3u8
+#EXTINF:-1,|.DE.| Sky sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60000.m3u8
+#EXTINF:-1,|.DE.| Sky sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60001.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60002.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60003.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60004.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60005.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60006.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60007.m3u8
+#EXTINF:-1,|.DE.| Sky Sport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60008.m3u8
+#EXTINF:-1,|NL| Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20480.m3u8
+#EXTINF:-1,|NL| FOX Sports 1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20479.m3u8
+#EXTINF:-1,|NL| Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20478.m3u8
+#EXTINF:-1,|NL| FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20477.m3u8
+#EXTINF:-1,|NL| Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20476.m3u8
+#EXTINF:-1,|NL| FOX Sports 3 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20475.m3u8
+#EXTINF:-1,|NL| Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20474.m3u8
+#EXTINF:-1,|NL| Fox Sports 4 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20473.m3u8
+#EXTINF:-1,|NL| Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20472.m3u8
+#EXTINF:-1,|NL| Fox Sports 5 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20471.m3u8
+#EXTINF:-1,|NL| Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20470.m3u8
+#EXTINF:-1,|NL| Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20484.m3u8
+#EXTINF:-1,|NL| Eurosport 1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20483.m3u8
+#EXTINF:-1,|NL| Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20482.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Extra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20494.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Extra2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20493.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20492.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20491.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20490.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20450.m3u8
+#EXTINF:-1,|NL| Ziggo Sport.Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20489.m3u8
+#EXTINF:-1,|NL|: FOX Sports 2 HD int
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48842.m3u8
+#EXTINF:-1,|NL|: FOX SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48798.m3u8
+#EXTINF:-1,|NL|: FOX SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48840.m3u8
+#EXTINF:-1,|NL|: FOX SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48839.m3u8
+#EXTINF:-1,|NL|: FOX SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48838.m3u8
+#EXTINF:-1,|NL|: FOX Sports EDL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48843.m3u8
+#EXTINF:-1,|NL|: FOX Sports EDL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48841.m3u8
+#EXTINF:-1,|NL|: Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48830.m3u8
+#EXTINF:-1,|NL|: ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48829.m3u8
+#EXTINF:-1,|NL|: ZIGGO SPORT SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48761.m3u8
+#EXTINF:-1,|NL|: Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48831.m3u8
+#EXTINF:-1,|NL|: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/48832.m3u8
+#EXTINF:-1,|.TR.| BEINSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60548.m3u8
+#EXTINF:-1,|.TR.| BEINSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60547.m3u8
+#EXTINF:-1,|.TR.| BEINSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60546.m3u8
+#EXTINF:-1,|.TR.| BEINSPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60545.m3u8
+#EXTINF:-1,|.TR.| SMART SPOR TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60429.m3u8
+#EXTINF:-1,|.TR.| A SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60430.m3u8
+#EXTINF:-1,|.TR.| A SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60542.m3u8
+#EXTINF:-1,|.TR.| TRT SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60544.m3u8
+#EXTINF:-1,|.TR.| S SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60549.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59237.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59238.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59239.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59240.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59241.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59242.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59243.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59244.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59245.m3u8
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59246.m3u8
+#EXTINF:-1,VIP: OSN Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59252.m3u8
+#EXTINF:-1,VIP: OSN MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59253.m3u8
+#EXTINF:-1,VIP AR: OSN Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59254.m3u8
+#EXTINF:-1,VIP AR: OSN Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59255.m3u8
+#EXTINF:-1,VIP AR: OSN Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59256.m3u8
+#EXTINF:-1,VIP AR: OSN Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59257.m3u8
+#EXTINF:-1,VIP AR: OSN Sports Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59258.m3u8
+#EXTINF:-1,VIP: OSN WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59259.m3u8
+#EXTINF:-1,VIP: OSN yas sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59260.m3u8
+#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59262.m3u8
+#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59263.m3u8
+#EXTINF:-1,VIP AR:OSN Abu Dhabi Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59264.m3u8
+#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59265.m3u8
+#EXTINF:-1,VIP UK: BT Sport 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59302.m3u8
+#EXTINF:-1,VIP UK: BT Sport 3 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59303.m3u8
+#EXTINF:-1,VIP UK: Sky Sports 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59304.m3u8
+#EXTINF:-1,VIP UK: Sky Sports 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59305.m3u8
+#EXTINF:-1,VIP UK: Sky Sports 4 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59306.m3u8
+#EXTINF:-1,VIP UK: Sky Sports 5 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59307.m3u8
+#EXTINF:-1,VIP UK: Sky Sports F1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59308.m3u8
+#EXTINF:-1,VIP UK: Sky Sports News HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59309.m3u8
+#EXTINF:-1,VIP UK: BBC 1 HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59310.m3u8
+#EXTINF:-1,VIP UK: ITV1 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59311.m3u8
+#EXTINF:-1,VIP UK: ITV2 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59312.m3u8
+#EXTINF:-1,VIP UK: Premier Sports FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59313.m3u8
+#EXTINF:-1,VIP UK: SKY NEWS 1080P HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59314.m3u8
+#EXTINF:-1,|AR| SHARJAH SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15805.m3u8
+#EXTINF:-1,|AR| DUBAI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15923.m3u8
+#EXTINF:-1,|AR| DUBAI SPORTS 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16212.m3u8
+#EXTINF:-1,|AR| DUBAI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15925.m3u8
+#EXTINF:-1,|AR|* AR DUBAI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16211.m3u8
+#EXTINF:-1,|AR| DUBAI SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15924.m3u8
+#EXTINF:-1,|AR| ABU DHABI DRAMA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16210.m3u8
+#EXTINF:-1,|AR| DUBAI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15922.m3u8
+#EXTINF:-1,|AR|* AR Dubai Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16209.m3u8
+#EXTINF:-1,|AR| DUBAI RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16214.m3u8
+#EXTINF:-1,|AR| DUBAI RACING H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16215.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15840.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORTS 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16290.m3u8
+#EXTINF:-1,|AR| VIP: OSN Abu Dhabi Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15586.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16289.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORT 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15585.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16288.m3u8
+#EXTINF:-1,|AR|ABU DHABI SPORT 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15584.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16287.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORT 4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15583.m3u8
+#EXTINF:-1,|AR|* AR ABU DHABI SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/16286.m3u8
+#EXTINF:-1,|AR| VIP: OSN Abu Dhabi Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15582.m3u8
+#EXTINF:-1,|AR| VIP: OSN Abu Dhabi Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/15581.m3u8
+#EXTINF:-1,|.AL.| ART SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61148.m3u8
+#EXTINF:-1,|.AL.| ART SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61149.m3u8
+#EXTINF:-1,|.AL.| SUPER SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61151.m3u8
+#EXTINF:-1,|.AL.| SUPER SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61152.m3u8
+#EXTINF:-1,|.AL.| SUPER SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61153.m3u8
+#EXTINF:-1,|.AL.| SUPER SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/61154.m3u8
+#EXTINF:-1,|.UKR.| FUTBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21737.m3u8
+#EXTINF:-1,|.UKR.| FUTBOL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21736.m3u8
+#EXTINF:-1,|.UKR.| FUTBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21735.m3u8
+#EXTINF:-1,|.UKR.| FUTBOL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21734.m3u8
+#EXTINF:-1,|.UKR.| SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21733.m3u8
+#EXTINF:-1,|.UKR.| SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/21732.m3u8
+#EXTINF:-1,|.SR.| ARENASPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20630.m3u8
+#EXTINF:-1,|.SR.| ARENASPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20629.m3u8
+#EXTINF:-1,|.SR.| ARENASPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20628.m3u8
+#EXTINF:-1,|.SR.| ARENASPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20627.m3u8
+#EXTINF:-1,|.SR.| ARENASPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20626.m3u8
+#EXTINF:-1,|.SR.| SUPERSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20625.m3u8
+#EXTINF:-1,|.SR.| SUPERSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20624.m3u8
+#EXTINF:-1,|.SR.| SUPERSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/20623.m3u8
+#EXTINF:-1,SLO: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59135.m3u8
+#EXTINF:-1,SLO: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59136.m3u8
+#EXTINF:-1,SLO: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59137.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59138.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59139.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59140.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/59141.m3u8
+#EXTINF:-1,|SE| C MORE Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60963.m3u8
+#EXTINF:-1,|SE| C MORE Hockey HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60964.m3u8
+#EXTINF:-1,|SE| C MORE Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60965.m3u8
+#EXTINF:-1,|SE| C MORE Live 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60966.m3u8
+#EXTINF:-1,|SE| C MORE Live 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60967.m3u8
+#EXTINF:-1,|SE| C MORE Live 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60968.m3u8
+#EXTINF:-1,|SE| C MORE Live 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60969.m3u8
+#EXTINF:-1,|SE| C MORE Live 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/60970.m3u8
+#EXTINF:-1,|RO *| Digi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/56561.m3u8
+#EXTINF:-1,|RO *| Digi Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/56560.m3u8
+#EXTINF:-1,|RO *| Digi Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/56559.m3u8
+#EXTINF:-1,|RO *| Digi Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/56558.m3u8
+#EXTINF:-1,|.HU.| SPORT M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58533.m3u8
+#EXTINF:-1,|.HU.| SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58537.m3u8
+#EXTINF:-1,|.HU.|  SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58535.m3u8
+#EXTINF:-1,|.HU.|  SPORT 1 CZE/HU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58536.m3u8
+#EXTINF:-1,|.HU.| SPORT 2 CZE/HU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58534.m3u8
+#EXTINF:-1,|.HU.| DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58540.m3u8
+#EXTINF:-1,|.HU.| DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58539.m3u8
+#EXTINF:-1,|.HU.| DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.248:25443/live/corine/123456/58538.m3u8

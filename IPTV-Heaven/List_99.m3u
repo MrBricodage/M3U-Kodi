@@ -1,305 +1,103 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,|ES| LaLiga123
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/926.ts
-#EXTINF:-1,|ES| M DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/925.ts
-#EXTINF:-1,|ES| TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/31.ts
-#EXTINF:-1,|ES| M TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/32.ts
-#EXTINF:-1,|ES| M GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/30.ts
-#EXTINF:-1,|ES| M MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/29.ts
-#EXTINF:-1,|ES| M FORMULA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/27.ts
-#EXTINF:-1,|ES| M FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/28.ts
-#EXTINF:-1,|ES| M EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/24.ts
-#EXTINF:-1,|ES| M EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/25.ts
-#EXTINF:-1,|ES| EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/26.ts
-#EXTINF:-1,|ES| M REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/22.ts
-#EXTINF:-1,|ES| M BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/23.ts
-#EXTINF:-1,|ES| GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/21.ts
-#EXTINF:-1,|ES| M LALIGATV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/17.ts
-#EXTINF:-1,|ES| M LALIGATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/18.ts
-#EXTINF:-1,|ES| M LALIGA BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/19.ts
-#EXTINF:-1,|ES| M LALIGA BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/20.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/16.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/15.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/14.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/12.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/13.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/11.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/10.ts
-#EXTINF:-1,|ES| M LIGA CAMPEONES1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/7.ts
-#EXTINF:-1,|ES| LIGA DE CAMPEONES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/9.ts
-#EXTINF:-1,|ES| LIGA DE CAMPEONES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/8.ts
-#EXTINF:-1,|ES| #VAMOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/5.ts
-#EXTINF:-1,|ES| #VAMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/6.ts
-#EXTINF:-1,|ES| M DEPORTES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/4.ts
-#EXTINF:-1,|ES| M TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/3.ts
-#EXTINF:-1,|ES| MOVISTAR LIGA DE CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/2.ts
-#EXTINF:-1,|ES|C.ESTRELLAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/1.ts
-#EXTINF:-1,|ES| LA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/1585.ts
-#EXTINF:-1,|ES| VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/139.ts
-#EXTINF:-1,|ES| TV3 CATALUNYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/52.ts
-#EXTINF:-1,|ES| TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/50.ts
-#EXTINF:-1,|ES| TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/45.ts
-#EXTINF:-1,|ES| TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/44.ts
-#EXTINF:-1,|ES| TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/46.ts
-#EXTINF:-1,|ES| ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/129.ts
-#EXTINF:-1,|ES| NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/147.ts
-#EXTINF:-1,|ES| NICKELODEON ESP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/148.ts
-#EXTINF:-1,|ES| NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/149.ts
-#EXTINF:-1,|ES| NATGEOWILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/131.ts
-#EXTINF:-1,|ES| NATGEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/130.ts
-#EXTINF:-1,|ES| NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/132.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/84.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/83.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/82.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/81.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/80.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/79.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/78.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/77.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/85.ts
-#EXTINF:-1,|ES| MOVISTAR ALQUILER 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/76.ts
-#EXTINF:-1,|ES| MEGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/123.ts
-#EXTINF:-1,|ES| M VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/140.ts
-#EXTINF:-1,|ES| M TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/75.ts
-#EXTINF:-1,|ES| M TELENOVELAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/118.ts
-#EXTINF:-1,|ES| M TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/74.ts
-#EXTINF:-1,|ES| M SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/114.ts
-#EXTINF:-1,|ES| M SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/115.ts
-#EXTINF:-1,|ES| M SUNDANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/71.ts
-#EXTINF:-1,|ES| M SERIESMANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/101.ts
-#EXTINF:-1,|ES| M SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/100.ts
-#EXTINF:-1,|ES| M PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/70.ts
-#EXTINF:-1,|ES| M NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/116.ts
-#EXTINF:-1,|ES| M NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/125.ts
-#EXTINF:-1,|ES| M MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/155.ts
-#EXTINF:-1,|ES| M LEVANTE Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/54.ts
-#EXTINF:-1,|ES| M HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/63.ts
-#EXTINF:-1,|ES| M HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/64.ts
-#EXTINF:-1,|ES| M FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/108.ts
-#EXTINF:-1,|ES| M FAMA 24H FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/124.ts
-#EXTINF:-1,|ES| M ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/58.ts
-#EXTINF:-1,|ES| M ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/59.ts
-#EXTINF:-1,|ES| M ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/121.ts
-#EXTINF:-1,|ES| M DRAMA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/72.ts
-#EXTINF:-1,|ES| M DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/126.ts
-#EXTINF:-1,|ES| M COSMO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/67.ts
-#EXTINF:-1,|ES| M COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/102.ts
-#EXTINF:-1,|ES| M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/68.ts
-#EXTINF:-1,|ES| M Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/69.ts
-#EXTINF:-1,|ES| M CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/154.ts
-#EXTINF:-1,|ES| M CINEDOC&ROLL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/60.ts
-#EXTINF:-1,|ES| M CINE N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/73.ts
-#EXTINF:-1,|ES| M CALLE13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/120.ts
-#EXTINF:-1,|ES| M CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/119.ts
-#EXTINF:-1,|ES| M AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/112.ts
-#EXTINF:-1,|ES| M AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/113.ts
-#EXTINF:-1,|ES| M AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/110.ts
-#EXTINF:-1,|ES| M AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/111.ts
-#EXTINF:-1,|ES| M AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/65.ts
-#EXTINF:-1,|ES| M AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/66.ts
-#EXTINF:-1,|ES| M ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/61.ts
-#EXTINF:-1,|ES| M ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/62.ts
-#EXTINF:-1,|ES| M #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/98.ts
-#EXTINF:-1,|ES| M #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/99.ts
-#EXTINF:-1,|ES| LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/48.ts
-#EXTINF:-1,|ES| LA SEXTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/47.ts
-#EXTINF:-1,|ES| LA SEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/49.ts
-#EXTINF:-1,|ES| IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/138.ts
-#EXTINF:-1,|ES| HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/135.ts
-#EXTINF:-1,|ES| FOXNEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/57.ts
-#EXTINF:-1,|ES| FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/109.ts
-#EXTINF:-1,|ES| FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/106.ts
-#EXTINF:-1,|ES| FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/107.ts
-#EXTINF:-1,|ES| FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/104.ts
-#EXTINF:-1,|ES| DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/117.ts
-#EXTINF:-1,|ES| DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/146.ts
-#EXTINF:-1,|ES| DISNEY ESP XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/145.ts
-#EXTINF:-1,|ES| DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/143.ts
-#EXTINF:-1,|ES| DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/144.ts
-#EXTINF:-1,|ES| DISCOVERY CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/133.ts
-#EXTINF:-1,|ES| DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/134.ts
-#EXTINF:-1,|ES| CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/42.ts
-#EXTINF:-1,|ES| CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/41.ts
-#EXTINF:-1,|ES| CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/43.ts
-#EXTINF:-1,|ES| COMEDYCENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/103.ts
-#EXTINF:-1,|ES| CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/137.ts
-#EXTINF:-1,|ES| CANAL SUR A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/51.ts
-#EXTINF:-1,|ES| CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/150.ts
-#EXTINF:-1,|ES| CANAL ORBE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/127.ts
-#EXTINF:-1,|ES| CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/141.ts
-#EXTINF:-1,|ES| CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/56.ts
-#EXTINF:-1,|ES| BOING ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/151.ts
-#EXTINF:-1,|ES| BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/136.ts
-#EXTINF:-1,|ES| BE MAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/122.ts
-#EXTINF:-1,|ES| BABY ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/152.ts
-#EXTINF:-1,|ES| ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/53.ts
-#EXTINF:-1,|ES| ANTENA3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/40.ts
-#EXTINF:-1,|ES| ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/39.ts
-#EXTINF:-1,|ES| ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/38.ts
-#EXTINF:-1,|ES| A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/105.ts
-#EXTINF:-1,TAQUILLA 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/95.ts
-#EXTINF:-1,TAQUILLA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/94.ts
-#EXTINF:-1,TAQUILLA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/93.ts
-#EXTINF:-1,TAQUILLA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/92.ts
-#EXTINF:-1,TAQUILLA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/91.ts
-#EXTINF:-1,TAQUILLA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/90.ts
-#EXTINF:-1,TAQUILLA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/89.ts
-#EXTINF:-1,TAQUILLA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/88.ts
-#EXTINF:-1,TAQUILLA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/96.ts
-#EXTINF:-1,TAQUILLA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/87.ts
-#EXTINF:-1,|ES| LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/37.ts
-#EXTINF:-1,|ES| LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/33.ts
-#EXTINF:-1,|ES| LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/34.ts
-#EXTINF:-1,|ES| LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/35.ts
-#EXTINF:-1,|ES| CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/36.ts
+#EXTM3U
+#EXTINF:-1,|OSN| Ad Sport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1668
+#EXTINF:-1,|OSN| Ad Sport 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1669
+#EXTINF:-1,|OSN| Ad Sport 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1670
+#EXTINF:-1,|OSN| Ad Sport 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1671
+#EXTINF:-1,|OSN| Ya Hala Oula HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1672
+#EXTINF:-1,|OSN| Ya Hala HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1673
+#EXTINF:-1,|OSN| AL Yawm HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1674
+#EXTINF:-1,|OSN| Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1675
+#EXTINF:-1,|OSN| Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1676
+#EXTINF:-1,|OSN| BBC First HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1677
+#EXTINF:-1,|OSN| CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1678
+#EXTINF:-1,|OSN| CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1679
+#EXTINF:-1,|OSN| Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1680
+#EXTINF:-1,|OSN| Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1681
+#EXTINF:-1,|OSN| Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1682
+#EXTINF:-1,|OSN| Discovery IDX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1683
+#EXTINF:-1,|OSN| Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1684
+#EXTINF:-1,|OSN| Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1685
+#EXTINF:-1,|OSN| Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1686
+#EXTINF:-1,|OSN| Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1687
+#EXTINF:-1,|OSN| H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1688
+#EXTINF:-1,|OSN| History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1689
+#EXTINF:-1,|OSN| TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1690
+#EXTINF:-1,|OSN| Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1691
+#EXTINF:-1,|OSN| Movies Diseny
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1692
+#EXTINF:-1,|OSN| Movies First HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1693
+#EXTINF:-1,|OSN| Movies First HD 2h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1694
+#EXTINF:-1,|OSN| Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1695
+#EXTINF:-1,|OSN| Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1696
+#EXTINF:-1,|OSN| Enigma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1697
+#EXTINF:-1,|OSN| MUSALSALAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1698
+#EXTINF:-1,|OSN| MUSALSALAT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1699
+#EXTINF:-1,|OSN| Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1700
+#EXTINF:-1,|OSN| NAT GEO People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1701
+#EXTINF:-1,|OSN| Nat GEO Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1702
+#EXTINF:-1,|OSN| Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1703
+#EXTINF:-1,|OSN| Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1704
+#EXTINF:-1,|OSN| Kid Zone TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1705
+#EXTINF:-1,|OSN| Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1706
+#EXTINF:-1,|OSN| Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1707
+#EXTINF:-1,|OSN| Series First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1708
+#EXTINF:-1,|OSN| Star Movie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1709
+#EXTINF:-1,|OSN| Star World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1710
+#EXTINF:-1,|OSN| Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1711
+#EXTINF:-1,|OSN| E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1712
+#EXTINF:-1,|OSN| Fashion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1713
+#EXTINF:-1,|OSN| Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1714
+#EXTINF:-1,|OSN| MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1715
+#EXTINF:-1,|OSN| Music NOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1716
+#EXTINF:-1,|OSN| Yahala Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1717
+#EXTINF:-1,|OSN| BINGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEOSNSNOW/5638653700/1718
