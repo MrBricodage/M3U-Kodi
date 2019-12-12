@@ -236,6 +236,14 @@
 </item>
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]/R Live HD[/B][/COLOR]</title>
+	<link>http://hvo1.yzachu.xyz/hls2/live.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]/R Live 2 HD[/B][/COLOR]</title>
+	<link>http://hvo1.yzachu.xyz/hls3/live.m3u8</link>
+</item>
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]/R Live 3 HD[/B][/COLOR]</title>
 	<link>http://hvo1.yzachu.xyz/hls4/live.m3u8</link>
 </item>
 <item>
@@ -741,6 +749,10 @@
 	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]BS[/B][/COLOR]</title>
 	<link>http://sv8.dailymotion.com.1cdn.host/live/tbs/playlist.m3u8|Referer=http://123tvnow.com/watch/tbs/</link>
 	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]NT HD[/B][/COLOR]</title>
+	<link>http://hvo1.yzachu.xyz/hls/live.m3u8</link>
 </item>
 <item>
 	<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]rue Premier HD1[/B][/COLOR]</title>
