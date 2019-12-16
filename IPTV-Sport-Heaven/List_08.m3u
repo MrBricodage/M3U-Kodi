@@ -1,455 +1,243 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FR:InfoSport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/19280_infosport.jpg" group-title="{BOUQUET_NAME}",FR:InfoSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/500.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/70.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/71.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/978.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/979.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/49607_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/980.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX7" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/39770_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/981.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX8" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/73757_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/982.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/26403_sfr1.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1554.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/52324_sfr2.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1555.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/65878_sfr3.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1556.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62380_sfr5.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1612.m3u8
-#EXTINF:-1 tvg-name="FR:Foot 24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62683_CHN43FB_542.PNG" group-title="{BOUQUET_NAME}",FR:Foot 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/975.m3u8
-#EXTINF:-1 tvg-name="FR:Eurosport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/10651_Eurosport1.jpg" group-title="{BOUQUET_NAME}",FR:Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/572.m3u8
-#EXTINF:-1 tvg-name="FR:Eurosport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/33563_744.png" group-title="{BOUQUET_NAME}",FR:Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/287.m3u8
-#EXTINF:-1 tvg-name="FR:Equipe 21" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/67164_267.png" group-title="{BOUQUET_NAME}",FR:Equipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/580.m3u8
-#EXTINF:-1 tvg-name="FR:Equidia live " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/55236_logoequidia.png" group-title="{BOUQUET_NAME}",FR:Equidia live 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1409.m3u8
-#EXTINF:-1 tvg-name="FR:GOLF + HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/25669_glf.png" group-title="{BOUQUET_NAME}",FR:GOLF + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1372.m3u8
-#EXTINF:-1 tvg-name="FR:Automoto" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/22422_abmoteur.png" group-title="{BOUQUET_NAME}",FR:Automoto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1525.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+ Sport" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Canal+ Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5190.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live5" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6349.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live6" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6350.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live7" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6351.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live8" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6352.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live9" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6353.m3u8
-#EXTINF:-1 tvg-name="PL:Polsat Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",PL:Polsat Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3236.m3u8
-#EXTINF:-1 tvg-name="PL:Eleven Sports 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",PL:Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3276.m3u8
-#EXTINF:-1 tvg-name="PL:Eleven Sports 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",PL:Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3207.m3u8
-#EXTINF:-1 tvg-name="PL:Canal Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",PL:Canal Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3230.m3u8
-#EXTINF:-1 tvg-name="PL:Canal+ 2 Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="{BOUQUET_NAME}",PL:Canal+ 2 Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3242.m3u8
-#EXTINF:-1 tvg-name="UK:BT Sport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/66520_930.png" group-title="{BOUQUET_NAME}",UK:BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/10.m3u8
-#EXTINF:-1 tvg-name="UK:BT Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/87909_929.png" group-title="{BOUQUET_NAME}",UK:BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/9.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",AL:Super Sport5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2891.m3u8
-#EXTINF:-1 tvg-name="SP:DubaiSports3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",SP:DubaiSports3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2893.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport1 Kosova" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",AL:Super Sport1 Kosova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2920.m3u8
-#EXTINF:-1 tvg-name="BR:SporTv 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",BR:SporTv 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2928.m3u8
-#EXTINF:-1 tvg-name="BR:SporTv 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",BR:SporTv 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2929.m3u8
-#EXTINF:-1 tvg-name="BR:Spor Tv" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",BR:Spor Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2930.m3u8
-#EXTINF:-1 tvg-name="LA:ESPN" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",LA:ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2561.m3u8
-#EXTINF:-1 tvg-name="LA:ESPN 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",LA:ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2562.m3u8
-#EXTINF:-1 tvg-name="LA:ESPN 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",LA:ESPN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2563.m3u8
-#EXTINF:-1 tvg-name="AD-Sports3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/15300_abudhabi3.png" group-title="{BOUQUET_NAME}",AD-Sports3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1682.m3u8
-#EXTINF:-1 tvg-name="AD-Sports4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/34566_abudhabi4.png" group-title="{BOUQUET_NAME}",AD-Sports4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1683.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/11368_supersport1.png" group-title="{BOUQUET_NAME}",AL:Super Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/110.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/86428_supersport2.png" group-title="{BOUQUET_NAME}",AL:Super Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/111.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/60900_supersport3.png" group-title="{BOUQUET_NAME}",AL:Super Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/112.m3u8
-#EXTINF:-1 tvg-name="AL:Super Sport4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62166_supersport4.png" group-title="{BOUQUET_NAME}",AL:Super Sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/113.m3u8
-#EXTINF:-1 tvg-name="AD-Sports1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/76408_abudhabi1.png" group-title="{BOUQUET_NAME}",AD-Sports1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/128.m3u8
-#EXTINF:-1 tvg-name="AD-Sports2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/51093_abudhabi2.jpg" group-title="{BOUQUET_NAME}",AD-Sports2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/129.m3u8
-#EXTINF:-1 tvg-name="SW:C More First" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88404_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More First
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/897.m3u8
-#EXTINF:-1 tvg-name="SW:C More Fotball" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/205_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More Fotball
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/907.m3u8
-#EXTINF:-1 tvg-name="SW:C More Hits" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/29068_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/896.m3u8
-#EXTINF:-1 tvg-name="SW:C More Live" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/10405_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/903.m3u8
-#EXTINF:-1 tvg-name="C More Series" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40220_sweden.jpg" group-title="{BOUQUET_NAME}",C More Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/895.m3u8
-#EXTINF:-1 tvg-name="SW:C More Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40339_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/902.m3u8
-#EXTINF:-1 tvg-name="SW:C More Hockey" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/86931_sweden.jpg" group-title="{BOUQUET_NAME}",SW:C More Hockey
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/901.m3u8
-#EXTINF:-1 tvg-name="RO:Digi Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}",RO:Digi Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1829.m3u8
-#EXTINF:-1 tvg-name="RO:Digi Sport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}",RO:Digi Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1830.m3u8
-#EXTINF:-1 tvg-name="RO:Digi Sport 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}",RO:Digi Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1831.m3u8
-#EXTINF:-1 tvg-name="US:Fight Sports" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/45655_fightsports.png" group-title="{BOUQUET_NAME}",US:Fight Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1669.m3u8
-#EXTINF:-1 tvg-name="US:Espn" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/68152_espn.png" group-title="{BOUQUET_NAME}",US:Espn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1670.m3u8
-#EXTINF:-1 tvg-name="US:Espn2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/18253_espn2.jpg" group-title="{BOUQUET_NAME}",US:Espn2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1672.m3u8
-#EXTINF:-1 tvg-name="PT:Sport TV 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2062.m3u8
-#EXTINF:-1 tvg-name="TR: Smart-Sport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Smart-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3019.m3u8
-#EXTINF:-1 tvg-name="RS:Arena Sport4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Arena Sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2916.m3u8
-#EXTINF:-1 tvg-name="CA:ADDIK TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/63147_canada.jpg" group-title="{BOUQUET_NAME}",CA:ADDIK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2745.m3u8
-#EXTINF:-1 tvg-name="RS:Arena Sport3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Arena Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2917.m3u8
-#EXTINF:-1 tvg-name="RS:Arena Sport2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Arena Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2918.m3u8
-#EXTINF:-1 tvg-name="RS:Arena Sport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Arena Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2919.m3u8
-#EXTINF:-1 tvg-name="SLO:SPORTKLUB 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",SLO:SPORTKLUB 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2897.m3u8
-#EXTINF:-1 tvg-name="SLO:SPORTKLUB 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",SLO:SPORTKLUB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2898.m3u8
-#EXTINF:-1 tvg-name="SLO:SPORTKLUB 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",SLO:SPORTKLUB 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2899.m3u8
-#EXTINF:-1 tvg-name="RS:Sport Klub3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Sport Klub3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2900.m3u8
-#EXTINF:-1 tvg-name="RS:Sport Klub2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Sport Klub2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2901.m3u8
-#EXTINF:-1 tvg-name="RS:Sport Klub1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",RS:Sport Klub1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2902.m3u8
-#EXTINF:-1 tvg-name="Sky:SPORT TV 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",Sky:SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2511.m3u8
-#EXTINF:-1 tvg-name="LA:Sky:SPORT TV 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",LA:Sky:SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2510.m3u8
-#EXTINF:-1 tvg-name="Sky:SPORT TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",Sky:SPORT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2509.m3u8
-#EXTINF:-1 tvg-name="Sky:FOX SPORTS 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",Sky:FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2516.m3u8
-#EXTINF:-1 tvg-name="Sky:FOX SPORTS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}",Sky:FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2515.m3u8
-#EXTINF:-1 tvg-name="IT:Sky Sport F1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/75691_sky sports f1 live mykora.png" group-title="{BOUQUET_NAME}",IT:Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2316.m3u8
-#EXTINF:-1 tvg-name="IT:Sky Sports Arena" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/55433_sky sports 3 live mykora.png" group-title="{BOUQUET_NAME}",IT:Sky Sports Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2320.m3u8
-#EXTINF:-1 tvg-name="IT:Sky Sports 24 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/17668_24it.jpeg" group-title="{BOUQUET_NAME}",IT:Sky Sports 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2321.m3u8
-#EXTINF:-1 tvg-name="IT:Sky Sports SerieA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/47457_406.png" group-title="{BOUQUET_NAME}",IT:Sky Sports SerieA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2319.m3u8
-#EXTINF:-1 tvg-name="IT:Sky Sports 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/81777_405.png" group-title="{BOUQUET_NAME}",IT:Sky Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2318.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/95592_7176.jpg" group-title="{BOUQUET_NAME}",UK:Sky Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports F1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/39437_f1new_2682772.jpg" group-title="{BOUQUET_NAME}",UK:Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/14.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports Premier league" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4604_BRPuXC.jpg" group-title="{BOUQUET_NAME}",UK:Sky Sports Premier league
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports Golf" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/35482_915.png" group-title="{BOUQUET_NAME}",UK:Sky Sports Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports Action" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/17337_914.png" group-title="{BOUQUET_NAME}",UK:Sky Sports Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports Cricket" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90590_922.png" group-title="{BOUQUET_NAME}",UK:Sky Sports Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2.m3u8
-#EXTINF:-1 tvg-name="UK:Sky Sports Main Event" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90590_922.png" group-title="{BOUQUET_NAME}",UK:Sky Sports Main Event
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1.m3u8
-#EXTINF:-1 tvg-name="pl-Polsat 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",pl-Polsat 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2235.m3u8
-#EXTINF:-1 tvg-name="DK:TV2 Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/83808_denmark_flag_small.jpg" group-title="{BOUQUET_NAME}",DK:TV2 Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2028.m3u8
-#EXTINF:-1 tvg-name="TR:BeinSport3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/14264_Ligtv3.png" group-title="{BOUQUET_NAME}",TR:BeinSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/524.m3u8
-#EXTINF:-1 tvg-name="TR:BeinSport2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/56752_1353.png" group-title="{BOUQUET_NAME}",TR:BeinSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/525.m3u8
-#EXTINF:-1 tvg-name="TR:BeinSport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/60199_bein1.png" group-title="{BOUQUET_NAME}",TR:BeinSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/526.m3u8
-#EXTINF:-1 tvg-name="TR-BeinIZ" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/63215_ntvsport.jpg" group-title="{BOUQUET_NAME}",TR-BeinIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/788.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1 FR Hevc" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/16298_salon1.png" group-title="{BOUQUET_NAME}",Bein Sport 1 FR Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/566.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 2 FR HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/39985_salon2.png" group-title="{BOUQUET_NAME}",Bein Sports 2 FR HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/567.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 3 FR HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/96060_salon.png" group-title="{BOUQUET_NAME}",Bein Sports 3 FR HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/568.m3u8
-#EXTINF:-1 tvg-name="DK:TV3 Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/83808_denmark_flag_small.jpg" group-title="{BOUQUET_NAME}",DK:TV3 Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2036.m3u8
-#EXTINF:-1 tvg-name="DK:TV3 Sport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/83808_denmark_flag_small.jpg" group-title="{BOUQUET_NAME}",DK:TV3 Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2042.m3u8
-#EXTINF:-1 tvg-name="SW:TV3 Sport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/82123_sweden.jpg" group-title="{BOUQUET_NAME}",SW:TV3 Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/932.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2936.m3u8
-#EXTINF:-1 tvg-name="US:Tsn1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88935_tsn1.png" group-title="{BOUQUET_NAME}",US:Tsn1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1653.m3u8
-#EXTINF:-1 tvg-name="USA-Astro Supersport 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",USA-Astro Supersport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2934.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2935.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2937.m3u8
-#EXTINF:-1 tvg-name="US:Tsn4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/61077_tsn4.png" group-title="{BOUQUET_NAME}",US:Tsn4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1650.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2933.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2931.m3u8
-#EXTINF:-1 tvg-name="PT:Eleven Sports 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2932.m3u8
-#EXTINF:-1 tvg-name="GR:OTE Sport3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",GR:OTE Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2938.m3u8
-#EXTINF:-1 tvg-name="US:Tsn2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/43296_tsn2.png" group-title="{BOUQUET_NAME}",US:Tsn2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1652.m3u8
-#EXTINF:-1 tvg-name="GR:OTE Sport2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",GR:OTE Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2925.m3u8
-#EXTINF:-1 tvg-name="UK:BT SPORT EXTRA 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",UK:BT SPORT EXTRA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2924.m3u8
-#EXTINF:-1 tvg-name="UK:BT SPORT EXTRA 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",UK:BT SPORT EXTRA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2923.m3u8
-#EXTINF:-1 tvg-name="UK:BT SPORT EXTRA 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",UK:BT SPORT EXTRA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2922.m3u8
-#EXTINF:-1 tvg-name="UK:BT SPORT EXTRA 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",UK:BT SPORT EXTRA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2921.m3u8
-#EXTINF:-1 tvg-name="pl-Canal Plus Sport 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",pl-Canal Plus Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2243.m3u8
-#EXTINF:-1 tvg-name="pl-Canal Plus Sport HD" tvg-logo="" group-title="{BOUQUET_NAME}",pl-Canal Plus Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2242.m3u8
-#EXTINF:-1 tvg-name="pl-Eleven Sports HD" tvg-logo="" group-title="{BOUQUET_NAME}",pl-Eleven Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2245.m3u8
-#EXTINF:-1 tvg-name="pl-Fightklub HD" tvg-logo="" group-title="{BOUQUET_NAME}",pl-Fightklub HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2238.m3u8
-#EXTINF:-1 tvg-name="PT:SportTV 1" tvg-logo="" group-title="{BOUQUET_NAME}",PT:SportTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7001.m3u8
-#EXTINF:-1 tvg-name="PT:SportTV 2" tvg-logo="" group-title="{BOUQUET_NAME}",PT:SportTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7002.m3u8
-#EXTINF:-1 tvg-name="PT:Sporttv 3" tvg-logo="" group-title="{BOUQUET_NAME}",PT:Sporttv 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7003.m3u8
-#EXTINF:-1 tvg-name="PT:Sporttv 4" tvg-logo="" group-title="{BOUQUET_NAME}",PT:Sporttv 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7004.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/97180_111.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7731.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 1 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 1 Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5195.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 2 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 2 Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5196.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 3 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 3 Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5197.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 4 HD HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",Bein Sports 4 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3464.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 5 HD HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",Bein Sports 5 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3463.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 6 HD HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",Bein Sports 6 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3462.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 7 HD HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Sports 7 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3476.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 8 HD HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Sports 8 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3477.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 9 HD HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Sports 9 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3478.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 10 HD HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Sports 10 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3479.m3u8
-#EXTINF:-1 tvg-name="AE:WWE_MNR_02122019" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="{BOUQUET_NAME}",AE:WWE_MNR_02122019
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1820.m3u8
-#EXTINF:-1 tvg-name="AE:WWE_MNR_11112019" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="{BOUQUET_NAME}",AE:WWE_MNR_11112019
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1808.m3u8
-#EXTINF:-1 tvg-name="AE:WWE.Survivor.2019" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",AE:WWE.Survivor.2019
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2951.m3u8
-#EXTINF:-1 tvg-name="AE:WWE_MNR_18112019" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",AE:WWE_MNR_18112019
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2945.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/71768_beinsports.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1223.m3u8
-#EXTINF:-1 tvg-name="AR:Bein News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/25154_110.png" group-title="{BOUQUET_NAME}",AR:Bein News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/68.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 1" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5192.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 2" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5193.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 3" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5194.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/38626_bein4.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1602.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/92079_bein5.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1603.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/84614_bein6.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1604.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 7 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/39353_bein7.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1605.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 8 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/13187_118.png" group-title="{BOUQUET_NAME}",AR:Bein Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/79.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports 9 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/55593_510.png" group-title="{BOUQUET_NAME}",AR:Bein Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/80.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports10 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/85338_511.png" group-title="{BOUQUET_NAME}",AR:Bein Sports10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/81.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports11 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/42987_512.png" group-title="{BOUQUET_NAME}",AR:Bein Sports11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/82.m3u8
-#EXTINF:-1 tvg-name="AR:Bein Sports12 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/72377_513.png" group-title="{BOUQUET_NAME}",AR:Bein Sports12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/83.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/21337_111.png" group-title="{BOUQUET_NAME}",AR:BeinSports 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1072.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/38610_112.png" group-title="{BOUQUET_NAME}",AR:BeinSports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1073.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/44935_113.png" group-title="{BOUQUET_NAME}",AR:BeinSports 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1074.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4880_114.png" group-title="{BOUQUET_NAME}",AR:BeinSports 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1070.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 5 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/46828_115.png" group-title="{BOUQUET_NAME}",AR:BeinSports 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1071.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 6 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/87606_116.png" group-title="{BOUQUET_NAME}",AR:BeinSports 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/77.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 7 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/84881_117.png" group-title="{BOUQUET_NAME}",AR:BeinSports 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/78.m3u8
-#EXTINF:-1 tvg-name="AR:Beinsports 8 SD" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Beinsports 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5146.m3u8
-#EXTINF:-1 tvg-name="AR:Beinsports 9 SD" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Beinsports 9 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5147.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 10 SD" tvg-logo="" group-title="{BOUQUET_NAME}",AR:BeinSports 10 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5148.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport News UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport News UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4901.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport News HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4900.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 4 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4903.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 4 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4902.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 3 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4905.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 3 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4904.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 2 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4907.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4906.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 1 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4909.m3u8
-#EXTINF:-1 tvg-name="(AL) Tring Sport 1 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Tring Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4908.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport Kosova 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport Kosova 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4910.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport Kosova 1 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport Kosova 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4911.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 4 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4913.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 4 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4912.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 3 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4915.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 3 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4914.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 2 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4917.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4916.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 1 UHD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4919.m3u8
-#EXTINF:-1 tvg-name="(AL) Super Sport 1 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Super Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4918.m3u8
-#EXTINF:-1 tvg-name="(AL) RTSH Sport" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) RTSH Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4895.m3u8
-#EXTINF:-1 tvg-name="(AL) Kujtesa Sport 4 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Kujtesa Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4896.m3u8
-#EXTINF:-1 tvg-name="(AL) Kujtesa Sport 3 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Kujtesa Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4897.m3u8
-#EXTINF:-1 tvg-name="(AL) Kujtesa Sport 2 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Kujtesa Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4898.m3u8
-#EXTINF:-1 tvg-name="(AL) Kujtesa Sport 1 HD" tvg-logo="" group-title="{BOUQUET_NAME}",(AL) Kujtesa Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/4899.m3u8
-#EXTINF:-1 tvg-name="DE:Sky Sports News De" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",DE:Sky Sports News De
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/255.m3u8
-#EXTINF:-1 tvg-name="DE:Sky Sport 1 DE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",DE:Sky Sport 1 DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/52.m3u8
-#EXTINF:-1 tvg-name="DE:Sky Sport 2 DE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",DE:Sky Sport 2 DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/53.m3u8
-#EXTINF:-1 tvg-name="DE:Dazn1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/6516_images.png" group-title="{BOUQUET_NAME}",DE:Dazn1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3044.m3u8
-#EXTINF:-1 tvg-name="DE:Dazn2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/6516_images.png" group-title="{BOUQUET_NAME}",DE:Dazn2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3041.m3u8
-#EXTINF:-1 tvg-name="DE:Eurosport1 DE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",DE:Eurosport1 DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/266.m3u8
-#EXTINF:-1 tvg-name="DE:Sport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",DE:Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/275.m3u8
-#EXTINF:-1 tvg-name="DE:Eurosport 2 Extra" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",DE:Eurosport 2 Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3437.m3u8
-#EXTINF:-1 tvg-name="DE:Sky Bundesliga1 de" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",DE:Sky Bundesliga1 de
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/51.m3u8
-#EXTINF:-1 tvg-name="DE:Sky Bundesliga1 BKP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",DE:Sky Bundesliga1 BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3436.m3u8
-#EXTINF:-1 tvg-name="CANAL SPORT HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL SPORT HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3455.m3u8
-#EXTINF:-1 tvg-name="RMC Sports 2 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",RMC Sports 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3451.m3u8
-#EXTINF:-1 tvg-name="RMC Sports 1 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",RMC Sports 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3452.m3u8
-#EXTINF:-1 tvg-name="NL:Extreme Sports " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/37214_extrem.jpg" group-title="{BOUQUET_NAME}",NL:Extreme Sports 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2222.m3u8
-#EXTINF:-1 tvg-name="NL:Eurosport1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/86144_eurosport1.png" group-title="{BOUQUET_NAME}",NL:Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2220.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/47126_foxsports5.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2223.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/20127_holland.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1558.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/90354_holland.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1557.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/89681_holland.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/124.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/79655_holland.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/123.m3u8
-#EXTINF:-1 tvg-name="NL:Fox Sports 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/63670_holland.jpg" group-title="{BOUQUET_NAME}",NL:Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/122.m3u8
-#EXTINF:-1 tvg-name="NL:Ziggo Sport Extra2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/11080_ziggo.png" group-title="{BOUQUET_NAME}",NL:Ziggo Sport Extra2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2227.m3u8
-#EXTINF:-1 tvg-name="NL:Ziggo Sport Extra1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/82828_ziggo.png" group-title="{BOUQUET_NAME}",NL:Ziggo Sport Extra1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2226.m3u8
-#EXTINF:-1 tvg-name="NL:Ziggo Sport Golf" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/99198_ziggo.png" group-title="{BOUQUET_NAME}",NL:Ziggo Sport Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2228.m3u8
-#EXTINF:-1 tvg-name="NL:Ziggo Sport Racing" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/73995_ziggo.png" group-title="{BOUQUET_NAME}",NL:Ziggo Sport Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2225.m3u8
-#EXTINF:-1 tvg-name="NL:Sport1 Select HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/32597_holland.jpg" group-title="{BOUQUET_NAME}",NL:Sport1 Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/54.m3u8
-#EXTINF:-1 tvg-name="NL:Sport1 Voetbal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/12127_holland.jpg" group-title="{BOUQUET_NAME}",NL:Sport1 Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/56.m3u8
-#EXTINF:-1 tvg-name="ES:Real Madrid TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/87175_realmadrid.jpg" group-title="{BOUQUET_NAME}",ES:Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1038.m3u8
-#EXTINF:-1 tvg-name="ES:Barca TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/89004_barca.jpg" group-title="{BOUQUET_NAME}",ES:Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1037.m3u8
-#EXTINF:-1 tvg-name="ES:Eurosport1 es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/98425_eurosport1.png" group-title="{BOUQUET_NAME}",ES:Eurosport1 es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1596.m3u8
-#EXTINF:-1 tvg-name="ES:GOL TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/11483_goltv.png" group-title="{BOUQUET_NAME}",ES:GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2753.m3u8
-#EXTINF:-1 tvg-name="ES:la Liga  ES" tvg-logo="" group-title="{BOUQUET_NAME}",ES:la Liga  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/32.m3u8
-#EXTINF:-1 tvg-name="ES:Liga De Campeones" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/51673_16.jpg" group-title="{BOUQUET_NAME}",ES:Liga De Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/578.m3u8
-#EXTINF:-1 tvg-name="ES:Movistar LaLiga" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/42160_beinlaliga.png" group-title="{BOUQUET_NAME}",ES:Movistar LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1590.m3u8
-#EXTINF:-1 tvg-name="ES:M Serie" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/9295_mserie.png" group-title="{BOUQUET_NAME}",ES:M Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/35.m3u8
+#EXTINF:0,Tring Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/394.ts
+#EXTINF:0,Tring Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/398.ts
+#EXTINF:0,Tring Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/393.ts
+#EXTINF:0,Tring Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/397.ts
+#EXTINF:0,Tring Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/392.ts
+#EXTINF:0,Tring Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/396.ts
+#EXTINF:0,Tring Sport 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/391.ts
+#EXTINF:0,Tring Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/395.ts
+#EXTINF:0,Tring Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/399.ts
+#EXTINF:0,Kujtesa Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/388.ts
+#EXTINF:0,Kujtesa Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/383.ts
+#EXTINF:0,Kujtesa Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/387.ts
+#EXTINF:0,Kujtesa Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/382.ts
+#EXTINF:0,Kujtesa Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/386.ts
+#EXTINF:0,Kujtesa Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/381.ts
+#EXTINF:0,Kujtesa Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/385.ts
+#EXTINF:0,Kujtesa Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/380.ts
+#EXTINF:0,Kujtesa Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/384.ts
+#EXTINF:0,Kujtesa Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/379.ts
+#EXTINF:0,Super Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/408.ts
+#EXTINF:0,Super Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/420.ts
+#EXTINF:0,Super Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/407.ts
+#EXTINF:0,Super Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/419.ts
+#EXTINF:0,Super Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/406.ts
+#EXTINF:0,Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/418.ts
+#EXTINF:0,Super Sport 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/405.ts
+#EXTINF:0,Super Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/417.ts
+#EXTINF:0,Super Sport 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/404.ts
+#EXTINF:0,Super Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/416.ts
+#EXTINF:0,Super Sport 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/403.ts
+#EXTINF:0,Super Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/415.ts
+#EXTINF:0,Super Sport 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/402.ts
+#EXTINF:0,Super Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/414.ts
+#EXTINF:0,Super Sport Kosova 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/411.ts
+#EXTINF:0,Super Sport Kosova 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/423.ts
+#EXTINF:0,Super Sport Kosova 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/410.ts
+#EXTINF:0,Super Sport Kosova 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/422.ts
+#EXTINF:0,Super Sport Kosova 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/409.ts
+#EXTINF:0,Super Sport Kosova 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/421.ts
+#EXTINF:0,Art Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/378.ts
+#EXTINF:0,Art Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/377.ts
+#EXTINF:0,Art Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/376.ts
+#EXTINF:0,EuroSport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/412.ts
+#EXTINF:0,EuroSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/413.ts
+#EXTINF:0,Tele Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/389.ts
+#EXTINF:0,Arena Sport 1 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/371.ts
+#EXTINF:0,Arena Sport 2 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/370.ts
+#EXTINF:0,Arena Sport 3 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/369.ts
+#EXTINF:0,Arena Sport 4 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/368.ts
+#EXTINF:0,Arena Sport 5 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/367.ts
+#EXTINF:0,Arena Sport 6 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/366.ts
+#EXTINF:0,Sport Klub 1 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/374.ts
+#EXTINF:0,Sport Klub 2 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/373.ts
+#EXTINF:0,Sport Klub 3 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/372.ts
+#EXTINF:0,Arena Sport 1 FHD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/362.ts
+#EXTINF:0,Arena Sport 2 FHD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/361.ts
+#EXTINF:0,Arena Sport 3 FHD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/360.ts
+#EXTINF:0,Arena Sport 4 FHD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/359.ts
+#EXTINF:0,Arena Sport 5 FHD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/358.ts
+#EXTINF:0,Sport Klub 1 HD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/365.ts
+#EXTINF:0,Sport Klub 2 HD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/364.ts
+#EXTINF:0,Sport Klub 3 HD SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/363.ts
+#EXTINF:0,DE | Danz Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/332.ts
+#EXTINF:0,DE | Danz Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/331.ts
+#EXTINF:0,DE | Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/334.ts
+#EXTINF:0,DE | Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/333.ts
+#EXTINF:0,DE | Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/335.ts
+#EXTINF:0,DE | Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/329.ts
+#EXTINF:0,DE | Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/328.ts
+#EXTINF:0,DE | Sky Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/327.ts
+#EXTINF:0,DE | SKY Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/330.ts
+#EXTINF:0,CH | Teleclub Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/337.ts
+#EXTINF:0,CH | Teleclub Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/336.ts
+#EXTINF:0,BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/341.ts
+#EXTINF:0,BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/340.ts
+#EXTINF:0,BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/339.ts
+#EXTINF:0,Fox Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/309.ts
+#EXTINF:0,Fox Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/308.ts
+#EXTINF:0,Fox Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/307.ts
+#EXTINF:0,Fox Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/306.ts
+#EXTINF:0,Fox Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/305.ts
+#EXTINF:0,Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/304.ts
+#EXTINF:0,Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/303.ts
+#EXTINF:0,Sport TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/302.ts
+#EXTINF:0,Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/301.ts
+#EXTINF:0,Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/300.ts
+#EXTINF:0,TIVIBU  SPOR 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/351.ts
+#EXTINF:0,TIVIBU  SPOR 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/350.ts
+#EXTINF:0,TIVIBU  SPOR 3 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/349.ts
+#EXTINF:0,TIVIBU  SPOR 4 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/348.ts
+#EXTINF:0,beIN SPORTS MAX 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/353.ts
+#EXTINF:0,beIN SPORTS MAX 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/352.ts
+#EXTINF:0,beIN Sports 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/357.ts
+#EXTINF:0,beIN Sports 2 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/356.ts
+#EXTINF:0,beIN Sports 3 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/355.ts
+#EXTINF:0,beIN Sports 4 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/354.ts
+#EXTINF:0,TRT SPOR FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/347.ts
+#EXTINF:0,A SPOR FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/346.ts
+#EXTINF:0,S Sport HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/345.ts
+#EXTINF:0,Bursa Spor TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/343.ts
+#EXTINF:0,Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/342.ts
+#EXTINF:0,GS TV TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/344.ts
+#EXTINF:0,Box Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/338.ts
+#EXTINF:0,BeIN Sport 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/323.ts
+#EXTINF:0,BeIN Sport 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/322.ts
+#EXTINF:0,BeIN Sport 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/321.ts
+#EXTINF:0,BeinSports 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/320.ts
+#EXTINF:0,BeinSports 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/319.ts
+#EXTINF:0,BeinSports 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/318.ts
+#EXTINF:0,BeinSports 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/317.ts
+#EXTINF:0,BeinSports 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/316.ts
+#EXTINF:0,BeinSports 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/315.ts
+#EXTINF:0,BeinSports 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/314.ts
+#EXTINF:0,BeinSports 8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/313.ts
+#EXTINF:0,BeinSports 9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/312.ts
+#EXTINF:0,BeinSports 10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/311.ts
+#EXTINF:0,beINSport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/310.ts
+#EXTINF:0,DK:TV-3 Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/932.ts
+#EXTINF:0,DK: TV3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/933.ts
+#EXTINF:0,DK:TV-2 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/931.ts
+#EXTINF:0,DK: SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vizioniptv.com:25461/live/BurimRamiqi/FpiR5baMBD/934.ts

@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:0,SporTV3 SD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/44
-#EXTINF:0,SporTV3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/45
-#EXTINF:0,SporTV2 SD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/46
-#EXTINF:0,SporTV2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/47
-#EXTINF:0,SporTV SD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/48
-#EXTINF:0,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/49
-#EXTINF:0,Band Sports SD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/220
-#EXTINF:0,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.ddns.net:25461/agnaldo/123456/221
+#EXTINF:-1,RMCSPORTNEWS HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.115.26.93:8080/RMCSPORTNEWS_HEVC/mono.m3u8
+#EXTINF:-1,INFOSPORT HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.115.26.93:8080/INFOSPORT_HEVC/mono.m3u8
