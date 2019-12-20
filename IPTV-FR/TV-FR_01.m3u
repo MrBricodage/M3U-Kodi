@@ -1,351 +1,367 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FR:InfoSport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/19280_infosport.jpg" group-title="{BOUQUET_NAME}",FR:InfoSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/500.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/97180_111.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/7731.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/70.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/71.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/978.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/979.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/49607_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/980.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX7" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/39770_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/981.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX8" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/73757_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/982.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/26403_sfr1.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1554.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/52324_sfr2.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1555.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/65878_sfr3.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1556.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62380_sfr5.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1612.m3u8
-#EXTINF:-1 tvg-name="FR:Foot 24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62683_CHN43FB_542.PNG" group-title="{BOUQUET_NAME}",FR:Foot 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/975.m3u8
-#EXTINF:-1 tvg-name="FR:Eurosport" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/10651_Eurosport1.jpg" group-title="{BOUQUET_NAME}",FR:Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/572.m3u8
-#EXTINF:-1 tvg-name="FR:Eurosport 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/33563_744.png" group-title="{BOUQUET_NAME}",FR:Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/287.m3u8
-#EXTINF:-1 tvg-name="FR:Equipe 21" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/67164_267.png" group-title="{BOUQUET_NAME}",FR:Equipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/580.m3u8
-#EXTINF:-1 tvg-name="FR:Equidia live " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/55236_logoequidia.png" group-title="{BOUQUET_NAME}",FR:Equidia live 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1409.m3u8
-#EXTINF:-1 tvg-name="FR:GOLF + HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/25669_glf.png" group-title="{BOUQUET_NAME}",FR:GOLF + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1372.m3u8
-#EXTINF:-1 tvg-name="FR:Automoto" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/22422_abmoteur.png" group-title="{BOUQUET_NAME}",FR:Automoto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1525.m3u8
-#EXTINF:-1 tvg-name="FR:E!" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/8912_entraintement tv.png" group-title="{BOUQUET_NAME}",FR:E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1535.m3u8
-#EXTINF:-1 tvg-name="FR:NRJ12" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/96427_214.png" group-title="{BOUQUET_NAME}",FR:NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/285.m3u8
-#EXTINF:-1 tvg-name="CH:RTS DEUX" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/79027_640 (1).jpg" group-title="{BOUQUET_NAME}",CH:RTS DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/571.m3u8
-#EXTINF:-1 tvg-name="CH:RTS UN" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/3891_640.jpg" group-title="{BOUQUET_NAME}",CH:RTS UN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/570.m3u8
-#EXTINF:-1 tvg-name="FR:Elle Girl" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/96002_ellegirl.png" group-title="{BOUQUET_NAME}",FR:Elle Girl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2164.m3u8
-#EXTINF:-1 tvg-name="FR:MTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/77836_MHD.png" group-title="{BOUQUET_NAME}",FR:MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1030.m3u8
-#EXTINF:-1 tvg-name="FR:MTV Dance fr" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78992_mtvdance.jpg" group-title="{BOUQUET_NAME}",FR:MTV Dance fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2166.m3u8
-#EXTINF:-1 tvg-name="FR:MTV Hits fr" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40754_mtvhits.png" group-title="{BOUQUET_NAME}",FR:MTV Hits fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2167.m3u8
-#EXTINF:-1 tvg-name="FR:CStar" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/24627_cstar.png" group-title="{BOUQUET_NAME}",FR:CStar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/302.m3u8
-#EXTINF:-1 tvg-name="FR:M6 Music" tvg-logo="" group-title="{BOUQUET_NAME}",FR:M6 Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3675.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay01" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/884.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/885.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay03" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/886.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay04" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/887.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay05" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/888.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay06" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/889.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay07" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/890.m3u8
-#EXTINF:-1 tvg-name="FR:Canalplay08" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:Canalplay08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/891.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay09" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/892.m3u8
-#EXTINF:-1 tvg-name="FR:CanalPlay10" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}",FR:CanalPlay10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/893.m3u8
-#EXTINF:-1 tvg-name="FR:LCI" tvg-logo="" group-title="{BOUQUET_NAME}",FR:LCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3625.m3u8
-#EXTINF:-1 tvg-name="FR:Euronews" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3616.m3u8
-#EXTINF:-1 tvg-name="FR:TF1 +1" tvg-logo="" group-title="{BOUQUET_NAME}",FR:TF1 +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5058.m3u8
-#EXTINF:-1 tvg-name="FR:My Cuisine" tvg-logo="" group-title="{BOUQUET_NAME}",FR:My Cuisine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5057.m3u8
-#EXTINF:-1 tvg-name="FR:Nickelodeon 4 Teen" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Nickelodeon 4 Teen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5056.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+ Cinema" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Canal+ Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5191.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+ Sport" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Canal+ Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/5190.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live5" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6349.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live6" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6350.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live7" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6351.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live8" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6352.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live9" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/6353.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance2" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3697.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3696.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance4" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3695.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3694.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance6" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3693.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance7" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3692.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3712.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance8" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3690.m3u8
-#EXTINF:-1 tvg-name="BO:BoxFrance9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:BoxFrance9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3689.m3u8
-#EXTINF:-1 tvg-name="FR:TF1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/67591_207.png" group-title="{BOUQUET_NAME}",FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/295.m3u8
-#EXTINF:-1 tvg-name="FR:France2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/93072_209.png" group-title="{BOUQUET_NAME}",FR:France2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/278.m3u8
-#EXTINF:-1 tvg-name="FR:France3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/35718_210.png" group-title="{BOUQUET_NAME}",FR:France3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/279.m3u8
-#EXTINF:-1 tvg-name="FR:France4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/8566_219.png" group-title="{BOUQUET_NAME}",FR:France4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/280.m3u8
-#EXTINF:-1 tvg-name="FR:France5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/98940_211.png" group-title="{BOUQUET_NAME}",FR:France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/281.m3u8
-#EXTINF:-1 tvg-name="FR:France O" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/65925_212.png" group-title="{BOUQUET_NAME}",FR:France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/304.m3u8
-#EXTINF:-1 tvg-name="FR:M6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/72675_208.png" group-title="{BOUQUET_NAME}",FR:M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/291.m3u8
-#EXTINF:-1 tvg-name="FR:C8" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/25751_c8.png" group-title="{BOUQUET_NAME}",FR:C8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/301.m3u8
-#EXTINF:-1 tvg-name="FR:W9" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57540_220.png" group-title="{BOUQUET_NAME}",FR:W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/294.m3u8
-#EXTINF:-1 tvg-name="FR:TFX" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88456_NT1_2012.svg.png" group-title="{BOUQUET_NAME}",FR:TFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1413.m3u8
-#EXTINF:-1 tvg-name="FR:6 Ter" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/73980_262.png" group-title="{BOUQUET_NAME}",FR:6 Ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/581.m3u8
-#EXTINF:-1 tvg-name="FR:TF1 Series Film" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/3569_hd1hd1.png" group-title="{BOUQUET_NAME}",FR:TF1 Series Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/491.m3u8
-#EXTINF:-1 tvg-name="France 4 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",France 4 Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3658.m3u8
-#EXTINF:-1 tvg-name="France3 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",France3 Hevc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3661.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION HD HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",DISCOVERY INVESTIGATION HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3453.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",DISCOVERY HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3454.m3u8
-#EXTINF:-1 tvg-name="Nat geo Wild HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Nat geo Wild HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3470.m3u8
-#EXTINF:-1 tvg-name="Discovery SC HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Discovery SC HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3472.m3u8
-#EXTINF:-1 tvg-name="PLANETE HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",PLANETE HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3447.m3u8
-#EXTINF:-1 tvg-name="Nat Geo FR HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",Nat Geo FR HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3471.m3u8
-#EXTINF:-1 tvg-name="VOYAGE HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",VOYAGE HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3449.m3u8
-#EXTINF:-1 tvg-name="Cine Frisson HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",Cine Frisson HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3446.m3u8
-#EXTINF:-1 tvg-name="CANAL SPORT HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL SPORT HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3455.m3u8
-#EXTINF:-1 tvg-name="CANAL SERIE HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL SERIE HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3456.m3u8
-#EXTINF:-1 tvg-name="CANAL FAMILY HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL FAMILY HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3458.m3u8
-#EXTINF:-1 tvg-name="CANAL DECALE HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL DECALE HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3459.m3u8
-#EXTINF:-1 tvg-name="CANAL CINEMA HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL CINEMA HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3460.m3u8
-#EXTINF:-1 tvg-name="CANAL HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",CANAL HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3457.m3u8
-#EXTINF:-1 tvg-name="c8 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",c8 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3461.m3u8
-#EXTINF:-1 tvg-name="W9 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",W9 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3448.m3u8
-#EXTINF:-1 tvg-name="M6 HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",M6 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3473.m3u8
-#EXTINF:-1 tvg-name="FRANCE 2 HEVC" tvg-logo="" group-title="{BOUQUET_NAME}",FRANCE 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3474.m3u8
-#EXTINF:-1 tvg-name="TF1 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",TF1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3450.m3u8
-#EXTINF:-1 tvg-name="RMC Sports 2 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",RMC Sports 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3451.m3u8
-#EXTINF:-1 tvg-name="RMC Sports 1 HEVC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="{BOUQUET_NAME}",RMC Sports 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3452.m3u8
-#EXTINF:-1 tvg-name="FR:RTL9 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/37962_logo.jpg" group-title="{BOUQUET_NAME}",FR:RTL9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/495.m3u8
-#EXTINF:-1 tvg-name="FR:Paris Premier" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88020_paris_premiere.jpg" group-title="{BOUQUET_NAME}",FR:Paris Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1411.m3u8
-#EXTINF:-1 tvg-name="FR:TV BREIZH" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57721_tbbrzich.png" group-title="{BOUQUET_NAME}",FR:TV BREIZH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/976.m3u8
-#EXTINF:-1 tvg-name="FR:TMC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/65145_217.png" group-title="{BOUQUET_NAME}",FR:TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/293.m3u8
-#EXTINF:-1 tvg-name="FR:Cherie25" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/79215_cherie25.png" group-title="{BOUQUET_NAME}",FR:Cherie25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1485.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Story" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/52912_numero23.jpg" group-title="{BOUQUET_NAME}",FR:RMC Story
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1533.m3u8
-#EXTINF:-1 tvg-name="FR:Teva HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40479_230.png" group-title="{BOUQUET_NAME}",FR:Teva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/286.m3u8
-#EXTINF:-1 tvg-name="FR:TV5 monde Europe" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57087_tv5monde.png" group-title="{BOUQUET_NAME}",FR:TV5 monde Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1528.m3u8
-#EXTINF:-1 tvg-name="FR:France Info" tvg-logo="" group-title="{BOUQUET_NAME}",FR:France Info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3688.m3u8
-#EXTINF:-1 tvg-name="FR:CNews" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/54646_itele.png" group-title="{BOUQUET_NAME}",FR:CNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/471.m3u8
-#EXTINF:-1 tvg-name="IN:Bollywood now" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="{BOUQUET_NAME}",IN:Bollywood now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1950.m3u8
-#EXTINF:-1 tvg-name="FR:France24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/15097_france24_francais.png" group-title="{BOUQUET_NAME}",FR:France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/303.m3u8
-#EXTINF:-1 tvg-name="FR:BFM TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57209_218.png" group-title="{BOUQUET_NAME}",FR:BFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/283.m3u8
-#EXTINF:-1 tvg-name="FR:BFM Business" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/6840_bfmbus.png" group-title="{BOUQUET_NAME}",FR:BFM Business
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1486.m3u8
-#EXTINF:-1 tvg-name="FR:RMC News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50837_bfmsport.jpg" group-title="{BOUQUET_NAME}",FR:RMC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2161.m3u8
-#EXTINF:-1 tvg-name="FR:LCP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62040_606-cfii-lcp_an_fr.jpg" group-title="{BOUQUET_NAME}",FR:LCP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1414.m3u8
-#EXTINF:-1 tvg-name="FR:Arte" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/67328_arte_logo.png" group-title="{BOUQUET_NAME}",FR:Arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/494.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+  fr" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/10945_200.png" group-title="{BOUQUET_NAME}",FR:Canal+  fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/181.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+  Decale" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/57727_203.png" group-title="{BOUQUET_NAME}",FR:Canal+  Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/183.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+  Family" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/47101_204.png" group-title="{BOUQUET_NAME}",FR:Canal+  Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/184.m3u8
-#EXTINF:-1 tvg-name="FR:Canal+ Series" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/1088_canal-plus-series-logo-530-285x206.jpg" group-title="{BOUQUET_NAME}",FR:Canal+ Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/466.m3u8
-#EXTINF:-1 tvg-name="FR:Cine  Emotion" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/94947_741.png" group-title="{BOUQUET_NAME}",FR:Cine  Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/186.m3u8
-#EXTINF:-1 tvg-name="FR:Cine  Frisson" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/78142_Cine_plus_frisson.png" group-title="{BOUQUET_NAME}",FR:Cine  Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/185.m3u8
-#EXTINF:-1 tvg-name="FR:Cine  Premier" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/89169_canalplus_fr_cine_plus_premier.png" group-title="{BOUQUET_NAME}",FR:Cine  Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/187.m3u8
-#EXTINF:-1 tvg-name="FR:CineFamiz" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62760_logo-cine-famiz-plus.jpg" group-title="{BOUQUET_NAME}",FR:CineFamiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/468.m3u8
-#EXTINF:-1 tvg-name="FR:Cine  Classic" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/49345_93944594_o.png" group-title="{BOUQUET_NAME}",FR:Cine  Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/467.m3u8
-#EXTINF:-1 tvg-name="FR:POLAR+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/62720_CINE_POLAR_HD.png" group-title="{BOUQUET_NAME}",FR:POLAR+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1415.m3u8
-#EXTINF:-1 tvg-name="FR:WARNER TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/7056_cinefx.jpg" group-title="{BOUQUET_NAME}",FR:WARNER TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2163.m3u8
-#EXTINF:-1 tvg-name="FR:OCS-MAX" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/60723_ocsmax.png" group-title="{BOUQUET_NAME}",FR:OCS-MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1018.m3u8
-#EXTINF:-1 tvg-name="FR:OCS-GEANT" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/7712_ocsgeant.png" group-title="{BOUQUET_NAME}",FR:OCS-GEANT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1016.m3u8
-#EXTINF:-1 tvg-name="FR:OCS-CITY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/34555_ocscity.png" group-title="{BOUQUET_NAME}",FR:OCS-CITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1019.m3u8
-#EXTINF:-1 tvg-name="FR:OCS-CHOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/97904_ocschoc.png" group-title="{BOUQUET_NAME}",FR:OCS-CHOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1017.m3u8
-#EXTINF:-1 tvg-name="FR:Action hd" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/26355_action.jpg" group-title="{BOUQUET_NAME}",FR:Action hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/296.m3u8
-#EXTINF:-1 tvg-name="FR:Paramount Channel FR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/4151_paramount-channel-logo-hun2.png" group-title="{BOUQUET_NAME}",FR:Paramount Channel FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1410.m3u8
-#EXTINF:-1 tvg-name="FR:TCM Cinema" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/72545_tcm cinma.png" group-title="{BOUQUET_NAME}",FR:TCM Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1530.m3u8
-#EXTINF:-1 tvg-name="FR:Comedie+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/15114_canalplus_fr_comedie_plus.png" group-title="{BOUQUET_NAME}",FR:Comedie+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/290.m3u8
-#EXTINF:-1 tvg-name="FR:Bet" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/14340_bet.png" group-title="{BOUQUET_NAME}",FR:Bet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2162.m3u8
-#EXTINF:-1 tvg-name="FR:Viceland FR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40750_latele.jpg" group-title="{BOUQUET_NAME}",FR:Viceland FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2168.m3u8
-#EXTINF:-1 tvg-name="FR:13 Rue" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/97242_13eme_rue.jpg" group-title="{BOUQUET_NAME}",FR:13 Rue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/482.m3u8
-#EXTINF:-1 tvg-name="FR:SERIE CLUB" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/59246_sÃ©rieclub.jpg" group-title="{BOUQUET_NAME}",FR:SERIE CLUB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/497.m3u8
-#EXTINF:-1 tvg-name="FR:AB1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/67566_ab1.jpg" group-title="{BOUQUET_NAME}",FR:AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1526.m3u8
-#EXTINF:-1 tvg-name="FR:Syfy HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88690_237.png" group-title="{BOUQUET_NAME}",FR:Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/292.m3u8
-#EXTINF:-1 tvg-name="FR:PLANETE+ HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/60810_logo-planete-HD.png" group-title="{BOUQUET_NAME}",FR:PLANETE+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/288.m3u8
-#EXTINF:-1 tvg-name="FR:PLANETE+ A&E HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/19045_planetae.png" group-title="{BOUQUET_NAME}",FR:PLANETE+ A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/469.m3u8
-#EXTINF:-1 tvg-name="FR:Planete+ CI" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50400_images (1).jpg" group-title="{BOUQUET_NAME}",FR:Planete+ CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/487.m3u8
-#EXTINF:-1 tvg-name="FR:NatGeo Wild HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/47590_tÃ©lÃ©chargement (1).png" group-title="{BOUQUET_NAME}",FR:NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/485.m3u8
-#EXTINF:-1 tvg-name="FR:National Geographic HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/88706_Nat_Geo_HD.png" group-title="{BOUQUET_NAME}",FR:National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/486.m3u8
-#EXTINF:-1 tvg-name="FR:VOYAGE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/77382_236.png" group-title="{BOUQUET_NAME}",FR:VOYAGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/484.m3u8
-#EXTINF:-1 tvg-name="FR:USHUAIA TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/86345_242.png" group-title="{BOUQUET_NAME}",FR:USHUAIA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/483.m3u8
-#EXTINF:-1 tvg-name="FR:ANIMAUX" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/48207_CHN43FB_503.PNG" group-title="{BOUQUET_NAME}",FR:ANIMAUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/284.m3u8
-#EXTINF:-1 tvg-name="FR:Discovery Science fr" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/40282_discovery_science_global.png" group-title="{BOUQUET_NAME}",FR:Discovery Science fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/465.m3u8
-#EXTINF:-1 tvg-name="FR:Discovery FR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/48982_241.png" group-title="{BOUQUET_NAME}",FR:Discovery FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/299.m3u8
-#EXTINF:-1 tvg-name="FR:DISCOVERY ID HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/38591_fe6jz7kxfmkxs3ah0l1v.jpg" group-title="{BOUQUET_NAME}",FR:DISCOVERY ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3381.m3u8
-#EXTINF:-1 tvg-name="FR:Crime District" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Crime District
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3671.m3u8
-#EXTINF:-1 tvg-name="FR:Science et Vie TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/60598_url.png" group-title="{BOUQUET_NAME}",FR:Science et Vie TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/282.m3u8
-#EXTINF:-1 tvg-name="FR:Toute l Histoire HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/97430_histoiretout.jpg" group-title="{BOUQUET_NAME}",FR:Toute l Histoire HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/470.m3u8
-#EXTINF:-1 tvg-name="FR:Histoire" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/32794_histoire.jpg" group-title="{BOUQUET_NAME}",FR:Histoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1534.m3u8
-#EXTINF:-1 tvg-name="FR:Trek" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/42585_trek.png" group-title="{BOUQUET_NAME}",FR:Trek
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1529.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Decouvert" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/37440_rmc-decouverte.jpg" group-title="{BOUQUET_NAME}",FR:RMC Decouvert
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/305.m3u8
-#EXTINF:-1 tvg-name="FR:Seasons hd" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/89244_Seasons_logo.png" group-title="{BOUQUET_NAME}",FR:Seasons hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1408.m3u8
-#EXTINF:-1 tvg-name="FR:Chasse et Peche" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/63987_logochasseetpeche.png" group-title="{BOUQUET_NAME}",FR:Chasse et Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1412.m3u8
-#EXTINF:-1 tvg-name="FR:Tiji" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/5857_tiji.jpg" group-title="{BOUQUET_NAME}",FR:Tiji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1482.m3u8
-#EXTINF:-1 tvg-name="FR:Piwi" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/76984_89354.png" group-title="{BOUQUET_NAME}",FR:Piwi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1023.m3u8
-#EXTINF:-1 tvg-name="FR:Nick Junior" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/32957_nickjr.jpg" group-title="{BOUQUET_NAME}",FR:Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1483.m3u8
-#EXTINF:-1 tvg-name="FR:NICK HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/58378_nickelodeon.png" group-title="{BOUQUET_NAME}",FR:NICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1029.m3u8
-#EXTINF:-1 tvg-name="FR:Boing" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/58847_boing.jpg" group-title="{BOUQUET_NAME}",FR:Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1484.m3u8
-#EXTINF:-1 tvg-name="FR:Cartoon Network HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/46174_CN_Logo_(HD).png" group-title="{BOUQUET_NAME}",FR:Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/488.m3u8
-#EXTINF:-1 tvg-name="FR:Enf-Boomerang" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/96597_images.png" group-title="{BOUQUET_NAME}",FR:Enf-Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/297.m3u8
-#EXTINF:-1 tvg-name="FR:Enf-Gulli" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/82331_222.png" group-title="{BOUQUET_NAME}",FR:Enf-Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/289.m3u8
-#EXTINF:-1 tvg-name="FR:Teletoon" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/28506_Teletoon.jpg" group-title="{BOUQUET_NAME}",FR:Teletoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/489.m3u8
-#EXTINF:-1 tvg-name="FR:Disney Junior" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/2858_disneyjunior.jpg" group-title="{BOUQUET_NAME}",FR:Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1523.m3u8
-#EXTINF:-1 tvg-name="FR:Enf-Disney XD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/75344_disneyxd.jpg" group-title="{BOUQUET_NAME}",FR:Enf-Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/2165.m3u8
-#EXTINF:-1 tvg-name="FR:Disney fr" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/38957_disney_channel_global.png" group-title="{BOUQUET_NAME}",FR:Disney fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/300.m3u8
-#EXTINF:-1 tvg-name="FR:Disney Cinemagic" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/50870_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",FR:Disney Cinemagic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/298.m3u8
-#EXTINF:-1 tvg-name="FR:Enf-CanalJ" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/24431_images.jpg" group-title="{BOUQUET_NAME}",FR:Enf-CanalJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/492.m3u8
-#EXTINF:-1 tvg-name="FR:Enf-MANGA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/87787_mangas_fr.png" group-title="{BOUQUET_NAME}",FR:Enf-MANGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/490.m3u8
-#EXTINF:-1 tvg-name="FR:J-one" tvg-logo="" group-title="{BOUQUET_NAME}",FR:J-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3673.m3u8
-#EXTINF:-1 tvg-name="FR:Toonami" tvg-logo="" group-title="{BOUQUET_NAME}",FR:Toonami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/3670.m3u8
-#EXTINF:-1 tvg-name="FR:Game one" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ndasat.com/iptv/images/87708_gameone.jpg" group-title="{BOUQUET_NAME}",FR:Game one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.42:88/live/222792832522851/222792832522851/1524.m3u8
+#EXTINF:-1,FR:_M6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30680.m3u8
+#EXTINF:-1,FR:_M6_MUSIC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30679.m3u8
+#EXTINF:-1,FR:_CANAL+CINEMA_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30664.m3u8
+#EXTINF:-1,FR:_CANAL CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30663.m3u8
+#EXTINF:-1,FR:_CANAL CINEMA_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30662.m3u8
+#EXTINF:-1,FR:_CANAL DECALE_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30658.m3u8
+#EXTINF:-1,FR:_CANAL+DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30657.m3u8
+#EXTINF:-1,FR:_CANAL+DECALE_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30656.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30661.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30660.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30659.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30655.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30654.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30653.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30652.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30651.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30650.m3u8
+#EXTINF:-1,FR:_CANAL _ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30665.m3u8
+#EXTINF:-1,FR:_CANAL+_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30667.m3u8
+#EXTINF:-1,FR:_CANAL-J-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30506.m3u8
+#EXTINF:-1,FR:_CANAL_+HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30666.m3u8
+#EXTINF:-1,FR:_ACTION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30626.m3u8
+#EXTINF:-1,FR:_Planet _CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30557.m3u8
+#EXTINF:-1,FR:_Planete HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30558.m3u8
+#EXTINF:-1,FR:_PLANETE+_AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30563.m3u8
+#EXTINF:-1,FR:_BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30522.m3u8
+#EXTINF:-1,FR:_NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30518.m3u8
+#EXTINF:-1,FR:_NICKELODEON_4TEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30517.m3u8
+#EXTINF:-1,FR:_NICKELODEON_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30516.m3u8
+#EXTINF:-1,FR:_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30512.m3u8
+#EXTINF:-1,FR:_DISNEY_XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30514.m3u8
+#EXTINF:-1,FR:_DISNEY_JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30513.m3u8
+#EXTINF:-1,FR:_DISNEY_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30511.m3u8
+#EXTINF:-1,FR:_13EME_RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30550.m3u8
+#EXTINF:-1,FR:_6Ter_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30539.m3u8
+#EXTINF:-1,FR:_AB1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30621.m3u8
+#EXTINF:-1,FR:_AB_MOTEURS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30622.m3u8
+#EXTINF:-1,FR:_Aerostar_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30552.m3u8
+#EXTINF:-1,FR:_ALTICE_STUDIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30556.m3u8
+#EXTINF:-1,FR:_Animaux_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30548.m3u8
+#EXTINF:-1,FR:_Arte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30521.m3u8
+#EXTINF:-1,FR:_BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30632.m3u8
+#EXTINF:-1,FR:_BOING_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30509.m3u8
+#EXTINF:-1,FR:_BRAVA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30636.m3u8
+#EXTINF:-1,FR:_C8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30538.m3u8
+#EXTINF:-1,FR:_Cartoon_Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30503.m3u8
+#EXTINF:-1,FR:_CHASSE&PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30547.m3u8
+#EXTINF:-1,FR:_CHERIE_25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30541.m3u8
+#EXTINF:-1,FR:_Cine Classic_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30645.m3u8
+#EXTINF:-1,FR:_Cine+Famiz_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30647.m3u8
+#EXTINF:-1,FR:_CINE+FRISSON_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30648.m3u8
+#EXTINF:-1,FR:_CINE+PREMIERE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30649.m3u8
+#EXTINF:-1,FR:_Cine+_Emotion_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30646.m3u8
+#EXTINF:-1,FR:_CINE-FX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30619.m3u8
+#EXTINF:-1,FR:_CINE_POLAR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30620.m3u8
+#EXTINF:-1,FR:_COMEDIE+HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30629.m3u8
+#EXTINF:-1,FR:_CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30537.m3u8
+#EXTINF:-1,FR:_C_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30532.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30571.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30570.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30569.m3u8
+#EXTINF:-1,FR:_DISCOVERY_FAMILY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30565.m3u8
+#EXTINF:-1,FR:_DISCOVERY_INVESTIGATION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30564.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30568.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30567.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30566.m3u8
+#EXTINF:-1,FR:_E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/5333.m3u8
+#EXTINF:-1,FR:_E!_ENTERTAINMENT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30633.m3u8
+#EXTINF:-1,FR:_Enorme_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30523.m3u8
+#EXTINF:-1,FR:_EQUIDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30583.m3u8
+#EXTINF:-1,FR:_EQUIDIA_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30582.m3u8
+#EXTINF:-1,FR:_EQUIPE21_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30525.m3u8
+#EXTINF:-1,FR:_Euronews_France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30524.m3u8
+#EXTINF:-1,FR:_EUROSPORT1_france
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30527.m3u8
+#EXTINF:-1,FR:_EUROSPORT_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30526.m3u8
+#EXTINF:-1,FR:_EXTREME_SPORT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30578.m3u8
+#EXTINF:-1,FR:_FOOT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30586.m3u8
+#EXTINF:-1,FR:_GAME_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30576.m3u8
+#EXTINF:-1,FR:_GAME_ONE+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30575.m3u8
+#EXTINF:-1,FR:_GOLF+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30577.m3u8
+#EXTINF:-1,FR:_Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30508.m3u8
+#EXTINF:-1,FR:_HD1_FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30634.m3u8
+#EXTINF:-1,FR:_INFOSPORT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30585.m3u8
+#EXTINF:-1,FR:_J_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30574.m3u8
+#EXTINF:-1,FR:_La_Télé
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30543.m3u8
+#EXTINF:-1,FR:_LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30531.m3u8
+#EXTINF:-1,FR:_Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30515.m3u8
+#EXTINF:-1,FR:_MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30675.m3u8
+#EXTINF:-1,FR:_MCM_TOP_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30678.m3u8
+#EXTINF:-1,FR:_MCS_BIEN_ETRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30584.m3u8
+#EXTINF:-1,FR:_mezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30669.m3u8
+#EXTINF:-1,FR:_MFM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30544.m3u8
+#EXTINF:-1,FR:_Monaco_Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30545.m3u8
+#EXTINF:-1,FR:_MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30623.m3u8
+#EXTINF:-1,FR:_MTV_DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30673.m3u8
+#EXTINF:-1,FR:_MTV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30674.m3u8
+#EXTINF:-1,FR:_MTV_HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30672.m3u8
+#EXTINF:-1,FR:_MTV_ROCKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30671.m3u8
+#EXTINF:-1,FR:_MY_CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30555.m3u8
+#EXTINF:-1,FR:_NATIONAL_GEO_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30572.m3u8
+#EXTINF:-1,FR:_NAT_GEO_WILD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30573.m3u8
+#EXTINF:-1,FR:_NRJ_12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30668.m3u8
+#EXTINF:-1,FR:_NRJ_HITS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30676.m3u8
+#EXTINF:-1,FR:_NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30624.m3u8
+#EXTINF:-1,FR:_OCS_CHOC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30641.m3u8
+#EXTINF:-1,FR:_OCS_CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30642.m3u8
+#EXTINF:-1,FR:_OCS_GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30643.m3u8
+#EXTINF:-1,FR:_OCS_MAX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30644.m3u8
+#EXTINF:-1,FR:_OKLM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30677.m3u8
+#EXTINF:-1,FR:_OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30580.m3u8
+#EXTINF:-1,FR:_OMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30581.m3u8
+#EXTINF:-1,FR:_Ouatch_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30553.m3u8
+#EXTINF:-1,FR:_PARAMOUNT_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30639.m3u8
+#EXTINF:-1,FR:_PARAMOUNT_DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30638.m3u8
+#EXTINF:-1,FR:_PARIE_PRMIERE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30635.m3u8
+#EXTINF:-1,FR:_Piwi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30519.m3u8
+#EXTINF:-1,FR:_BeinSport1_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30602.m3u8
+#EXTINF:-1,FR:_BeinSport1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30601.m3u8
+#EXTINF:-1,FR:_BeinSport1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30600.m3u8
+#EXTINF:-1,FR:_BeinSport2_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30599.m3u8
+#EXTINF:-1,FR:_BeinSport2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30598.m3u8
+#EXTINF:-1,FR:_BeinSport2_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30597.m3u8
+#EXTINF:-1,FR:_BeinSport3_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30596.m3u8
+#EXTINF:-1,FR:_BeinSport3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30595.m3u8
+#EXTINF:-1,FR:_BeinSport3_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30594.m3u8
+#EXTINF:-1,FR:_BeinSportMax10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30587.m3u8
+#EXTINF:-1,FR:_BeinSportMax4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30593.m3u8
+#EXTINF:-1,FR:_BeinSportMax5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30592.m3u8
+#EXTINF:-1,FR:_BeinSportMax6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30591.m3u8
+#EXTINF:-1,FR:_BeinSportMax7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30590.m3u8
+#EXTINF:-1,FR:_BeinSportMax8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30589.m3u8
+#EXTINF:-1,FR:_BeinSportMax9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30588.m3u8
+#EXTINF:-1,FR:_France_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30686.m3u8
+#EXTINF:-1,FR:_France_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30685.m3u8
+#EXTINF:-1,FR:_France_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30684.m3u8
+#EXTINF:-1,FR:_France_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30683.m3u8
+#EXTINF:-1,FR:_France_OHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30682.m3u8
+#EXTINF:-1,FR:_France24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30529.m3u8
+#EXTINF:-1,FR:_FRANCEINFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30528.m3u8
+#EXTINF:-1,FR:_TF1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30681.m3u8
+#EXTINF:-1,FR:_RMC_DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30540.m3u8
+#EXTINF:-1,FR:_RMC_SPORT10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30606.m3u8
+#EXTINF:-1,FR:_RMC_SPORT11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30605.m3u8
+#EXTINF:-1,FR:_RMC_SPORT12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30604.m3u8
+#EXTINF:-1,FR:_RMC_SPORT13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30603.m3u8
+#EXTINF:-1,FR:_RMC_SPORT1_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30616.m3u8
+#EXTINF:-1,FR:_RMC_SPORT1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30615.m3u8
+#EXTINF:-1,FR:_RMC_SPORT2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30614.m3u8
+#EXTINF:-1,FR:_RMC_SPORT3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30613.m3u8
+#EXTINF:-1,FR:_RMC_SPORT4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30612.m3u8
+#EXTINF:-1,FR:_RMC_SPORT5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30611.m3u8
+#EXTINF:-1,FR:_RMC_SPORT6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30610.m3u8
+#EXTINF:-1,FR:_RMC_SPORT7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30609.m3u8
+#EXTINF:-1,FR:_RMC_SPORT8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30608.m3u8
+#EXTINF:-1,FR:_RMC_SPORT9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30607.m3u8
+#EXTINF:-1,FR:_RMC_STORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30530.m3u8
+#EXTINF:-1,FR:_RTL9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30625.m3u8
+#EXTINF:-1,FR:_Science_et_Vie TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30546.m3u8
+#EXTINF:-1,FR:_SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30562.m3u8
+#EXTINF:-1,FR:_SERIE_CLUB_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30640.m3u8
+#EXTINF:-1,FR:_COMEDY_CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30579.m3u8
+#EXTINF:-1,FR:_SUNDANCE_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30631.m3u8
+#EXTINF:-1,FR:_Syfy_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30630.m3u8
+#EXTINF:-1,FR:_TCM_CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30628.m3u8
+#EXTINF:-1,FR:_Teletoon+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30504.m3u8
+#EXTINF:-1,FR:_TEVA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30618.m3u8
+#EXTINF:-1,FR:_THE_MUSEUM_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30637.m3u8
+#EXTINF:-1,FR:_TiJi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30505.m3u8
+#EXTINF:-1,FR:_TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30627.m3u8
+#EXTINF:-1,FR:_TOONAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30510.m3u8
+#EXTINF:-1,FR:_TOUTE_L'HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30561.m3u8
+#EXTINF:-1,FR:_TRACE_URBAN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30670.m3u8
+#EXTINF:-1,FR:_TV5_Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30534.m3u8
+#EXTINF:-1,FR:_TVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30535.m3u8
+#EXTINF:-1,FR:_TV_BREIZH_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30617.m3u8
+#EXTINF:-1,FR:_TV_M3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30533.m3u8
+#EXTINF:-1,FR:_USHUAIA_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30549.m3u8
+#EXTINF:-1,FR:_VIVOLTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30551.m3u8
+#EXTINF:-1,FR:_Voyage_FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30560.m3u8
+#EXTINF:-1,FR:_Voyage_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30559.m3u8
+#EXTINF:-1,FR:_W9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30536.m3u8
+#EXTINF:-1,FR:_WARNER_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30554.m3u8
+#EXTINF:-1,FR:_Weo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/Janel/janel123/30542.m3u8
