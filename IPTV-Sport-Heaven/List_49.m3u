@@ -1,5 +1,169 @@
 #EXTM3U
-#EXTINF:-1,RMCSPORTNEWS HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.115.26.93:8080/RMCSPORTNEWS_HEVC/mono.m3u8
-#EXTINF:-1,INFOSPORT HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.115.26.93:8080/INFOSPORT_HEVC/mono.m3u8
+#EXTINF:0,SPORTS US: ACC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1570.ts
+#EXTINF:0,SPORTS US: BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1569.ts
+#EXTINF:0,SPORTS US: BEIN SPORTS EN ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1568.ts
+#EXTINF:0,SPORTS US: BIG TEN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4450.ts
+#EXTINF:0,SPORTS US: CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/7523.ts
+#EXTINF:0,SPORTS US: CSN BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1566.ts
+#EXTINF:0,SPORTS US: CSN BAY AREA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1567.ts
+#EXTINF:0,SPORTS US: CSN BOSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1565.ts
+#EXTINF:0,SPORTS US: CSN CALIFORNIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1563.ts
+#EXTINF:0,SPORTS US: CSN CALIFORNIA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1564.ts
+#EXTINF:0,SPORTS US: CSN CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1562.ts
+#EXTINF:0,SPORTS US: CSN CHICAGO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1561.ts
+#EXTINF:0,SPORTS US: CSN MID ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1560.ts
+#EXTINF:0,SPORTS US: CSN NEW ENGLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1559.ts
+#EXTINF:0,SPORTS US: CSN NORTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1558.ts
+#EXTINF:0,SPORTS US: CSN PHILADELPHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1556.ts
+#EXTINF:0,SPORTS US: CSN PHILADELPHIA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1557.ts
+#EXTINF:0,SPORTS US: CSN WASHINGTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1554.ts
+#EXTINF:0,SPORTS US: CSN WASHINGTON PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1555.ts
+#EXTINF:0,SPORTS US: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1535.ts
+#EXTINF:0,SPORTS US: FOX SPORTS 1 |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1529.ts
+#EXTINF:0,SPORTS US: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1528.ts
+#EXTINF:0,SPORTS US: FOX SPORTS ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1527.ts
+#EXTINF:0,SPORTS US: FOX SPORTS CAROLINAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1525.ts
+#EXTINF:0,SPORTS US: FOX SPORTS CINCINNATI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1523.ts
+#EXTINF:0,SPORTS US: FOX SPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1522.ts
+#EXTINF:0,SPORTS US: FOX SPORTS DETROIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1521.ts
+#EXTINF:0,SPORTS US: FOX SPORTS FLORIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1520.ts
+#EXTINF:0,SPORTS US: FOX SPORTS INDIANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1518.ts
+#EXTINF:0,SPORTS US: FOX SPORTS KANSAS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1517.ts
+#EXTINF:0,SPORTS US: FOX SPORTS MIDWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1516.ts
+#EXTINF:0,SPORTS US: FOX SPORTS NET BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1514.ts
+#EXTINF:0,SPORTS US: FOX SPORTS NEW ORLEANS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1515.ts
+#EXTINF:0,SPORTS US: FOX SPORTS NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1509.ts
+#EXTINF:0,SPORTS US: FOX SPORTS NORTH PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1508.ts
+#EXTINF:0,SPORTS US: FOX SPORTS OHIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1503.ts
+#EXTINF:0,SPORTS US: FOX SPORTS OHIO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1502.ts
+#EXTINF:0,SPORTS US: FOX SPORTS PRIME TICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1501.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SAN DIEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1500.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SOUTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1499.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SOUTHEAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1506.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SOUTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1498.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SOUTHWEST PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1505.ts
+#EXTINF:0,SPORTS US: FOX SPORTS SUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1497.ts
+#EXTINF:0,SPORTS US: FOX SPORTS TENNESSEE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1504.ts
+#EXTINF:0,SPORTS US: FOX SPORTS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1496.ts
+#EXTINF:0,SPORTS US: FOX SPORTS WISCONSIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1495.ts
+#EXTINF:0,SPORTS US: FOX YES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4476.ts
+#EXTINF:0,FOX SPORTS NEWS (AUSTRALIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4384.ts
+#EXTINF:0,SPORTS US: GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1494.ts
+#EXTINF:0,SPORTS US: LONGHORN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1493.ts
+#EXTINF:0,SPORTS US: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1492.ts
+#EXTINF:0,SPORTS US: MLBN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1491.ts
+#EXTINF:0,SPORTS US: MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4480.ts
+#EXTINF:0,SPORTS US: MSG PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/6430.ts
+#EXTINF:0,SPORTS US: MSG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/6431.ts
+#EXTINF:0,SPORTS US: MSG 2 PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/6432.ts
+#EXTINF:0,SPORTS US: NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2623.ts
+#EXTINF:0,SPORTS US: NESN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1488.ts
+#EXTINF:0,SPORTS US: NESN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1489.ts
+#EXTINF:0,SPORTS US: OLYMPIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1422.ts
+#EXTINF:0,SPORTS US: PAC-12 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/5560.ts
+#EXTINF:0,SPORTS US: SPORTSNET LA DODGERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4479.ts
+#EXTINF:0,SPORTS US: SPORTSNET LA LAKERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4478.ts
+#EXTINF:0,SPORTS US: TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/4482.ts
+#EXTINF:0,SPORTS US: UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1484.ts
+#EXTINF:0,SPORTS US: WILLOW CRICKET 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/5558.ts
+#EXTINF:0,SPORTS US: WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/1483.ts
+#EXTINF:0,SPORTS CA: FANTASY SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2692.ts
+#EXTINF:0,SPORTS CA: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2693.ts
+#EXTINF:0,SPORTS CA: SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2723.ts
+#EXTINF:0,SPORTS CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2724.ts
+#EXTINF:0,SPORTS CA: SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2725.ts
+#EXTINF:0,SPORTS CA: SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2726.ts
+#EXTINF:0,SPORTS CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2727.ts
+#EXTINF:0,SPORTS CA: SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2728.ts
+#EXTINF:0,SPORTS CA: SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2729.ts
+#EXTINF:0,SPORTS CA: TSN  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2731.ts
+#EXTINF:0,SPORTS CA: TSN  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2732.ts
+#EXTINF:0,SPORTS CA: TSN  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2733.ts
+#EXTINF:0,SPORTS CA: TSN  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2734.ts
+#EXTINF:0,SPORTS CA: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/2735.ts
+#EXTINF:0,SPORTS CA : TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/6441.ts
+#EXTINF:0,SPORTS CA : TVA SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/wally/wally123/6440.ts

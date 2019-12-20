@@ -1,15 +1,241 @@
 #EXTM3U
-#EXTINF:0,|TR|T SPOR HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1455
-#EXTINF:0,|TR| BEINSPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1456
-#EXTINF:0,|TR| BEINSPORT 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1457
-#EXTINF:0,|TR| BEINSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1458
-#EXTINF:0,|TR| BEINSPORT 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1459
-#EXTINF:0,|TR| S SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1460
-#EXTINF:0,|TR| TRT SPOR HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/3023
+#EXTINF:0,ES | TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1206
+#EXTINF:0,ES | EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1207
+#EXTINF:0,ES | EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1208
+#EXTINF:0,ES: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1209
+#EXTINF:0,ES: LA LIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1210
+#EXTINF:0,ES | MOVISTAR LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1211
+#EXTINF:0,ES | BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1212
+#EXTINF:0,ES | MOVISTAR LALIGA MULTI 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1213
+#EXTINF:0,ES | MOVISTAR LALIGA MULTI 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1214
+#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1215
+#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1216
+#EXTINF:0,ES | #VAMOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1218
+#EXTINF:0,ES | GOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1219
+#EXTINF:0,ES | MOVISTAR GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1220
+#EXTINF:0,ES | BAR?A TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1221
+#EXTINF:0,ES | MOVISTAR DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1222
+#EXTINF:0,ES | MOVISTAR DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1223
+#EXTINF:0,ES | MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1224
+#EXTINF:0,ES | COCINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1225
+#EXTINF:0,US | Bein Sports ? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1226
+#EXTINF:0,US | Bein Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1227
+#EXTINF:0,CH | CDF ESTADIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1228
+#EXTINF:0,CH | CDF BASICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1229
+#EXTINF:0,CH | CDO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1231
+#EXTINF:0,CH | CDF PREEMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1232
+#EXTINF:0,CH | CDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1233
+#EXTINF:0,AR | FOX SPORTS 1 SD Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1234
+#EXTINF:0,AR | FOX SPORTS 1 HD Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1235
+#EXTINF:0,AR | FOX SPORTS 2 SD Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1236
+#EXTINF:0,AR | FOX SPORTS 2 HD Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1237
+#EXTINF:0,AR | FOX SPORTS 3 SD Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1238
+#EXTINF:0,AR | FOX SPORTS 3 Hd Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1239
+#EXTINF:0,CH | FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1240
+#EXTINF:0,CH | FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1241
+#EXTINF:0,AR | DIRECTV SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1242
+#EXTINF:0,AR | DIRECTV SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1243
+#EXTINF:0,AR | DIRECTV SPORTS PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1244
+#EXTINF:0,AR | ESPN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1245
+#EXTINF:0,AR | ESPN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1246
+#EXTINF:0,AR | ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1247
+#EXTINF:0,AR | ESPN 2 *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1248
+#EXTINF:0,AR | ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1249
+#EXTINF:0,AR | ESPN 3 Arg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1250
+#EXTINF:0,AR | TyC Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1251
+#EXTINF:0,US | ESPN DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1252
+#EXTINF:0,ES | BEIN SPORTS LA LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1253
+#EXTINF:0,ES | MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1254
+#EXTINF:0,ES | F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1255
+#EXTINF:0,US | BEIN SPORTS N HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1256
+#EXTINF:0,LA | BEIN SPORTS N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1257
+#EXTINF:0,AR | FOX SPORTS PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1258
+#EXTINF:0,AR | TNT SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1259
+#EXTINF:0,US | MLB-NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1260
+#EXTINF:0,US  | TENNIS CHANEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1261
+#EXTINF:0,US | UFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1262
+#EXTINF:0,US | FIGHTING SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1263
+#EXTINF:0,ES | M. LIGA DE CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1264
+#EXTINF:0,CO | Win Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1265
+#EXTINF:0,US | ACC Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1266
+#EXTINF:0,US | Big Ten Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1267
+#EXTINF:0,US | Eleven Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1268
+#EXTINF:0,US | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1269
+#EXTINF:0,US | ESPN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1270
+#EXTINF:0,US | ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1271
+#EXTINF:0,US | Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1272
+#EXTINF:0,US | Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1274
+#EXTINF:0,US | Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1275
+#EXTINF:0,US | Fox Soccer Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1276
+#EXTINF:0,US | GINX eSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1277
+#EXTINF:0,US | Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1278
+#EXTINF:0,US | LongHorn Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1279
+#EXTINF:0,US | MLB Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1280
+#EXTINF:0,US | MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1281
+#EXTINF:0,US | MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1283
+#EXTINF:0,US | NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1284
+#EXTINF:0,US | NFL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1286
+#EXTINF:0,US | NHL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1287
+#EXTINF:0,US | Outside
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1288
+#EXTINF:0,US | Outdoor Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1289
+#EXTINF:0,US | SNY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1294
+#EXTINF:0,US | Yes Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1296
+#EXTINF:0,MX | Afizzionados
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1297
+#EXTINF:0,US | TVG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1298
+#EXTINF:0,US | GOLTV ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1299
+#EXTINF:0,USA | TVG2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1300
+#EXTINF:0,US | FS Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1301
+#EXTINF:0,US | NBC Sports Washington
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1302
+#EXTINF:0,US | Fox Sports South
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1303
+#EXTINF:0,US | Fox Sports Indiana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1304
+#EXTINF:0,USA | Fox Sports Florida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1305
+#EXTINF:0,US | Fox Sports Sun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1306
+#EXTINF:0,US | Fox Sports North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1307
+#EXTINF:0,US | Fox Sports Prime Ticket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1308
+#EXTINF:0,US | NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1309
+#EXTINF:0,US | Fox Sports San Diego
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1310
+#EXTINF:0,US | Fox Sports West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1311
+#EXTINF:0,US | Fox Sports North Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1312
+#EXTINF:0,US | NBC Sports Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1313
+#EXTINF:0,US | NBC Sports Boston
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1314
+#EXTINF:0,US | NBC Sports Chicago
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1315
+#EXTINF:0,US | NBC Sports Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1317
+#EXTINF:0,US | NBC Sports Chicago Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1319
+#EXTINF:0,MX | El Garage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1320
+#EXTINF:0,MX | Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1321
+#EXTINF:0,MX | Espn Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1322
+#EXTINF:0,MX | Espn 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1323
+#EXTINF:0,MX | Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1324
+#EXTINF:0,MX | Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1325
+#EXTINF:0,MX | Espn Sec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1326
+#EXTINF:0,MX | Espn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1327
+#EXTINF:0,MX | Espn 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1328
+#EXTINF:0,MX | Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1329
+#EXTINF:0,MX | AyM Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1330
+#EXTINF:0,MX | Havoc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1331
+#EXTINF:0,US |  NBC Philadelphia Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1332
+#EXTINF:0,US |  NBC Chicago Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1333
+#EXTINF:0,US | GOL TV ESP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1334
+#EXTINF:0,MX | Adrenalina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1335
+#EXTINF:0,PE | GOL PERU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1336
+#EXTINF:0,PE | MOVISTAR DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/aldo/aldo/1337
