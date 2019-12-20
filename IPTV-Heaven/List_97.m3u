@@ -1,77 +1,245 @@
 #EXTM3U
-#EXTINF:-1,spedahd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://speda.teradek.live:1935/live/spedahd/chunklist.m3u8
-#EXTINF:-1,Kurmanci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1,SHOW1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
-#EXTINF:-1,astera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.teradek.live:1935/live/astera/chunklist.m3u8
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/FOX/chunks.m3u8
-#EXTINF:-1,HBO2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/HBO2/chunks.m3u8
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/TBS/chunks.m3u8
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/TNT/chunks.m3u8
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cana4.gato.rocks:8081/budtv/HBO/chunks.m3u8
-#EXTINF:-1,khersontv
-https://stream.smarthost.com.ua/hls/khersontv.m3u8
-#EXTINF:-1,CHAMPIONS LEAGUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.162.90.141:8080/a10205989fef823106861151d240cee4
-#EXTINF:-1,brt2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1,brt1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1,NRT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/chunklist.m3u8
-#EXTINF:-1,elfstedenhal
-https://58fe270971ed0.streamlock.net/live/elfstedenhal.stream/playlist.m3u8
-#EXTINF:-1,rtvutrecht
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1,ch8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1,JX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nextprox2.dontexist.net/JX1/HD-FOXAC-MX.m3u8
-#EXTINF:-1,protv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1,StarSports_Hd1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
-#EXTINF:-1,ALJAZZERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.43.140.249/s69/04.m3u8
-#EXTINF:-1,1tvcrimea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,EpicDramaHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,transco14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1,ATV TURKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.17.115.18:8000/play/a00z/index.m3u8
-#EXTINF:-1,s81
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1,cnntv
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1,LAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.79.79.151/USLAT-MX-X/US-CINEL-LAT.m3u8
-#EXTINF:-1,fhzx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1,HKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,zeeaflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
-#EXTINF:-1,AD SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel113/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC BOLLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel112/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AD SPORT3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel110/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel115/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MY ZEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel114/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PIWI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel720/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ssitv.ddns.net:9075/channel257/tracks-v1a1/mono.m3u8
+#EXTINF:-1,::Radio Millenium Bulgaria - Eternal Dance Hits::
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35345
+#EXTINF:-1,::Radio Millenium Bulgaria - Eternal Dance Hits:: 64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35344
+#EXTINF:-1,.:: HOT FM Vratsa ::.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35366
+#EXTINF:-1,0 MHz Sofia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35387
+#EXTINF:-1,alpha radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35331
+#EXTINF:-1,Ambient & Chill Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35324
+#EXTINF:-1,Avto Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35418
+#EXTINF:-1,bgestrada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35357
+#EXTINF:-1,BGRADIO RADIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35416
+#EXTINF:-1,bgradio64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35417
+#EXTINF:-1,BINAR-BgPop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35363
+#EXTINF:-1,BINAR-Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35360
+#EXTINF:-1,BINAR-Duende
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35362
+#EXTINF:-1,BINAR-Folk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35358
+#EXTINF:-1,BINAR-Indie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35361
+#EXTINF:-1,BINAR-PunkJazz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35359
+#EXTINF:-1,BNR Horizont
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35430
+#EXTINF:-1,BNR Hristo Botev
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35429
+#EXTINF:-1,BNR Radio Hlapeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35422
+#EXTINF:-1,BNR Radio Kurdzhali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35426
+#EXTINF:-1,BNR Radio Plovdiv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35427
+#EXTINF:-1,BNR Radio Shumen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35425
+#EXTINF:-1,BNR Radio Sofia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35428
+#EXTINF:-1,BNR-RADIO STARA ZAGORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35380
+#EXTINF:-1,BNR-RADIO STARA ZAGORA 128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35379
+#EXTINF:-1,Braille fm. www.braillefm.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35316
+#EXTINF:-1,bTV radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35415
+#EXTINF:-1,city64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35401
+#EXTINF:-1,Classic FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35388
+#EXTINF:-1,Darik Nostalgie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35386
+#EXTINF:-1,Darik Radio 128k bits/sec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35423
+#EXTINF:-1,Darik Radio 96k bits/sec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35424
+#EXTINF:-1,Deluxe Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35338
+#EXTINF:-1,Deluxe Radio 64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35337
+#EXTINF:-1,Dream FM Bulgaria :: Feel The Vibe!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35329
+#EXTINF:-1,Dream FM Bulgaria :: Feel The Vibe! 128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35330
+#EXTINF:-1,Drum & Bass Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35319
+#EXTINF:-1,Dubstep Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35320
+#EXTINF:-1,energy-90s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35350
+#EXTINF:-1,Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35317
+#EXTINF:-1,Focus Plovdiv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35395
+#EXTINF:-1,Focus Sofia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35397
+#EXTINF:-1,Funk & Soul Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35326
+#EXTINF:-1,Hard Techno Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35318
+#EXTINF:-1,House Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35325
+#EXTINF:-1,Internet radio - Lele Male
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35355
+#EXTINF:-1,Jazz FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35385
+#EXTINF:-1,Jazz FM lounge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35339
+#EXTINF:-1,MAGIC FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35405
+#EXTINF:-1,Maxx FM Bulgaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35347
+#EXTINF:-1,Maxx FM Bulgaria 64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35346
+#EXTINF:-1,Mixotic Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35321
+#EXTINF:-1,N-JOY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35403
+#EXTINF:-1,Folk Radio Nazdrave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35353
+#EXTINF:-1,Nova NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35402
+#EXTINF:-1,nova64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35384
+#EXTINF:-1,nrj64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35409
+#EXTINF:-1,Obshtinsko radio razgrad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35373
+#EXTINF:-1,OnlineDJRadio.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35343
+#EXTINF:-1,pa3J|u4HoTo PaDi0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35367
+#EXTINF:-1,POWER FM ONLINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35377
+#EXTINF:-1,PowerFM Tsarevo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35376
+#EXTINF:-1,Progressive Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35327
+#EXTINF:-1,Psychedelic Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35322
+#EXTINF:-1,RADIO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35420
+#EXTINF:-1,RADIO 1 ROCK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35419
+#EXTINF:-1,Radio 865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35310
+#EXTINF:-1,RADIO 999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35378
+#EXTINF:-1,Radio Astra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35382
+#EXTINF:-1,RADIO ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35349
+#EXTINF:-1,RADIO CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35400
+#EXTINF:-1,Radio Dance With Me - 128 Kbit/s (www.dancewithme-bg.com)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35348
+#EXTINF:-1,Radio Dobrudja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35374
+#EXTINF:-1,RADIO ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35408
+#EXTINF:-1,Radio FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35398
+#EXTINF:-1,Radio Focus Burgas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35393
+#EXTINF:-1,Radio FOCUS Pazardjik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35394
+#EXTINF:-1,Radio Focus Pirin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35396
+#EXTINF:-1,Radio Focus Varna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35392
+#EXTINF:-1,Radio Fresh! - Always Todays Best Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35391
+#EXTINF:-1,Radio Fresh! - Always Todays Best Hits 128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35390
+#EXTINF:-1,RADIO GAMA - Vidin 128 kbps
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35364
+#EXTINF:-1,RADIO GAMA - Vidin 80 kbps
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35365
+#EXTINF:-1,Radio Helikon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35315
+#EXTINF:-1,Radio Helikon 128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35314
+#EXTINF:-1,Radio Helikon 256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35313
+#EXTINF:-1,Radio Mania - skype: radio.mania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35354
+#EXTINF:-1,Radio Melody
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35404
+#EXTINF:-1,Radio Melodya - Silistra - 128 Kbit/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35370
+#EXTINF:-1,Radio Melodya - Silistra - 80 Kbit/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35371
+#EXTINF:-1,RADIO NATURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35312
+#EXTINF:-1,RADIO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35383
+#EXTINF:-1,Radio Novinite Sega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35389
+#EXTINF:-1,Radio ORV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35342
+#EXTINF:-1,Radio Reakcia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35332
+#EXTINF:-1,Radio Sense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35341
+#EXTINF:-1,Radio Severozapad - www.rsmedia.net - 128kbps
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35351
+#EXTINF:-1,Radio Ultra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35399
+#EXTINF:-1,RADIO VARNA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35375
+#EXTINF:-1,Radio Vega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35381
+#EXTINF:-1,RADIO VERONIKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35413
+#EXTINF:-1,Radio Veselina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35412
+#EXTINF:-1,Radio Vitosha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35411
+#EXTINF:-1,Radio Voice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35410
+#EXTINF:-1,Radio Z-Rock Broadcast by Atlantis BG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35407
+#EXTINF:-1,radio Zetra-zetramedia.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35369
+#EXTINF:-1,radio Zetra-zetramedia.com 128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35368
+#EXTINF:-1,radio164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35421
+#EXTINF:-1,RadioBg-London
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35356
+#EXTINF:-1,RetroChalga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35352
+#EXTINF:-1,Tangra Mega Rock 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35335
+#EXTINF:-1,Tangra Mega Rock 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35334
+#EXTINF:-1,Tangra Mega Rock 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35333
+#EXTINF:-1,Techno Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35328
+#EXTINF:-1,Trance Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35323
+#EXTINF:-1,TVOETO RADIO (MB RECASTER)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35340
+#EXTINF:-1,Unknown Rock radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35311
+#EXTINF:-1,veronika64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35414
+#EXTINF:-1,XRaydio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35336
+#EXTINF:-1,Z-ROCK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35406
+#EXTINF:-1,Радио Търговище
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35372
+#EXTINF:-1,Radio Severozapad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/radio/radio/35431

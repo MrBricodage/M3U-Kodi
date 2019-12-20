@@ -1,45 +1,207 @@
 #EXTM3U
-#EXTINF:-1,RenTV
-https://sc.id-tv.kz/RenTV.m3u8
-#EXTINF:-1,rthk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1,f1tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
-#EXTINF:-1,naktv
-https://watch.haitilive.net/FreeTV/!/naktv/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.14.238.215:4022/udp/233.33.210.7:5050
-#EXTINF:-1,rtk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,azerbaijan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams2.livetv.az/azerbaijan/idmanhd/playlist.m3u8
-#EXTINF:-1,discoverymax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1,telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1,TVONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
-#EXTINF:-1,i24
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1,gong-base
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1,telemaria
-https://streaming.wim.tv/programming/telemaria/playlist.m3u8
-#EXTINF:-1,tehnikatv777
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8
-#EXTINF:-1,naktv
-https://watch.haitilive.net/FreeTV/!/naktv/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein-Sport-HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1,AVOP-447
-https://videony.rhsj520.com/0803/AVOP-447/1500kb/hls/index.m3u8
-#EXTINF:-1,RPIN
-https://videony.rhsj520.com/20190907/RPIN-026/1500kb/hls/index.m3u8
-#EXTINF:-1,FONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://videony.rhsj520.com:8091/0706/FONE-028/1500kb/hls/index.m3u8
-#EXTINF:-1,RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://77.89.199.174:8000/play/1024/index.m3u8
-#EXTINF:-1,24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.249.62.147:8000/play/a048/index.m3u8
-#EXTINF:-1,???? ??????
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.212.74.3:8000/live/hls/7512.m3u8
+#EXTINF:-1,5kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/112/index.m3u8
+#EXTINF:-1,mir
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/113/index.m3u8
+#EXTINF:-1,nickjr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/114/index.m3u8
+#EXTINF:-1,evropaplus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/115/index.m3u8
+#EXTINF:-1,muztv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/116/index.m3u8
+#EXTINF:-1,1+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/994/index.m3u8
+#EXTINF:-1,1+1 International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/987/index.m3u8
+#EXTINF:-1,1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/238/index.m3u8
+#EXTINF:-1,2+2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/995/index.m3u8
+#EXTINF:-1,2X2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/702/index.m3u8
+#EXTINF:-1,4 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1039/index.m3u8
+#EXTINF:-1,5 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/945/index.m3u8
+#EXTINF:-1,7 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1035/index.m3u8
+#EXTINF:-1,8 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1046/index.m3u8
+#EXTINF:-1,8 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1057/index.m3u8
+#EXTINF:-1,8 ????? ???????????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1058/index.m3u8
+#EXTINF:-1,24 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/951/index.m3u8
+#EXTINF:-1,24 ????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1063/index.m3u8
+#EXTINF:-1,36.6 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1025/index.m3u8
+#EXTINF:-1,112 ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/924/index.m3u8
+#EXTINF:-1,360 Tune Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/810/index.m3u8
+#EXTINF:-1,360°
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/825/index.m3u8
+#EXTINF:-1,Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/960/index.m3u8
+#EXTINF:-1,Amedia 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/554/index.m3u8
+#EXTINF:-1,Amedia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/510/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/556/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/229/index.m3u8
+#EXTINF:-1,Amedia Premium HD (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/555/index.m3u8
+#EXTINF:-1,Ani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/129/index.m3u8
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/137/index.m3u8
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/218/index.m3u8
+#EXTINF:-1,ATR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/952/index.m3u8
+#EXTINF:-1,AzTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/966/index.m3u8
+#EXTINF:-1,BabyTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/807/index.m3u8
+#EXTINF:-1,BBB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/959/index.m3u8
+#EXTINF:-1,BBC America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1092/index.m3u8
+#EXTINF:-1,BBC World News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/545/index.m3u8
+#EXTINF:-1,Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/719/index.m3u8
+#EXTINF:-1,Bollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/239/index.m3u8
+#EXTINF:-1,BOLT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/991/index.m3u8
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/723/index.m3u8
+#EXTINF:-1,BOUTIQUE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1029/index.m3u8
+#EXTINF:-1,Brain TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/948/index.m3u8
+#EXTINF:-1,BRIDGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/236/index.m3u8
+#EXTINF:-1,Bridge TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/122/index.m3u8
+#EXTINF:-1,BRIDGE TV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/711/index.m3u8
+#EXTINF:-1,BRIDGE TV ??????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/120/index.m3u8
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/143/index.m3u8
+#EXTINF:-1,CBC AZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1050/index.m3u8
+#EXTINF:-1,CBN ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1032/index.m3u8
+#EXTINF:-1,CBS New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/903/index.m3u8
+#EXTINF:-1,CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/706/index.m3u8
+#EXTINF:-1,CCTV-4 Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/829/index.m3u8
+#EXTINF:-1,CGTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/830/index.m3u8
+#EXTINF:-1,CGTN ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/831/index.m3u8
+#EXTINF:-1,Classical Harmony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1037/index.m3u8
+#EXTINF:-1,CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/962/index.m3u8
+#EXTINF:-1,CNL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/955/index.m3u8
+#EXTINF:-1,CNN International Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/842/index.m3u8
+#EXTINF:-1,Cozi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1084/index.m3u8
+#EXTINF:-1,Da Vinci Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1033/index.m3u8
+#EXTINF:-1,Da Vinci Kids PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1034/index.m3u8
+#EXTINF:-1,Decades
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1085/index.m3u8
+#EXTINF:-1,Deluxe Lounge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/968/index.m3u8
+#EXTINF:-1,N/A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/734/index.m3u8
+#EXTINF:-1,Deutsche Welle DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1021/index.m3u8
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/140/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/227/index.m3u8
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/136/index.m3u8
+#EXTINF:-1,Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/524/index.m3u8
+#EXTINF:-1,DocuBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/811/index.m3u8
+#EXTINF:-1,Duck TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1031/index.m3u8
+#EXTINF:-1,E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/736/index.m3u8
+#EXTINF:-1,English Club TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/993/index.m3u8
+#EXTINF:-1,Enter-?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/933/index.m3u8
+#EXTINF:-1,Epic Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1048/index.m3u8
+#EXTINF:-1,EU Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/925/index.m3u8
+#EXTINF:-1,Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/969/index.m3u8
+#EXTINF:-1,Euronews ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/828/index.m3u8
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/141/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/228/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/234/index.m3u8
+#EXTINF:-1,Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/144/index.m3u8
+#EXTINF:-1,E?????? TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/927/index.m3u8
+#EXTINF:-1,Fashiontv EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1010/index.m3u8
+#EXTINF:-1,Fashiontv EN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1011/index.m3u8
+#EXTINF:-1,FilmBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/817/index.m3u8
+#EXTINF:-1,Filmbox Arthouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/818/index.m3u8
+#EXTINF:-1,FilmBox EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1071/index.m3u8
+#EXTINF:-1,Fine Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/735/index.m3u8
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/819/index.m3u8
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1107/index.m3u8
+#EXTINF:-1,Fox 5 WNYW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1086/index.m3u8
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/219/index.m3u8
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/553/index.m3u8
+#EXTINF:-1,Fox Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/550/index.m3u8
+#EXTINF:-1,France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/964/index.m3u8
+#EXTINF:-1,FRANCE 24 En
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/947/index.m3u8
+#EXTINF:-1,FXM en
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1106/index.m3u8
+#EXTINF:-1,Gametoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/820/index.m3u8
+#EXTINF:-1,Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/109/index.m3u8
+#EXTINF:-1,GUNAZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1051/index.m3u8
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/1052/index.m3u8

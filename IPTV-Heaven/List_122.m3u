@@ -1,7 +1,0 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,BEINSPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/38.ts
-#EXTINF:-1,BEINSPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/36.ts
-#EXTINF:-1,BEINSPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
