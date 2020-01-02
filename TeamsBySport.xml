@@ -1899,6 +1899,7 @@
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]England[/B][/COLOR] : [COLOR white][B]Sheffield United[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
+	<info>$doregex[get_hanturl]</info>
 	<regex>
 	<name>get_hanturl</name>
 	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
