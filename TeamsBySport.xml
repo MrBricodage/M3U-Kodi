@@ -31,7 +31,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/philadelphia-76ers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -49,7 +49,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/portland-trail-blazers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -67,7 +67,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/chicago-bulls-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -85,7 +85,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/cleveland-cavaliers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -103,7 +103,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/boston-celtics-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -121,7 +121,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/la-clippers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -139,7 +139,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/memphis-grizzlies-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -157,7 +157,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/atlanta-hawks-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -175,7 +175,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/miami-heat-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -193,7 +193,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/charlotte-hornets-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -211,7 +211,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/utah-jazz-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -229,7 +229,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/sacramento-kings-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -247,7 +247,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-york-knicks-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -265,7 +265,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/los-angeles-lakers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -283,7 +283,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/dallas-mavericks-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -301,7 +301,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/brooklyn-nets-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -319,7 +319,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/denver-nuggets-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -337,7 +337,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-orleans-pelicans-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -355,7 +355,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/detroit-pistons-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -373,7 +373,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/toronto-raptors-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -391,7 +391,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/houston-rockets-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -409,7 +409,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/san-antonio-spurs-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -427,7 +427,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/phoenix-suns-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -445,7 +445,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/minnesota-timberwolves-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -463,7 +463,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/oklahoma-city-thunder-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -481,7 +481,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/golden-state-warriors-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -499,7 +499,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/washington-wizards-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
@@ -530,7 +530,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/san-francisco-49ers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -547,7 +547,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/chicago-bears-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -564,7 +564,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/cincinnati-bengals-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -581,7 +581,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/buffalo-bills-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -598,7 +598,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/denver-broncos-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -615,7 +615,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/cleveland-browns-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -632,7 +632,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/tampa-bay-buccaneers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -649,7 +649,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/arizona-cardinals-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -666,7 +666,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/los-angeles-chargers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -683,7 +683,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/kansas-city-chiefs-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -700,7 +700,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/indianapolis-colts-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -717,7 +717,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/dallas-cowboys-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -734,7 +734,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/miami-dolphins-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -751,7 +751,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/philadelphia-eagles-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -768,7 +768,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/atlanta-falcons-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -785,7 +785,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-york-giants-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -802,7 +802,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/jacksonville-jaguars-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -819,7 +819,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-york-jets-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -836,7 +836,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/detroit-lions-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -853,7 +853,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/green-bay-packers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -870,7 +870,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/carolina-panthers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -887,7 +887,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-england-patriots-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -904,7 +904,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/oakland-raiders-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -921,7 +921,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/los-angeles-rams-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -938,7 +938,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/baltimore-ravens-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -955,7 +955,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/washington-redskins-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -972,7 +972,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/seattle-seahawks-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -989,7 +989,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/new-orleans-saints-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -1006,7 +1006,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/pittsburgh-steelers-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -1023,7 +1023,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/houston-texans-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -1040,7 +1040,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/tennessee-titans-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -1057,7 +1057,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/minnesota-vikings-live-stream/</page>
 	</regex>
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
@@ -1668,7 +1668,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/arsenal-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1685,7 +1685,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/aston-villa-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1702,7 +1702,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/bournemouth-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1719,7 +1719,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/brighton-hove-albion-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1736,7 +1736,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/burnley-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1753,7 +1753,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/1-chelsea-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1770,7 +1770,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/crystal-palace-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1787,7 +1787,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/everton-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1804,7 +1804,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/leicester-city-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1821,7 +1821,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/liverpool-fc-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1838,7 +1838,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/manchester-city-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1855,7 +1855,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/manchester-united-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1872,7 +1872,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/newcastle-united-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1889,7 +1889,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/norwich-city-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1907,7 +1907,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/sheffield-united-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1924,7 +1924,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/southampton-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1942,7 +1942,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/tottenham-hotspur-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1959,7 +1959,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/watford-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1977,7 +1977,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/west-ham-united-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -1994,7 +1994,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/wolverhampton-wanderers-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2015,7 +2015,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/amiens-sc-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2033,7 +2033,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/angers-sco-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2051,7 +2051,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/girondins-de-bordeaux-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2069,7 +2069,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/brest-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2087,7 +2087,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/dijon-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2104,7 +2104,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/losc-lille-metropole-live-stream-2/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2122,7 +2122,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/olympique-lyonnais-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2140,7 +2140,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/olympique-marseille-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2158,7 +2158,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/metz-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2176,7 +2176,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/monaco-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2194,7 +2194,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/montpellier-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2212,7 +2212,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/nantes-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2230,7 +2230,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/ogc-nice-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2248,7 +2248,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/nimes-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2265,7 +2265,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/paris-saint-germain-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2283,7 +2283,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/stade-de-reims-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2301,7 +2301,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/stade-rennais-fc-live-stream-2/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2319,7 +2319,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/saint-etienne-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2337,7 +2337,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/strasbourg-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2355,7 +2355,7 @@
 	</regex>
 	<regex>
 	<name>get_sxstream1</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/toulouse-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2376,7 +2376,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/augsburg-1907-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2393,7 +2393,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/union-berlin-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2410,7 +2410,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/werder-bremen-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2427,7 +2427,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/borussia-dortmund-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2444,7 +2444,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/fortuna-dusseldorf-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2461,7 +2461,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/eintracht-frankfurt-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2478,7 +2478,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/sc-freiburg-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2495,7 +2495,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/hertha-bsc-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2512,7 +2512,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/tsg-1899-hoffenheim-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2529,7 +2529,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/koln-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2546,7 +2546,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/rb-leipzig-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2563,7 +2563,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/bayer-04-leverkusen-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2580,7 +2580,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/1-fsv-mainz-05-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2597,7 +2597,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/borussia-mgladbach-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2614,7 +2614,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/bayern-munich-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2631,7 +2631,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/paderborn-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2648,7 +2648,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/schalke-04-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2665,7 +2665,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/wolfsburg-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2684,7 +2684,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/atalanta-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2701,7 +2701,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/juventus-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2721,7 +2721,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/barcelona-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2738,7 +2738,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/leganes-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2755,7 +2755,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/levante-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2772,7 +2772,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/mallorca-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2789,7 +2789,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/valencia-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2806,7 +2806,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/real-valladolid-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2823,7 +2823,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/celta-de-vigo-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
@@ -2840,7 +2840,7 @@
 	</regex>
 	<regex>
 	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/villarreal-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
