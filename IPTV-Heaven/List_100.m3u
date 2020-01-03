@@ -1,13 +1,129 @@
 #EXTM3U
-#EXTINF:-1,Nat Geo Abu Dhabi_FOLLOW : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u8
-#EXTINF:-1,Nat Geo Abu Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
-#EXTINF:-1,Emarat_FOLLOW : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net:80/adalemarat/adalemarat_720p.m3u8
-#EXTINF:-1,Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net:80/adalemarat/adalemarat_480p.m3u8
-#EXTINF:-1,Emarat TV 360p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adalemarat/adalemarat_360p.m3u8
-#EXTINF:-1,Abu Dhabi TV 360p_FOLLOW : twitter.com/dailyfreeiptv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adaloula/adaloula_360p.m3u8
+#EXTINF:-1,Jaskiniowiec (2018)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Early_Man_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Piotrus Królik (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Peter_Rabbit_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Maly Ksiaze (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Le_Petit_Prince_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Siedmiu krasnoludków ratuje Spiaca Królewne (2014)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Der_7bte_Zwerg_2014_PL.hd.m4v/index.m3u8
+#EXTINF:-1,zapomniane dzieci (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Psiconautas_los_ninos_olvidados_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Coco (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Coco_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Tedi i mapa skarbów (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Tadeo_Jones_2_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Kumple z dzungli (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Les_as_de_la_jungle_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Gnomeo i Julia. Tajemnica zaginionych krasnali (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Sherlock_Gnomes_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Wyspa psów (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Isle_of_Dogs_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Alvin i wiewiórki 3 (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/502036_normal_st.dvd.m4v/index.m3u8
+#EXTINF:-1,Alvin i wiewiórki: Wielka wyprawa (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Alvin_and_the_Chipmunks_The_Road_Chip_2015.hd.m4v/index.m3u8
+#EXTINF:-1,Traktorek Florek (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Gratass_Goy_pa_landet_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Trolle (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Trolls_PL_2016.hd.m4v/index.m3u8
+#EXTINF:-1,Zaczarowany las (2015)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Kostebekgiller_Perili_Orman_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Roman Barbarzynca (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Ronal_barbaren_2011_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Gnomy rozrabiaja (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Gnome_Alone_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Shrek 2 (2004)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Shrek_2_2004_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Shrek Trzeci (2007) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Shrek_the_Third_2007_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Zambezia (2012)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Zambezia_2012_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Super Spark: Gwiezdna misja (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Spark_A_Space_Tail_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Pszczólka Maja: Miodowe igrzyska (2018)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Maya_the_Bee_The_Honey_Games_2018_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Ups! Arka odplynela (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Ooops_Noah_Is_Gone_2015_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Opiekunczy bracia (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Xiao_men_shen_2016_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Pierwsza gwiazdka (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_Star_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Lowcy smoków (2008)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Chasseurs_de_dragons_2008_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Smerfy: Poszukiwacze zaginionej wioski (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Smurfs_The_Lost_Village_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Fernando (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Ferdinand_2017_PL.hd.m4v/index.m3u8
+#EXTINF:-1,Zakwakani (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Quackerz_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Epoka lodowcowa: Mocne uderzenie (2016)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Ice_Age_Collision_Course_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Fistaszki - wersja kinowa (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_Peanuts_Movie_2015_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Baranek Shaun. Film (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Shaun_the_Sheep_Movie_2015_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Zaloga G (2009)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/G_Force_2009_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Na fali 2 (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Surfs_Up_2_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Vaiana: Skarb oceanu (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Moana_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Kraina Lodu. Przygoda Olafa (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Olafs_Frozen_Adventure_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,LEGO® NINJAGO: FILM (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_LEGO_Ninjago_Movie_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Sing (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Sing_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Rango (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Rango_2011_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Gnomeo i Julia (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Gnomeo_Juliet_2011_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Tarzan. Król dzungli (2013)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Tarzan_2013_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Legendy sowiego królestwa: Straznicy Ga'Hoole (2010)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Legend_of_the_Guardians_2010_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Zaplatani (2010)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Tangled_2010_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Straznicy marzen (2012)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Rise_of_the_Guardians_2012_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Uniwersytet Potworny (2013)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Monsters_University_2013_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Megamocny (2010)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Megamind_2010_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Kraina lodu (2013)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Frozen_2013_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Jak wytresowac smoka (2010)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/How_to_Train_Your_Dragon_2010_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Jak wytresowac smoka 2 (2014)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/How_to_Train_Your_Dragon_2_2014_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Frankenweenie (2012)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Frankenweenie_2012_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Dobry dinozaur (2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_Good_Dinosaur_2015_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Lilo i Stich (2002)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Lilo_Stitch_2002_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Lilo i Stich 2: Maly feler Sticha (2005)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Lilo_Stitch_2_2005_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Balerina (2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Ballerina_2016_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Sahara (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Sahara_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Auta (2006)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Cars_2006_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Auta 2 (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Cars_2_2011_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Auta 3 (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Cars_3_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,LEGO® BATMAN: FILM (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_LEGO_Batman_Movie_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Mlodzi Tytani: Zdradziecki pakt (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Teen_Titans_The_Judas_Contract_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Mariah Carey. Swiateczne zyczenie (2017)_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/All_I_Want_for_Christmas_Is_You_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Monster Island (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/Monster_Island_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Emotki. Film (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_Emoji_Movie_2017_PL.dvd.m4v/index.m3u8
+#EXTINF:-1,Gang Wiewióra 2 (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vodcdn-eu-01.planetapl.tv:80/vod/The_Nut_Job_2_2017_PL.dvd.m4v/index.m3u8

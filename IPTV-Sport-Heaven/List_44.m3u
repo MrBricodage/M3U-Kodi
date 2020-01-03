@@ -1,259 +1,165 @@
 #EXTM3U
-#EXTINF:0,ES | TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1206
-#EXTINF:0,ES | EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1207
-#EXTINF:0,ES | EUROSPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1208
-#EXTINF:0,ES: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1209
-#EXTINF:0,ES: LA LIGA TV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1210
-#EXTINF:0,ES | MOVISTAR LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1211
-#EXTINF:0,ES | BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1212
-#EXTINF:0,ES | MOVISTAR LALIGA MULTI 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1213
-#EXTINF:0,ES | MOVISTAR LALIGA MULTI 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1214
-#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1215
-#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1216
-#EXTINF:0,ES | #VAMOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1218
-#EXTINF:0,ES | GOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1219
-#EXTINF:0,ES | MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1220
-#EXTINF:0,ES | BAR?A TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1221
-#EXTINF:0,ES | MOVISTAR DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1222
-#EXTINF:0,ES | MOVISTAR DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1223
-#EXTINF:0,ES | MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1224
-#EXTINF:0,ES | COCINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1225
-#EXTINF:0,US | Bein Sports ? HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1226
-#EXTINF:0,US | Bein Sports USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1227
-#EXTINF:0,CH | CDF ESTADIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1228
-#EXTINF:0,CH | CDF BASICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1229
-#EXTINF:0,CH | CDO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1231
-#EXTINF:0,CH | CDF PREEMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1232
-#EXTINF:0,CH | CDF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1233
-#EXTINF:0,AR | FOX SPORTS 1 SD Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1234
-#EXTINF:0,AR | FOX SPORTS 1 HD Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1235
-#EXTINF:0,AR | FOX SPORTS 2 SD Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1236
-#EXTINF:0,AR | FOX SPORTS 2 HD Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1237
-#EXTINF:0,AR | FOX SPORTS 3 SD Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1238
-#EXTINF:0,AR | FOX SPORTS 3 Hd Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1239
-#EXTINF:0,CH | FOX SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1240
-#EXTINF:0,CH | FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1241
-#EXTINF:0,AR | DIRECTV SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1242
-#EXTINF:0,AR | DIRECTV SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1243
-#EXTINF:0,AR | DIRECTV SPORTS PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1244
-#EXTINF:0,AR | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1245
-#EXTINF:0,AR | ESPN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1246
-#EXTINF:0,AR | ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1247
-#EXTINF:0,AR | ESPN 2 *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1248
-#EXTINF:0,AR | ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1249
-#EXTINF:0,AR | ESPN 3 Arg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1250
-#EXTINF:0,AR | TyC Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1251
-#EXTINF:0,US | ESPN DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1252
-#EXTINF:0,ES | BEIN SPORTS LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1253
-#EXTINF:0,ES | MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1254
-#EXTINF:0,ES | F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1255
-#EXTINF:0,US | BEIN SPORTS N HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1256
-#EXTINF:0,LA | BEIN SPORTS N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1257
-#EXTINF:0,AR | FOX SPORTS PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1258
-#EXTINF:0,AR | TNT SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1259
-#EXTINF:0,US | MLB-NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1260
-#EXTINF:0,US  | TENNIS CHANEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1261
-#EXTINF:0,US | UFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1262
-#EXTINF:0,US | FIGHTING SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1263
-#EXTINF:0,ES | M. LIGA DE CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1264
-#EXTINF:0,CO | Win Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1265
-#EXTINF:0,US | ACC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1266
-#EXTINF:0,US | Big Ten Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1267
-#EXTINF:0,US | Eleven Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1268
-#EXTINF:0,US | ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1269
-#EXTINF:0,US | ESPN News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1270
-#EXTINF:0,US | ESPN U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1271
-#EXTINF:0,US | Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1272
-#EXTINF:0,US | Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1274
-#EXTINF:0,US | Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1275
-#EXTINF:0,US | Fox Soccer Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1276
-#EXTINF:0,US | GINX eSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1277
-#EXTINF:0,US | Golf Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1278
-#EXTINF:0,US | LongHorn Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1279
-#EXTINF:0,US | MLB Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1280
-#EXTINF:0,US | MSG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1281
-#EXTINF:0,US | MSNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1283
-#EXTINF:0,US | NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1284
-#EXTINF:0,US | NFL Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1286
-#EXTINF:0,US | NHL Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1287
-#EXTINF:0,US | Outside
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1288
-#EXTINF:0,US | Outdoor Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1289
-#EXTINF:0,US | SNY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1294
-#EXTINF:0,US | Yes Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1296
-#EXTINF:0,MX | Afizzionados
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1297
-#EXTINF:0,US | TVG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1298
-#EXTINF:0,US | GOLTV ENG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1299
-#EXTINF:0,USA | TVG2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1300
-#EXTINF:0,US | FS Arizona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1301
-#EXTINF:0,US | NBC Sports Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1302
-#EXTINF:0,US | Fox Sports South
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1303
-#EXTINF:0,US | Fox Sports Indiana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1304
-#EXTINF:0,USA | Fox Sports Florida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1305
-#EXTINF:0,US | Fox Sports Sun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1306
-#EXTINF:0,US | Fox Sports North
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1307
-#EXTINF:0,US | Fox Sports Prime Ticket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1308
-#EXTINF:0,US | NBCSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1309
-#EXTINF:0,US | Fox Sports San Diego
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1310
-#EXTINF:0,US | Fox Sports West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1311
-#EXTINF:0,US | Fox Sports North Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1312
-#EXTINF:0,US | NBC Sports Bay Area
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1313
-#EXTINF:0,US | NBC Sports Boston
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1314
-#EXTINF:0,US | NBC Sports Chicago
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1315
-#EXTINF:0,US | NBC Sports Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1317
-#EXTINF:0,US | NBC Sports Chicago Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1319
-#EXTINF:0,MX | El Garage
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1320
-#EXTINF:0,MX | Golf Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1321
-#EXTINF:0,MX | Espn Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1322
-#EXTINF:0,MX | Espn 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1323
-#EXTINF:0,MX | Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1324
-#EXTINF:0,MX | Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1325
-#EXTINF:0,MX | Espn Sec
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1326
-#EXTINF:0,MX | Espn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1327
-#EXTINF:0,MX | Espn 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1328
-#EXTINF:0,MX | Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1329
-#EXTINF:0,MX | AyM Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1330
-#EXTINF:0,MX | Havoc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1331
-#EXTINF:0,US |  NBC Philadelphia Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1332
-#EXTINF:0,US |  NBC Chicago Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1333
-#EXTINF:0,US | GOL TV ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1334
-#EXTINF:0,MX | Adrenalina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1335
-#EXTINF:0,PE | GOL PERU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1336
-#EXTINF:0,PE | MOVISTAR DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1337
-#EXTINF:0,UY | VTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1354
-#EXTINF:0,UY | VTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1355
-#EXTINF:0,US | TUDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1459
-#EXTINF:0,MX | TUDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1460
-#EXTINF:0,MX | Claro Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1461
-#EXTINF:0,MX | Claro Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1462
-#EXTINF:0,US | WWE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1466
-#EXTINF:0,ES | Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1467
-#EXTINF:0,UK | Box Nation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvlife.me:25461/frank/frank123/1518
+#EXTINF:0,Sport_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/109
+#EXTINF:0,Nova Sport BiH (test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/110
+#EXTINF:0,Arena Sport 1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/111
+#EXTINF:0,Arena Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/112
+#EXTINF:0,Arena Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/113
+#EXTINF:0,Arena Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/114
+#EXTINF:0,Arena Sport 5_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/115
+#EXTINF:0,Arena Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/116
+#EXTINF:0,Arena Sport 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/117
+#EXTINF:0,Arena Sport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/118
+#EXTINF:0,Arena Sport 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/119
+#EXTINF:0,Arena Sport 1 HR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/120
+#EXTINF:0,Arena Sport 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/121
+#EXTINF:0,Arena Sport 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/122
+#EXTINF:0,Arena Sport 4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/123
+#EXTINF:0,Arena Sport 5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/124
+#EXTINF:0,Arena Sport 6 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/125
+#EXTINF:0,Arena Sport Premier Liga BiH_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/126
+#EXTINF:0,Planet Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/127
+#EXTINF:0,Planet Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/128
+#EXTINF:0,Planet Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/129
+#EXTINF:0,Planet Sport 4_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/2007
+#EXTINF:0,Planet Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/2008
+#EXTINF:0,DAZN 1 Bar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/130
+#EXTINF:0,DAZN 2 Bar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/131
+#EXTINF:0,BEIN Sport 1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/132
+#EXTINF:0,BEIN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/133
+#EXTINF:0,BEIN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/134
+#EXTINF:0,BEIN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/135
+#EXTINF:0,BEIN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/136
+#EXTINF:0,BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/137
+#EXTINF:0,BT Sport 2_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/138
+#EXTINF:0,BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/139
+#EXTINF:0,FOX Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/140
+#EXTINF:0,FOX Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/141
+#EXTINF:0,FOX Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/142
+#EXTINF:0,EUROSPORT 1 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/143
+#EXTINF:0,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/144
+#EXTINF:0,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/145
+#EXTINF:0,Fight Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/146
+#EXTINF:0,UFC/FightBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/2010
+#EXTINF:0,HNTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/147
+#EXTINF:0,Kreator TV_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/148
+#EXTINF:0,Lov i Ribolov
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/149
+#EXTINF:0,Sport Digital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/150
+#EXTINF:0,Sport Klub 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/151
+#EXTINF:0,Sport Klub 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/152
+#EXTINF:0,Sport Klub 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/153
+#EXTINF:0,Sport Klub 1 SR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/154
+#EXTINF:0,Sport Klub 2 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/155
+#EXTINF:0,Sport Klub 3 SR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/156
+#EXTINF:0,Sport Klub 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/157
+#EXTINF:0,Sport Klub 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/158
+#EXTINF:0,Sport Klub 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/159
+#EXTINF:0,Sport Klub 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/160
+#EXTINF:0,Sport Klub 8_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/161
+#EXTINF:0,Sport Klub 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/162
+#EXTINF:0,Sport Klub 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/163
+#EXTINF:0,Sport Klub Start
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/164
+#EXTINF:0,Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/165
+#EXTINF:0,Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/166
+#EXTINF:0,Bayern TV_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/167
+#EXTINF:0,Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/168
+#EXTINF:0,Sportska TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/169
+#EXTINF:0,Sky Sport 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/344
+#EXTINF:0,Sky Sport 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/345
+#EXTINF:0,Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/346
+#EXTINF:0,Sky Sport Austria_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/347
+#EXTINF:0,Sky Sport Bundes liga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/348
+#EXTINF:0,Sky Sport Bundes liga 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/349
+#EXTINF:0,Sky Sport Bundes liga 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/350
+#EXTINF:0,Sky Sport Bundes liga 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/351
+#EXTINF:0,Sky Sport Bundes liga 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/352
+#EXTINF:0,Sky Sport Bundes liga 6_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/353
+#EXTINF:0,Sky Sport News DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/354
+#EXTINF:0,ALB: Kujtesa Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/428
+#EXTINF:0,ALB: Kujtesa Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/429
+#EXTINF:0,ALB: Super Sport 1 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/438
+#EXTINF:0,ALB: Super Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/439
+#EXTINF:0,ALB: Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/440
+#EXTINF:0,ALB: Super Sport 4 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/441
+#EXTINF:0,ALB: Super Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zvjerka.com:25461/proba2014/4627557/442

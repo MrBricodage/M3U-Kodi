@@ -1,20 +1,15 @@
 #EXTM3U
-
-
-#EXTINF:-1,ON SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8018/play/s213
-
-#EXTINF:-1,SPOR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a002/index.m3u8
-
-#EXTINF:-1,SPOR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.152.135.169:9002/play/a006/index.m3u8
-
-#EXTINF:-1,ukrfoot1_FOLLOW : twitter.com/dailyfreeiptv
-https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
-
-#EXTINF:-1,mfootball1
-https://sportbar.biz/lba/123/g6/mfootball1.m3u8
-
-#EXTINF:-1,tv1pt
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1,mbc 1_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
+#EXTINF:-1,mbc drama_FOLLOW : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc_drama/02.m3u8
+#EXTINF:-1,mbc bolly_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1,mbc 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1,mbc 3_FOLLOW : twitter.com/dailyfreeiptv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1,mbc masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+#EXTINF:-1,mbc masr 2_By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8

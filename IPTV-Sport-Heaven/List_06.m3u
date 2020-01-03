@@ -1,33 +1,108 @@
 #EXTM3U
-#EXTINF:0,|NL| Ziggo Sport Select HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
-#EXTINF:0,|NL| Ziggo Sport Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/934
-#EXTINF:0,|NL| Ziggo Sport Racing HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/935
-#EXTINF:0,|NL| Ziggo Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/936
-#EXTINF:0,|NL| Ziggo Sport Extra 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/937
-#EXTINF:0,|NL| Ziggo Sport Extra 1 HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/938
-#EXTINF:0,|NL| Fox Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/989
-#EXTINF:0,|NL| Fox Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/990
-#EXTINF:0,|NL| Fox Sport 4 HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/991
-#EXTINF:0,|NL| Fox Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/992
-#EXTINF:0,|NL| Fox Sport 2 HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/993
-#EXTINF:0,|NL| Fox Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/994
-#EXTINF:0,|NL| Extreme _ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1001
-#EXTINF:0,|NL| Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1002
-#EXTINF:0,|NL| Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1003
-#EXTINF:0,|NL| ZIGGO SPORT VOETBAL_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1263
+#EXTINF:0,DIGI SPORT 1 Ultra_HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/27.ts
+#EXTINF:0,DIGI SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/539.ts
+#EXTINF:0,DIGI SPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/26.ts
+#EXTINF:0,DIGI SPORT 2 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/29.ts
+#EXTINF:0,DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/28.ts
+#EXTINF:0,DIGI Sport 3 Ultra_HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/31.ts
+#EXTINF:0,DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/30.ts
+#EXTINF:0,DIGI SPORT 4 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/32.ts
+#EXTINF:0,DIGI SPORT 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/33.ts
+#EXTINF:0,TELEKOM SPORT 1 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/37.ts
+#EXTINF:0,TELEKOM SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/540.ts
+#EXTINF:0,Telekom Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/719.ts
+#EXTINF:0,Telekom SPORT 2 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/36.ts
+#EXTINF:0,Telekom Sport 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/720.ts
+#EXTINF:0,TELEKOM SPORT 3 ULTRA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/35.ts
+#EXTINF:0,Telekom Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/717.ts
+#EXTINF:0,TELEKOM SPORT 4 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/34.ts
+#EXTINF:0,Telekom Sport 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/718.ts
+#EXTINF:0,Eurosport 1 Ultra_ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/38.ts
+#EXTINF:0,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/39.ts
+#EXTINF:0,Eurosport 2 Ultra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/214.ts
+#EXTINF:0,Eurosport 2 Ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/40.ts
+#EXTINF:0,Look Sport HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1796.ts
+#EXTINF:0,Look Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3924.ts
+#EXTINF:0,Look Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3925.ts
+#EXTINF:0,HU: Extreme Sports Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/148.ts
+#EXTINF:0,HU: DIGI Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/138.ts
+#EXTINF:0,HU: DIGI Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/139.ts
+#EXTINF:0,HU: DIGI Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/146.ts
+#EXTINF:0,HU: Eurosport 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/132.ts
+#EXTINF:0,HU: Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3025.ts
+#EXTINF:0,TDT-Realmadrid TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/171.ts
+#EXTINF:0,ES: MoviStar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2615.ts
+#EXTINF:0,ES: Bein La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2627.ts
+#EXTINF:0,ES: Bein La Liga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2626.ts
+#EXTINF:0,ES: Bein Liga 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2624.ts
+#EXTINF:0,ES: Bein Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2623.ts
+#EXTINF:0,ES: Bein La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2625.ts
+#EXTINF:0,ES: Moviestar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2617.ts
+#EXTINF:0,ES: Moviestar Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2618.ts
+#EXTINF:0,ES: MoviStar  Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2616.ts
+#EXTINF:0,ES: Moviestar Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/2619.ts
+#EXTINF:0,ES: MOVISTAR COMEDIA FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/603.ts
+#EXTINF:0,RU:Setanta Sports Ukraine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1163.ts
+#EXTINF:0,RU:Setanta Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1162.ts
+#EXTINF:0,RU:Setanta Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1161.ts
+#EXTINF:0,RU:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1149.ts
+#EXTINF:0,RU: plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1151.ts
+#EXTINF:0,RU:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1153.ts
+#EXTINF:0,RU:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1150.ts
+#EXTINF:0,RU:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/1152.ts
+#EXTINF:0,Sport TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/437.ts
+#EXTINF:0,Sport TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/435.ts
+#EXTINF:0,Sport TV 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/438.ts
+#EXTINF:0,Sport TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/439.ts
+#EXTINF:0,Sport TV 5 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/440.ts

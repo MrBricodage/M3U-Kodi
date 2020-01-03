@@ -1,53 +1,31 @@
 #EXTM3U
-#EXTINF:-1,miamitv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-#EXTINF:-1,vtc9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
-#EXTINF:-1,mainevents
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
-#EXTINF:-1,trtsporhd
-https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
-#EXTINF:-1,EVENTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-cdn.ucom.am/s82/03.m3u8
-#EXTINF:-1,TenS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:-1,ONEGOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1,shoppinglive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1,adsport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,TRENDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/index_1600_av-p.m3u8
-#EXTINF:-1,fashion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1,THAI 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,stchannel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,prog
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,LDC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://oiptvlitee.dynv6.net/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1,OTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://oiptvlitee.dynv6.net/hls/m3u8/OTV-Backup.m3u8
-#EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cooltv.dyndns.tv:8200/udp/239.255.2.186:1234
-#EXTINF:-1,aqsatv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.aqsatv.ps:1935/aqsatv/live/tv/manifest.m3u8
-#EXTINF:-1,nessma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
-#EXTINF:-1,AlfajertvUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1,AlfajertvHDTwo_web
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,AMB
-https://cdn3.tvplayhome.lt/vod/eds/AMB/2019/9/14/192817/10340693/_/hls/10340693-video_eng=1485000.m3u8
-#EXTINF:-1,ftvtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,stv2
-https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
-#EXTINF:-1,ISM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fixhd.tv:8081/fix/hd.stream/chunks.m3u8
-#EXTINF:-1,ON SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.100.10.162:8011/play/s234
+#EXTINF:-1,|FR| FRANCE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/4
+#EXTINF:-1,M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/5
+#EXTINF:-1,M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/6
+#EXTINF:-1,M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/7
+#EXTINF:-1,TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/8
+#EXTINF:-1,TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/10
+#EXTINF:-1,W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/11
+#EXTINF:-1,W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/12
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/13
+#EXTINF:-1,EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/15
+#EXTINF:-1,|FR| TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/1
+#EXTINF:-1,|FR| FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/2
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/3
+#EXTINF:-1,TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/9
+#EXTINF:-1,TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.215.146:25461/sportgenerCH/NNBkknvcLKG/14

@@ -1,18 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-
-#EXTINF:-1,Nile Cinema 128p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/01.m3u8
-
-#EXTINF:-1,Nile Cinema 360p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/02.m3u8
-
-#EXTINF:-1,Nile Cinema 480p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
-
-#EXTINF:-1,Nile Cinema 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-
-#EXTINF:-1,Nile Cinema 1080p_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh2.tvanywhere.ae/hls/nile_cin/05.m3u8
+#EXTINF:-1,NTA AFRICA
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on

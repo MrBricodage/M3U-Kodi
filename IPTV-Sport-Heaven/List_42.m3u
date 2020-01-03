@@ -1,229 +1,109 @@
 #EXTM3U
-#EXTINF:0,Sky Sport 24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10767.ts
-#EXTINF:0,Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10747.ts
-#EXTINF:0,Sky Sport 24 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10766.ts
-#EXTINF:0,Dazn1 Sat Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53806.ts
-#EXTINF:0,Dazn1 Sat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53808.ts
-#EXTINF:0,Dazn1 Sat SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53809.ts
-#EXTINF:0,Sky Sport 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10765.ts
-#EXTINF:0,Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10764.ts
-#EXTINF:0,Sky Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10763.ts
-#EXTINF:0,Sky Sport Serie A FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10726.ts
-#EXTINF:0,Sky Sport Serie A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10727.ts
-#EXTINF:0,Sky Sport Serie A SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/45344.ts
-#EXTINF:0,Sky Sport Football FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10759.ts
-#EXTINF:0,Sky Sport Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10758.ts
-#EXTINF:0,Sky Sport Football SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10757.ts
-#EXTINF:0,Sky Sport Arena FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10762.ts
-#EXTINF:0,Sky Sport Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10761.ts
-#EXTINF:0,Sky Sport Arena SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10760.ts
-#EXTINF:0,Sky Sport Collection FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30657.ts
-#EXTINF:0,Sky Sport Collection HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10743.ts
-#EXTINF:0,Sky Sport Collection SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/45345.ts
-#EXTINF:0,Sky Sport NBA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10748.ts
-#EXTINF:0,Sky Sport NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10749.ts
-#EXTINF:0,Sky Sport NBA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/45346.ts
-#EXTINF:0,Sky Sport F1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10756.ts
-#EXTINF:0,Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10755.ts
-#EXTINF:0,Sky Sport F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10754.ts
-#EXTINF:0,Sky Sport MotoGP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10752.ts
-#EXTINF:0,Sky Sport MotoGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10751.ts
-#EXTINF:0,Sky Sport MotoGP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10750.ts
-#EXTINF:0,SuperTennis FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10731.ts
-#EXTINF:0,SuperTennis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10732.ts
-#EXTINF:0,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10741.ts
-#EXTINF:0,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10742.ts
-#EXTINF:0,Rai Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30380.ts
-#EXTINF:0,Rai Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10736.ts
-#EXTINF:0,Sportitalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10733.ts
-#EXTINF:0,FightBox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30349.ts
-#EXTINF:0,Bike Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30661.ts
-#EXTINF:0,Bike Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10744.ts
-#EXTINF:0,Auto Moto TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10730.ts
-#EXTINF:0,WWE Wrestling HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30685.ts
-#EXTINF:0,Uniresat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44578.ts
-#EXTINF:0,Caccia e Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10746.ts
-#EXTINF:0,Caccia e Pesca FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30660.ts
-#EXTINF:0,Pesca e Caccia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10738.ts
-#EXTINF:0,Pesca e Caccia FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/30654.ts
-#EXTINF:0,Sky Sport 251 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10723.ts
-#EXTINF:0,Sky Sport 251 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/12920.ts
-#EXTINF:0,Sky Sport 251 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10721.ts
-#EXTINF:0,Sky Sport 252 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10720.ts
-#EXTINF:0,Sky Sport 252 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10719.ts
-#EXTINF:0,Sky Sport 252 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10718.ts
-#EXTINF:0,Sky Sport 253 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10717.ts
-#EXTINF:0,Sky Sport 253 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10716.ts
-#EXTINF:0,Sky Sport 253 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10715.ts
-#EXTINF:0,Sky Sport 254 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10714.ts
-#EXTINF:0,Sky Sport 254 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10713.ts
-#EXTINF:0,Sky Sport 254 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10712.ts
-#EXTINF:0,Sky Sport 255 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10711.ts
-#EXTINF:0,Sky Sport 255 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10710.ts
-#EXTINF:0,Sky Sport 255 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10709.ts
-#EXTINF:0,Sky Sport 256 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10708.ts
-#EXTINF:0,Sky Sport 256 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10707.ts
-#EXTINF:0,Sky Sport 256 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10706.ts
-#EXTINF:0,Sky Sport 257 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/12434.ts
-#EXTINF:0,Sky Sport 258 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/12435.ts
-#EXTINF:0,Sky Sport 259 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/12436.ts
-#EXTINF:0,Sky Sport 260 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/16013.ts
-#EXTINF:0,Sky Sport 261 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/16014.ts
-#EXTINF:0,Sky Sport 262 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/17550.ts
-#EXTINF:0,Milan Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10694.ts
-#EXTINF:0,Inter Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10691.ts
-#EXTINF:0,Roma TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10689.ts
-#EXTINF:0,Lazio Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10690.ts
-#EXTINF:0,Torino Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10692.ts
-#EXTINF:0,Top Calcio 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10725.ts
-#EXTINF:0,DAZN sport 1 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44660.ts
-#EXTINF:0,DAZN sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31261.ts
-#EXTINF:0,DAZN sport 1 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44547.ts
-#EXTINF:0,DAZN sport 2 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31422.ts
-#EXTINF:0,DAZN sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31260.ts
-#EXTINF:0,DAZN sport 2 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/47636.ts
-#EXTINF:0,DAZN sport 3 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31423.ts
-#EXTINF:0,DAZN sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31259.ts
-#EXTINF:0,DAZN sport 3 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/47637.ts
-#EXTINF:0,DAZN sport 4 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32491.ts
-#EXTINF:0,DAZN sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31258.ts
-#EXTINF:0,DAZN sport 4 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/47638.ts
-#EXTINF:0,DAZN sport 5 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32492.ts
-#EXTINF:0,DAZN sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31257.ts
-#EXTINF:0,DAZN sport 5 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/47639.ts
-#EXTINF:0,DAZN sport 6 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32493.ts
-#EXTINF:0,DAZN sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31256.ts
-#EXTINF:0,DAZN sport 6 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/47640.ts
-#EXTINF:0,DAZN sport 7 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32494.ts
-#EXTINF:0,DAZN sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31255.ts
-#EXTINF:0,DAZN sport 8 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32495.ts
-#EXTINF:0,DAZN sport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31254.ts
-#EXTINF:0,DAZN sport 9 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32496.ts
-#EXTINF:0,DAZN sport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31253.ts
-#EXTINF:0,DAZN sport 10 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32497.ts
-#EXTINF:0,DAZN sport 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31252.ts
-#EXTINF:0,DAZN sport 11 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32498.ts
-#EXTINF:0,DAZN sport 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31251.ts
-#EXTINF:0,DAZN sport 12 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/32499.ts
-#EXTINF:0,DAZN sport 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31250.ts
-#EXTINF:0,IT: TV Campane 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53804.ts
-#EXTINF:0,IT: TV Campane gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53805.ts
-#EXTINF:0,IT: TV Luna SportV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44618.ts
-#EXTINF:0,IT: Teleischia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44577.ts
-#EXTINF:0,IT: Sardegna TV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/51741.ts
-#EXTINF:0,IT: Videolina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53282.ts
-#EXTINF:0,IT: Antenna 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53784.ts
+#EXTINF:0,AR: OSN Alkass Sport 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55971.ts
+#EXTINF:0,AR: OSN Alkass Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55972.ts
+#EXTINF:0,AR: OSN Alkass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55974.ts
+#EXTINF:0,VIP AR: OSN Sports 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56190.ts
+#EXTINF:0,AR: Dubai Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56140.ts
+#EXTINF:0,AR: Dubai Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56183.ts
+#EXTINF:0,AR: Dubai Sport 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56031.ts
+#EXTINF:0,AR: Dubai Racing 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56041.ts
+#EXTINF:0,AR: beIN Sports 9 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55887.ts
+#EXTINF:0,AR: beIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55888.ts
+#EXTINF:0,AR: beIN Sports 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55889.ts
+#EXTINF:0,AR: beIN Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55890.ts
+#EXTINF:0,AR: beIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55891.ts
+#EXTINF:0,AR: beIN Sports 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55892.ts
+#EXTINF:0,AR: beIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55893.ts
+#EXTINF:0,AR: beIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55894.ts
+#EXTINF:0,AR: beIN Sports 13 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55895.ts
+#EXTINF:0,AR: beIN Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55896.ts
+#EXTINF:0,AR: beIN Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55897.ts
+#EXTINF:0,AR: beIN Sports 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55898.ts
+#EXTINF:0,AR: beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55899.ts
+#EXTINF:0,AR: beIN SPorts_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55900.ts
+#EXTINF:0,AR: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55865.ts
+#EXTINF:0,AR VIP: Bein Sport 9 HD (Backup)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58688.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58017.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58016.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58015.ts
+#EXTINF:0,AR VIP: Bein Sport 8 HD (Backup)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57604.ts
+#EXTINF:0,AR VIP: Bein Sport 7 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57603.ts
+#EXTINF:0,AR VIP: Bein Sport 4 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57600.ts
+#EXTINF:0,AR VIP: Bein Sport 3 HD (Backup)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57599.ts
+#EXTINF:0,AR VIP: Bein Sport 2 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57598.ts
+#EXTINF:0,AR VIP: Bein Sport 10 HD (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57595.ts
+#EXTINF:0,AR VIP: Bein Sport 1 HD (Backup)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57594.ts
+#EXTINF:0,VIP AR: Bein Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56071.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 7_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56137.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56136.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56134.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56133.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) HD 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56132.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56130.ts
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56128.ts
+#EXTINF:0,VIP AR: Bein NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56083.ts
+#EXTINF:0,VIP DE: Sky Sport News HD (1080P)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56729.ts
+#EXTINF:0,VIP DE: Sky Sport Austria HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56833.ts
+#EXTINF:0,VIP DE: Sky Sport 9 HD (1080P)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56728.ts
+#EXTINF:0,VIP DE: Sky Sport 7 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56726.ts
+#EXTINF:0,VIP DE: Sky Sport 6 HD (1080P)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56725.ts
+#EXTINF:0,VIP DE: Sky Sport 5 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56724.ts
+#EXTINF:0,VIP DE: Sky Sport 8 HD (1080P)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58061.ts
+#EXTINF:0,VIP DE: Sky Sport 3 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58060.ts
+#EXTINF:0,VIP DE: Sky Sport 11 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58059.ts
+#EXTINF:0,VIP DE: Sky Sport 10 HD (1080P)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58058.ts
+#EXTINF:0,VIP DE: Sky Sport 1 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58057.ts

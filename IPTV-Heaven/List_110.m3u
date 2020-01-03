@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,xlive
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.11:21131/udp/164g
+#EXTINF:-1,kralpop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,tv4se
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+#EXTINF:-1,RTS1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.205.41:8080/RTS1/index.m3u8
+#EXTINF:-1,EQIP PRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1,AVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.207.28:1935/live/Channel01/chunklist.m3u8
+#EXTINF:-1,events
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
+#EXTINF:-1,tvallgaeu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1,rtk1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,kralpop_720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,ktvethraaliv
+https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/playlist.m3u8
+#EXTINF:-1,medienasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1,dssl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://218.5.112.180:88/live/dssl/playlist.m3u8
+#EXTINF:-1,BBC EARTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://203.207.56.228/live/iptv001.m3u8
