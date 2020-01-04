@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:0,A2i TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.212.178.131:1935/live/Ai2tv/chunklist.m3u8
+#EXTINF:0,A2i TV Musique
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
+#EXTINF:0,Afrique Média TV
+https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:0,Afrobit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8
+#EXTINF:0,Antenne Centre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:0,Arte
+https://s1.tntendirect.com/arte/live/playlist.m3u8
+#EXTINF:0,B-One TV
+https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bblack! Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0,Bblack! Caribbean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,Bblack! Classik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:0,Bel RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
+#EXTINF:0,BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:0,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:0,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:0,BFM TV
+https://s1.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:0,Bikutsi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p+SD/chunklist.m3u8
+#EXTINF:0,BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:0,BX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.81.107:1935/stream/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,C8
+https://s1.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:0,Canal C
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:0,Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1917584225.m3u8?fluxustv.m3u8
+#EXTINF:0,Canal J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
+#EXTINF:0,Canal Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/canalvie/canalvie/chunklist.m3u8
+#EXTINF:0,Canal Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:0,Chaine Nord-Africaine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:0,Conso TV Afrique
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
+#EXTINF:0,CStar
+https://s1.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:0,D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:0,Dream Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+#EXTINF:0,EMCI TV
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+#EXTINF:0,Euronews English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#EXTINF:0,Fashion TV L'Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:0,Fashion TV L'Original
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:0,Fashion TV L'Original
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:0,Fashion TV Midnite Secrets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:0,Fashion TV Midnite Secrets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:0,Fashion TV Midnite Secrets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0,Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:0,Fashion TV Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/2zOVkbF
+#EXTINF:0,Fashion TV Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:0,Fashion TV Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:0,Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:0,Fashion TV PG13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:0,Fashion TV PG13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:0,Fashion TV PG16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:0,Fashion TV PG16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV PG16
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
+#EXTINF:0,Fashion TV PG16
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:0,France 2
+https://s1.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:0,France 24 French
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:0,France 3
+https://s1.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:0,France 4
+https://s1.tntendirect.com/france4/live/playlist.m3u8
+#EXTINF:0,France 5
+https://s1.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:0,France Ô
+https://s1.tntendirect.com/franceo/live/playlist.m3u8
+#EXTINF:0,Francophonie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0,GC TV
+https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
+#EXTINF:0,Gong
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0,Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+#EXTINF:0,Gulli
+https://s1.tntendirect.com/gulli/live/playlist.m3u8
+#EXTINF:0,Hebdo TV
+https://hbiptv.live/live/hebdotvcom/video.m3u8
+#EXTINF:0,Hip Hop TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://41.223.30.250:5000/hiphoptv/hiphoptv/chunklist.m3u8
+#EXTINF:0,Hip Hop TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/hiphoptv/hiphoptv/chunklist.m3u8
+#EXTINF:0,Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
+#EXTINF:0,i24 News
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
+#EXTINF:0,ILTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:0,Impac TV
+https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u8
+#EXTINF:0,Impact TV
+https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
+#EXTINF:0,KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0,L'Equipe 21
+https://s1.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:0,La Chaine Normande TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,La Chaine Normande TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,Leeeko TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:0,LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:0,M6
+https://s1.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:0,Medi 1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:0,MFM TV
+https://mfmtv.vedge.infomaniak.com/livecast/mfmtv/chunklist.m3u8
+#EXTINF:0,Mouride TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
+#EXTINF:0,My TV Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:0,MYComedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:0,Nago TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:0,Nago TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:0,Nago TV
+https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
+#EXTINF:0,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:0,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?fluxustv.m3u8
+#EXTINF:0,NRJ 12
+https://s1.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:0,NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:0,Opa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
+#EXTINF:0,Persiana 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.229.209/hls/stream.m3u8
+#EXTINF:0,Play TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:0,Radio Contact
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Radio Contact Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:0,Radio Tele Ginen | Chaine 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
+#EXTINF:0,Radio TeleBoston (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0,RCG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/rcgtv/rcgtv/chunklist.m3u8
+#EXTINF:0,Repentance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8
+#EXTINF:0,RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,RMC Decouverte
+https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:0,RMC Story
+https://s1.tntendirect.com/numero23/live/playlist.m3u8
+#EXTINF:0,RT France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:0,RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w2123045922_b250000.m3u8
+#EXTINF:0,RTI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.59.221.143:1935/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:0,RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist_w1505588093_b250000.m3u8
+#EXTINF:0,RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:0,RTL-TVi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:0,RTNC
+https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTS 1
+https://s1.tntendirect.com/rts1/live/playlist.m3u8
+#EXTINF:0,SCBC
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/5b70d4ab87/chunklist.m3u8
+#EXTINF:0,STAD'AFRIC
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+#EXTINF:0,STAD'AFRIC
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
+#EXTINF:0,Tele Conscience Haitienne
+https://lakay.haitilive.net/hb/tch/web/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tele Eclair | Chaine 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
+#EXTINF:0,Tele Haiti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:0,Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:0,Tele Nationale d'Haïti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.244.81.145:1935/rtnh01/livestream/chunklist.m3u8
+#EXTINF:0,Tele Soleil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
+#EXTINF:0,Tele Univers | Chaine 6
+https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
+#EXTINF:0,Telesambre
+https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:0,TF1
+https://s1.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:0,TF1 Series Film
+https://s1.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:0,TFX
+https://s1.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:0,TG | TVT International
+https://stream.ecable.tv/tvt/tracks-v1a1/mono.m3u8
+#EXTINF:0,TMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0,TMC
+https://s1.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:0,Top TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/toptv/toptv/chunklist.m3u8
+#EXTINF:0,Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Kitoko
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:0,Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Mziki
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:0,Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:0,TV Lux
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w167261518.m3u8
+#EXTINF:0,TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:0,TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0,TV5Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,TV5Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:0,TV5Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0,TV5Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,TV5Monde Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:0,TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:0,TV7 Colmar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0,TV7 Colmar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:0,TV8 Montblanc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
+#EXTINF:0,TVA  | Chaine 30
+https://watch.haitilive.net/FreeTV/!/tva30/tracks-v1a1/mono.m3u8
+#EXTINF:0,TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:0,TVPI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:0,TVPI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:0,TVR
+https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTINF:0,Télé 50
+https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
+#EXTINF:0,Télé MB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:0,Télé-Québec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:0,TéléToon+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:0,Vibe Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://connectiktv.ddns.net:5000/vibetv/vibetv_360p+SD/chunklist.m3u8
+#EXTINF:0,Vision 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:0,viàVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:0,VOX
+https://strhls.streamakaci.tv/str_voxtv_voxtv/str_voxtv_multi/str_voxtv_voxtv/str_voxtv_voxtv_480p/chunks.m3u8
+#EXTINF:0,W9
+https://s1.tntendirect.com/w9/live/playlist.m3u8
