@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,HRNET LIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.hrnet.id:8080/shopee/liga/1
-#EXTINF:-1,HRNET LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.hrnet.id:8080/shopee/liga/2
-#EXTINF:-1,HRNET LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.hrnet.id:8080/shopee/liga/3
