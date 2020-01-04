@@ -381,6 +381,18 @@
 	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8</link>
 </item>
 <item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN + Ch1[/B][/COLOR]</title>
+	<link>http://34.102.207.198/live/e1/playlist.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN + Ch2[/B][/COLOR]</title>
+	<link>http://34.102.207.198/live/e2/playlist.m3u8</link>
+</item>
+<item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN + Ch3[/B][/COLOR]</title>
+	<link>http://34.102.207.198/live/e3/playlist.m3u8</link>
+</item>
+<item> 
 	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport 1 FR[/B][/COLOR]</title>
 	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494</link>
 	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
@@ -473,6 +485,11 @@
 	<thumbnail>https://www.ircsporttv.it/assets/front/img/logo.png</thumbnail> 
 </item>
 
+<!-- L -->
+<item>
+	<title>[COLOR lime][B]L[/B][/COLOR][COLOR white][B]a Liga TV[/B][/COLOR]</title>
+	<link>http://34.102.207.198/live/lll/playlist.m3u8</link>
+</item>
 <!-- M -->
 <item>
 	<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]engkacak Sport 1[/B][/COLOR]</title>
