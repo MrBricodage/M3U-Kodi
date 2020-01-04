@@ -4,7 +4,7 @@
 
 
 <item>
-	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]22/12/2019 16:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]04/01/2020 16:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 	<info>Derniere Vérification : 22/12/2019 16:00 UTC</info>
 	<link>http://ignore.me</link>
 </item>
@@ -222,22 +222,30 @@
 	<link>https://sport7.biz/lba/123/g5/beinsport1tur.m3u8</link>
 </item>
 <item>
-	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g2/btuk1.m3u8</link>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
+	<link>https://sportbar.biz/lba/123/g2/btuk1.m3u8|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36</link>
 </item>
 <item>
+	<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
+	<link>http://turtlepower.sprplx.net:25461/ministrabt/FiycX3Kc8c/1035</link>
+</item>
+<!-- <item>
 	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g2/btuk1.m3u8</link>
 </item>
 <item>
 	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 1 HD[/B][/COLOR]</title>
 	<link>http://cdn.youpits.com/live/bt/playlist.m3u8</link>
+</item> -->
+<item>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
+	<link>https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36</link>
 </item>
 <item>
-	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g3/ukbt2sport.m3u8</link>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
+	<link>http://turtlepower.sprplx.net:25461/ministrabt/FiycX3Kc8c/1040</link>
 </item>
-<item>
+<!-- <item>
 	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 2 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g3/ukbt2sport.m3u8</link>
 </item>
@@ -249,12 +257,12 @@
 <title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]T Sport 2[/B][/COLOR]</title>
 	<link>https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8</link>
 	<thumbnail>https://i.imgur.com/PS6Bb8H.png</thumbnail> 
-</item>
+</item> -->
 <item>
-	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
-	<link>https://sport7.biz/lba/123/g4/3btsporteu.m3u8</link>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
+	<link>http://turtlepower.sprplx.net:25461/ministrabt/FiycX3Kc8c/1045</link>
 </item>
-<item>
+<!-- <item>
 	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g4/3btsporteu.m3u8</link>
 </item>
@@ -262,7 +270,8 @@
 	<title>[COLOR red][B]B[/B][/COLOR][COLOR white][B]T Sport 3 HD[/B][/COLOR]</title>
 	<link>http://cdn.youpits.com/live/bt3/playlist.m3u8</link>
 </item>
-<item>
+ -->
+ <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN HD[/B][/COLOR]</title>
 	<link>https://goool7.ws/lba/123/g7/btse.m3u8</link>
 </item>
@@ -270,6 +279,15 @@
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN[/B][/COLOR]</title>
 	<link>https://sportbar.biz/lba/123/g7/btse.m3u8</link>
 	<thumbnail>https://i.imgur.com/8vfNhjn.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN[/B][/COLOR]</title>
+	<link>http://turtlepower.sprplx.net:25461/ministrabt/FiycX3Kc8c/1050</link>
+	<thumbnail>https://i.imgur.com/8vfNhjn.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport Extra[/B][/COLOR]</title>
+	<link>http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36</link>
 </item>
 
 
@@ -363,6 +381,16 @@
 	<link>https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8</link>
 </item>
 <item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport 1 FR[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494</link>
+	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
+</item>
+<item> 
+	<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport 2 FR[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39493</link>
+	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
+</item>
+<item> 
 	<title>[COLOR red][B]E[/B][/COLOR][COLOR white][B]urosport 1 Russia[/B][/COLOR]</title>
 	<link>https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8</link>
 	<thumbnail>https://i.imgur.com/8H7zWLH.jpg</thumbnail> 
@@ -436,6 +464,10 @@
 
 <!-- I -->
 <item> 
+	<title>[COLOR red][B]I[/B][/COLOR][COLOR white][B]nfoSport[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496</link>
+</item>
+<item> 
 	<title>[COLOR red][B]I[/B][/COLOR][COLOR white][B]RC Sport TV[/B][/COLOR]</title>
 	<link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
 	<thumbnail>https://www.ircsporttv.it/assets/front/img/logo.png</thumbnail> 
@@ -507,24 +539,24 @@
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40</link>
 </item>
 <item>
-	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 1 HD[/B][/COLOR]</title>
-	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62</link>
+	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]MC SPORT 1 HD[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503</link>
 </item>
 <item>
 	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 2 FHD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41</link>
 </item>
 <item>
-	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 2 HD[/B][/COLOR]</title>
-	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63</link>
+	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]MC SPORT 2 HD[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502</link>
 </item>
 <item>
 	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 3 FHD[/B][/COLOR]</title>
 	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42</link>
 </item>
 <item>
-	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 3 HD[/B][/COLOR]</title>
-	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/64</link>
+	<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]MC SPORT 3 HD[/B][/COLOR]</title>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501</link>
 </item>
 <item>
 	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 4 FHD[/B][/COLOR]</title>
@@ -532,7 +564,7 @@
 </item>
 <item>
 	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT 4 HD[/B][/COLOR]</title>
-	<link>http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65</link>
+	<link>http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500</link>
 </item>
 <item>
 	<title>[COLOR red][B]R[/B][/COLOR][COLOR white][B]MC SPORT LIVE 5 FHD[/B][/COLOR]</title>
