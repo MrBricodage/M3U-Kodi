@@ -1,7 +1,211 @@
 #EXTM3U
-#EXTINF:-1,FR:TF 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1369
-#EXTINF:-1,FR:France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1371
-#EXTINF:-1,FR:Arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanali.ddns.net:25461/tvfrance/tvfrance/1370
+#EXTINF:-1,FR : TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8644.m3u8
+#EXTINF:-1,FR: France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8261.m3u8
+#EXTINF:-1,FR: France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8260.m3u8
+#EXTINF:-1,FR: France 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8590.m3u8
+#EXTINF:-1,FR: France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8591.m3u8
+#EXTINF:-1,FR: France O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8592.m3u8
+#EXTINF:-1,FR: M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/2920.m3u8
+#EXTINF:-1,FR : 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8649.m3u8
+#EXTINF:-1,FR: 6Ter HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9425.m3u8
+#EXTINF:-1,FR: HD1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8648.m3u8
+#EXTINF:-1,FR: Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8593.m3u8
+#EXTINF:-1,FR: Paris Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8653.m3u8
+#EXTINF:-1,FR: TV-breizh HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8654.m3u8
+#EXTINF:-1,FR: RTS UN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13073.m3u8
+#EXTINF:-1,FR: RTS DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13074.m3u8
+#EXTINF:-1,FR: I-Tele HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13078.m3u8
+#EXTINF:-1,=====  Cineèma   =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13609.m3u8
+#EXTINF:-1,FR: Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8667.m3u8
+#EXTINF:-1,FR: Ocs max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9397.m3u8
+#EXTINF:-1,FR: Ocs Choc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9398.m3u8
+#EXTINF:-1,FR: OCS City HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9450.m3u8
+#EXTINF:-1,FR: OCS Géants HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9451.m3u8
+#EXTINF:-1,FR: Canal +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9444.m3u8
+#EXTINF:-1,FR: Canal+ Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9419.m3u8
+#EXTINF:-1,FR: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9417.m3u8
+#EXTINF:-1,FR: CANAL  Décalé
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9454.m3u8
+#EXTINF:-1,FR: Canal+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9445.m3u8
+#EXTINF:-1,FR: CINE+ Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9448.m3u8
+#EXTINF:-1,FR: Cine  Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9414.m3u8
+#EXTINF:-1,FR: CINE+  Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9449.m3u8
+#EXTINF:-1,FR: CINE  FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9446.m3u8
+#EXTINF:-1,FR: Cine+ Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9413.m3u8
+#EXTINF:-1,FR: Cine Fx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9412.m3u8
+#EXTINF:-1,FR: Cine POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8665.m3u8
+#EXTINF:-1,FR: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8664.m3u8
+#EXTINF:-1,FR: COMEDIE + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8662.m3u8
+#EXTINF:-1,FR: Comedie+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9447.m3u8
+#EXTINF:-1,FR : Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8646.m3u8
+#EXTINF:-1,FR : Serie Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8655.m3u8
+#EXTINF:-1,FR: A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9455.m3u8
+#EXTINF:-1,FR: A la Carte 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9456.m3u8
+#EXTINF:-1,FR: A la Carte 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9457.m3u8
+#EXTINF:-1,FR: A la Carte 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9458.m3u8
+#EXTINF:-1,FR: A la Carte 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9459.m3u8
+#EXTINF:-1,FR: A la Carte 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9460.m3u8
+#EXTINF:-1,FR: A la Carte 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9461.m3u8
+#EXTINF:-1,FR: A la Carte 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9463.m3u8
+#EXTINF:-1,FR: A la Carte 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9464.m3u8
+#EXTINF:-1,=====  Divertissement  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13610.m3u8
+#EXTINF:-1,FR: AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8658.m3u8
+#EXTINF:-1,FR: E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9453.m3u8
+#EXTINF:-1,FR: Tmc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8666.m3u8
+#EXTINF:-1,FR : NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8650.m3u8
+#EXTINF:-1,FR: Téva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9428.m3u8
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8645.m3u8
+#EXTINF:-1,FR: RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8647.m3u8
+#EXTINF:-1,FR : NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8651.m3u8
+#EXTINF:-1,FR: C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8660.m3u8
+#EXTINF:-1,FR : CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8656.m3u8
+#EXTINF:-1,FR : AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8659.m3u8
+#EXTINF:-1,FR : 13eme Rue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8652.m3u8
+#EXTINF:-1,=====  Sport FR  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13611.m3u8
+#EXTINF:-1,FR: Canal+  Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9416.m3u8
+#EXTINF:-1,FR: Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9407.m3u8
+#EXTINF:-1,FR: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/14080.m3u8
+#EXTINF:-1,FR: Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9406.m3u8
+#EXTINF:-1,FR: Foot+24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9405.m3u8
+#EXTINF:-1,FR: RMC SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/26131.m3u8
+#EXTINF:-1,FR: RMC SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/26130.m3u8
+#EXTINF:-1,FR: RMC SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/26129.m3u8
+#EXTINF:-1,FR: RMC SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/26128.m3u8
+#EXTINF:-1,FR: Equida Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13703.m3u8
+#EXTINF:-1,FR: Infosport+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9404.m3u8
+#EXTINF:-1,FR: CHASSE & PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9452.m3u8
+#EXTINF:-1,=====  Culture  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13612.m3u8
+#EXTINF:-1,FR: Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9411.m3u8
+#EXTINF:-1,FR: Discovery science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9410.m3u8
+#EXTINF:-1,FR: National geo wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9400.m3u8
+#EXTINF:-1,FR: National geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9399.m3u8
+#EXTINF:-1,FR: Planete+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9395.m3u8
+#EXTINF:-1,FR: Science&Vie TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9442.m3u8
+#EXTINF:-1,FR: Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9426.m3u8
+#EXTINF:-1,FR: Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9420.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9440.m3u8
+#EXTINF:-1,FR: Toute l'histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9427.m3u8
+#EXTINF:-1,FR: USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9441.m3u8
+#EXTINF:-1,=====  Musique  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13613.m3u8
+#EXTINF:-1,FR: M6 Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9429.m3u8
+#EXTINF:-1,=====  Enfants  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13614.m3u8
+#EXTINF:-1,FR: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9437.m3u8
+#EXTINF:-1,FR: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9415.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9435.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9436.m3u8
+#EXTINF:-1,FR: Disney Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9430.m3u8
+#EXTINF:-1,FR: Disney junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9409.m3u8
+#EXTINF:-1,FR: Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9401.m3u8
+#EXTINF:-1,FR: TELETOON + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9431.m3u8
+#EXTINF:-1,FR: GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9433.m3u8
+#EXTINF:-1,=====  Information  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13615.m3u8
+#EXTINF:-1,FR: Cherie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9421.m3u8
+#EXTINF:-1,FR: BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9438.m3u8
+#EXTINF:-1,FR: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9408.m3u8
+#EXTINF:-1,FR: L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9465.m3u8
+#EXTINF:-1,FR: LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9439.m3u8
+#EXTINF:-1,FR: PIWI+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/9432.m3u8

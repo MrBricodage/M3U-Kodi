@@ -1,45 +1,625 @@
 #EXTM3U
-#EXTINF:-1,6ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/6ter/live/playlist.m3u8
-#EXTINF:-1,NT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/nt1/live/playlist.m3u8
-#EXTINF:-1,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/tmc/live/playlist.m3u8
-#EXTINF:-1,HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/hd1/live/playlist.m3u8
-#EXTINF:-1,W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/w9/live/playlist.m3u8
-#EXTINF:-1,RMC Découverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1,Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/gulli/live/playlist.m3u8
-#EXTINF:-1,M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/m6/live/playlist.m3u8
-#EXTINF:-1,TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/tf1/live/playlist.m3u8
-#EXTINF:-1,NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/nrj12/live/playlist.m3u8
-#EXTINF:-1,cstar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/d17/live/playlist.m3u8
-#EXTINF:-1,c8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/d8/live/playlist.m3u8
-#EXTINF:-1,cnews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/itele/live/playlist.m3u8
-#EXTINF:-1,france2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/france2/live/playlist.m3u8
-#EXTINF:-1,france3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/france3/live/playlist.m3u8
-#EXTINF:-1,france4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/france4/live/playlist.m3u8
-#EXTINF:-1,france5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/france5/live/playlist.m3u8
-#EXTINF:-1,arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/arte/live/playlist.m3u8
-#EXTINF:-1,Cherie25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/cherie25/live/playlist.m3u8
-#EXTINF:-1,France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/franceo/live/playlist.m3u8
-#EXTINF:-1,rts1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/rts1/live/playlist.m3u8
-#EXTINF:-1,rts2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.43.207:8081/rts2/live/playlist.m3u8
+#EXTINF:-1,|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6835.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6833.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6832.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6831.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6830.m3u8
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6834.m3u8
+#EXTINF:-1,|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6818.m3u8
+#EXTINF:-1,|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6823.m3u8
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6825.m3u8
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6819.m3u8
+#EXTINF:-1,|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6827.m3u8
+#EXTINF:-1,|FR| NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6826.m3u8
+#EXTINF:-1,|FR| TF1 SÉRIES FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6828.m3u8
+#EXTINF:-1,|FR| ELLE GIRL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6824.m3u8
+#EXTINF:-1,|FR| BRAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6885.m3u8
+#EXTINF:-1,|FR| FRANCE  O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6829.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6821.m3u8
+#EXTINF:-1,|FR| TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6746.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6822.m3u8
+#EXTINF:-1,|FR| ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6806.m3u8
+#EXTINF:-1,|FR| RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6807.m3u8
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6808.m3u8
+#EXTINF:-1,|FR| COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6810.m3u8
+#EXTINF:-1,|FR| 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6811.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6812.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6813.m3u8
+#EXTINF:-1,|FR| TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6814.m3u8
+#EXTINF:-1,|FR| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6815.m3u8
+#EXTINF:-1,|FR| AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6816.m3u8
+#EXTINF:-1,|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6817.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6761.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6809.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6820.m3u8
+#EXTINF:-1,|FR| TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6888.m3u8
+#EXTINF:-1,|FR| CANAL +  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6805.m3u8
+#EXTINF:-1,|FR| CANAL +  CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6801.m3u8
+#EXTINF:-1,|FR| CANAL +  DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6804.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6802.m3u8
+#EXTINF:-1,|FR| CANAL +  SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6803.m3u8
+#EXTINF:-1,|FR| CANAL +  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6800.m3u8
+#EXTINF:-1,|FR| CINE + PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6799.m3u8
+#EXTINF:-1,|FR| CINE +  FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6798.m3u8
+#EXTINF:-1,|FR| CINE + CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6794.m3u8
+#EXTINF:-1,|FR| CINE + CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6795.m3u8
+#EXTINF:-1,|FR| CINE + EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6796.m3u8
+#EXTINF:-1,|FR| CINE +  FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6797.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6790.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6791.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6792.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6793.m3u8
+#EXTINF:-1,|FR| PIWI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6748.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6749.m3u8
+#EXTINF:-1,|FR| GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6750.m3u8
+#EXTINF:-1,|FR| VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6729.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6751.m3u8
+#EXTINF:-1,|FR| CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6752.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6753.m3u8
+#EXTINF:-1,|FR| BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6754.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6755.m3u8
+#EXTINF:-1,|FR| TELETOON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6747.m3u8
+#EXTINF:-1,|FR| TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6887.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6756.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6757.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6758.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6759.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6760.m3u8
+#EXTINF:-1,|FR| E! ENTERTAIMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6763.m3u8
+#EXTINF:-1,|FR| J ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6762.m3u8
+#EXTINF:-1,|FR| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6764.m3u8
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6765.m3u8
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6766.m3u8
+#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6767.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6768.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6769.m3u8
+#EXTINF:-1,|FR| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6770.m3u8
+#EXTINF:-1,|FR| SCIENCE & VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6771.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6772.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6773.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6774.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6775.m3u8
+#EXTINF:-1,|FR| PLANET A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6776.m3u8
+#EXTINF:-1,|FR| PLANET + Ci HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6777.m3u8
+#EXTINF:-1,|FR| PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6778.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6779.m3u8
+#EXTINF:-1,|FR| NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6780.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6781.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6782.m3u8
+#EXTINF:-1,|FR| SUNDANCE CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6783.m3u8
+#EXTINF:-1,|FR| WARNER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6784.m3u8
+#EXTINF:-1,|FR| NRJ HIT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6891.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6892.m3u8
+#EXTINF:-1,|FR| LA CHAINE NORMANDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6889.m3u8
+#EXTINF:-1,|FR| ALSACE 20 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6895.m3u8
+#EXTINF:-1,|FR| GONG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6785.m3u8
+#EXTINF:-1,|FR| POLAR + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6786.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6788.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6789.m3u8
+#EXTINF:-1,|FR| I 24 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6730.m3u8
+#EXTINF:-1,|FR| AB MOTEURS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6731.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6732.m3u8
+#EXTINF:-1,|FR| GOLF  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6733.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6734.m3u8
+#EXTINF:-1,|FR| INFO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6735.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6736.m3u8
+#EXTINF:-1,|FR| FOOT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6737.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6742.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6741.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6740.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10229.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10228.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10227.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10226.m3u8
+#EXTINF:-1,|FR| BEIN SPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10225.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6745.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6744.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6743.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10237.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10233.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10232.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10231.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10230.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10236.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10235.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/10234.m3u8
+#EXTINF:-1,|FR| EURO SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6738.m3u8
+#EXTINF:-1,|FR| EURO SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6739.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6893.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6894.m3u8
+#EXTINF:-1,|FR| IL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6896.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6897.m3u8
+#EXTINF:-1,|FR| TVM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6898.m3u8
+#EXTINF:-1,|FR| LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6899.m3u8
+#EXTINF:-1,|FR| C NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6900.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6901.m3u8
+#EXTINF:-1,|FR| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6890.m3u8
+#EXTINF:-1,|FR| M6 BOUTIQUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6883.m3u8
+#EXTINF:-1,|FR| FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6884.m3u8
+#EXTINF:-1,|FR| MOUV TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6886.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6916.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6915.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6914.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6913.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6912.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6911.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6910.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6909.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6908.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6907.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6906.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6905.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6904.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6903.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6902.m3u8
+#EXTINF:-1,|FR| OCS GO CINE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6921.m3u8
+#EXTINF:-1,|FR| OCS GO CINE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6920.m3u8
+#EXTINF:-1,|FR| OCS GO CINE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6919.m3u8
+#EXTINF:-1,|FR| OCS GO CINE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6918.m3u8
+#EXTINF:-1,|FR| OCS GO CINE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6917.m3u8
+#EXTINF:-1,|FR| ORANGE CINE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6926.m3u8
+#EXTINF:-1,|FR| ORANGE CINE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6925.m3u8
+#EXTINF:-1,|FR| ORANGE CINE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6924.m3u8
+#EXTINF:-1,|FR| ORANGE CINE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6923.m3u8
+#EXTINF:-1,|FR| ORANGE CINE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6922.m3u8
+#EXTINF:-1,|FR| A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6934.m3u8
+#EXTINF:-1,|FR| A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6933.m3u8
+#EXTINF:-1,|FR| A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6932.m3u8
+#EXTINF:-1,|FR| A LA CARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6931.m3u8
+#EXTINF:-1,|FR| A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6930.m3u8
+#EXTINF:-1,|FR| A LA CARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6929.m3u8
+#EXTINF:-1,|FR| A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6928.m3u8
+#EXTINF:-1,|FR| A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6927.m3u8
+#EXTINF:-1,##### |FRANCE SD | #####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7476.m3u8
+#EXTINF:-1,|FR| TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7475.m3u8
+#EXTINF:-1,|FR| FRANCE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7473.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7472.m3u8
+#EXTINF:-1,|FR| FRANCE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7471.m3u8
+#EXTINF:-1,|FR| FRANCE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7470.m3u8
+#EXTINF:-1,|FR| M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7474.m3u8
+#EXTINF:-1,|FR| ARTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7442.m3u8
+#EXTINF:-1,|FR| C8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7467.m3u8
+#EXTINF:-1,|FR| W9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7466.m3u8
+#EXTINF:-1,|FR| NRJ 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7465.m3u8
+#EXTINF:-1,|FR| RTL9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7468.m3u8
+#EXTINF:-1,|FR| TEVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7441.m3u8
+#EXTINF:-1,|FR| FRANCE O SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7469.m3u8
+#EXTINF:-1,|FR| 13EME RUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7426.m3u8
+#EXTINF:-1,|FR| NUMERO 23 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7437.m3u8
+#EXTINF:-1,|FR| CHERIE 25 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7438.m3u8
+#EXTINF:-1,|FR| TV5 MONDE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7358.m3u8
+#EXTINF:-1,|FR| MEZZO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7409.m3u8
+#EXTINF:-1,|FR| CSTAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7419.m3u8
+#EXTINF:-1,|FR| MY CUISINE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7421.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7424.m3u8
+#EXTINF:-1,|FR| SERIE CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7425.m3u8
+#EXTINF:-1,|FR| TCM CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7427.m3u8
+#EXTINF:-1,|FR| COMEDIE + SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7428.m3u8
+#EXTINF:-1,|FR| ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7429.m3u8
+#EXTINF:-1,|FR| AB 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7431.m3u8
+#EXTINF:-1,|FR| AB 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7430.m3u8
+#EXTINF:-1,|FR| E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7432.m3u8
+#EXTINF:-1,|FR| TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7433.m3u8
+#EXTINF:-1,|FR| TREK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7434.m3u8
+#EXTINF:-1,|FR| CINE  FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7453.m3u8
+#EXTINF:-1,|FR| POLAR+  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7454.m3u8
+#EXTINF:-1,|FR| MCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7435.m3u8
+#EXTINF:-1,|FR| ELLE GIRL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7436.m3u8
+#EXTINF:-1,|FR| LFM TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7439.m3u8
+#EXTINF:-1,|FR| TV BREIZH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7443.m3u8
+#EXTINF:-1,|FR| 6TER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7444.m3u8
+#EXTINF:-1,|FR| TF1 SÉRIES FILMS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7445.m3u8
+#EXTINF:-1,|FR| TFX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7446.m3u8
+#EXTINF:-1,|FR| SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7447.m3u8
+#EXTINF:-1,|FR| CANAL+  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7464.m3u8
+#EXTINF:-1,|FR| CANAL+  CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7463.m3u8
+#EXTINF:-1,|FR| CANAL+  FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7460.m3u8
+#EXTINF:-1,|FR| CANAL+  SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7461.m3u8
+#EXTINF:-1,|FR| CANAL+  DECALE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7462.m3u8
+#EXTINF:-1,|FR| CANAL+  SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7408.m3u8
+#EXTINF:-1,|FR| CINE  PREMIER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7459.m3u8
+#EXTINF:-1,|FR| CINE + FAMIZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7455.m3u8
+#EXTINF:-1,|FR| CINE+  FRISSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7458.m3u8
+#EXTINF:-1,|FR| CINE+  EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7456.m3u8
+#EXTINF:-1,|FR| CINE+  CLASSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7457.m3u8
+#EXTINF:-1,|FR| OCS CHOC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7449.m3u8
+#EXTINF:-1,|FR| OCS GEANTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7450.m3u8
+#EXTINF:-1,|FR| OCS CITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7451.m3u8
+#EXTINF:-1,|FR| OCS MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7452.m3u8
+#EXTINF:-1,|FR| DJAZZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7410.m3u8
+#EXTINF:-1,|FR| BBLACK CLASSIK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7411.m3u8
+#EXTINF:-1,|FR| BBLACK AFRICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7412.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7413.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7414.m3u8
+#EXTINF:-1,|FR| TRACE URBAN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7415.m3u8
+#EXTINF:-1,|FR| MTV MUSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7416.m3u8
+#EXTINF:-1,|FR| MTV HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7417.m3u8
+#EXTINF:-1,|FR| M6 MUSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7418.m3u8
+#EXTINF:-1,|FR| NRJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7420.m3u8
+#EXTINF:-1,|FR| M6 BOUTIQUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7422.m3u8
+#EXTINF:-1,|FR| FASHION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7423.m3u8
+#EXTINF:-1,|FR| ROUGE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7440.m3u8
+#EXTINF:-1,|FR| MANGAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7336.m3u8
+#EXTINF:-1,|FR| J ONE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7337.m3u8
+#EXTINF:-1,|FR| TOONAMI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7338.m3u8
+#EXTINF:-1,|FR| GONG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7339.m3u8
+#EXTINF:-1,|FR| BOING SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7340.m3u8
+#EXTINF:-1,|FR| TIJI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7341.m3u8
+#EXTINF:-1,|FR| TELETOON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7342.m3u8
+#EXTINF:-1,|FR| PIWI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7343.m3u8
+#EXTINF:-1,|FR| CANALJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7344.m3u8
+#EXTINF:-1,|FR| GULLI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7345.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7346.m3u8
+#EXTINF:-1,|FR| NICKELODEON  1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7347.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7348.m3u8
+#EXTINF:-1,|FR| NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7349.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7350.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL+ 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7351.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7352.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7353.m3u8
+#EXTINF:-1,|FR| DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7354.m3u8
+#EXTINF:-1,|FR| BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7355.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7448.m3u8
+#EXTINF:-1,|FR| SEASON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7364.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7365.m3u8
+#EXTINF:-1,|FR| TOUTE HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7366.m3u8
+#EXTINF:-1,|FR| HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7367.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7368.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7369.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7370.m3u8
+#EXTINF:-1,|FR| DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7371.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7372.m3u8
+#EXTINF:-1,|FR| NAT GEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7373.m3u8
+#EXTINF:-1,|FR| SCIENCES ET VIE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7374.m3u8
+#EXTINF:-1,|FR| CHASSE ET PECHE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7375.m3u8
+#EXTINF:-1,|FR| ANIMAUX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7376.m3u8
+#EXTINF:-1,|FR| PLANET AE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7377.m3u8
+#EXTINF:-1,|FR| PLANET CI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7378.m3u8
+#EXTINF:-1,|FR| PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7379.m3u8
+#EXTINF:-1,|FR| USHUAIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7380.m3u8
+#EXTINF:-1,|FR| VOYAGE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7381.m3u8
+#EXTINF:-1,|FR| GAME ONE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7382.m3u8
+#EXTINF:-1,|FR| KOMBAT SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7383.m3u8
+#EXTINF:-1,|FR| GOLF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7384.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7385.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7386.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7387.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7388.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7389.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7390.m3u8
+#EXTINF:-1,|FR| AB MOTEURS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7391.m3u8
+#EXTINF:-1,|FR| INFOSPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7392.m3u8
+#EXTINF:-1,|FR| FOOT 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7393.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7407.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7406.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7405.m3u8
+#EXTINF:-1,|FR| BEIN MAX 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7400.m3u8
+#EXTINF:-1,|FR| BEIN MAX 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7399.m3u8
+#EXTINF:-1,|FR| BEIN MAX 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7398.m3u8
+#EXTINF:-1,|FR| BEIN MAX 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7397.m3u8
+#EXTINF:-1,|FR| BEIN MAX 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7396.m3u8
+#EXTINF:-1,|FR| BEIN MAX 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7395.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7404.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7403.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7402.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7401.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7356.m3u8
+#EXTINF:-1,|FR| FRANCE INFO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7357.m3u8
+#EXTINF:-1,|FR| FRANCE 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7359.m3u8
+#EXTINF:-1,|FR| EURONEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7360.m3u8
+#EXTINF:-1,|FR| I24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7361.m3u8
+#EXTINF:-1,|FR| BFM TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7362.m3u8
+#EXTINF:-1,|FR| CNEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://welliptv.net:2507/live/walid_665395/3AGjjDnf/7363.m3u8
