@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+
 <!-- 
 
 <item>
@@ -41,98 +43,29 @@
  -->
 <item>
 	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #1[/B][/COLOR]</title>
-	<link>http://primeplus.tv:8080/yySmw02QkE/FjpLnD4LN4/1611</link>
+	<link></link>
 </item>
 <item>
 	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #2[/B][/COLOR]</title>
 	<link>http://iptv-volkan.net:8000/live/denis545/smartiptvcom326/387.ts</link>
 </item><item>
 	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #3[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/e3/playlist.m3u8</link>
+	<link>http://weak_spell.carniferou.club/edge/FOX/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://y6stream.club/watch/washington-nationals-vs-houston-astros/</link>
 </item>
 <item>
 	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #4[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/e4/playlist.m3u8</link>
-</item>
-<item>
-	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #5[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/e5/playlist.m3u8</link>
-</item>
-<item>
-	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #6[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/e6/playlist.m3u8</link>
-</item><item>
-	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #7[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/e7/playlist.m3u8</link>
-</item>
-<item>
-	<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien test Flux #8[/B][/COLOR]</title>
-	<link>http://34.102.207.198/live/lll/playlist.m3u8</link>
+	<link>https://e3.cdn4.us/ingest02/39691.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://box-live.stream/stream/58039.html</link>
 </item>
 
 
- 
- <item>
-	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]England[/B][/COLOR] : [COLOR white][B]Liverpool WIP[/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>$doregex[get_matchurl]</page>
-	</regex>
-	<regex>
-	<name>get_matchurl</name>
-	<expres>(?:class="title" href=")(.*?)[",']</expres>
-	<page>http://60fps.live/charlotte-hornets-live-stream/</page>
-	</regex>
-	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
-	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
-</item>
-
-<!-- 	<expres>(?:[.*]href=){4}.*[",'](.*?)[",']</expres>
- -->	
- <item>
-	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]England[/B][/COLOR] : [COLOR white][B]Liverpool HS[/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>$doregex[get_matchurl]</page>
-	</regex>
-	<regex>
-	<name>get_matchurl</name>
-	<expres>class="title" href=.*[",'](.*?)[",']</expres>
-	<page>http://60fps.live/liverpool-fc-live-stream/</page>
-	</regex>
-	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
-	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
-</item>
-
-    
 
 <item>
-	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]England[/B][/COLOR] : [COLOR white][B]Liverpool-Sheffield[/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/liverpool-vs-sheffield-united/</page>
-	</regex>
-	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
-	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
-</item>
-
-
-
-<!-- 
-<item>
-<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien dpaste 20/12/2019[/B][/COLOR]</title>
+<title>[COLOR blue][B]L[/B][/COLOR][COLOR white][B]ien dpaste LiveSoccerTV[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3ZS4NQP.txt</externallink>
+<externallink>http://dpaste.com/09AEK68.txt</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
- -->
 <!-- 
 Mes Liens à tester
 
