@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
-#EXTINF:-1,SKY SPORT2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
+#EXTINF:0,Bein Sport 1 FHD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8

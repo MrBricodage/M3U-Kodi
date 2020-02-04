@@ -1,9 +1,55 @@
 #EXTM3U
-#EXTINF:-1,?????? 1 HD UA_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.146.35.201:8080/Futbol1/index.m3u8
-#EXTINF:-1,?????? 2 HD UA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.146.35.201:8080/futbol2/index.m3u8
-#EXTINF:-1,?????? 1 HD UA_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.146.35.201:8080/Futbol1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,?????? 2 HD UA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.146.35.201:8080/Futbol2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR:Bein Sports 1 Hevc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5195
+#EXTINF:-1,AR:Bein Sports 2 Hevc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5196
+#EXTINF:-1,AR:Bein Sports 3 Hevc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5197
+#EXTINF:-1,AR:Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1223
+#EXTINF:-1,AR:Bein News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/68
+#EXTINF:-1,AR:Bein Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5192
+#EXTINF:-1,AR:Bein Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5193
+#EXTINF:-1,AR:Bein Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5194
+#EXTINF:-1,AR:Bein Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1602
+#EXTINF:-1,AR:Bein Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1603
+#EXTINF:-1,AR:Bein Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1604
+#EXTINF:-1,AR:Bein Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1605
+#EXTINF:-1,AR:Bein Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/79
+#EXTINF:-1,AR:Bein Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/80
+#EXTINF:-1,AR:Bein Sports10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/81
+#EXTINF:-1,AR:Bein Sports11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/82
+#EXTINF:-1,AR:Bein Sports12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/83
+#EXTINF:-1,AR:BeinSports 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1072
+#EXTINF:-1,AR:BeinSports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1073
+#EXTINF:-1,AR:BeinSports 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1074
+#EXTINF:-1,AR:BeinSports 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1070
+#EXTINF:-1,AR:BeinSports 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/1071
+#EXTINF:-1,AR:BeinSports 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/77
+#EXTINF:-1,AR:BeinSports 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/78
+#EXTINF:-1,AR:Beinsports 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5146
+#EXTINF:-1,AR:Beinsports 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5147
+#EXTINF:-1,AR:BeinSports 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/675335707793354/675335707793354/5148

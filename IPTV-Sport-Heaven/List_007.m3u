@@ -1,23 +1,205 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports HD1_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/beinsports1_tr_fhd.m3u8
-#EXTINF:-1,Sky sport football HD_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysportsfootball.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysportsarena.m3u8
-#EXTINF:-1,SKY SPORT Action HD_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysportsaction.m3u8
-#EXTINF:-1,Sky Sports Main event_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysports1.m3u8
-#EXTINF:-1,Sky Sports Premiere League_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysports3.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/foxsport1.m3u8
-#EXTINF:-1,Tivibu Spor 3_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/tivibuspor3_tr.m3u8
-#EXTINF:-1,Tivibu Spor 2_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/tivibuspor2_tr.m3u8
-#EXTINF:-1,Tivibu Spor 1_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/tivibuspor1_tr.m3u8
-#EXTINF:-1,Sky Sports 2_Website : dailyfreeiptv.blogspot.com
-https://cstream8.com/hls/skysports2.m3u8
+#EXTINF:0,Sky Sport 24 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/81.ts
+#EXTINF:0,Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/82.ts
+#EXTINF:0,Sky Sport Serie A HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/80.ts
+#EXTINF:0,Sky Sport Serie A HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46943.ts
+#EXTINF:0,Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/88.ts
+#EXTINF:0,Sky Sport F1 +1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46693.ts
+#EXTINF:0,Sky Sport MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/87.ts
+#EXTINF:0,Sky Sport Moto GP +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46694.ts
+#EXTINF:0,Sky Sport Golf HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/70.ts
+#EXTINF:0,Sky Sport Golf HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46941.ts
+#EXTINF:0,Sky Sport Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/83.ts
+#EXTINF:0,Sky Sport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/84.ts
+#EXTINF:0,Sky Sport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46382.ts
+#EXTINF:0,Bike Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/8713.ts
+#EXTINF:0,Rai Sport HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/2137.ts
+#EXTINF:0,Super Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/40.ts
+#EXTINF:0,Sport Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/29.ts
+#EXTINF:0,Class Horse TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/5220.ts
+#EXTINF:0,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/71.ts
+#EXTINF:0,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/72.ts
+#EXTINF:0,Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46814.ts
+#EXTINF:0,NBA TV_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/21387.ts
+#EXTINF:0,WWE USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/21386.ts
+#EXTINF:0,Sky Sport 251 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/89.ts
+#EXTINF:0,Sky Sport 252 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/90.ts
+#EXTINF:0,Sky Sport 253 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/91.ts
+#EXTINF:0,Sky Sport 254 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/92.ts
+#EXTINF:0,Sky Sport 255 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/2122.ts
+#EXTINF:0,Sky Sport 256 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/2123.ts
+#EXTINF:0,Sky Sport 257 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/5141.ts
+#EXTINF:0,Inter Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/5366.ts
+#EXTINF:0,Milan Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/5368.ts
+#EXTINF:0,Napoli Channel 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46812.ts
+#EXTINF:0,Roma Channel_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/5367.ts
+#EXTINF:0,Lazio Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/10625.ts
+#EXTINF:0,Torino Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/21185.ts
+#EXTINF:0,Calcio Napoli Channel 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/40344.ts
+#EXTINF:0,Top Calcio 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/21186.ts
+#EXTINF:0,Top Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46813.ts
+#EXTINF:0,VETRINA DAZN SPORT_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/40853.ts
+#EXTINF:0,Sky Dazn 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52339.ts
+#EXTINF:0,Sky Dazn 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52340.ts
+#EXTINF:0,Dazn Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52341.ts
+#EXTINF:0,Dazn Sport 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52342.ts
+#EXTINF:0,Dazn Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52343.ts
+#EXTINF:0,Dazn Sport 2 Full HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52344.ts
+#EXTINF:0,Dazn Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52345.ts
+#EXTINF:0,Dazn Sport 3 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52346.ts
+#EXTINF:0,Dazn Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52347.ts
+#EXTINF:0,Dazn Sport 4 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52348.ts
+#EXTINF:0,Dazn Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52349.ts
+#EXTINF:0,Dazn Sport 5 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52350.ts
+#EXTINF:0,Dazn Sport 6 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52351.ts
+#EXTINF:0,Dazn Sport 6 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52352.ts
+#EXTINF:0,Dazn Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52353.ts
+#EXTINF:0,Dazn Sport 7 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52354.ts
+#EXTINF:0,Dazn Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52355.ts
+#EXTINF:0,Dazn Sport 8 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52356.ts
+#EXTINF:0,Dazn Sport 9 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52357.ts
+#EXTINF:0,Dazn Sport 9 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52358.ts
+#EXTINF:0,Dazn Bar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/51771.ts
+#EXTINF:0,Dazn2 Bar Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52417.ts
+#EXTINF:0,Dazn Bar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52415.ts
+#EXTINF:0,Dazn 2 Bar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52416.ts
+#EXTINF:0,Dazn Bar Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/52414.ts
+#EXTINF:0,Sky Sport 24 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41600.ts
+#EXTINF:0,Sky Sport Uno Full-HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41601.ts
+#EXTINF:0,Sky Sport Serie A Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41595.ts
+#EXTINF:0,Sky Sport Serie A Full-HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46942.ts
+#EXTINF:0,Sky Formula 1 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41603.ts
+#EXTINF:0,Sky Moto GP Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41602.ts
+#EXTINF:0,Sky Sport Arena Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41599.ts
+#EXTINF:0,Sky Sport Football Full-HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41598.ts
+#EXTINF:0,Sky Sport Golf Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41597.ts
+#EXTINF:0,Sky Sport NBA Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41596.ts
+#EXTINF:0,Inter Channel Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41647.ts
+#EXTINF:0,Milan Channel Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41648.ts
+#EXTINF:0,Roma Channel Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41646.ts
+#EXTINF:0,Bike Channell Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41636.ts
+#EXTINF:0,Sky Sport 251 Full-HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41618.ts
+#EXTINF:0,Sky Sport 252 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41617.ts
+#EXTINF:0,Sky Sport 253 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41616.ts
+#EXTINF:0,Sky Sport 254 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41615.ts
+#EXTINF:0,Sky Sport 255 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41614.ts
+#EXTINF:0,Sky Sport 256 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41613.ts
+#EXTINF:0,Sky Sport 257 Full-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41612.ts
+#EXTINF:0,Sky Sport 24 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41663.ts
+#EXTINF:0,Sky Sport Uno SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41664.ts
+#EXTINF:0,Sky Sport Serie A SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41658.ts
+#EXTINF:0,Sky Sport Serie A SD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46944.ts
+#EXTINF:0,Sky Formula 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41666.ts
+#EXTINF:0,Sky Moto GP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41665.ts
+#EXTINF:0,Sky Sport Arena SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41662.ts
+#EXTINF:0,Sky Sport Football SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41661.ts
+#EXTINF:0,Sky Sport Golf SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41660.ts
+#EXTINF:0,Sky Sport NBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41659.ts
+#EXTINF:0,Sky Sport 251 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41669.ts
+#EXTINF:0,Sky Sport 252 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41668.ts
+#EXTINF:0,Sky Sport 253 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/41667.ts
+#EXTINF:0,Sky Sport 254 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46801.ts
+#EXTINF:0,Sky Sport 255 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46802.ts
+#EXTINF:0,Sky Sport 256 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mondial.cybergroup.top:8000/live/Castello/castello/46803.ts

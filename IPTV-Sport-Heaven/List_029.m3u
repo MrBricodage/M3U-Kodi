@@ -1,5 +1,753 @@
 #EXTM3U
-#EXTINF:-1,AD Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.60.1.82:8081/live/AD.Sport.2/playlist.m3u8
-#EXTINF:-1,AD SPORT 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.60.1.82:8081/live/AD.SPORT.1/playlist.m3u8
+#EXTINF:0,DE: SKY SPORT NEWS HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1677.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/303.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1716.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1717.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1718.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1719.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1720.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1721.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1722.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 9 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1723.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1724.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2849.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2850.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2851.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2852.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2853.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 6_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2854.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2855.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 8_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2856.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2857.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2858.ts
+#EXTINF:0,DE: SKY SPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/304.ts
+#EXTINF:0,DE: SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/305.ts
+#EXTINF:0,DE: SKY SPORT 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2929.ts
+#EXTINF:0,DE: SKY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2926.ts
+#EXTINF:0,DE: SKY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2925.ts
+#EXTINF:0,DE: SKY SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2924.ts
+#EXTINF:0,DE: SKY SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2923.ts
+#EXTINF:0,DE: SKY SPORT 8 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2922.ts
+#EXTINF:0,DE: SKY SPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2921.ts
+#EXTINF:0,DE: SKY SPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2928.ts
+#EXTINF:0,DE: SKY SPORT 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2927.ts
+#EXTINF:0,DE: SKY SPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3749.ts
+#EXTINF:0,DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3750.ts
+#EXTINF:0,DE: SKY SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2840.ts
+#EXTINF:0,DE: SKY SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2841.ts
+#EXTINF:0,DE: SKY SPORT 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2842.ts
+#EXTINF:0,DE: SKY SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2843.ts
+#EXTINF:0,DE: SKY SPORT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2844.ts
+#EXTINF:0,DE: SKY SPORT 8_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2845.ts
+#EXTINF:0,DE: SKY SPORT 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2846.ts
+#EXTINF:0,DE: SKY SPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2847.ts
+#EXTINF:0,DE: SKY SPORT 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2848.ts
+#EXTINF:0,DE: SKY SPORT AUSTRIA HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2714.ts
+#EXTINF:0,DE: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/299.ts
+#EXTINF:0,DE: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5897.ts
+#EXTINF:0,DE: EUROSPORT 2 HD XTRA ( BULI )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6385.ts
+#EXTINF:0,DE: SPORT DIGITAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1678.ts
+#EXTINF:0,DE: SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3899.ts
+#EXTINF:0,DE: SPORT 1 PLUS_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1042.ts
+#EXTINF:0,DE: SPORT 1 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5895.ts
+#EXTINF:0,DE: FC BAYERN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6449.ts
+#EXTINF:0,DE: MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2740.ts
+#EXTINF:0,FR: CANAL+ SPORT_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/363.ts
+#EXTINF:0,FR: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2201.ts
+#EXTINF:0,FR: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2737.ts
+#EXTINF:0,FR: FOOT 24/24_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1469.ts
+#EXTINF:0,FR: INFOSPORT+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1474.ts
+#EXTINF:0,FR: EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3819.ts
+#EXTINF:0,NL: ZIGGO SPORT  VOETBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2151.ts
+#EXTINF:0,NL: ZIGGO SPORT GOLF_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2090.ts
+#EXTINF:0,NL: ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2089.ts
+#EXTINF:0,NL: FOX SPORTS 1 EREDIVISIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2051.ts
+#EXTINF:0,NL: FOX SPORTS 2 INTERNATIONAAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2088.ts
+#EXTINF:0,NL: FOX SPORTS 3 EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2087.ts
+#EXTINF:0,NL: FOX SPORTS 4 INTERNATIONAAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2086.ts
+#EXTINF:0,NL: FOX SPORTS 5 EREDIVISIEV_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2085.ts
+#EXTINF:0,NL: FOX SPORTS 6 INTERNATIONAAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2084.ts
+#EXTINF:0,NL: SPORT 1 SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2052.ts
+#EXTINF:0,NL: Ziggo Sport Extra 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2523.ts
+#EXTINF:0,NL: Ziggo Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2524.ts
+#EXTINF:0,DE: EUROSPORT 2 HD XTRA (BUNDESLIGA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6398.ts
+#EXTINF:0,DE: DAZN 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18194.ts
+#EXTINF:0,DE: DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18195.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 1 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3071.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 2 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3072.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 3 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3073.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 4 WEEKEND ONLY_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3074.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 5 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3075.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 6 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5481.ts
+#EXTINF:0,PK: PTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6114.ts
+#EXTINF:0,HR: Fight Channel HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/36358.ts
+#EXTINF:0,UK: WWE Raw Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40514.ts
+#EXTINF:0,UK: Racing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40178.ts
+#EXTINF:0,UK: UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5694.ts
+#EXTINF:0,PL: FightBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/36357.ts
+#EXTINF:0,UK: BOX NATION_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5695.ts
+#EXTINF:0,UK: SETANTA SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4113.ts
+#EXTINF:0,UK: SKY SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4024.ts
+#EXTINF:0,UK: SKY SPORTS HD MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1442.ts
+#EXTINF:0,UK: SKY SPORTS HD FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/10031.ts
+#EXTINF:0,UK: SKY SPORTS HD PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1446.ts
+#EXTINF:0,UK: SKY SPORTS HD CRICKET_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1443.ts
+#EXTINF:0,UK: SKY SPORTS HD ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1444.ts
+#EXTINF:0,UK: SKY SPORTS HD ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/10032.ts
+#EXTINF:0,UK: SKY SPORTS HD GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1445.ts
+#EXTINF:0,UK: SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4112.ts
+#EXTINF:0,UK: SKY SPORT MIX_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6121.ts
+#EXTINF:0,UK: BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1826.ts
+#EXTINF:0,UK: BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1825.ts
+#EXTINF:0,UK: BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6120.ts
+#EXTINF:0,UK: BT SPORT ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4114.ts
+#EXTINF:0,UK: BT SPORT ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6129.ts
+#EXTINF:0,UK: BT SPORT EXTRA 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6128.ts
+#EXTINF:0,UK: BT SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6127.ts
+#EXTINF:0,UK: BT SPORT EXTRA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6126.ts
+#EXTINF:0,UK: BT SPORT EXTRA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6125.ts
+#EXTINF:0,RO: DIGI SPORT 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4414.ts
+#EXTINF:0,RO: DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4413.ts
+#EXTINF:0,RO: DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4412.ts
+#EXTINF:0,RO: DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4411.ts
+#EXTINF:0,RO: TELEKOM SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7147.ts
+#EXTINF:0,RO: TELEKOM SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7148.ts
+#EXTINF:0,RO: TELEKOM SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40590.ts
+#EXTINF:0,RO: TELEKOM SPORT 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40591.ts
+#EXTINF:0,RO: TELEKOM SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7149.ts
+#EXTINF:0,RO: TELEKOM SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7150.ts
+#EXTINF:0,POR: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2077.ts
+#EXTINF:0,POR: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2076.ts
+#EXTINF:0,POR: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2075.ts
+#EXTINF:0,POR: SPORT TV 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2074.ts
+#EXTINF:0,POR: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2073.ts
+#EXTINF:0,ALB: SUPER SPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1725.ts
+#EXTINF:0,ALB: SUPER SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1726.ts
+#EXTINF:0,ALB: SUPER SPORT 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1727.ts
+#EXTINF:0,ALB: SUPER SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1728.ts
+#EXTINF:0,ALB: SUPER SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1729.ts
+#EXTINF:0,SRB: ARENA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1066.ts
+#EXTINF:0,SRB: ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1067.ts
+#EXTINF:0,SRB: ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1068.ts
+#EXTINF:0,SRB: ARENA SPORT 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1069.ts
+#EXTINF:0,SRB: ARENA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2033.ts
+#EXTINF:0,FR: BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4939.ts
+#EXTINF:0,FR: BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4938.ts
+#EXTINF:0,FR: BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4937.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5299.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5300.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5301.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7063.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7064.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7065.ts
+#EXTINF:0,FR: RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3927.ts
+#EXTINF:0,FR: RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3928.ts
+#EXTINF:0,FR: RMC SPORT 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4224.ts
+#EXTINF:0,FR: RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5896.ts
+#EXTINF:0,AR: BEIN SPORT NEWS_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3118.ts
+#EXTINF:0,AR: BEIN SPORTS 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8367.ts
+#EXTINF:0,AR: BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8365.ts
+#EXTINF:0,AR: BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8363.ts
+#EXTINF:0,AR: BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8361.ts
+#EXTINF:0,AR: BEIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8359.ts
+#EXTINF:0,AR: BEIN SPORTS 6 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8357.ts
+#EXTINF:0,AR: BEIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8355.ts
+#EXTINF:0,AR: BEIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8353.ts
+#EXTINF:0,AR: BEIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8352.ts
+#EXTINF:0,AR: BEIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8351.ts
+#EXTINF:0,AR: BEIN SPORTS 11 FHD (ENG)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8350.ts
+#EXTINF:0,AR: BEIN SPORTS 12 FHD (ENG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8348.ts
+#EXTINF:0,RU: ViP Megahit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5717.ts
+#EXTINF:0,RU: MATCH FOOTBALL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5718.ts
+#EXTINF:0,RU: MATCH FOOTBALL 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5719.ts
+#EXTINF:0,RU: MATCH FOOTBALL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5720.ts
+#EXTINF:0,SE: C MORE FOTBOLL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5721.ts
+#EXTINF:0,SE: C MORE HOCKEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5723.ts
+#EXTINF:0,SE: VIASAT FOTBOLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5725.ts
+#EXTINF:0,SE: VIASAT SPORT_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5726.ts
+#EXTINF:0,SE: VIASAT SPORT PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5727.ts
+#EXTINF:0,PL: ELEVEN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5714.ts
+#EXTINF:0,AR: ALKASS ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6233.ts
+#EXTINF:0,AR: ALKASS TWO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6234.ts
+#EXTINF:0,AR: ALKASS FOUR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6236.ts
+#EXTINF:0,VIP BEIN AND SPORT CHANNELS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/0.ts
+#EXTINF:0,DE: DAZN 1 BAR VIP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40179.ts
+#EXTINF:0,DE: DAZN 2 BAR VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40180.ts
+#EXTINF:0,AR: BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5623.ts
+#EXTINF:0,AR: BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40556.ts
+#EXTINF:0,AR: BEIN SPORT 1 UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40546.ts
+#EXTINF:0,AR: BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40557.ts
+#EXTINF:0,AR: BEIN SPORT 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40547.ts
+#EXTINF:0,AR: BEIN SPORT 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40558.ts
+#EXTINF:0,AR: BEIN SPORT 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40548.ts
+#EXTINF:0,AR: BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40559.ts
+#EXTINF:0,AR: BEIN SPORT 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40549.ts
+#EXTINF:0,AR: BEIN SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40560.ts
+#EXTINF:0,AR: BEIN SPORT 5 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40550.ts
+#EXTINF:0,AR: BEIN SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40561.ts
+#EXTINF:0,AR: BEIN SPORT 6 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40551.ts
+#EXTINF:0,AR: BEIN SPORT 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40562.ts
+#EXTINF:0,AR: BEIN SPORT 7 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40552.ts
+#EXTINF:0,AR: BEIN SPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40563.ts
+#EXTINF:0,AR: BEIN SPORT 8 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40553.ts
+#EXTINF:0,AR: BEIN SPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40564.ts
+#EXTINF:0,AR: BEIN SPORT 9 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40554.ts
+#EXTINF:0,AR: BEIN SPORT 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40565.ts
+#EXTINF:0,AR: BEIN SPORT 10 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40555.ts
+#EXTINF:0,AR: BEIN SPORT 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2029.ts
+#EXTINF:0,AR: BEIN SPORT 12 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2030.ts
+#EXTINF:0,AR: BEIN SPORT 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40566.ts
+#EXTINF:0,AR: BEIN SPORT 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40567.ts
+#EXTINF:0,AR: BEIN SPORT 15 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40568.ts
+#EXTINF:0,AR: BEIN SPORT 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40569.ts
+#EXTINF:0,AR: BEIN SPORT 17 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40570.ts
+#EXTINF:0,AR: Abu Dhabi Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/16151.ts
+#EXTINF:0,AR: Abu Dhabi Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/16152.ts
+#EXTINF:0,DE: Telekom Sport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35262.ts
+#EXTINF:0,DE: Telekom Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35261.ts
+#EXTINF:0,DE: Telekom Fussball 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18574.ts
+#EXTINF:0,DE: Telekom Fussball 1 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35270.ts
+#EXTINF:0,DE: Telekom Fussball 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18575.ts
+#EXTINF:0,DE: Telekom Fussball 2 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35269.ts
+#EXTINF:0,DE: Telekom Fussball 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18576.ts
+#EXTINF:0,DE: Telekom Fussball 3 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35268.ts
+#EXTINF:0,DE: Telekom Fussball 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18577.ts
+#EXTINF:0,DE: Telekom Fussball 4 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35267.ts
+#EXTINF:0,DE: Telekom Fussball 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18578.ts
+#EXTINF:0,DE: Telekom Fussball 5 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35266.ts
+#EXTINF:0,DE: Telekom Fussball 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18579.ts
+#EXTINF:0,DE: Telekom Fussball 6 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35265.ts
+#EXTINF:0,DE: Telekom Fussball 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18580.ts
+#EXTINF:0,DE: Telekom Fussball 7 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35264.ts
+#EXTINF:0,DE: Telekom Fussball 8_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18581.ts
+#EXTINF:0,DE: Telekom Fussball 8 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35263.ts
+#EXTINF:0,DE: Telekom Basketball 1 HD[Live During Events Only]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35285.ts
+#EXTINF:0,DE: Telekom Basketball 2 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35284.ts
+#EXTINF:0,DE: Telekom Basketball 3 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35283.ts
+#EXTINF:0,DE: Telekom Basketball 4 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35282.ts
+#EXTINF:0,DE: Telekom Basketball 5 HD[Live During Events Only]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35281.ts
+#EXTINF:0,DE: Telekom Basketball 6 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35280.ts
+#EXTINF:0,DE: Telekom Basketball 7 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35279.ts
+#EXTINF:0,DE: Telekom Basketball 8 HD[Live During Events Only]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35278.ts
+#EXTINF:0,DE: Telekom Eishockey 1 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35277.ts
+#EXTINF:0,DE: Telekom Eishockey 2 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35276.ts
+#EXTINF:0,DE: Telekom Eishockey 3 HD[Live During Events Only]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35275.ts
+#EXTINF:0,DE: Telekom Eishockey 4 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35274.ts
+#EXTINF:0,DE: Telekom Eishockey 5 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35273.ts
+#EXTINF:0,DE: Telekom Eishockey 6 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35272.ts
+#EXTINF:0,DE: Telekom Eishockey 7 HD[Live During Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/35271.ts
+#EXTINF:0,US: PAC-12 ARIZONA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9645.ts
+#EXTINF:0,US: PAC-12 BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9644.ts
+#EXTINF:0,US: PAC-12 LOS ANGELES_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9643.ts
+#EXTINF:0,US: PAC-12 OREGON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9642.ts
+#EXTINF:0,US: PAC-12 WASHINGTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9641.ts
+#EXTINF:0,US: NFL NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9640.ts
+#EXTINF:0,US: NHL NETWORK HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/9639.ts
+#EXTINF:0,US: NBC Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/10249.ts
+#EXTINF:0,USA: Eleven Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18196.ts
+#EXTINF:0,UK: WWE 24_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/19997.ts
+#EXTINF:0,CH: MySports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23697.ts
+#EXTINF:0,CH: MySports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23696.ts
+#EXTINF:0,CH: MySports 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23695.ts
+#EXTINF:0,CH: MySports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23694.ts
+#EXTINF:0,CH: MySports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23693.ts
+#EXTINF:0,CH: MySports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23692.ts
+#EXTINF:0,CH: MySports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23691.ts
+#EXTINF:0,CH: MySports 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23690.ts
+#EXTINF:0,CH: MySports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23689.ts
+#EXTINF:0,CH: MySports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23688.ts
+#EXTINF:0,PL: Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18200.ts
+#EXTINF:0,PL: Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18199.ts
+#EXTINF:0,PL: Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18198.ts
+#EXTINF:0,PL: Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18197.ts
+#EXTINF:0,PT: ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23703.ts
+#EXTINF:0,PT: ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23702.ts
+#EXTINF:0,PT: ELEVEN SPORTS 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23701.ts
+#EXTINF:0,PT: ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23700.ts
+#EXTINF:0,PT: ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23699.ts
+#EXTINF:0,PT: ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/23698.ts
+#EXTINF:0,SLO: Sport Klub 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18203.ts
+#EXTINF:0,SLO: Sport Klub 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18202.ts
+#EXTINF:0,SLO: Sport Klub 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18201.ts
+#EXTINF:0,HR: Arena Sport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18209.ts
+#EXTINF:0,HR: Arena Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18208.ts
+#EXTINF:0,HR: Arena Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18207.ts
+#EXTINF:0,HR: Arena Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18206.ts
+#EXTINF:0,HR: Arena Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18205.ts
+#EXTINF:0,HR: Arena Sport 6 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18204.ts
+#EXTINF:0,DE: EUROSPORT 2 HD XTRA (BUNDESLIGA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6398.ts
+#EXTINF:0,DE: DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18194.ts
+#EXTINF:0,DE: DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/18195.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 1 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3071.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 2 WEEKEND ONLY_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3072.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 3 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3073.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 4 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3074.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 5 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3075.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 6 WEEKEND ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5481.ts
+#EXTINF:0,PK: PTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6114.ts
+#EXTINF:0,HR: Fight Channel HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/36358.ts
+#EXTINF:0,UK: WWE Raw Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40514.ts
+#EXTINF:0,UK: Racing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40178.ts
+#EXTINF:0,UK: UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5694.ts
+#EXTINF:0,PL: FightBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/36357.ts
+#EXTINF:0,UK: BOX NATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5695.ts
+#EXTINF:0,UK: SETANTA SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4113.ts
+#EXTINF:0,UK: SKY SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4024.ts
+#EXTINF:0,UK: SKY SPORTS HD MAIN EVENT_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1442.ts
+#EXTINF:0,UK: SKY SPORTS HD FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/10031.ts
+#EXTINF:0,UK: SKY SPORTS HD PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1446.ts
+#EXTINF:0,UK: SKY SPORTS HD CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1443.ts
+#EXTINF:0,UK: SKY SPORTS HD ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1444.ts
+#EXTINF:0,UK: SKY SPORTS HD ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/10032.ts
+#EXTINF:0,UK: SKY SPORTS HD GOLF_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1445.ts
+#EXTINF:0,UK: SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4112.ts
+#EXTINF:0,UK: SKY SPORT MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6121.ts
+#EXTINF:0,UK: BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1826.ts
+#EXTINF:0,UK: BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1825.ts
+#EXTINF:0,UK: BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6120.ts
+#EXTINF:0,UK: BT SPORT ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4114.ts
+#EXTINF:0,UK: BT SPORT ESPN HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6129.ts
+#EXTINF:0,UK: BT SPORT EXTRA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6128.ts
+#EXTINF:0,UK: BT SPORT EXTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6127.ts
+#EXTINF:0,UK: BT SPORT EXTRA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6126.ts
+#EXTINF:0,UK: BT SPORT EXTRA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6125.ts
+#EXTINF:0,RO: DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4414.ts
+#EXTINF:0,RO: DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4413.ts
+#EXTINF:0,RO: DIGI SPORT 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4412.ts
+#EXTINF:0,RO: DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4411.ts
+#EXTINF:0,RO: TELEKOM SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7147.ts
+#EXTINF:0,RO: TELEKOM SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7148.ts
+#EXTINF:0,RO: TELEKOM SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40590.ts
+#EXTINF:0,RO: TELEKOM SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/40591.ts
+#EXTINF:0,RO: TELEKOM SPORT 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7149.ts
+#EXTINF:0,RO: TELEKOM SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7150.ts
+#EXTINF:0,POR: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2077.ts
+#EXTINF:0,POR: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2076.ts
+#EXTINF:0,POR: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2075.ts
+#EXTINF:0,POR: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2074.ts
+#EXTINF:0,POR: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2073.ts
+#EXTINF:0,ALB: SUPER SPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1725.ts
+#EXTINF:0,ALB: SUPER SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1726.ts
+#EXTINF:0,ALB: SUPER SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1727.ts
+#EXTINF:0,ALB: SUPER SPORT 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1728.ts
+#EXTINF:0,ALB: SUPER SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1729.ts
+#EXTINF:0,SRB: ARENA SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1066.ts
+#EXTINF:0,SRB: ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1067.ts
+#EXTINF:0,SRB: ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1068.ts
+#EXTINF:0,SRB: ARENA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/1069.ts
+#EXTINF:0,SRB: ARENA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/2033.ts
+#EXTINF:0,FR: BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4939.ts
+#EXTINF:0,FR: BEIN SPORT 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4938.ts
+#EXTINF:0,FR: BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4937.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5299.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5300.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5301.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7063.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7064.ts
+#EXTINF:0,FR: BEIN SPORTS MAX 9_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/7065.ts
+#EXTINF:0,FR: RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3927.ts
+#EXTINF:0,FR: RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3928.ts
+#EXTINF:0,FR: RMC SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/4224.ts
+#EXTINF:0,FR: RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5896.ts
+#EXTINF:0,AR: BEIN SPORT NEWS_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/3118.ts
+#EXTINF:0,AR: BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8367.ts
+#EXTINF:0,AR: BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8365.ts
+#EXTINF:0,AR: BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8363.ts
+#EXTINF:0,AR: BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8361.ts
+#EXTINF:0,AR: BEIN SPORTS 5 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8359.ts
+#EXTINF:0,AR: BEIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8357.ts
+#EXTINF:0,AR: BEIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8355.ts
+#EXTINF:0,AR: BEIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8353.ts
+#EXTINF:0,AR: BEIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8352.ts
+#EXTINF:0,AR: BEIN SPORTS 10 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8351.ts
+#EXTINF:0,AR: BEIN SPORTS 11 FHD (ENG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8350.ts
+#EXTINF:0,AR: BEIN SPORTS 12 FHD (ENG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/8348.ts
+#EXTINF:0,RU: ViP Megahit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5717.ts
+#EXTINF:0,RU: MATCH FOOTBALL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5718.ts
+#EXTINF:0,RU: MATCH FOOTBALL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5719.ts
+#EXTINF:0,RU: MATCH FOOTBALL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5720.ts
+#EXTINF:0,SE: C MORE FOTBOLL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5721.ts
+#EXTINF:0,SE: C MORE HOCKEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5723.ts
+#EXTINF:0,SE: VIASAT FOTBOLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5725.ts
+#EXTINF:0,SE: VIASAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5726.ts
+#EXTINF:0,SE: VIASAT SPORT PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5727.ts
+#EXTINF:0,PL: ELEVEN SPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/5714.ts
+#EXTINF:0,AR: ALKASS ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6233.ts
+#EXTINF:0,AR: ALKASS TWO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6234.ts
+#EXTINF:0,AR: ALKASS FOUR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://osnew.freesrv.org:8000/live/@smartiptv-1234-erzin@/qN6KH0LU91/6236.ts
