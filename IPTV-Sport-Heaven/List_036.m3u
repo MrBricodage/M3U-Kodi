@@ -1,29 +1,41 @@
 #EXTM3U
-#EXTINF:-1,BEINSPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/45.ts
-#EXTINF:-1,BEINSPORTS 2 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/26.ts
-#EXTINF:-1,BEINSPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/3.ts
-#EXTINF:-1,BEINSPORTS 2 HD BACKUP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/4.ts
-#EXTINF:-1,AR: BEINSPORT 1 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3475
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 4 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3478
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484
+#EXTINF:0,FoxSports | FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/55
+#EXTINF:0,FoxSports | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/56
+#EXTINF:0,FoxSports 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/57
+#EXTINF:0,FoxSports2 | FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/58
+#EXTINF:0,SporTV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/69
+#EXTINF:0,SporTV | FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/70
+#EXTINF:0,SporTV2 | FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/71
+#EXTINF:0,SporTV 2 | HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/72
+#EXTINF:0,SporTV3 | FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/74
+#EXTINF:0,Beinsport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/87
+#EXTINF:0,Beinsport 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/88
+#EXTINF:0,Beinsport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/89
+#EXTINF:0,Beinsport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/90
+#EXTINF:0,Beinsport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/91
+#EXTINF:0,Beinsport 6 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/92
+#EXTINF:0,Beinsport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/93
+#EXTINF:0,Beinsport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/94
+#EXTINF:0,Beinsport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/95
+#EXTINF:0,Beinsport 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/96
+#EXTINF:0,Beinsport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/09281/09281/97

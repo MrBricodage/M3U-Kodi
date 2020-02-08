@@ -1,45 +1,373 @@
 #EXTM3U
-#EXTINF:0,SPORT TV  +_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/21.ts
-#EXTINF:0,SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/22.ts
-#EXTINF:0,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/27.ts
-#EXTINF:0,SPORT TV 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/23.ts
-#EXTINF:0,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/28.ts
-#EXTINF:0,SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/24.ts
-#EXTINF:0,SPORT TV 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/29.ts
-#EXTINF:0,SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/25.ts
-#EXTINF:0,SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/26.ts
-#EXTINF:0,ELEVEN SPORTS 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/32.ts
-#EXTINF:0,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/33.ts
-#EXTINF:0,ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/34.ts
-#EXTINF:0,ELEVEN SPORTS 4_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/35.ts
-#EXTINF:0,ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/36.ts
-#EXTINF:0,ELEVEN SPORTS 6_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/37.ts
-#EXTINF:0,NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/71.ts
-#EXTINF:0,FOX SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/139.ts
-#EXTINF:0,ESPN BRASIL_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/138.ts
-#EXTINF:0,SPORT TV 1 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/142.ts
-#EXTINF:0,SPORT TV 2 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/143.ts
-#EXTINF:0,SPORT TV 3 BR_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/144.ts
-#EXTINF:0,SPORT TV 4 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/145.ts
+#EXTINF:0,|FR| INFOSPORT+ SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32495
+#EXTINF:0,|FR| INFOSPORT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1558
+#EXTINF:0,|FR| INFOSPORT+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/255
+#EXTINF:0,|FR| LA CHAINE L'EQUIPE SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32494
+#EXTINF:0,|FR| LA CHAINE L'EQUIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/220
+#EXTINF:0,|FR| LA CHAINE L'EQUIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2033
+#EXTINF:0,|FR| EQUIDIA LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32492
+#EXTINF:0,|FR| EQUIDA LIVE HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1965
+#EXTINF:0,|FR| EQUIDA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/4457
+#EXTINF:0,|FR| RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5800
+#EXTINF:0,|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/944
+#EXTINF:0,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11629
+#EXTINF:0,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/51
+#EXTINF:0,|FR| RMC SPORT 1 HD BKP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/13128
+#EXTINF:0,|FR| RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1247
+#EXTINF:0,|FR| RMC SPORT 1 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11274
+#EXTINF:0,|FR| RMC SPORT 1 ACCESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11632
+#EXTINF:0,|FR| RMC SPORT 1 ACCESS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/25377
+#EXTINF:0,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11628
+#EXTINF:0,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/52
+#EXTINF:0,|FR| RMC SPORT 2 HD  BKP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/13127
+#EXTINF:0,|FR| RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1248
+#EXTINF:0,|FR| RMC SPORT 2 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/18366
+#EXTINF:0,|FR| RMC SPORT 2 ACCESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11631
+#EXTINF:0,|FR| RMC SPORT 2 ACCESS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/25376
+#EXTINF:0,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/13053
+#EXTINF:0,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/53
+#EXTINF:0,|FR| RMC SPORT 3 HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/13126
+#EXTINF:0,|FR| RMC SPORT 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1249
+#EXTINF:0,|FR| RMC SPORT 3 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/18367
+#EXTINF:0,|FR| RMC SPORT 3 ACCESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11630
+#EXTINF:0,|FR| RMC SPORT 3 ACCESS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/25375
+#EXTINF:0,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5745
+#EXTINF:0,|FR| RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/3321
+#EXTINF:0,|FR| RMC SPORT 4K UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/6976
+#EXTINF:0,|FR| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10160
+#EXTINF:0,|FR| RMC SPORT LIVE 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7298
+#EXTINF:0,|FR| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10161
+#EXTINF:0,|FR| RMC SPORT LIVE 6 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7299
+#EXTINF:0,|FR| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10294
+#EXTINF:0,|FR| RMC SPORT LIVE 7 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7300
+#EXTINF:0,|FR| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10295
+#EXTINF:0,|FR| RMC SPORT LIVE 8 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7301
+#EXTINF:0,|FR| RMC SPORT LIVE 9 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10456
+#EXTINF:0,|FR| RMC SPORT LIVE 9 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7302
+#EXTINF:0,|FR| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10462
+#EXTINF:0,|FR| RMC SPORT LIVE 10 FULL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/8698
+#EXTINF:0,|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10461
+#EXTINF:0,|FR| RMC SPORT LIVE 11 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/8699
+#EXTINF:0,|FR| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10460
+#EXTINF:0,|FR| RMC SPORT LIVE 12 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/8700
+#EXTINF:0,|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10459
+#EXTINF:0,|FR| RMC SPORT LIVE 13 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/8701
+#EXTINF:0,|FR| RMC SPORT LIVE 14 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10458
+#EXTINF:0,|FR| RMC SPORT LIVE 14 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10291
+#EXTINF:0,|FR| RMC SPORT LIVE 15 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/24080
+#EXTINF:0,|FR| FOOT+ 24/24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32489
+#EXTINF:0,|FR| FOOT+ 24/24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/331
+#EXTINF:0,|FR| MULTISPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5077
+#EXTINF:0,|FR| MULTISPORTS 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5078
+#EXTINF:0,|FR| MULTISPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5079
+#EXTINF:0,|FR| MULTISPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5080
+#EXTINF:0,|FR| MULTISPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5081
+#EXTINF:0,|FR| MULTISPORTS 6 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5082
+#EXTINF:0,|FR| EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32491
+#EXTINF:0,|FR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/37
+#EXTINF:0,|FR| EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1846
+#EXTINF:0,|FR| EUROSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32490
+#EXTINF:0,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/38
+#EXTINF:0,|FR| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1847
+#EXTINF:0,|FR| OL TV HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1550
+#EXTINF:0,|FR| OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1137
+#EXTINF:0,|FR| ONZEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5406
+#EXTINF:0,|FR| TRACE SPORT STARS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1527
+#EXTINF:0,|FR| GOLF+  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32496
+#EXTINF:0,|FR| GOLF+ HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/257
+#EXTINF:0,|FR| GOLF+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2401
+#EXTINF:0,|FR| GOLF CHANNEL FRANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1147
+#EXTINF:0,|FR| GOLF CHANNEL FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2402
+#EXTINF:0,|FR| MY ZEN TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/32493
+#EXTINF:0,|FR| MY ZEN TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5798
+#EXTINF:0,|FR| MY ZEN TV FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1315
+#EXTINF:0,|FR| AUTOMOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/265
+#EXTINF:0,|FR| AUTOMOTO FHD (DOUBLE AUDIO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5203
+#EXTINF:0,|FR| MOTORVISION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1021
+#EXTINF:0,|FR| LUCKY JACK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1806
+#EXTINF:0,|FR| LUCKY JACK TV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5405
+#EXTINF:0,|FR| FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/5269
+#EXTINF:0,|FR| EXTREME SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/3285
+#EXTINF:0,|BE| VOO SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1138
+#EXTINF:0,|BE| VOO SPORT 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1834
+#EXTINF:0,|BE| VOO SPORT 2 HD (MATCH DIRECT UNIQUEMENT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1139
+#EXTINF:0,|BE| VOO WORLD 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1444
+#EXTINF:0,|BE| VOO WORLD 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2720
+#EXTINF:0,|BE| VOO WORLD 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2721
+#EXTINF:0,|BE| PROXIMUS 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/20305
+#EXTINF:0,|BE| ELEVEN SPORT 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/3152
+#EXTINF:0,|BE| ELEVEN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/3153
+#EXTINF:0,|FR| MY SPORTS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2671
+#EXTINF:0,|FR| MY SPORTS 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2134
+#EXTINF:0,|FR| MY SPORTS 2 FULL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2135
+#EXTINF:0,|FR| MY SPORTS 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2136
+#EXTINF:0,|FR| MY SPORTS 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2137
+#EXTINF:0,|FR| MY SPORTS 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2138
+#EXTINF:0,|FR| MY SPORTS 6 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2139
+#EXTINF:0,|CH| MY SPORTS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/4641
+#EXTINF:0,|CH| MY SPORTS 1 FULL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2125
+#EXTINF:0,|CH| MY SPORTS 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2126
+#EXTINF:0,|CH| MY SPORTS 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2127
+#EXTINF:0,|CH| MY SPORTS 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2128
+#EXTINF:0,|CH| MY SPORTS 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2129
+#EXTINF:0,|CH| MY SPORTS 6 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2130
+#EXTINF:0,|FR| BEIN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11675
+#EXTINF:0,|FR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/34
+#EXTINF:0,|FR| BEIN SPORTS 1 HD BKP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7187
+#EXTINF:0,|FR| BEIN SPORTS 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/34988
+#EXTINF:0,|FR| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/855
+#EXTINF:0,|FR| BEIN SPORTS 1 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1287
+#EXTINF:0,|FR| BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11674
+#EXTINF:0,|FR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/35
+#EXTINF:0,|FR| BEIN SPORTS 2 HD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/7186
+#EXTINF:0,|FR| BEIN SPORTS 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/34989
+#EXTINF:0,|FR| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/856
+#EXTINF:0,|FR| BEIN SPORTS 2 FHD BKP_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1286
+#EXTINF:0,|FR| BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/11673
+#EXTINF:0,|FR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/184
+#EXTINF:0,|FR| BEIN SPORTS 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/857
+#EXTINF:0,|FR| BEIN SPORTS 3 FHD BKP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1285
+#EXTINF:0,|FR| BEIN SPORTS 1 4K UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/24083
+#EXTINF:0,|FR| BeIN SPORTS MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/113
+#EXTINF:0,|FR| BeIN SPORTS MAX 4 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2351
+#EXTINF:0,|FR| BeIN SPORTS MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/82
+#EXTINF:0,|FR| BeIN SPORTS MAX 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2352
+#EXTINF:0,|FR| BeIN SPORTS MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/302
+#EXTINF:0,|FR| BeIN SPORTS MAX 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2353
+#EXTINF:0,|FR| BeIN SPORTS MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/83
+#EXTINF:0,|FR| BeIN SPORTS MAX 7 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2354
+#EXTINF:0,|FR| BeIN SPORTS MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/303
+#EXTINF:0,|FR| BeIN SPORTS MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2355
+#EXTINF:0,|FR| BeIN SPORTS MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/304
+#EXTINF:0,|FR| BeIN SPORTS MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2356
+#EXTINF:0,|FR| BeIN SPORTS MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/305
+#EXTINF:0,|FR| BeIN SPORTS MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2357
+#EXTINF:0,|AR| BeIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/369
+#EXTINF:0,|AR| BEIN SPORTS 4K UHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2255
+#EXTINF:0,|AR| BEIN SPORTS_1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2600
+#EXTINF:0,|AR| BEIN SPORTS_1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/788
+#EXTINF:0,|AR| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10081
+#EXTINF:0,|AR| BEIN SPORTS 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22392
+#EXTINF:0,|AR| BEIN SPORTS_2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2601
+#EXTINF:0,|AR| BEIN SPORTS_2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/789
+#EXTINF:0,|AR| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10080
+#EXTINF:0,|AR| BEIN SPORTS 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22391
+#EXTINF:0,|AR| BEIN SPORTS_3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2602
+#EXTINF:0,|AR| BEIN SPORTS_3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/790
+#EXTINF:0,|AR| BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10079
+#EXTINF:0,|AR| BEIN SPORTS 3 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22390
+#EXTINF:0,|AR| BEIN SPORTS_4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2603
+#EXTINF:0,|AR| BEIN SPORTS_4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/791
+#EXTINF:0,|AR| BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10078
+#EXTINF:0,|AR| BEIN SPORTS 4 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22389
+#EXTINF:0,|AR| BEIN SPORTS_5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2604
+#EXTINF:0,|AR| BEIN SPORTS_5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/792
+#EXTINF:0,|AR| BEIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10077
+#EXTINF:0,|AR| BEIN SPORTS 5 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22388
+#EXTINF:0,|AR| BEIN SPORTS_6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2605
+#EXTINF:0,|AR| BEIN SPORTS_6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/793
+#EXTINF:0,|AR| BEIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10076
+#EXTINF:0,|AR| BEIN SPORTS 6 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22387
+#EXTINF:0,|AR| BEIN SPORTS_7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2606
+#EXTINF:0,|AR| BEIN SPORTS_7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/794
+#EXTINF:0,|AR| BEIN SPORTS 7 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10075
+#EXTINF:0,|AR| BEIN SPORTS 7 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22386
+#EXTINF:0,|AR| BEIN SPORTS_8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2607
+#EXTINF:0,|AR| BEIN SPORTS_8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/795
+#EXTINF:0,|AR| BEIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10074
+#EXTINF:0,|AR| BEIN SPORTS 8 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22385
+#EXTINF:0,|AR| BEIN SPORTS_9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2608
+#EXTINF:0,|AR| BEIN SPORTS_9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/796
+#EXTINF:0,|AR| BEIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10073
+#EXTINF:0,|AR| BEIN SPORTS 9 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22384
+#EXTINF:0,|AR| BEIN SPORTS_10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/2609
+#EXTINF:0,|AR| BEIN SPORTS_10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/797
+#EXTINF:0,|AR| BEIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/10072
+#EXTINF:0,|AR| BEIN SPORTS 10 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/22383
+#EXTINF:0,|AR| BEIN SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/987654321/123456789/1454

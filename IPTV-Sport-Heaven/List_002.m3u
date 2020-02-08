@@ -1,31 +1,263 @@
 #EXTM3U
-#EXTINF:-1,Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eleven1HD
-#EXTINF:-1,Eleven Sports 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpor2HD
-#EXTINF:-1,Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpo3
-#EXTINF:-1,Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Elevsrts4
-#EXTINF:-1,Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/EleSports5
-#EXTINF:-1,Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpo6
-#EXTINF:-1,Eurosport 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eur1
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eusport1HD
-#EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eurosp2
-#EXTINF:-1,SPORT TV 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTTV1
-#EXTINF:-1,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTV1HD
-#EXTINF:-1,SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:-1,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT2HD
-#EXTINF:-1,SPORT TV 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT3
-#EXTINF:-1,SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT3HD
+#EXTINF:0,Bein Sports Hd 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/826
+#EXTINF:0,Bein Sports 1 Sd 360p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/66219
+#EXTINF:0,Bein Sports 1 Sd 480p_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/66218
+#EXTINF:0,Bein Sports 1 Sd 576p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/66217
+#EXTINF:0,Bein Sports 1 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4521
+#EXTINF:0,Bein Sports 1 Sd (60 Fps)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4740
+#EXTINF:0,Bein Sports 1 1080i (60 Fps)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4738
+#EXTINF:0,Bein Sports 1 Hd 265.hevc (60 Fps)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/825
+#EXTINF:0,Bein Sports 1 1080i 265.hevc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4739
+#EXTINF:0,Bein Sports 1 4k & Bein Iz_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4982
+#EXTINF:0,Bein Sports 1 4k & Bein Iz 1080 Hevc265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/31784
+#EXTINF:0,Bein Sports 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/824
+#EXTINF:0,Bein Sports 2 Sd_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/9368
+#EXTINF:0,Bein Sports 2 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/29729
+#EXTINF:0,Bein Sports 3 Hd_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/823
+#EXTINF:0,Bein Sports 3 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/9369
+#EXTINF:0,Bein Sports 4 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/822
+#EXTINF:0,Bein Sports 4 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/20835
+#EXTINF:0,Bein Sports 4 Mobile_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/29730
+#EXTINF:0,Bein Sports Max 1 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/820
+#EXTINF:0,Bein Sports Max 1 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/20837
+#EXTINF:0,Bein Sports Max 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/821
+#EXTINF:0,Bein Sports Max 2 Sd_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/20836
+#EXTINF:0,Bein Sports Haber Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/4743
+#EXTINF:0,S Sport HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/807
+#EXTINF:0,S Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/38381
+#EXTINF:0,S Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/31421
+#EXTINF:0,D-Smart Spor 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/808
+#EXTINF:0,D-Smart Spor 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/38382
+#EXTINF:0,D-Smart EuroSport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/806
+#EXTINF:0,D-Smart EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/805
+#EXTINF:0,Tivibu Spor 1 Hd_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/812
+#EXTINF:0,Tivibu Spor 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/811
+#EXTINF:0,Tivibu Spor 3 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/810
+#EXTINF:0,Sports TV_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/686
+#EXTINF:0,Nba Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/817
+#EXTINF:0,A Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/697
+#EXTINF:0,Gs Tv_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/818
+#EXTINF:0,Fb Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/687
+#EXTINF:0,Trt 3 Spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/689
+#EXTINF:0,Trt Spor_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/690
+#EXTINF:0,Tay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/695
+#EXTINF:0,AR: AD Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82757
+#EXTINF:0,AR: AD Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82758
+#EXTINF:0,AR: AD Sports 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82759
+#EXTINF:0,AR: AD Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82760
+#EXTINF:0,AR: Al Kass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82826
+#EXTINF:0,AR: Al Kass 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82827
+#EXTINF:0,AR: Al Kass 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82828
+#EXTINF:0,AR: Al Kass 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82829
+#EXTINF:0,AR: Al Kass 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82830
+#EXTINF:0,AR: AL KASS ONLINE HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82831
+#EXTINF:0,AR: AlKass Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82913
+#EXTINF:0,AR: ALKASS Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82914
+#EXTINF:0,AR: ALKASS Sport 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82915
+#EXTINF:0,AR: ALKASS Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82916
+#EXTINF:0,AR: beIN ALKASS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82974
+#EXTINF:0,AR: beIN ALKASS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82975
+#EXTINF:0,AR: beIN ALKASS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/82976
+#EXTINF:0,AR: beIN Soprts HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83021
+#EXTINF:0,AR: beIN Sports 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83022
+#EXTINF:0,AR: beIN Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83023
+#EXTINF:0,AR: beIN Sports 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83024
+#EXTINF:0,AR: beIN Sports 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83025
+#EXTINF:0,AR: beIN Sports 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83026
+#EXTINF:0,AR: beIN Sports 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83027
+#EXTINF:0,AR: beIN Sports 6 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83028
+#EXTINF:0,AR: beIN Sports 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83029
+#EXTINF:0,AR: beIN Sports 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83030
+#EXTINF:0,AR: beIN Sports 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83031
+#EXTINF:0,AR: beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83032
+#EXTINF:0,AR: beIN Sports 1 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83033
+#EXTINF:0,AR: beIN Sports 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83034
+#EXTINF:0,AR: beIN Sports 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83035
+#EXTINF:0,AR: beIN Sports 12 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83036
+#EXTINF:0,AR: beIN Sports 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83037
+#EXTINF:0,AR: beIN Sports 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83038
+#EXTINF:0,AR: beIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83039
+#EXTINF:0,AR: beIN Sports 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83040
+#EXTINF:0,AR: beIN Sports 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83041
+#EXTINF:0,AR: beIN Sports 3 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83042
+#EXTINF:0,AR: beIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83043
+#EXTINF:0,AR: beIN Sports 4 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83044
+#EXTINF:0,AR: beIN Sports 4K FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83045
+#EXTINF:0,AR: beIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83046
+#EXTINF:0,AR: beIN Sports 5 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83047
+#EXTINF:0,AR: beIN Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83048
+#EXTINF:0,AR: beIN Sports 6 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83049
+#EXTINF:0,AR: beIN Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83050
+#EXTINF:0,AR: beIN Sports 7 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83051
+#EXTINF:0,AR: beIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83052
+#EXTINF:0,AR: beIN Sports 8 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83053
+#EXTINF:0,AR: beIN Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83054
+#EXTINF:0,AR: beIN Sports 9 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83055
+#EXTINF:0,AR: beIN Sports FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83056
+#EXTINF:0,AR: beIN Sports FHD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83057
+#EXTINF:0,AR: beIN Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83058
+#EXTINF:0,AR: beIN Sports 10 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83059
+#EXTINF:0,AR: beIN Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83060
+#EXTINF:0,AR: beIN Sports 11 HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83061
+#EXTINF:0,AR: beIN Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83062
+#EXTINF:0,AR: beIN Sports 12 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83063
+#EXTINF:0,AR: beIN Sports 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83064
+#EXTINF:0,AR: beIN Sports 13 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83065
+#EXTINF:0,AR: beIN Sports 14 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83066
+#EXTINF:0,AR: beIN Sports 14 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83067
+#EXTINF:0,AR: beIN Sports AlKass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83068
+#EXTINF:0,AR: beIN Sports AlKass 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83069
+#EXTINF:0,AR: beIN Sports AlKass 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83070
+#EXTINF:0,AR: beIN Sports Fatafeat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83071
+#EXTINF:0,AR: beIN Sports GLOBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83072
+#EXTINF:0,AR: beIN Sports GLOBAL HEVC_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83073
+#EXTINF:0,AR: beIN Sports Groummet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83074
+#EXTINF:0,AR: beIN Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83075
+#EXTINF:0,AR: beIN Sports HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83076
+#EXTINF:0,AR: beIN Sports Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83077
+#EXTINF:0,AR: beIN Sports Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83078
+#EXTINF:0,AR: beIN Sports Max 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83079
+#EXTINF:0,AR: beIN Sports Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83080
+#EXTINF:0,AR: beIN Sports Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83081
+#EXTINF:0,AR: beIN Sports Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83082
+#EXTINF:0,AR: beIN Sports Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83083
+#EXTINF:0,AR: beIN Sports Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83084
+#EXTINF:0,AR: beIN Sports Movies 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83085
+#EXTINF:0,AR: beIN Sports NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83086
+#EXTINF:0,AR: beIN Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83087
+#EXTINF:0,AR: beIN Sports NEWS HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83088
+#EXTINF:0,AR: beIN Sports Outdoor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83089
+#EXTINF:0,AR: beIN Sports Series 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83090
+#EXTINF:0,AR: beIN Sports Series HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83091
+#EXTINF:0,AR: beIN Sportss 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://delta88.eu:8080/gokdeniz08/gokdeniz08/83092
