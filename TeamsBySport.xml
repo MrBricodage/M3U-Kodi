@@ -4,7 +4,7 @@
 
 
 <item>
-	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]23/11/2019 17:00 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]09/02/2020 20:30 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 	<info>Derniere Vérification : 23/11/2019 17:00 UTC</info>
 	<link>http://ignore.me</link>
 	<thumbnail></thumbnail>
@@ -2692,6 +2692,57 @@
 </item>
 
 <item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Brescia[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/brescia-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Cagliari[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/cagliari-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Genoa[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/genoa-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Juventus[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -2703,6 +2754,159 @@
 	<name>get_matchurl</name>
 	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/juventus-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Lazio[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/lazio-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Lecce[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/lecce-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]AC Milan[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/milan-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Inter Milan[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/inter-milan-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]SSC Napoli[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/ssc-napoli-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Parma[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/parma-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Sassuolo[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/sassuolo-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]SPAL[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/spal-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Udinese[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/udinese-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
@@ -2723,6 +2927,57 @@
 	<name>get_matchurl</name>
 	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/barcelona-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Real Betis[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/real-betis-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Athletic Bilbao[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/athletic-bilbao-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Espanyol[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/espanyol-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
@@ -2763,6 +3018,23 @@
 </item>
 
 <item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Real Madrid[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/youpit-real-madrid-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Mallorca[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -2774,6 +3046,57 @@
 	<name>get_matchurl</name>
 	<expres>(?:class="title" href=")(.*?)[",']</expres>
 	<page>http://60fps.live/mallorca-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Osasuna[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/osasuna-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Sevilla[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/sevilla-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
+	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]Real Sociedad[/B][/COLOR]</title>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/real-sociedad-live-stream/</page>
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
