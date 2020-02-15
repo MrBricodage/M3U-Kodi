@@ -1,0 +1,751 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/31013_tf1.png" group-title="French",TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/FRANCE2.png" group-title="French",FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-2/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/51402_F3.png" group-title="French",FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-3/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/20543_chaines_17.jpg" group-title="French",FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-4/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/70567_F5.png" group-title="French",FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-5/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/84615_ge6r-2t6inq4iskv7-g3nzu.png" group-title="French",FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-O/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/13409_M6.png" group-title="French",M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/M6/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/44322_chaines_12.jpg" group-title="French",W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/W9/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/78801_chaines_14.jpg" group-title="French",TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TFX/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/76305_chaines_13.jpg" group-title="French",TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TMC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/40368_arte.png" group-title="French",ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ARTE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/94048_chaines_11.jpg" group-title="French",C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/C8/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/98233_CStar4.jpg" group-title="French",C STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/C-STAR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/4552_73980_262.png" group-title="French",6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/6TER/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/94924_hd1.png" group-title="French",TF1 SÉRIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1-SERIES/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/9598_CHN43FB_301.PNG" group-title="French",CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/38914_CHN43FB_257.PNG" group-title="French",CANAL+  DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL---DECALE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/21466_CHN43FB_198.PNG" group-title="French",CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--CINEMA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/64915_CHN43FN_259.PNG" group-title="French",CANAL+  FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL---FAMILY/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/54792_CHN43FB_481 (1).PNG" group-title="French",CANAL+  SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL---SERIES/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/46666_CHN43FB_177.PNG" group-title="French",CANAL+  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL---SPORT/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/81899_CHN43FB_322.PNG" group-title="French",CINE+  PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---PREMIER/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/8523_CHN43FB_398.PNG" group-title="French",CINE+  FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---FRISSON/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/70420_CHN43FB_396.PNG" group-title="French",CINE+  EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---EMOTION/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/61092_CHN43FB_533.PNG" group-title="French",CINE+  FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---FAMIZ/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/10292_CHN43FB_531.PNG" group-title="French",CINE+  CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---CLASSIC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/66065_CHN43FB_532.PNG" group-title="French",CINE+  CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE---CLUB/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/65947_cinepolar.png" group-title="French",CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-POLAR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/3306_CHN43FB_372.PNG" group-title="French",OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-MAX/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/5790_CHN43FB_467.PNG" group-title="French",OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CITY/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/89311_CHN43FB_466.PNG" group-title="French",OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CHOC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/33393_CHN43FB_468.PNG" group-title="French",OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-GEANTS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/paramount.png" group-title="French",PARAMOUNT DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARAMOUNT-DECALE-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/30824_CHN43FB_374.PNG" group-title="French",TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TCM-CINEMA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/91765_CHN43FB_504.PNG" group-title="French",ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ACTION/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/73437_CHN43FB_212.PNG" group-title="French",RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RTL9/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/18520_CHN43FB_85.PNG" group-title="French",TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TV-BREIZH/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNTo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/5163_CHN43FB_70.PNG" group-title="French",COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/COMEDIE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/5322_CHN43FB_319.PNG" group-title="French",SERIECLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SERIECLUB/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/26417_CHN43FB_221.PNG" group-title="French",TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TEVA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/89825_CHN43FB_126.PNG" group-title="French",E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/E!/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/694_elle.PNG" group-title="French",ELLE GIRL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ELLE-GIRL/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Warner-azul.png/180px-Warner-azul.png" group-title="French",WARNER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/WARNER-TV-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/40285_CHN43FB_627.PNG" group-title="French",BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BET/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/86498_chaines_15 (1).jpg" group-title="French",NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NRJ-12/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/95230_chaines_26.jpg" group-title="French",CHERIE 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CHERIE-25/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/17951_chaines_24.jpg" group-title="French",NUMERO 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NUMERO-23/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/34240_CHN43FB_17 (1).PNG" group-title="French",PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARIS-PREMIERE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/75165_20120704091229!AB1_logo_2011.png" group-title="French",AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/AB1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/48531_Logo_AB3.png" group-title="French",AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/AB3/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="https://programmes.rts.ch/img/channel-logo/rts1.svg?2.15.2" group-title="French",RTSUn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RTSUn/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/9639_rts_deux.jpg" group-title="French",RTSDeux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RTSDeux/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/CRIME-DISTRICT.png" group-title="French",CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CRIME-DISTRICT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/85902_CHN43FB_610.PNG" group-title="French",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/44176_tv5monde.jpg" group-title="French",TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TV5-MONDE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/91845_640px-LogoWeoRVB.jpg" group-title="French",WEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/WEO/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/66720_chaines_25.jpg" group-title="French",RMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/39813_planet.jpg" group-title="French",PLANETE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/26841_CHN43FB_336.PNG" group-title="French",PLANETE+  CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE---CI/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/29104_CHN43FB_209.PNG" group-title="French",PLANETE+ AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE--AE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/86682_CHN43FB_201.PNG" group-title="French",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NATIONAL-GEOGRAPHIC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/14581_CHN43FB_290.PNG" group-title="French",NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NAT-GEO-WILD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/42143_CHN43FB_320.PNG" group-title="French",USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/USHUAIA-TV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/26237_CHN43FB_29.PNG" group-title="French",VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/VOYAGE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/51460_CHN43FB_43.PNG" group-title="French",SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SEASONS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/museum-channel.png" group-title="French",THE MUSEUM CHANNEL FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/THE-MUSEUM-CHANNEL-FRANCE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/90252_CHN43FB_79 (1).PNG" group-title="French",ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ANIMAUX/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/13479_logo.png" group-title="French",CHASSE PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CHASSE-PECHE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/97071_CHN43FB_80.PNG" group-title="French",TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TREK/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/24352_CHN43FB_77.PNG" group-title="French",SCIENCE ET VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SCIENCE-ET-VIE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/16713_CHN43FB_210.PNG" group-title="French",HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/HISTOIRE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/54084_CHN43FB_78.PNG" group-title="French",TOUTE lHISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TOUTE-lHISTOIRE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/32285_CHN43FB_1025.PNG" group-title="French",INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/INFOSPORT/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/98803_lequipe21_logo_rouge.png" group-title="French",EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EQUIPE-21/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/68047_max 4.gif" group-title="French",BEIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-4/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/42638_max 5.gif" group-title="French",BEIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-5/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/15647_max 6.gif" group-title="French",BEIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-6/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/35925_max 7.gif" group-title="French",BEIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-7/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",BEIN SPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-8/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",BEIN SPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-9/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",BEIN SPORTS MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-MAX-10/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/57337_62683_CHN43FB_542.PNG" group-title="French",FOOT +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FOOT--/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/76842_CHN43FB_4.PNG" group-title="French",EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EUROSPORT-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/19974_CHN43FB_314.PNG" group-title="French",EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EUROSPORT-2/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/36862_bfm-sport.gif" group-title="French",BFM SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-SPORT/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Eleven Sport HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Eleven-Sport-HD1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Eleven Sport HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Eleven-Sport-HD2/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Eleven Sport HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Eleven-Sport-HD3/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/7146_CHN43FB_90.PNG" group-title="French",AB MOTEURS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/AB-MOTEURS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/12358_320px-Golf+_logo_2007.png" group-title="French",GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GOLF/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/34253_CHN43FB_281.PNG" group-title="French",EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EQUIDIA-LIVE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/71145_CHN43FB_287 (1).PNG" group-title="French",BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BOING/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/82252_CHN43FB_330.PNG" group-title="French",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BOOMERANG/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/76227_chaines_21.jpg" group-title="French",GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GULLI/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/56410_CHN43FB_1026.PNG" group-title="French",PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PIWI/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/20242_CHN43FB_36.PNG" group-title="French",CARTOON NETWORK FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CARTOON-NETWORK-FR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/35282_CHN43FB_13.PNG" group-title="French",CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-J/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/60117_CHN43FB_51.PNG" group-title="French",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-CHANNEL/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/34316_CHN43FB_340.PNG" group-title="French",DISNEY CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-CINEMA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/67967_CHN43FB_224.PNG" group-title="French",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-JUNIOR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/92821_CHN43FB_68.PNG" group-title="French",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-XD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/45459_GAME ONE.png" group-title="French",GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GAME-ONE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/82191_CHN43FB_200.PNG" group-title="French",MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MANGAS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/83680_sc2_logo_gong.jpg" group-title="French",GONG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GONG/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/67341_CHN43FB_112.PNG" group-title="French",TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TIJI/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/18175_CHN43FB_1020.PNG" group-title="French",TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TELETOON/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/28318_CHN43FB_240.PNG" group-title="French",NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/77483_CHN43FB_173.PNG" group-title="French",NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-JUNIOR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/toonami.png" group-title="French",TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TOONAMI-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/J-ONE.png" group-title="French",J-ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/J-ONE-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/82067_channel-logo-mtv-dance.png" group-title="French",MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MTV-DANCE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/64551_CHN43FB_39.PNG" group-title="French",MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MTV-HITS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/99790_CHN43FB_207.PNG" group-title="French",MTV MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MTV-MUSIC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/64933_chaines_18.jpg" group-title="French",BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-TV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/6561_bfmbusiness.jpg" group-title="French",BFM.Businesse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM.Businesse/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pimg.p30download.com/APK_IMG/c/fr.canalplus.itele/icon/icon_0_small.png" group-title="French",Cnews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Cnews/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/92175_france24.jpg" group-title="French",FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-24/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/62589_photo.jpg" group-title="French",EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EURONEWS/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/84172_la_tele_live-stream.png" group-title="French",LA TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LA-TELE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/canal-alpha.png" group-title="French",CANAL ALPHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-ALPHA-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-1-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-2-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-3-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-4-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-5-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-6-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-7-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-8-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-9-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",A LA CARTE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/A-LA-CARTE-10-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",OCS Go Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-Go-Cinema-1-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",OCS Go Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-Go-Cinema-2-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",OCS Go Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-Go-Cinema-3-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",OCS Go Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-Go-Cinema-4-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",OCS Go Cinema 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-Go-Cinema-5-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-1-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-2-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-3-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-4-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-5-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-Action-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema Aventure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-Aventure-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Cinema Horreur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Cinema-Horreur-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Comment CEst Fait HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Comment-CEst-Fait-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French",Orange Enquete Exlusive HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/Orange-Enquete-Exlusive-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-2/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-3/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-4/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-5/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-6/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-7/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-8/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-9/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Canal_Play_Logo.svg/1280px-Canal_Play_Logo.svg.png" group-title="French",CANAL PLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-PLAY-10/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/25015_CHN43FB_487.PNG" group-title="French",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARAMOUNT-CHANNEL/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zMDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/47427_CHN43FB_380.PNG" group-title="French",BEIN SPORTS FR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-FR-1-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/52824_CHN43FB_383.PNG" group-title="French",BEIN SPORTS FR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-FR-2-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/63729_CHN43FB_516.PNG" group-title="French",BEIN SPORTS FR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-SPORTS-FR-3-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1,•●★----- French-Sd -----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1--1-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TF1  1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1--1-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TF1 SERIES / FILMS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1-SERIES-/-FILMS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",FRANCE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-2-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-3-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",FRANCE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-4-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",FRANCE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-5-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",FRANCE INFO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-INFO-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",W9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/W9-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TFX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TFX-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",C8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/C8-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--CINEMA-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  DECALE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--DECALE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--FAMILY-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--SERIES-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL  SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL--SPORT-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  CLASSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--CLASSIC-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--CLUB-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--EMOTION-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  FAMIZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--FAMIZ-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  FRISSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--FRISSON-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CINE  PREMIER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE--PREMIER-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CNEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CNEWS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-CHANNEL-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISCOVERY FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-FAMILY-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISCOVERY INVESTIGATIONS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-INVESTIGATIONS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISCOVERY SCIENCES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-SCIENCES-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",OCS CHOC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CHOC-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",OCS CITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CITY-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",OCS GEANTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-GEANTS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",OCS MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-MAX-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PLANETE  AE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE--AE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PLANETE  CI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE--CI-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PLANETE  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE--SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",13EME RUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/13EME-RUE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",6TER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/6TER-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",AB1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/AB1-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",AB3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/AB3-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ACTION-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",ALTICE STUDIO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ALTICE-STUDIO-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",ANIMAUX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ANIMAUX-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",ARTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ARTE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",BET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BET-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",BFM BUSINESS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-BUSINESS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",BFM PARIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-PARIS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",BFM TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CANAL J SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-J-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CHERIE 25 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CHERIE-25-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",COMEDIE  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/COMEDIE--SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",COMEDY CENTRAL FRANCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/COMEDY-CENTRAL-FRANCE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CRIME DISTRICT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CRIME-DISTRICT-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CSTAR HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CSTAR-HITS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",CSTAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CSTAR-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-CHANNEL-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISNEY CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-CINEMA-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-JUNIOR-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-XD-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",E! ENTERTAINMENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/E!-ENTERTAINMENT-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",ELLE GIRLS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ELLE-GIRLS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",EURONEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EURONEWS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",GRAND LILLE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GRAND-LILLE-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/HISTOIRE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",IDF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/IDF-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",LA CHAINE METEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LA-CHAINE-METEO-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",LA CHAINE PARLEMENTAIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LA-CHAINE-PARLEMENTAIRE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",LCI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LCI-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/M6-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",MY CUISINE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MY-CUISINE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NATIONAL GEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NATIONAL-GEO-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NATIONAL GEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NATIONAL-GEO-WILD-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NICKELODEON 4 TEEN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-4-TEEN-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NICKELODEON CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-CHANNEL-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NICKELODEON JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-JUNIOR-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NON STOP PEOPLE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NON-STOP-PEOPLE-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NOVELAS TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NOVELAS-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",NRJ 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NRJ-12-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARAMOUNT-CHANNEL-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PARAMOUNT DECALE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARAMOUNT-DECALE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",PARIS PREMIERE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PARIS-PREMIERE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",POLAR  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/POLAR--SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",RMC DECOUVERTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-DECOUVERTE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",RMC STORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-STORY-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",RTL9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RTL9-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",SCIENCE  VIE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SCIENCE--VIE-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",SERIE CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SERIE-CLUB-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",SUNDANCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SUNDANCE-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SYFY-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TCM CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TCM-CINEMA-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TEVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TEVA-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TMC  1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TMC--1-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TMC-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",TV BREIZH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TV-BREIZH-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",USHUAIA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/USHUAIA-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",VIA GRAND PARIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/VIA-GRAND-PARIS-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",VICELAND TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/VICELAND-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",WARNER TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/WARNER-TV-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-Sd",WEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/WEO-SD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1,•●★----- French-H265 -----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LCP-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",LCP H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LCP-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TF1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",FRANCE 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-2-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",FRANCE 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE-3-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",FRANCE4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE4-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",FRANCE5 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCE5-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",M6 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/M6-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",ARTE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ARTE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",W9 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/W9-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",C8 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/C8-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CNEWS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CNEWS-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CSTAR H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CSTAR-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",LCI H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LCI-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BFMTV H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFMTV-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",FRANCEO H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/FRANCEO-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",GULLI H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GULLI-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",LEQUIPE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/LEQUIPE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TOUTE L HISTOIRE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TOUTE-L-HISTOIRE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NRJ12 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NRJ12-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TFX H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TFX-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TF1 SERIES FILMS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TF1-SERIES-FILMS-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TMC H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TMC-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",6TER H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/6TER-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RTL9 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RTL9-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC STORY H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-STORY-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC DECOUVERTE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-DECOUVERTE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BEIN 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-1-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BEIN 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-2-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BEIN 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BEIN-3-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC SPORT1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT1-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjAuMjA2OjgwODA=
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC SPORT3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT3-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC SPORT4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT4-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL CINEMA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-CINEMA-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL SERIES H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-SERIES-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL SPORT H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-SPORT-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",ANIMAUX H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ANIMAUX-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NAT GEO WILD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NAT-GEO-WILD-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",M6 MUSIC H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/M6-MUSIC-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CARTOON N H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CARTOON-N-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL FAMILY h265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-FAMILY-h265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANAL DECALE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANAL-DECALE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CINE FRISSON H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-FRISSON-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BOOMERANG H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BOOMERANG-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",ACTION H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ACTION-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CINE EMOTION H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-EMOTION-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CINE PREMIER H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-PREMIER-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",TEVA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TEVA-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",MY CUISINE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MY-CUISINE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NATIONAL GEO CHANNEL H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NATIONAL-GEO-CHANNEL-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISNEY CHANNEL H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-CHANNEL-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISNEY JUNIOR H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISNEY-JUNIOR-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",MCM TOP H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/MCM-TOP-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",EQUIDIA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EQUIDIA-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",OCS MAX H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-MAX-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",OCS GEANTS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-GEANTS-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",OCS CHOC H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CHOC-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CINE FAMIZ H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-FAMIZ-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CINE CLASSIC H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CINE-CLASSIC-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",PLANETE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISCOVERY H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISCOVERY FAMILY H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-FAMILY-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISCOVERY SCIENCE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-SCIENCE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",DISCOVERY INVES H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-INVES-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CANALJ H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CANALJ-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",USHUAIA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/USHUAIA-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",PLANETE+AE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE-AE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",PLANETE + CI H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/PLANETE---CI-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",CHASSE  PECHE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/CHASSE--PECHE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",SCIENCESVIE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SCIENCESVIE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",ALTICE STUDIO H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/ALTICE-STUDIO-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",WARNER TV H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/WARNER-TV-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NON STOP PEOPLE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NON-STOP-PEOPLE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",EUROSPORT H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EUROSPORT-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",EUROSPORT2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/EUROSPORT2-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NICK JUNIOR H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICK-JUNIOR-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NICKELODEON 4TEEN H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-4TEEN-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",NICKELODEON H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/NICKELODEON-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",GAME ONE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/GAME-ONE-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",BFM PARIS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/BFM-PARIS-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",RMC SPORT2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT2-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="French-H265",OCS CITY H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/OCS-CITY-H265/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1,•●★----- RMC -----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC1-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.up-00.com/2018/09/153798511781451.png" group-title="RMC",RMC1 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC1-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE2OS4zNjo4MDgw
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="RMC",RMC 2 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-2-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="RMC",RMC 3 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-3-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-4-fr.png" group-title="RMC",RMC 4 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-4-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC5 SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC5-SPORT-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=NTEuMTUuMTYwLjE5MDo4MDgw
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-6/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-7/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-8/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-9/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-11/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-12/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",RMC SPORT LIVE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/RMC-SPORT-LIVE-13/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/98336_Discovery_Channel_1995-100x100.png" group-title="RMC",DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/84576_DiscoveryScience.png" group-title="RMC",DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-SCIENCE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR Disc Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-Disc-Family-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/95310_CHN43FB_243.PNG" group-title="RMC",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SYFY/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/87885_CHN43FB_342.png" group-title="RMC",13EME RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/13EME-RUE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR A  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-A--HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR BE Curious HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-BE-Curious-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR LUXE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-LUXE-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR MY Cuisine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-MY-Cuisine-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR MY ZEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-MY-ZEN-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-VICELAND-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-AFRICA-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-GOSPEL/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE MZIKI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-MZIKI/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE NAIJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-NAIJA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-TOCA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",TRACE TROPICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-TROPICAL-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/traceurban.png" group-title="RMC",TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/TRACE-URBAN/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="/20161123/1479855947047.png" group-title="RMC",SFR Trace Sport Stars HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/SFR-Trace-Sport-Stars-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.oneiptv.tv/iptv/images/crime-investigation.png" group-title="RMC",DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ws-82.gogo-iptv.com/DISCOVERY-INVESTIGATION-HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=ODkuMTg3LjE5MC4xNzg6ODA4MA==
