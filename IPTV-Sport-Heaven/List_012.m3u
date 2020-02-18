@@ -1,23 +1,97 @@
 #EXTM3U
-#EXTINF:-1,Polsat Sport HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21161/udp/172r
-#EXTINF:-1,Eurosport 2 HD Poland_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21151/udp/192c
-#EXTINF:-1,Viasat Sport _Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/035l
-#EXTINF:-1,Barca _Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/028i
-#EXTINF:-1,????! ?????? 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2025
-#EXTINF:-1,????! ?????? 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2012
-#EXTINF:-1,????! ?????? 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2026
-#EXTINF:-1,????! ?????? 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2027
-#EXTINF:-1,Supertennis HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/029e
-#EXTINF:-1,????! ?????? 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/017u
-#EXTINF:-1,????! ?????? 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/013y
+#EXTINF:0,beIN Sports HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/65988
+#EXTINF:0,BeIN SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30486
+#EXTINF:0,Bein Sport 01 4K_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73894
+#EXTINF:0,Bein Sport 02 4K_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73893
+#EXTINF:0,Bein Sport 03 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73892
+#EXTINF:0,Bein Sport 04 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73891
+#EXTINF:0,Bein Sport 05 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73890
+#EXTINF:0,Bein Sport 06 4K_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73889
+#EXTINF:0,Bein Sport 07 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73888
+#EXTINF:0,Bein Sport 08 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73887
+#EXTINF:0,Bein Sport 09 4K_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73886
+#EXTINF:0,Bein Sport 10 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73885
+#EXTINF:0,Bein Sport 11 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73884
+#EXTINF:0,Bein Sport 12 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73883
+#EXTINF:0,Bein Sport 13 4K_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/73882
+#EXTINF:0,BeIN Sport 01 [HD]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30501
+#EXTINF:0,BeIN Sport 02 [HD]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30500
+#EXTINF:0,BeIN Sport 03 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30499
+#EXTINF:0,BeIN Sport 04 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30498
+#EXTINF:0,BeIN Sport 05 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30497
+#EXTINF:0,BeIN Sport 06 [HD]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30496
+#EXTINF:0,BeIN Sport 07 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30495
+#EXTINF:0,BeIN Sport 08 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30494
+#EXTINF:0,BeIN Sport 09 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30493
+#EXTINF:0,BeIN Sport 10 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30492
+#EXTINF:0,BeIN Sport 11 [HD]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30491
+#EXTINF:0,BeIN Sport 12 [HD]_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30490
+#EXTINF:0,BeIN Sport 13 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30489
+#EXTINF:0,BeIN Sport 01 (SD)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30460
+#EXTINF:0,BeIN Sport 02 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30458
+#EXTINF:0,BeIN Sport 03 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30457
+#EXTINF:0,BeIN Sport 04 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30456
+#EXTINF:0,BeIN Sport 05 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30455
+#EXTINF:0,BeIN Sport 06 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30454
+#EXTINF:0,BeIN Sport 07 (SD)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30453
+#EXTINF:0,BeIN Sport 08 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30452
+#EXTINF:0,BeIN Sport 09 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30451
+#EXTINF:0,BeIN Sport 10 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30450
+#EXTINF:0,BeIN Sport 11 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30449
+#EXTINF:0,BeIN Sport MAX 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/80465
+#EXTINF:0,BeIN sport MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/81184
+#EXTINF:0,BeIN Sport MAX 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/80468
+#EXTINF:0,BeIN sport MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/81183
+#EXTINF:0,BeIN Sport MAX 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/80467
+#EXTINF:0,BeIN sport MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/81182
+#EXTINF:0,BeIN Sport MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/80466
+#EXTINF:0,BeIN sport MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/81181
+#EXTINF:0,BeIN Sport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.falconiptv.com:80/nd82bba7b/nns883bsh/30488

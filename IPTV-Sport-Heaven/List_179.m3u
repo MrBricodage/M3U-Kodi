@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,SPORTV 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/11539
+#EXTINF:0,SPORTV 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/6084
+#EXTINF:0,SPORTV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20540
+#EXTINF:0,SPORTV 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/4326
+#EXTINF:0,SPORTV 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20541
+#EXTINF:0,SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/11538
+#EXTINF:0,SPORTV 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/6083
+#EXTINF:0,SPORTV 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20536
+#EXTINF:0,SPORTV 3 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/4325
+#EXTINF:0,SPORTV 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20537
+#EXTINF:0,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/33759
+#EXTINF:0,SPORTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/11563
+#EXTINF:0,SPORTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/6082
+#EXTINF:0,SPORTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20544
+#EXTINF:0,SPORTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/4327
+#EXTINF:0,SPORTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/20545

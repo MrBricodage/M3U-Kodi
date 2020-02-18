@@ -1,0 +1,525 @@
+#EXTM3U
+#EXTINF:-1,ESPN (East Server)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1262.m3u8
+#EXTINF:-1,ESPN (West Server)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/86502.m3u8
+#EXTINF:-1,ESPN Backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1709.m3u8
+#EXTINF:-1,ESPN2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95868.m3u8
+#EXTINF:-1,ESPN NEWS Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1275.m3u8
+#EXTINF:-1,ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1274.m3u8
+#EXTINF:-1,FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1367.m3u8
+#EXTINF:-1,FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38483.m3u8
+#EXTINF:-1,FOX SOCCER PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33472.m3u8
+#EXTINF:-1,CBS SPORTS HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99477.m3u8
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1402.m3u8
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/29485.m3u8
+#EXTINF:-1,MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1389.m3u8
+#EXTINF:-1,NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1612.m3u8
+#EXTINF:-1,ELEVEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/86505.m3u8
+#EXTINF:-1,TVG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/35449.m3u8
+#EXTINF:-1,TVG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97589.m3u8
+#EXTINF:-1,FREESPORTS | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98772.m3u8
+#EXTINF:-1,PREMIER SPORTS 1 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98771.m3u8
+#EXTINF:-1,PREMIER SPORTS 2 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98770.m3u8
+#EXTINF:-1,FREESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96973.m3u8
+#EXTINF:-1,PREMIER SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96972.m3u8
+#EXTINF:-1,PREMIER SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96971.m3u8
+#EXTINF:-1,UFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33843.m3u8
+#EXTINF:-1,UFC FIGHT PASS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102578.m3u8
+#EXTINF:-1,UFC FIGHT PASS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96165.m3u8
+#EXTINF:-1,UFC FIGHT PASS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96166.m3u8
+#EXTINF:-1,UFC FIGHT PASS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96167.m3u8
+#EXTINF:-1,UFC FIGHT PASS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102579.m3u8
+#EXTINF:-1,WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36372.m3u8
+#EXTINF:-1,GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1479.m3u8
+#EXTINF:-1,NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1396.m3u8
+#EXTINF:-1,FOX SPORTS ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33761.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (HK | THAI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97685.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (PHIL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97684.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (SING)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97683.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97682.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/97681.m3u8
+#EXTINF:-1,FOX SPORTS RACING | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99601.m3u8
+#EXTINF:-1,FOX SPORTS DETROIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33759.m3u8
+#EXTINF:-1,FOX SPORTS FLORIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33758.m3u8
+#EXTINF:-1,FOX SPORTS MIDWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33756.m3u8
+#EXTINF:-1,FOX SPORTS NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33755.m3u8
+#EXTINF:-1,FOX SPORTS OHIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33754.m3u8
+#EXTINF:-1,FOX SPORTS OKLAHOMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89131.m3u8
+#EXTINF:-1,FOX SPORTS PRIME TICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36570.m3u8
+#EXTINF:-1,FOX SPORTS SAN DIEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36279.m3u8
+#EXTINF:-1,FOX SPORTS SOUTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33751.m3u8
+#EXTINF:-1,FOX SPORTS SOUTHEAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33750.m3u8
+#EXTINF:-1,FOX SPORTS SOUTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33749.m3u8
+#EXTINF:-1,FOX SPORTS SOUTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36277.m3u8
+#EXTINF:-1,FOX SPORTS SUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33748.m3u8
+#EXTINF:-1,FOX SPORTS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33746.m3u8
+#EXTINF:-1,FOX SPORTS YES NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/33762.m3u8
+#EXTINF:-1,FOX DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36267.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1281.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/31209.m3u8
+#EXTINF:-1,STADIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89136.m3u8
+#EXTINF:-1,STADIUM 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89137.m3u8
+#EXTINF:-1,STADIUM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89138.m3u8
+#EXTINF:-1,STADIUM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89139.m3u8
+#EXTINF:-1,FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/29193.m3u8
+#EXTINF:-1,BOX NATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1380.m3u8
+#EXTINF:-1,BT SPORTS 1 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89214.m3u8
+#EXTINF:-1,BT SPORTS 2 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89213.m3u8
+#EXTINF:-1,BT SPORTS 3 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89212.m3u8
+#EXTINF:-1,BT SPORTS EPSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89211.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 1 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100702.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 2 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100703.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 3 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100704.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 4 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100705.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 5 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100706.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 6 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100707.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 7 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100708.m3u8
+#EXTINF:-1,SKY SPORTS ACTION | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98789.m3u8
+#EXTINF:-1,SKY SPORTS ARENA | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98787.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98785.m3u8
+#EXTINF:-1,SKY SPORTS F1 | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98783.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98781.m3u8
+#EXTINF:-1,SKY SPORTS GOLF | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98779.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98777.m3u8
+#EXTINF:-1,SKY SPORTS MIX | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98857.m3u8
+#EXTINF:-1,SKY SPORTS NEWS | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98801.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98775.m3u8
+#EXTINF:-1,SKY SPORTS RACING | VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98773.m3u8
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/31459.m3u8
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/31460.m3u8
+#EXTINF:-1,TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1621.m3u8
+#EXTINF:-1,TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1622.m3u8
+#EXTINF:-1,TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1623.m3u8
+#EXTINF:-1,TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1624.m3u8
+#EXTINF:-1,TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1625.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1619.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/25999.m3u8
+#EXTINF:-1,SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/26000.m3u8
+#EXTINF:-1,SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/26001.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/26002.m3u8
+#EXTINF:-1,BEIN SPORTS esp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36412.m3u8
+#EXTINF:-1,BEIN SPORTS USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1501.m3u8
+#EXTINF:-1,BEIN SPORTS ESP (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/27685.m3u8
+#EXTINF:-1,BEIN SPORTS LA LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/28014.m3u8
+#EXTINF:-1,BEIN CONNECT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38455.m3u8
+#EXTINF:-1,BEIN CONNECT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38456.m3u8
+#EXTINF:-1,BEIN CONNECT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38457.m3u8
+#EXTINF:-1,BEIN CONNECT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38458.m3u8
+#EXTINF:-1,BEIN CONNECT 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38459.m3u8
+#EXTINF:-1,Bee n Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89210.m3u8
+#EXTINF:-1,Bee n Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89209.m3u8
+#EXTINF:-1,Bee N Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89208.m3u8
+#EXTINF:-1,Bee N Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89207.m3u8
+#EXTINF:-1,Bee n Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89206.m3u8
+#EXTINF:-1,Bee n Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89205.m3u8
+#EXTINF:-1,Bee n Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89204.m3u8
+#EXTINF:-1,Bee N Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89203.m3u8
+#EXTINF:-1,Bee N Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89202.m3u8
+#EXTINF:-1,Bee N Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89201.m3u8
+#EXTINF:-1,Bee N Sport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89200.m3u8
+#EXTINF:-1,Bee n Sport 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89199.m3u8
+#EXTINF:-1,Bee N Sport 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100633.m3u8
+#EXTINF:-1,OSN CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95012.m3u8
+#EXTINF:-1,WILLOW CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100685.m3u8
+#EXTINF:-1,WILLOWXTRA CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100686.m3u8
+#EXTINF:-1,WILLOW 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/92900.m3u8
+#EXTINF:-1,WILLOW 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/92899.m3u8
+#EXTINF:-1,WILLOW 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/92898.m3u8
+#EXTINF:-1,WILLOW 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/92897.m3u8
+#EXTINF:-1,WILLOW 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/92896.m3u8
+#EXTINF:-1,MOTOGP: (EVENTS ONLY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/35101.m3u8
+#EXTINF:-1,MOTOGP: ATMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95808.m3u8
+#EXTINF:-1,MOTOGP: HELICOPTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95807.m3u8
+#EXTINF:-1,MOTOGP: ON BOARD CAMERA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95806.m3u8
+#EXTINF:-1,MOTOGP: ON BOARD CAMERA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95805.m3u8
+#EXTINF:-1,MOTOGP: ON BOARD CAMERA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95804.m3u8
+#EXTINF:-1,MOTOGP: ON BOARD CAMERA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95803.m3u8
+#EXTINF:-1,MOTOGP MOVISTAR (ES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/35099.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98907.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98906.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98905.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98904.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98903.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98902.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98901.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98900.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98899.m3u8
+#EXTINF:-1,FLOW SPORTS EPL 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98898.m3u8
+#EXTINF:-1,ELEVEN SPORTS EPL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98917.m3u8
+#EXTINF:-1,======ELEVEN SPORTS======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77968.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77967.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77966.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77965.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77961.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77960.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77959.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77958.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (NL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77964.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (NL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77963.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (NL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77962.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77957.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 (PL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/77956.m3u8
+#EXTINF:-1,======RUGBY======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/79900.m3u8
+#EXTINF:-1,FOX FOOTY GAME 1 (Only During Live Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98945.m3u8
+#EXTINF:-1,FOX FOOTY GAME 2 (Only During Live Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98944.m3u8
+#EXTINF:-1,FOX LEAGUE 24/7 AUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98943.m3u8
+#EXTINF:-1,FOX FOOTY AUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98942.m3u8
+#EXTINF:-1,RUGBY WORLD CUP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99482.m3u8
+#EXTINF:-1,RUGBY WORLD CUP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99481.m3u8
+#EXTINF:-1,RUGBY WORLD CUP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99480.m3u8
+#EXTINF:-1,RUGBY WORLD CUP 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99479.m3u8
+#EXTINF:-1,RUGBY WORLD CUP 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/99478.m3u8
+#EXTINF:-1,RUGBY PASS LIVE 1 (GAMES ONLY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/91150.m3u8
+#EXTINF:-1,RUGBY PASS LIVE 2 (GAMES ONLY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/91149.m3u8
+#EXTINF:-1,RUGBY PASS LIVE 3 (GAMES ONLY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/91148.m3u8
+#EXTINF:-1,UK Premier Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95981.m3u8
+#EXTINF:-1,UK Premier Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/95980.m3u8
+#EXTINF:-1,UK Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/37186.m3u8
+#EXTINF:-1,ES: FOX Sports 2 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101707.m3u8
+#EXTINF:-1,ES: FOX Sports 3 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101708.m3u8
+#EXTINF:-1,ES: FOX Sports Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101709.m3u8
+#EXTINF:-1,ES: Fox Sports Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/73857.m3u8
+#EXTINF:-1,ES: Fox Sports 2  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/73856.m3u8
+#EXTINF:-1,ES: Fox Sports 3 Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/73855.m3u8
+#EXTINF:-1,CAR: SPORTSMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96883.m3u8
+#EXTINF:-1,CAR: SPORTSMAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96882.m3u8
+#EXTINF:-1,CAR: SPORTSMAX 2 OPT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96851.m3u8
+#EXTINF:-1,CAR: SPORTSMAX 2 OPT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96850.m3u8
+#EXTINF:-1,CAR: SPORTSMAX CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96881.m3u8
+#EXTINF:-1,CAR: SPORTSMAX CRICKET (OPT2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96799.m3u8
+#EXTINF:-1,CAR: SPORTSMAX OPT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96853.m3u8
+#EXTINF:-1,CAR: SPORTSMAX OPT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/96852.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100101.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100102.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100103.m3u8
+#EXTINF:-1,FR: CANAL PLUS SPORT | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100107.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100113.m3u8
+#EXTINF:-1,BR: SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100302.m3u8
+#EXTINF:-1,BR: SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100303.m3u8
+#EXTINF:-1,BR: SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100304.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100501.m3u8
+#EXTINF:-1,DE: Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100502.m3u8
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100503.m3u8
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100504.m3u8
+#EXTINF:-1,DE: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100505.m3u8
+#EXTINF:-1,DE: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100506.m3u8
+#EXTINF:-1,DE: DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100507.m3u8
+#EXTINF:-1,DE: DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100508.m3u8
+#EXTINF:-1,PT: Sporting TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100389.m3u8
+#EXTINF:-1,PT: Sport TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100390.m3u8
+#EXTINF:-1,PT: TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100391.m3u8
+#EXTINF:-1,PT: Sport TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100392.m3u8
+#EXTINF:-1,PT: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100393.m3u8
+#EXTINF:-1,PT: Sport TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100394.m3u8
+#EXTINF:-1,PT: Sport TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100395.m3u8
+#EXTINF:-1,PT: Sport TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100396.m3u8
+#EXTINF:-1,PT: Sport TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100397.m3u8
+#EXTINF:-1,PT: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100445.m3u8
+#EXTINF:-1,PT: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100446.m3u8
+#EXTINF:-1,PT: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100447.m3u8
+#EXTINF:-1,PT: Eurochannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100448.m3u8
+#EXTINF:-1,PT: Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100449.m3u8
+#EXTINF:-1,PT: Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100450.m3u8
+#EXTINF:-1,PT: Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100451.m3u8
+#EXTINF:-1,PT: Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100452.m3u8
+#EXTINF:-1,PT: Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100453.m3u8
+#EXTINF:-1,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/100454.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101876.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT ARENA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101877.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT COLLECTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101878.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT F1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101879.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT FOOTBALL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101880.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT NBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101881.m3u8
+#EXTINF:-1,IT: [CANALI SD] SKY SPORT UNO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101882.m3u8
+#EXTINF:-1,IT: Dazn Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101899.m3u8
+#EXTINF:-1,IT: Dazn Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101900.m3u8
+#EXTINF:-1,IT: Dazn Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101901.m3u8
+#EXTINF:-1,IT: Dazn Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101902.m3u8
+#EXTINF:-1,IT: Dazn Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101903.m3u8
+#EXTINF:-1,IT: Dazn Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101904.m3u8
+#EXTINF:-1,IT: Dazn Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101905.m3u8
+#EXTINF:-1,IT: Dazn Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101906.m3u8
+#EXTINF:-1,IT: Dazn Sport 9 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/101907.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102060.m3u8
+#EXTINF:-1,IT: SKY SPORT 24 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102061.m3u8
+#EXTINF:-1,IT: SKY SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102062.m3u8
+#EXTINF:-1,IT: SKY Sport 251 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102063.m3u8
+#EXTINF:-1,IT: SKY Sport 251 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102064.m3u8
+#EXTINF:-1,IT: SKY SPORT ARENA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102065.m3u8
+#EXTINF:-1,IT: SKY SPORT ARENA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102066.m3u8
+#EXTINF:-1,IT: SKY SPORT COLLECTION FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102067.m3u8
+#EXTINF:-1,IT: SKY SPORT COLLECTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102068.m3u8
+#EXTINF:-1,IT: SKY SPORT F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102069.m3u8
+#EXTINF:-1,IT: SKY SPORT FOOTBALL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102070.m3u8
+#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102071.m3u8
+#EXTINF:-1,IT: SKY SPORT MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102072.m3u8
+#EXTINF:-1,IT: SKY Sport NBA full
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102073.m3u8
+#EXTINF:-1,IT: SKY SPORT NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102074.m3u8
+#EXTINF:-1,IT: SKY SPORT SERIE A FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102075.m3u8
+#EXTINF:-1,IT: SKY SPORT SERIE A HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102076.m3u8
+#EXTINF:-1,IT: SKY SPORT UNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102077.m3u8
+#EXTINF:-1,IT: Sport Italia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102084.m3u8
+#EXTINF:-1,IT: Sport Italia Motori
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102085.m3u8
+#EXTINF:-1,IT: Sport Italia SoloCalcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102086.m3u8
+#EXTINF:-1,IT: Sportitalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/102087.m3u8

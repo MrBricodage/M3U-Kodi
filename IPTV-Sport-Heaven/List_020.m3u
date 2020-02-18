@@ -1,45 +1,195 @@
 #EXTM3U
-#EXTINF:0,SPORT TV  +_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/21.ts
-#EXTINF:0,SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/22.ts
-#EXTINF:0,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/27.ts
-#EXTINF:0,SPORT TV 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/23.ts
-#EXTINF:0,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/28.ts
-#EXTINF:0,SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/24.ts
-#EXTINF:0,SPORT TV 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/29.ts
-#EXTINF:0,SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/25.ts
-#EXTINF:0,SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/26.ts
-#EXTINF:0,ELEVEN SPORTS 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/32.ts
-#EXTINF:0,ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/33.ts
-#EXTINF:0,ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/34.ts
-#EXTINF:0,ELEVEN SPORTS 4_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/35.ts
-#EXTINF:0,ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/36.ts
-#EXTINF:0,ELEVEN SPORTS 6_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/37.ts
-#EXTINF:0,NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/71.ts
-#EXTINF:0,FOX SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/139.ts
-#EXTINF:0,ESPN BRASIL_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/138.ts
-#EXTINF:0,SPORT TV 1 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/142.ts
-#EXTINF:0,SPORT TV 2 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/143.ts
-#EXTINF:0,SPORT TV 3 BR_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/144.ts
-#EXTINF:0,SPORT TV 4 BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/145.ts
+#EXTINF:0,TR: BEINSPORT 1 HD 265.hvec (60 Fps)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/10048
+#EXTINF:0,TR: BEINSPORT 1 HD SUPERLIG YEDEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/14216
+#EXTINF:0,TR: BEINSPORT 1 HD+_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15655
+#EXTINF:0,TR: BEINSPORT 1 HD 1080i ( 60 fps )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/3417
+#EXTINF:0,TR: BEINSPORT 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13651
+#EXTINF:0,TR: BEIN SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13652
+#EXTINF:0,TR: BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/10049
+#EXTINF:0,TR: BEINSPORT 2 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/14218
+#EXTINF:0,TR: BEINSPORT 2 HD+_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/3418
+#EXTINF:0,TR: BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15897
+#EXTINF:0,TR: BEINSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15899
+#EXTINF:0,TR: BEINSPORT 3 HD ESKI LIGTV-3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/10050
+#EXTINF:0,TR: BEINSPORT 3 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13653
+#EXTINF:0,TR: BEINSPORT 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/3419
+#EXTINF:0,TR: BEINSPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/3420
+#EXTINF:0,TR: BEINSPORT 4 HD SUPERLIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13654
+#EXTINF:0,TR: BEINSPORT 4 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/10051
+#EXTINF:0,TR: NTV SPOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15770
+#EXTINF:0,TR: NTV SPOR HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/3426
+#EXTINF:0,TR: SPORTSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/10075
+#EXTINF:0,TR: TIVIBUSPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13565
+#EXTINF:0,TR: TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/14242
+#EXTINF:0,TR: TIVIBUSPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/16248
+#EXTINF:0,TR: TIVIBUSPOR 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/14241
+#EXTINF:0,TR: TIVIBUSPOR 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13655
+#EXTINF:0,TR: TIVIBUSPOR 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12717
+#EXTINF:0,TR: TRT SPOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/13570
+#EXTINF:0,AL: ARENA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/518
+#EXTINF:0,AL: ARENA SPORT 1 SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20802
+#EXTINF:0,AL: ARENA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/517
+#EXTINF:0,AL: ARENA SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20803
+#EXTINF:0,AL: ARENA SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20804
+#EXTINF:0,EX-YOU: ARENA SPORT 4 HD HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/515
+#EXTINF:0,AL: ARENA SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20805
+#EXTINF:0,AL: ARENA SPORT 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/386
+#EXTINF:0,AL: ARENA SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/22033
+#EXTINF:0,AL: SUPER SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/421
+#EXTINF:0,AL: SUPER SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/420
+#EXTINF:0,AL: SUPERSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/547
+#EXTINF:0,AL: SUPERSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/546
+#EXTINF:0,AL: SUPERSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/544
+#EXTINF:0,AL: SUPERSPORT 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/543
+#EXTINF:0,AL: SUPERSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/22038
+#EXTINF:0,AL: SUPERSPORT KOSOVO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/170636
+#EXTINF:0,AR: BEINSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12906
+#EXTINF:0,AR: BEINSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20541
+#EXTINF:0,AR: BEINSPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/785
+#EXTINF:0,AR: BEINSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12915
+#EXTINF:0,AR: BEINSPORT 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20571
+#EXTINF:0,AR: BEINSPORT 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12907
+#EXTINF:0,AR: BEINSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20554
+#EXTINF:0,AR: BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12908
+#EXTINF:0,AR: BEINSPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20555
+#EXTINF:0,AR: BEINSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12909
+#EXTINF:0,AR: BEINSPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20557
+#EXTINF:0,AR: BEINSPORT 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12910
+#EXTINF:0,AR: BEINSPORT 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20558
+#EXTINF:0,AR: BEINSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12911
+#EXTINF:0,AR: BEINSPORT 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20561
+#EXTINF:0,AR: BEINSPORT 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20562
+#EXTINF:0,AR: BEINSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12913
+#EXTINF:0,AR: BEINSPORT 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20569
+#EXTINF:0,AR: BEINSPORT 9 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/12914
+#EXTINF:0,AR: BEINSPORT 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/20570
+#EXTINF:0,AR: BEINSPORTS 5 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/780
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9987
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/67
+#EXTINF:0,DE: SKY BUNDESLIGA 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15658
+#EXTINF:0,DE: SKY BUNDESLIGA 10 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9996
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9988
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15960
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15663
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9989
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/70
+#EXTINF:0,DE: SKY BUNDESLIGA 4 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15961
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/71
+#EXTINF:0,DE: SKY BUNDESLIGA 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/72
+#EXTINF:0,DE: SKY BUNDESLIGA 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15964
+#EXTINF:0,DE: SKY BUNDESLIGA 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9995
+#EXTINF:0,DE: SKY BUNDESLIGA 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15662
+#EXTINF:0,DE: SKY BUNDESLIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9990
+#EXTINF:0,DE: SKY BUNDESLIGA 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9991
+#EXTINF:0,DE: SKY BUNDESLIGA 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/73
+#EXTINF:0,DE: SKY BUNDESLIGA 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9994
+#EXTINF:0,DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/77
+#EXTINF:0,DE: SKY SPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9984
+#EXTINF:0,DE: SKY SPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/7502
+#EXTINF:0,DE: SKY SPORT 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15957
+#EXTINF:0,DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9976
+#EXTINF:0,DE: SKY SPORT 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9977
+#EXTINF:0,DE: SKY SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9978
+#EXTINF:0,DE: SKY SPORT 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9979
+#EXTINF:0,DE: SKY SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9980
+#EXTINF:0,DE: SKY SPORT 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/15953
+#EXTINF:0,DE: SKY SPORT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9981
+#EXTINF:0,DE: SKY SPORT 8_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/9982
+#EXTINF:0,DE: SKY SPORT 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8080/s1.niacam/skyppedinidin/7501

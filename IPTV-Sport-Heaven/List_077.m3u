@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Diema Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
+#EXTINF:-1,Diema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaHD/index.m3u8?token=81H84NfjI3
+#EXTINF:-1,Diema Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaSport1/index.m3u8?token=81H84NfjI3

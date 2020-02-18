@@ -1,35 +1,23 @@
 #EXTM3U
-#EXTINF:0,BandSports_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37125
-#EXTINF:0,BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36989
-#EXTINF:0,FoxSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37099
-#EXTINF:0,FoxSports 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37098
-#EXTINF:0,FoxSports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38398
-#EXTINF:0,FoxSports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36971
-#EXTINF:0,FoxSports HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36970
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37256
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37044
-#EXTINF:0,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38395
-#EXTINF:0,SporTV 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36943
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37006
-#EXTINF:0,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38394
-#EXTINF:0,SporTV 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36942
-#EXTINF:0,SporTV [4K]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/40785
-#EXTINF:0,SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38419
-#EXTINF:0,SporTV HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37255
+#EXTINF:-1,Polsat Sport HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21161/udp/172r
+#EXTINF:-1,Eurosport 2 HD Poland_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21151/udp/192c
+#EXTINF:-1,Viasat Sport _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/035l
+#EXTINF:-1,Barca _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/028i
+#EXTINF:-1,????! ?????? 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2025
+#EXTINF:-1,????! ?????? 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2012
+#EXTINF:-1,????! ?????? 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2026
+#EXTINF:-1,????! ?????? 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2027
+#EXTINF:-1,Supertennis HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/029e
+#EXTINF:-1,????! ?????? 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/017u
+#EXTINF:-1,????! ?????? 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/013y

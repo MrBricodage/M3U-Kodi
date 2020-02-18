@@ -1,0 +1,9 @@
+#EXTM3U PANEL_BEIN
+#EXTINF:-1,BEINSPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ^8J2qfvuy/43.ts
+#EXTINF:-1,BEINSPORTS 4 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ^8J2qfvuy/28.ts
+#EXTINF:-1,BEINSPORTS 4 HD BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ^8J2qfvuy/8.ts
+#EXTINF:-1,BEINSPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ^8J2qfvuy/7.ts
