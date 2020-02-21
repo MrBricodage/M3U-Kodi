@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Diema Sport 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
-#EXTINF:-1,Diema HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaHD/index.m3u8?token=81H84NfjI3
-#EXTINF:-1,Diema Sport 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server4.xtim.tv:9090/DiemaSport1/index.m3u8?token=81H84NfjI3
+#EXTINF:-1,BeInSport 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch111?code=170132716026200
+#EXTINF:-1,BeInSport 1 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch8111?code=170132716026200
+#EXTINF:-1,BeInSport 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch112?code=170132716026200
+#EXTINF:-1,BeInSport 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch8112?code=170132716026200
+#EXTINF:-1,BeInSport 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch113?code=170132716026200
+#EXTINF:-1,BeInSport 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch8113?code=170132716026200
+#EXTINF:-1,BeInSport 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch114?code=170132716026200
+#EXTINF:-1,BeInSport 4 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch8114?code=170132716026200
+#EXTINF:-1,BeInSport 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch115?code=170132716026200
+#EXTINF:-1,BeInSport 5 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch8115?code=170132716026200

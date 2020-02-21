@@ -1,35 +1,13 @@
 #EXTM3U
-#EXTINF:0,BandSports_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37125
-#EXTINF:0,BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36989
-#EXTINF:0,FoxSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37099
-#EXTINF:0,FoxSports 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37098
-#EXTINF:0,FoxSports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38398
-#EXTINF:0,FoxSports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36971
-#EXTINF:0,FoxSports HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36970
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37256
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37044
-#EXTINF:0,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38395
-#EXTINF:0,SporTV 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36943
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37006
-#EXTINF:0,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38394
-#EXTINF:0,SporTV 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36942
-#EXTINF:0,SporTV [4K]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/40785
-#EXTINF:0,SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38419
-#EXTINF:0,SporTV HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37255
+#EXTINF:-1 ,Abu Dhabi Sports_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 ,Abu Dhabi Sports 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 ,Abu Dhabi Sports 3_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 ,Abu Dhabi Sports 4_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 ,Abu Dhabi Sports 5_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 ,Abu Dhabi Sports 6_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6

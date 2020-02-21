@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1,SKY SPORT1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
-#EXTINF:-1,SKY SPORT2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
