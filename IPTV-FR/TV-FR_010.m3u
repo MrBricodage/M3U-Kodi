@@ -1,33 +1,23 @@
 #EXTM3U
-#EXTINF:-1,FR: ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68496
-#EXTINF:-1,FR: EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68626
-#EXTINF:-1,FR: FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68491
-#EXTINF:-1,FR: FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68627
-#EXTINF:-1,FR: FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68492
-#EXTINF:-1,FR: FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68493
-#EXTINF:-1,FR: FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68494
-#EXTINF:-1,FR: FRANCE INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68633
-#EXTINF:-1,FR: I24 NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68634
-#EXTINF:-1,FR: M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68497
-#EXTINF:-1,FR: M6 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68606
-#EXTINF:-1,FR: MTV FRANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68609
-#EXTINF:-1,FR: NRJ 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68523
-#EXTINF:-1,FR: RTL 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68524
-#EXTINF:-1,FR: TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68490
-#EXTINF:-1,FR: W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hd.iptvnexa.com:8080/marmaraserif3105219/B6CPqIcv5o/68503
+#EXTINF:-1,TF 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/5921
+#EXTINF:-1,TF 1 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/5973
+#EXTINF:-1,FRANCE O (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6131
+#EXTINF:-1,FRANCE 2 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6143
+#EXTINF:-1,FRANCE 3 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6144
+#EXTINF:-1,FRANCE 4 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6157
+#EXTINF:-1,FRANCE 5 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6145
+#EXTINF:-1,FRANCE 24 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/7797
+#EXTINF:-1,NAT GEO WILD HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6158
+#EXTINF:-1,RTL 9 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6161
+#EXTINF:-1,W9 HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6162

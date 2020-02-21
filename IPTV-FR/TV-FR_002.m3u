@@ -1,203 +1,1145 @@
 #EXTM3U
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011217
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011218
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011219
+#EXTINF:-1,|FR| RMC SPORT 1 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9215
+#EXTINF:-1,|FR| RMC SPORT 2 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9216
+#EXTINF:-1,|FR| RMC SPORT 3 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9217
+#EXTINF:-1,|FR| RMC SPORT 1 HD ACCESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6726
+#EXTINF:-1,|FR| RMC SPORT 2 HD ACCESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6727
+#EXTINF:-1,|FR| RMC SPORT 3 HD ACCESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6728
+#EXTINF:-1,|FR| RMC SPORT 1 HD  720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6514
+#EXTINF:-1,|FR| RMC SPORT 2 HD  720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6515
+#EXTINF:-1,|FR| RMC SPORT 3 HD  720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6516
+#EXTINF:-1,|FR| RMC SPORT 4 HD  720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6517
+#EXTINF:-1,|FR| RMC SPORT 5 HD  720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6518
+#EXTINF:-1,|FR| RMC SPORT LIVE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5709
+#EXTINF:-1,|FR| RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5708
+#EXTINF:-1,|FR| RMC SPORT LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5707
+#EXTINF:-1,|FR| RMC SPORT LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5706
+#EXTINF:-1,|FR| RMC SPORT LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5705
+#EXTINF:-1,|FR| RMC SPORT UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5710
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6503
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5704
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5703
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5702
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6504
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6505
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6506
+#EXTINF:-1,----------- GENERALISTES -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2456
+#EXTINF:-1,|FR| TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2650
+#EXTINF:-1,|FR| TF1 FHD  STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9208
+#EXTINF:-1,|FR| TF1+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4036
+#EXTINF:-1,|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/91
+#EXTINF:-1,|FR| M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1651
+#EXTINF:-1,|FR| M6 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9218
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/124
+#EXTINF:-1,|FR| M6 +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4455
+#EXTINF:-1,|FR| W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1641
+#EXTINF:-1,|FR| W9 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9209
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/32
+#EXTINF:-1,|FR| ARTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3274
+#EXTINF:-1,|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/111
+#EXTINF:-1,|FR| TF1 SERIES FILMS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4002
+#EXTINF:-1,|FR| TF1 SERIES FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4003
+#EXTINF:-1,|FR| FRANCE O FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3412
+#EXTINF:-1,|FR| FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/113
+#EXTINF:-1,|FR| FRANCE 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2941
+#EXTINF:-1,|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/116
 #EXTINF:-1,|FR| FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
-#EXTINF:-1,M6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/5.m3u8
-#EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/6.m3u8
-#EXTINF:-1,M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
-#EXTINF:-1,TMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/8.m3u8
-#EXTINF:-1,TMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
-#EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/11.m3u8
-#EXTINF:-1,W9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/12.m3u8
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
-#EXTINF:-1,EQUIPE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
-#EXTINF:-1,|FR| TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
-#EXTINF:-1,|FR| FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3032
 #EXTINF:-1,|FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
-#EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
-#EXTINF:-1,TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
-
-#EXTINF:-1,RMC SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
-#EXTINF:-1,RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
-#EXTINF:-1,RMC SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
-
-#EXTINF:-1,RMC SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/61.m3u8
-#EXTINF:-1,RMC SPORT 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
-
-#EXTINF:-1,FR:CINE  CLUBsu@29
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3997.m3u8
-#EXTINF:-1,FR:WARNERsu@30
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3998.m3u8
-#EXTINF:-1,FR:ALTICE STUDIOsu@31
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3999.m3u8
-#EXTINF:-1,FR:LEQUIPE 21su@20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4000.m3u8
-#EXTINF:-1,FR:EUROSPORT 2su@21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4001.m3u8
-#EXTINF:-1,FR:CINE  PREMIER HDsu@22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4002.m3u8
-#EXTINF:-1,FR:CINE  FRISSON HDsu@23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4003.m3u8
-#EXTINF:-1,FR:CANAL SERIES HDsu@24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4004.m3u8
-#EXTINF:-1,FR:OCS CHOC HDsu@25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4005.m3u8
-#EXTINF:-1,FR:OCS MAXsu@26
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4006.m3u8
-#EXTINF:-1,FR:TOUTE L HISTOIRE HDsu@40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3983.m3u8
-#EXTINF:-1,FR:PLANETE  CIsu@41
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3984.m3u8
-#EXTINF:-1,FR:ANIMAUX HDsu@42
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3985.m3u8
-#EXTINF:-1,FR:EQUIDIA LIFEsu@43
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3986.m3u8
-#EXTINF:-1,FR:DISNEY CINEMA HDsu@28
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3996.m3u8
-#EXTINF:-1,FR:OCS GEANTsu@27
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3995.m3u8
-#EXTINF:-1,FR:GAME ONE +1 HDsu@52
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3994.m3u8
-#EXTINF:-1,FR:TIJI HDsu@51
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3993.m3u8
-#EXTINF:-1,FR:CANAL Jsu@50
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3992.m3u8
-#EXTINF:-1,FR:GULLIsu@49
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3991.m3u8
-#EXTINF:-1,FR:MANGASsu@4748
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3990.m3u8
-#EXTINF:-1,FR:DISNEY CHANNELsu@46
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3989.m3u8
-#EXTINF:-1,FR: DISNEY Xd HDsu@45
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3988.m3u8
-#EXTINF:-1,FR:PARAMOUNT CHANNEL HDsu@44
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3987.m3u8
-#EXTINF:-1,FR: CINE +  EMOTION HD@39
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3982.m3u8
-#EXTINF:-1,FR:CINE + CLUBsu@38
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3981.m3u8
-#EXTINF:-1,FR:CANAL +su@37
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3980.m3u8
-#EXTINF:-1,FR:RTS KIDSsu@36
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3979.m3u8
-#EXTINF:-1,FR:BOINGsu@35
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3978.m3u8
-#EXTINF:-1,FR:RMC DECOUVERTE HDsu@34
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3977.m3u8
-#EXTINF:-1,FR:SEASONsu@33
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3976.m3u8
-#EXTINF:-1,FR:COMEDIE +su@32
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3975.m3u8
-#EXTINF:-1,FR: INFOSPORTsu@19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3974.m3u8
-#EXTINF:-1,FR: RMC SPORT 4su@18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3973.m3u8
-#EXTINF:-1,FR: RMC SPORT 3su@17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3972.m3u8
-#EXTINF:-1,FR: RMC SPORT 2su@16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3971.m3u8
-#EXTINF:-1,FR: RMC SPORT 1su@15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3970.m3u8
-#EXTINF:-1,FR: ARTEsu@13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3968.m3u8
-#EXTINF:-1,FR: Ushuaia TV HDsu@14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3969.m3u8
-#EXTINF:-1,FR: RMC STORYsu@12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3967.m3u8
-#EXTINF:-1,FR: BFM TVsu@11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3966.m3u8
-#EXTINF:-1,FR: EQUIDIA LIFEsu@10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3965.m3u8
-#EXTINF:-1,FR: HD1su@9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3964.m3u8
-#EXTINF:-1,FR: RTL9su@8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3963.m3u8
-#EXTINF:-1,FR: C8 HDsu@7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3962.m3u8
-#EXTINF:-1,FR: FRANCE Osu@6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3961.m3u8
-#EXTINF:-1,FR: FRANCE 5su@5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3960.m3u8
-#EXTINF:-1,FR: FRANCE 4su@4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3959.m3u8
-#EXTINF:-1,FR. FRANCE 3su@3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3958.m3u8
-#EXTINF:-1,FR: FRANCE 2su@2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3957.m3u8
-#EXTINF:-1,FR: TF1 HD su@1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3956.m3u8
-
-#EXTINF:-1,FR:W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/894.m3u8
-#EXTINF:-1,FR:Ushuaia_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/895.m3u8
-#EXTINF:-1,FR:Tout_LHistoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/884.m3u8
-#EXTINF:-1,FR:TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/888.m3u8
-#EXTINF:-1,FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/887.m3u8
-#EXTINF:-1,FR:Disney_Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/889.m3u8
-#EXTINF:-1,FR:RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/885.m3u8
-#EXTINF:-1,FR:Planete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/883.m3u8
-#EXTINF:-1,FR:PIWI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/891.m3u8
-#EXTINF:-1,FR:NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/882.m3u8
-#EXTINF:-1,FR:Nat_Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/881.m3u8
-#EXTINF:-1,FR:M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/880.m3u8
-#EXTINF:-1,FR:Infosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/879.m3u8
-#EXTINF:-1,FR:GULLI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/893.m3u8
-#EXTINF:-1,FR:France_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/845.m3u8
-#EXTINF:-1,FR:France_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/842.m3u8
-#EXTINF:-1,FR:Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/878.m3u8
-#EXTINF:-1,FR:CINE_POLAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/847.m3u8
-#EXTINF:-1,FR:CINE_CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/848.m3u8
-#EXTINF:-1,FR:CINE_FAMIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/851.m3u8
-#EXTINF:-1,FR:Chasse_Et_Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/857.m3u8
-#EXTINF:-1,FR:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/877.m3u8
-#EXTINF:-1,FR:Canal_J
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/892.m3u8
-#EXTINF:-1,FR:CANAL_SPORT_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/853.m3u8
-#EXTINF:-1,FR:CANAL_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/854.m3u8
-#EXTINF:-1,FR:CANAL_DECALE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/855.m3u8
-#EXTINF:-1,FR:Animaux_hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/876.m3u8
-#EXTINF:-1,FR:Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/890.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/115
+#EXTINF:-1,|FR| FRANCE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2912
+#EXTINF:-1,|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/114
+#EXTINF:-1,|FR| FRANCE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2913
+#EXTINF:-1,|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/117
+#EXTINF:-1,|FR| RMC STORY  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/7486
+#EXTINF:-1,|FR| RMC STORY FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3013
+#EXTINF:-1,|FR| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2172
+#EXTINF:-1,|FR| TFX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3095
+#EXTINF:-1,|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/669
+#EXTINF:-1,|FR| TMC +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4037
+#EXTINF:-1,|FR| TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3096
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/670
+#EXTINF:-1,|FR| CHERIE25  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4359
+#EXTINF:-1,|FR| CHERIE25 FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3294
+#EXTINF:-1,|FR| CHERIE25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/318
+#EXTINF:-1,|FR| NRJ12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3336
+#EXTINF:-1,|FR| NRJ12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/95
+#EXTINF:-1,|FR| 6TER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3292
+#EXTINF:-1,|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/88
+#EXTINF:-1,|FR| HD1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3010
+#EXTINF:-1,|FR| HD1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/818
+#EXTINF:-1,|FR| C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3297
+#EXTINF:-1,|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/126
+#EXTINF:-1,|FR| CSTAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/10512
+#EXTINF:-1,|FR| CSTAR FHD,
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3002
+#EXTINF:-1,|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/60
+#EXTINF:-1,----------- NEWS -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3863
+#EXTINF:-1,|FR| FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4099
+#EXTINF:-1,|FR| BFM BUSINESS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4237
+#EXTINF:-1,|FR| BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3862
+#EXTINF:-1,|FR| BFM PARIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/10807
+#EXTINF:-1,|FR| BFM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/10808
+#EXTINF:-1,|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/913
+#EXTINF:-1,|FR| CNEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2982
+#EXTINF:-1,|FR| EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/656
+#EXTINF:-1,|FR| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/623
+#EXTINF:-1,|FR| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1899
+#EXTINF:-1,|FR| I24 NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4095
+#EXTINF:-1,|FR| I24 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4097
+#EXTINF:-1,|FR| LCP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011256
+#EXTINF:-1,|FR| LCI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4098
+#EXTINF:-1,|FR| LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4096
+#EXTINF:-1,----------- BOUQUET MUSIQUE -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2458
+#EXTINF:-1,|FR| OLYMPIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265013592
+#EXTINF:-1,|FR| iCONCERTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012808
+#EXTINF:-1,|FR| MELODY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3569
+#EXTINF:-1,|FR| RFM  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2922
+#EXTINF:-1,|FR| TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3299
+#EXTINF:-1,|FR| TRACE TROPICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3298
+#EXTINF:-1,|FR| DJAZZ TV FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3028
+#EXTINF:-1,|FR| BRAVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3030
+#EXTINF:-1,|FR| BRAVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2653
+#EXTINF:-1,|FR| MEZZO LIVE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2969
+#EXTINF:-1,|FR| MEZZO LIVE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2684
+#EXTINF:-1,|FR| VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2943
+#EXTINF:-1,|FR| MCM TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4291
+#EXTINF:-1,|FR| MCM TOP  FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2920
+#EXTINF:-1,|FR| MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2466
+#EXTINF:-1,|FR| TRACE URBAN FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3287
+#EXTINF:-1,|FR| TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/37
+#EXTINF:-1,|FR| M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/38
+#EXTINF:-1,|FR| NRJ HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2400
+#EXTINF:-1,|FR| VIRGIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/33
+#EXTINF:-1,|FR| MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3411
+#EXTINF:-1,|FR| MTV MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1592
+#EXTINF:-1,|FR| MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2397
+#EXTINF:-1,|FR| MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2201
+#EXTINF:-1,|FR| MTV ROCK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3272
+#EXTINF:-1,|FR| MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2771
+#EXTINF:-1,|FR| MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9670
+#EXTINF:-1,----------- BOUQUET RMC  SPORTS -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2474
+#EXTINF:-1,|FR| RMC SPORT 1 FHD STABL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9223
+#EXTINF:-1,|FR| RMC SPORT 1  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/8863
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2944
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2318
+#EXTINF:-1,|FR| RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3616
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3012
+#EXTINF:-1,|FR| RMC SPORT 2 FHD STABL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9224
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2256
+#EXTINF:-1,|FR| RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3617
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2319
+#EXTINF:-1,|FR| RMC SPORT 3 FHD STABL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9225
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3426
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4456
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4457
+#EXTINF:-1,|FR| RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3425
+#EXTINF:-1,|FR| SFR ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3881
+#EXTINF:-1,|FR| SFR COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3882
+#EXTINF:-1,|FR| SFR HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3883
+#EXTINF:-1,|FR| SFR SCI-FI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3884
+#EXTINF:-1,----------- BOUQUET SPORT ET BEIN -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2452
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2431
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD  STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9210
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/85
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3401
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2432
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD  STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9211
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3402
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2433
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9212
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3011
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9441
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1209
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/894
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/903
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/902
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/901
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2680
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2770
+#EXTINF:-1,----------- BEINMAX FULLHD -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3551
+#EXTINF:-1,|FR| BEIN MAX 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3424
+#EXTINF:-1,|FR| BEIN MAX 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3422
+#EXTINF:-1,|FR| BEIN MAX 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3423
+#EXTINF:-1,|FR| BEIN MAX 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3421
+#EXTINF:-1,|FR| BEIN MAX 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3420
+#EXTINF:-1,|FR| BEIN MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3419
+#EXTINF:-1,|FR| BEIN MAX 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3418
+#EXTINF:-1,----------- BOUQUET SPORT  ET INFO -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2683
+#EXTINF:-1,|FR| AUTO MOTO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3413
+#EXTINF:-1,|FR| AUTO MOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/957
+#EXTINF:-1,|FR| OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3083
+#EXTINF:-1,|FR| MOTORSPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3018
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2444
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4351
+#EXTINF:-1,|FR| EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/59
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2445
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4352
+#EXTINF:-1,|FR| EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/949
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1650
+#EXTINF:-1,|FR| FOOT+ 24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/58
+#EXTINF:-1,|FR| L'EQUIPE 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3355
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/893
+#EXTINF:-1,||FR| ELLE GIRL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/7801
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3302
+#EXTINF:-1,|FR| GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3570
+#EXTINF:-1,|FR| GOLF+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3283
+#EXTINF:-1,|FR| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2231
+#EXTINF:-1,|FR| INFOSPORT+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/100
+#EXTINF:-1,|FR| INFOSPORT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3020
+#EXTINF:-1,|FR| RMC NEWS SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3331
+#EXTINF:-1,|FR| RMC NEWS SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2399
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3417
+#EXTINF:-1,|FR| EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1441
+#EXTINF:-1,|FR| EQUIDIA LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3416
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2434
+#EXTINF:-1,|FR| EXTREME SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9263
+#EXTINF:-1,|FR| EXTREME SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2924
+#EXTINF:-1,|FR| KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2346
+#EXTINF:-1,-----------MULTISPORTS-----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3326
+#EXTINF:-1,|FR| MULTISPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3320
+#EXTINF:-1,|FR| MULTISPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3321
+#EXTINF:-1,|FR| MULTISPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3322
+#EXTINF:-1,|FR| MULTISPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3323
+#EXTINF:-1,|FR| MULTISPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3324
+#EXTINF:-1,|FR| MULTISPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3325
+#EXTINF:-1,----------- CANAL SAT CANAL+ -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2459
+#EXTINF:-1,|FR| CANAL+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2467
+#EXTINF:-1,|FR| CANAL+ FHD  STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9213
+#EXTINF:-1,|FR| CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/82
+#EXTINF:-1,|FR| CANAL+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011221
+#EXTINF:-1,|FR| CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3094
+#EXTINF:-1,|FR| CANAL+ CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2470
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/81
+#EXTINF:-1,|FR| CANAL+  CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3014
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2471
+#EXTINF:-1,|FR| CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/78
+#EXTINF:-1,|FR| CANAL+ SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3015
+#EXTINF:-1,|FR| CANAL+  FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2468
+#EXTINF:-1,|FR| CANAL+  FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/79
+#EXTINF:-1,|FR| CANAL+  FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3017
+#EXTINF:-1,|FR| CANAL+  DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2469
+#EXTINF:-1,|FR| CANAL+  DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/80
+#EXTINF:-1,|FR| CANAL+  DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3016
+#EXTINF:-1,|FR| CANAL+  SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2534
+#EXTINF:-1,|FR| CANAL + SPORT FHD STABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9214
+#EXTINF:-1,|FR| CANAL+  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/77
+#EXTINF:-1,|FR| CANAL+  SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011220
+#EXTINF:-1,|FR| CANAL+  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5437
+#EXTINF:-1,----------- BOUQUET OCS ORANGE -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2682
+#EXTINF:-1,|FR| OCS MAX   FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3902
+#EXTINF:-1,|FR| OCS MAX  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3027
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/895
+#EXTINF:-1,|FR| OCS GEANT  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3900
+#EXTINF:-1,|FR| OCS GEANT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2975
+#EXTINF:-1,|FR| OCS GEANT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/816
+#EXTINF:-1,|FR| OCS CHOC  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3901
+#EXTINF:-1,|FR| OCS CHOC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/814
+#EXTINF:-1,|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2981
+#EXTINF:-1,|FR| OCS CITY  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3899
+#EXTINF:-1,|FR| OCS CITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/55
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1649
+#EXTINF:-1,----------- BOUQUET CINEMA -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2457
+#EXTINF:-1,|FR| NOVELAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3332
+#EXTINF:-1,|FR| NOVELAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4502
+#EXTINF:-1,|FR| WARNER TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3328
+#EXTINF:-1,|FR| WARNER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3880
+#EXTINF:-1,|FR| POLAR + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4531
+#EXTINF:-1,|FR| POLAR + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3126
+#EXTINF:-1,|FR| ALTICE STUDIO FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3157
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3866
+#EXTINF:-1,|FR| CINE+  PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3021
+#EXTINF:-1,|FR| CINE+  PREMIER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2497
+#EXTINF:-1,|FR| CINE+  PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/61
+#EXTINF:-1,|FR| CINE+  FRISSON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2498
+#EXTINF:-1,|FR| CINE+  FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/62
+#EXTINF:-1,|FR| CINE+  FRISSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011281
+#EXTINF:-1,|FR| CINE+  FAMIZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2499
+#EXTINF:-1,|FR| CINE+  FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/63
+#EXTINF:-1,|FR| CINE+  EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2500
+#EXTINF:-1,|FR| CINE+  EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/64
+#EXTINF:-1,|FR| CINE CLASSIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2501
+#EXTINF:-1,|FR| CINE CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/65
+#EXTINF:-1,|FR| CINE+ CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3171
+#EXTINF:-1,|FR| CINE+ CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2503
+#EXTINF:-1,|FR| CLIQUE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4512
+#EXTINF:-1,|FR| CLIQUE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2504
+#EXTINF:-1,|FR| CINE POLAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2502
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3290
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/911
+#EXTINF:-1,|FR| TCM CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2916
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2230
+#EXTINF:-1,|FR| ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3099
+#EXTINF:-1,|FR| ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/87
+#EXTINF:-1,----------- BOUQUET SERIES & DIVERTISSEMENTS -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2455
+#EXTINF:-1,|FR| ES1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/7747
+#EXTINF:-1,|FR| COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6823
+#EXTINF:-1,|FR| MTV FRANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9527
+#EXTINF:-1,|FR| MTV FRANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2398
+#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/10269
+#EXTINF:-1,|FR| E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1900
+#EXTINF:-1,|FR| ELLE GIRL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2970
+#EXTINF:-1,|FR| NOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2972
+#EXTINF:-1,|FR| BET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011123
+#EXTINF:-1,|FR| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2942
+#EXTINF:-1,|FR|  A+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9543
+#EXTINF:-1,|FR|  A+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3087
+#EXTINF:-1,|FR| MCM  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2914
+#EXTINF:-1,|FR| MCM FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4292
+#EXTINF:-1,|FR| MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2685
+#EXTINF:-1,|FR| COMEDIE+  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6724
+#EXTINF:-1,|FR| COMEDIE+ FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2934
+#EXTINF:-1,|FR| COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/118
+#EXTINF:-1,|FR| SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2917
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/129
+#EXTINF:-1,|FR| PARIS PREMIERE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3334
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/67
+#EXTINF:-1,|FR| NON STOP PEOPLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3934
+#EXTINF:-1,|FR| TV BREIZH  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6725
+#EXTINF:-1,|FR| TV BREIZH FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2918
+#EXTINF:-1,|FR| TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1306
+#EXTINF:-1,|FR| RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3098
+#EXTINF:-1,|FR| RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/671
+#EXTINF:-1,|FR| TEVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3097
+#EXTINF:-1,|FR| TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/92
+#EXTINF:-1,|FR| SERIE CLUB  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4358
+#EXTINF:-1,|FR| SERIE CLUB FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2919
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/53
+#EXTINF:-1,|FR| 13EME RUE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/7865
+#EXTINF:-1,|FR| 13EME RUE FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2915
+#EXTINF:-1,|FR| 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/89
+#EXTINF:-1,|FR| AB1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1160
+#EXTINF:-1,|FR| AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2185
+#EXTINF:-1,|FR| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2232
+#EXTINF:-1,|FR| J ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3335
+#EXTINF:-1,|FR| J ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2344
+#EXTINF:-1,|FR| GAME ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3296
+#EXTINF:-1,|FR| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2343
+#EXTINF:-1,|FR| FASHION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3864
+#EXTINF:-1,|FR| FASHION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3865
+#EXTINF:-1,----------- BOUQUET DECOUVERTE -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2454
+#EXTINF:-1,|FR| LA CHAINE METEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3327
+#EXTINF:-1,|FR| LA CHAINE METEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3410
+#EXTINF:-1,|FR| MUSEUM CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3086
+#EXTINF:-1,|FR| MY CUISINE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3088
+#EXTINF:-1,|FR| MY CUISINE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4465
+#EXTINF:-1,|FR| SUNDANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3156
+#EXTINF:-1,|FR| SUNDANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5333
+#EXTINF:-1,|FR| MYZEN TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3342
+#EXTINF:-1,|FR| VICELAND  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3089
+#EXTINF:-1,|FR| VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/5330
+#EXTINF:-1,|FR| MB LIVE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/66
+#EXTINF:-1,|FR| CRIME DISTRICT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3300
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2985
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3329
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2971
+#EXTINF:-1,|FR| DISCOVERY FAMILY  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6636
+#EXTINF:-1,|FR| DISCOVERY FAMILY FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3343
+#EXTINF:-1,|FR| DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4245
+#EXTINF:-1,|FR| DISCOVERY  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2508
+#EXTINF:-1,|FR| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/125
+#EXTINF:-1,|FR| DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/8852
+#EXTINF:-1,|FR| DISCOVERY SCIENCE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6480
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2435
+#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/107
+#EXTINF:-1,|FR| VOYAGE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4361
+#EXTINF:-1,|FR| VOYAGE FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/819
+#EXTINF:-1,|FR| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2553
+#EXTINF:-1,|FR| NATIONAL GEO  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4360
+#EXTINF:-1,|FR| NATIONAL GEO FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/97
+#EXTINF:-1,|FR| NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2999
+#EXTINF:-1,|FR| NATIONAL GEO WILD  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6723
+#EXTINF:-1,|FR| NATIONAL GEO WILD FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2948
+#EXTINF:-1,|FR| NATIONAL GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/96
+#EXTINF:-1,|FR| ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3275
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/110
+#EXTINF:-1,|FR| USHUAIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3276
+#EXTINF:-1,|FR| USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/51
+#EXTINF:-1,|FR| CHASSE ET PECHE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3977
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/68
+#EXTINF:-1,|FR| SEASONS  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6722
+#EXTINF:-1,|FR| SEASONS FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2978
+#EXTINF:-1,|FR| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2317
+#EXTINF:-1,|FR| SCIENCES & VIE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3314
+#EXTINF:-1,|FR| SCIENCES & VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/912
+#EXTINF:-1,|FR| TOUTE L HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4123
+#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/958
+#EXTINF:-1,|FR| HISTOIRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/7488
+#EXTINF:-1,|FR| HISTOIRE FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2930
+#EXTINF:-1,|FR| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1654
+#EXTINF:-1,|FR| PLANETE+ A&E  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4293
+#EXTINF:-1,|FR| PLANETE+ A&E FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2909
+#EXTINF:-1,|FR| PLANETE+ A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1257
+#EXTINF:-1,|FR| PLANETE  CI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2936
+#EXTINF:-1,|FR| PLANETE  CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/93
+#EXTINF:-1,|FR| PLANETE+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/224
+#EXTINF:-1,|FR| PLANETE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2921
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/10810
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2979
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/815
+#EXTINF:-1,|FR| TREK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2910
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2187
+#EXTINF:-1,----------- BOUQUET ENFANTS -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2451
+#EXTINF:-1,|FR| TOONAMI  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9506
+#EXTINF:-1,|FR| TOONAMI  FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3052
+#EXTINF:-1,|FR| TOONAMI  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3053
+#EXTINF:-1,|FR| CARTOON NETWORK  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6631
+#EXTINF:-1,|FR| CARTOON NETWORK FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2935
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/109
+#EXTINF:-1,|FR| TELETOON +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3339
+#EXTINF:-1,|FR| TELETOON+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/914
+#EXTINF:-1,|FR| ZOUZOU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/946
+#EXTINF:-1,|FR| NICKELODEON JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3414
+#EXTINF:-1,|FR| NICKELODEON JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2171
+#EXTINF:-1,|FR| NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3415
+#EXTINF:-1,|FR| NICKELODEON +1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4454
+#EXTINF:-1,|FR| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1647
+#EXTINF:-1,|FR| NICKELODEON 4TEEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3340
+#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1648
+#EXTINF:-1,|FR| DISNEY CINEMA   FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6632
+#EXTINF:-1,|FR| DISNEY CINEMA  FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1229
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2646
+#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2759
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3289
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1230
+#EXTINF:-1,|FR| DISNEY XD  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6633
+#EXTINF:-1,|FR| DISNEY XD FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2911
+#EXTINF:-1,|FR| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/119
+#EXTINF:-1,|FR| PIWI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3284
+#EXTINF:-1,|FR| PIWI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/128
+#EXTINF:-1,|FR| CANAL J FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3338
+#EXTINF:-1,|FR| CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/652
+#EXTINF:-1,|FR| BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3295
+#EXTINF:-1,|FR| BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/127
+#EXTINF:-1,|FR| MANGAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3592
+#EXTINF:-1,|FR| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/98
+#EXTINF:-1,|FR| BOING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6630
+#EXTINF:-1,|FR| BOING FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2931
+#EXTINF:-1,|FR| BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/653
+#EXTINF:-1,|FR| DISNEY JUNIOR  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6629
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2933
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/105
+#EXTINF:-1,|FR| TIJI  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6721
+#EXTINF:-1,|FR| TIJI FHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2932
+#EXTINF:-1,|FR| TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1208
+#EXTINF:-1,|FR| GULLI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/56
+#EXTINF:-1,|FR| GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4263
+#EXTINF:-1,|FR| WEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/947
+#EXTINF:-1,---------- BOUQUET H265 FR -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265011541
+#EXTINF:-1,|FR| RMC SPORT 1 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9169
+#EXTINF:-1,|FR| RMC SPORT 2 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9168
+#EXTINF:-1,|FR| RMC SPORT 3 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9145
+#EXTINF:-1,|FR| RMC SPORT 4 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9144
+#EXTINF:-1,|FR| TF1 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9206
+#EXTINF:-1,|FR| M6 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9200
+#EXTINF:-1,|FR| W9 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9199
+#EXTINF:-1,|FR| FRANCE 2 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9205
+#EXTINF:-1,|FR| FRANCE 3 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9204
+#EXTINF:-1,|FR| FRANCE 5 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9202
+#EXTINF:-1,|FR| FRANCE O (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9193
+#EXTINF:-1,|FR| FRANCE INFO (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9185
+#EXTINF:-1,|FR| L'EQUIPE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9191
+#EXTINF:-1,|FR| 6TER (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9186
+#EXTINF:-1,|FR| TMC (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9187
+#EXTINF:-1,|FR| ARTE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9201
+#EXTINF:-1,|FR| C8 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9198
+#EXTINF:-1,|FR| CSTAR (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9196
+#EXTINF:-1,|FR| NRJ12 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9189
+#EXTINF:-1,|FR| TFX (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9188
+#EXTINF:-1,|FR| RMC STORY (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9190
+#EXTINF:-1,|FR| BEIN 1 SPORT (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9184
+#EXTINF:-1,|FR| BEIN 2 SPORT (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9183
+#EXTINF:-1,|FR| BEIN 3 SPORT (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9182
+#EXTINF:-1,|FR| BOOMERANG (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9167
+#EXTINF:-1,|FR| CANAL (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9180
+#EXTINF:-1,|FR| CANAL+ CINEMA (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9495
+#EXTINF:-1,|FR| CANAL+ DECALE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9172
+#EXTINF:-1,|FR| CANAL+ FAMILY (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9173
+#EXTINF:-1,|FR| CANAL+ SERIES (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9179
+#EXTINF:-1,|FR| CANAL+  SPORT (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9178
+#EXTINF:-1,|FR| CINE+ EMOTION (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9165
+#EXTINF:-1,|FR| CINE+ FAMIZ (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9153
+#EXTINF:-1,|FR| CINE+ FRISSON (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9171
+#EXTINF:-1,|FR| CINE+ PREMIER (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9164
+#EXTINF:-1,|FR| OCS CHOC (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9152
+#EXTINF:-1,|FR| OCS CITY (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9155
+#EXTINF:-1,|FR| OCS GEANTS (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9154
+#EXTINF:-1,|FR| OCS MAX (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9156
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9146
+#EXTINF:-1,|FR| DISCOVERY SCIENCE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9147
+#EXTINF:-1,|FR| DISCOVERY FAMILY (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9148
+#EXTINF:-1,|FR| DISCOVERY (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9149
+#EXTINF:-1,|FR| NATIONAL GEO (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9161
+#EXTINF:-1,|FR| NAT GEO WILD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9176
+#EXTINF:-1,|FR| DISNEY JUNIOR (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9159
+#EXTINF:-1,|FR| CANAL J (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9142
+#EXTINF:-1,|FR| EQUIDIA (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9157
+#EXTINF:-1,|FR| EUROSPORT 1 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9133
+#EXTINF:-1,|FR| EUROSPORT 2 (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9132
+#EXTINF:-1,|FR| M6 MUSIC (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9175
+#EXTINF:-1,|FR| ALTICE STUDIO (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9136
+#EXTINF:-1,|FR| ANIMAUX (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9177
+#EXTINF:-1,|FR| NICKELODEON (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9129
+#EXTINF:-1,|FR| NICKELODEON 4TEEN (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9130
+#EXTINF:-1,|FR| NON STOP PEOPLE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9134
+#EXTINF:-1,|FR| PLANETE A&E (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9140
+#EXTINF:-1,|FR| RMC DECOUVERTE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9127
+#EXTINF:-1,|FR| SEASONS (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9125
+#EXTINF:-1,|FR| USHUAIA (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9141
+#EXTINF:-1,|FR| WARNER TV (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9135
+#EXTINF:-1,|FR| ULTRA NATURE (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9170
+#EXTINF:-1,|FR| TF1 SERIES FILMS FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012453
+#EXTINF:-1,|FR| BFM PARIS FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012454
+#EXTINF:-1,|FR| PLANETE+ CI FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012455
+#EXTINF:-1,|FR| CHASSE ET PECHE FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012456
+#EXTINF:-1,|FR| SCIENCE ET VIE FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012457
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012458
+#EXTINF:-1,|FR| MCM TOP FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012459
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012460
+#EXTINF:-1,|FR| TEVA FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012461
+#EXTINF:-1,|FR| MY CUISINE FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012462
+#EXTINF:-1,|FR| ACTION FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012463
+#EXTINF:-1,|FR| GULLI FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012464
+#EXTINF:-1,|FR| BFM TV FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012465
+#EXTINF:-1,|FR| LCI FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012466
+#EXTINF:-1,|FR| CNEWS FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012467
+#EXTINF:-1,|FR| FRANCE 4 FHD (H.265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/265012468
+#EXTINF:-1,----------- BOUQUET BELGES -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2753
+#EXTINF:-1,|BE| LA UNE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/8614
+#EXTINF:-1,|BE| LA UNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/132
+#EXTINF:-1,|BE| PLUG RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/8613
+#EXTINF:-1,|BE| PLUG RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/131
+#EXTINF:-1,|BE| RTL TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/8318
+#EXTINF:-1,|BE| RTL TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/130
+#EXTINF:-1,|BE| CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2756
+#EXTINF:-1,|BE| CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2757
+#EXTINF:-1,|BE| BE SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/675
+#EXTINF:-1,|BE| CLUB RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/676
+#EXTINF:-1,|BE| LA DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/134
+#EXTINF:-1,|BE| LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/133
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4244
+#EXTINF:-1,|BE| VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2186
+#EXTINF:-1,|BE| VOO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2768
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3291
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3500
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3501
+#EXTINF:-1,|BE| ELEVEN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3614
+#EXTINF:-1,|BE| ELEVEN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3615
+#EXTINF:-1,|BE| 2BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/673
+#EXTINF:-1,|BE| EEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4008
+#EXTINF:-1,|BE| KADET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4009
+#EXTINF:-1,|BE| VIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4007
+#EXTINF:-1,|BE| VIJF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4005
+#EXTINF:-1,|BE| ZES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/4006
+#EXTINF:-1,----------- FILMS OCS -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3606
+#EXTINF:-1,|FR|ORANGE CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3605
+#EXTINF:-1,|FR|ORANGE CINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3604
+#EXTINF:-1,|FR|ORANGE CINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3603
+#EXTINF:-1,|FR|ORANGE CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3602
+#EXTINF:-1,|FR|ORANGE CINE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3601
+#EXTINF:-1,|FR|OCS GO CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3600
+#EXTINF:-1,|FR|OCS GO CINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3599
+#EXTINF:-1,|FR|OCS GO CINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3598
+#EXTINF:-1,|FR|OCS GO CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3597
+#EXTINF:-1,|FR|OCS GO CINE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3627
+#EXTINF:-1,|FR|OCS GO CINE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3628
+#EXTINF:-1,|FR|OCS GO CINE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3629
+#EXTINF:-1,|FR|OCS GO CINE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3596
+#EXTINF:-1,----------- CHAINES CANALPLAY -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2473
+#EXTINF:-1,|FR| CANAL PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2351
+#EXTINF:-1,|FR| CANAL PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2352
+#EXTINF:-1,|FR| CANAL PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2353
+#EXTINF:-1,|FR| CANAL PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2354
+#EXTINF:-1,|FR| CANAL PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2355
+#EXTINF:-1,|FR| CANAL PLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2356
+#EXTINF:-1,|FR| CANAL PLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3345
+#EXTINF:-1,|FR| CANAL PLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3346
+#EXTINF:-1,|FR| CANAL PLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3347
+#EXTINF:-1,|FR| CANAL PLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3348
+#EXTINF:-1,----------- CHAINES A LA CARTE -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2472
+#EXTINF:-1,|FR|  A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/49
+#EXTINF:-1,|FR|  A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/48
+#EXTINF:-1,|FR|  A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/47
+#EXTINF:-1,|FR|  A LA CARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/46
+#EXTINF:-1,|FR|  A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/45
+#EXTINF:-1,|FR|  A LA CARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1817
+#EXTINF:-1,|FR|  A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/962
+#EXTINF:-1,|FR|  A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1591
+#EXTINF:-1,|FR|  A LA CARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1590
+#EXTINF:-1,|FR|  A LA CARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/960
+#EXTINF:-1,----------- CHAINES SUISSES -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2718
+#EXTINF:-1,|FR| RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2345
+#EXTINF:-1,|FR| RTS  DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2690

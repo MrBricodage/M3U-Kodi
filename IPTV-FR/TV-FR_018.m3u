@@ -1,203 +1,693 @@
 #EXTM3U
-#EXTINF:-1,|FR| FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
-#EXTINF:-1,M6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/5.m3u8
-#EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/6.m3u8
-#EXTINF:-1,M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
-#EXTINF:-1,TMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/8.m3u8
-#EXTINF:-1,TMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
-#EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/11.m3u8
-#EXTINF:-1,W9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/12.m3u8
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
-#EXTINF:-1,EQUIPE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
-#EXTINF:-1,|FR| TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
-#EXTINF:-1,|FR| FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
-#EXTINF:-1,|FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
-#EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
-#EXTINF:-1,TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
-
-#EXTINF:-1,RMC SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
-#EXTINF:-1,RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
-#EXTINF:-1,RMC SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
-
-#EXTINF:-1,RMC SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/61.m3u8
-#EXTINF:-1,RMC SPORT 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
-
-#EXTINF:-1,FR:CINE  CLUBsu@29
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3997.m3u8
-#EXTINF:-1,FR:WARNERsu@30
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3998.m3u8
-#EXTINF:-1,FR:ALTICE STUDIOsu@31
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3999.m3u8
-#EXTINF:-1,FR:LEQUIPE 21su@20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4000.m3u8
-#EXTINF:-1,FR:EUROSPORT 2su@21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4001.m3u8
-#EXTINF:-1,FR:CINE  PREMIER HDsu@22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4002.m3u8
-#EXTINF:-1,FR:CINE  FRISSON HDsu@23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4003.m3u8
-#EXTINF:-1,FR:CANAL SERIES HDsu@24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4004.m3u8
-#EXTINF:-1,FR:OCS CHOC HDsu@25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4005.m3u8
-#EXTINF:-1,FR:OCS MAXsu@26
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4006.m3u8
-#EXTINF:-1,FR:TOUTE L HISTOIRE HDsu@40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3983.m3u8
-#EXTINF:-1,FR:PLANETE  CIsu@41
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3984.m3u8
-#EXTINF:-1,FR:ANIMAUX HDsu@42
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3985.m3u8
-#EXTINF:-1,FR:EQUIDIA LIFEsu@43
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3986.m3u8
-#EXTINF:-1,FR:DISNEY CINEMA HDsu@28
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3996.m3u8
-#EXTINF:-1,FR:OCS GEANTsu@27
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3995.m3u8
-#EXTINF:-1,FR:GAME ONE +1 HDsu@52
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3994.m3u8
-#EXTINF:-1,FR:TIJI HDsu@51
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3993.m3u8
-#EXTINF:-1,FR:CANAL Jsu@50
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3992.m3u8
-#EXTINF:-1,FR:GULLIsu@49
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3991.m3u8
-#EXTINF:-1,FR:MANGASsu@4748
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3990.m3u8
-#EXTINF:-1,FR:DISNEY CHANNELsu@46
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3989.m3u8
-#EXTINF:-1,FR: DISNEY Xd HDsu@45
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3988.m3u8
-#EXTINF:-1,FR:PARAMOUNT CHANNEL HDsu@44
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3987.m3u8
-#EXTINF:-1,FR: CINE +  EMOTION HD@39
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3982.m3u8
-#EXTINF:-1,FR:CINE + CLUBsu@38
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3981.m3u8
-#EXTINF:-1,FR:CANAL +su@37
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3980.m3u8
-#EXTINF:-1,FR:RTS KIDSsu@36
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3979.m3u8
-#EXTINF:-1,FR:BOINGsu@35
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3978.m3u8
-#EXTINF:-1,FR:RMC DECOUVERTE HDsu@34
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3977.m3u8
-#EXTINF:-1,FR:SEASONsu@33
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3976.m3u8
-#EXTINF:-1,FR:COMEDIE +su@32
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3975.m3u8
-#EXTINF:-1,FR: INFOSPORTsu@19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3974.m3u8
-#EXTINF:-1,FR: RMC SPORT 4su@18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3973.m3u8
-#EXTINF:-1,FR: RMC SPORT 3su@17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3972.m3u8
-#EXTINF:-1,FR: RMC SPORT 2su@16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3971.m3u8
-#EXTINF:-1,FR: RMC SPORT 1su@15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3970.m3u8
-#EXTINF:-1,FR: ARTEsu@13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3968.m3u8
-#EXTINF:-1,FR: Ushuaia TV HDsu@14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3969.m3u8
-#EXTINF:-1,FR: RMC STORYsu@12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3967.m3u8
-#EXTINF:-1,FR: BFM TVsu@11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3966.m3u8
-#EXTINF:-1,FR: EQUIDIA LIFEsu@10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3965.m3u8
-#EXTINF:-1,FR: HD1su@9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3964.m3u8
-#EXTINF:-1,FR: RTL9su@8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3963.m3u8
-#EXTINF:-1,FR: C8 HDsu@7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3962.m3u8
-#EXTINF:-1,FR: FRANCE Osu@6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3961.m3u8
-#EXTINF:-1,FR: FRANCE 5su@5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3960.m3u8
-#EXTINF:-1,FR: FRANCE 4su@4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3959.m3u8
-#EXTINF:-1,FR. FRANCE 3su@3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3958.m3u8
-#EXTINF:-1,FR: FRANCE 2su@2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3957.m3u8
-#EXTINF:-1,FR: TF1 HD su@1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3956.m3u8
-
-#EXTINF:-1,FR:W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/894.m3u8
-#EXTINF:-1,FR:Ushuaia_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/895.m3u8
-#EXTINF:-1,FR:Tout_LHistoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/884.m3u8
-#EXTINF:-1,FR:TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/888.m3u8
-#EXTINF:-1,FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/887.m3u8
-#EXTINF:-1,FR:Disney_Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/889.m3u8
-#EXTINF:-1,FR:RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/885.m3u8
-#EXTINF:-1,FR:Planete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/883.m3u8
-#EXTINF:-1,FR:PIWI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/891.m3u8
-#EXTINF:-1,FR:NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/882.m3u8
-#EXTINF:-1,FR:Nat_Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/881.m3u8
-#EXTINF:-1,FR:M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/880.m3u8
-#EXTINF:-1,FR:Infosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/879.m3u8
-#EXTINF:-1,FR:GULLI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/893.m3u8
-#EXTINF:-1,FR:France_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/845.m3u8
-#EXTINF:-1,FR:France_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/842.m3u8
-#EXTINF:-1,FR:Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/878.m3u8
-#EXTINF:-1,FR:CINE_POLAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/847.m3u8
-#EXTINF:-1,FR:CINE_CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/848.m3u8
-#EXTINF:-1,FR:CINE_FAMIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/851.m3u8
-#EXTINF:-1,FR:Chasse_Et_Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/857.m3u8
-#EXTINF:-1,FR:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/877.m3u8
-#EXTINF:-1,FR:Canal_J
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/892.m3u8
-#EXTINF:-1,FR:CANAL_SPORT_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/853.m3u8
-#EXTINF:-1,FR:CANAL_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/854.m3u8
-#EXTINF:-1,FR:CANAL_DECALE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/855.m3u8
-#EXTINF:-1,FR:Animaux_hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/876.m3u8
-#EXTINF:-1,FR:Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/890.m3u8
+#EXTINF:-1,FR_A_LA_CARTE_01 ( 6 Underground )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/65
+#EXTINF:-1,FR_A_LA_CARTE_02 ( Joker )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/66
+#EXTINF:-1,FR_A_LA_CARTE_03 ( Hacker )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/67
+#EXTINF:-1,FR_A_LA_CARTE_04 ( Togo )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/68
+#EXTINF:-1,FR_A_LA_CARTE_05 ( Maléfique )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/69
+#EXTINF:-1,FR_A_LA_CARTE_06 ( Spider-Man Far From Home )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/70
+#EXTINF:-1,FR_A_LA_CARTE_07 ( Inside Man Most Wanted )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/71
+#EXTINF:-1,FR_A_LA_CARTE_08 ( Drone Wars )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/72
+#EXTINF:-1,FR_Orange_Cine+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2331
+#EXTINF:-1,FR_Orange_Cine+2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2332
+#EXTINF:-1,FR_Orange_Cine+3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2333
+#EXTINF:-1,FR_Orange_Cine+4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2334
+#EXTINF:-1,FR_Orange_Cine+5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2335
+#EXTINF:-1,FR_OCS_GO_CINE+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2873
+#EXTINF:-1,FR_OCS_GO_CINE+2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2874
+#EXTINF:-1,FR_OCS_GO_CINE+3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2875
+#EXTINF:-1,FR_OCS_GO_CINE+4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2876
+#EXTINF:-1,FR_OCS_GO_CINE+5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2877
+#EXTINF:-1,FR_CANAL_PLAY_01 [ King Arthur Legend Of The Sword ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50
+#EXTINF:-1,FR_CANAL_PLAY_02 [ Security ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51
+#EXTINF:-1,FR_CANAL_PLAY_03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52
+#EXTINF:-1,FR_CANAL_PLAY_04 [ The Mummy ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/53
+#EXTINF:-1,FR_CANAL_PLAY_05 [ Megan Leavey ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/54
+#EXTINF:-1,FR_CANAL_PLAY_06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/55
+#EXTINF:-1,FR_CANAL_PLAY_07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/56
+#EXTINF:-1,FR_CANAL_PLAY_08 [Jour J]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/57
+#EXTINF:-1,FR_CANAL_PLAY_09 [  Chez Nous ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/58
+#EXTINF:-1,FR_CANAL_PLAY_10 [L'Empereur de Paris]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/59
+#EXTINF:-1,FR_CANAL_PLAY_11 [ Don't Kill It ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/60
+#EXTINF:-1,FR_CANAL_PLAY_12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/61
+#EXTINF:-1,FR_CANAL_PLAY_13 [C O U ]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/62
+#EXTINF:-1,FR_CANAL_PLAY_14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/63
+#EXTINF:-1,FR_CANAL_PLAY_15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/64
+#EXTINF:-1,FR_FRANCE_02_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3217
+#EXTINF:-1,FR_France_03_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2500
+#EXTINF:-1,FR_France_04_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3218
+#EXTINF:-1,FR_FRANCE_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4005
+#EXTINF:-1,FR_FRANCE_O_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2528
+#EXTINF:-1,FR_FRANCE_INFO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48877
+#EXTINF:-1,FR_CANAL+_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3326
+#EXTINF:-1,FR_CANAL+_sports_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50145
+#EXTINF:-1,FR_CANAl+_CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49749
+#EXTINF:-1,FR_CANAL+_FAMILY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2639
+#EXTINF:-1,FR_CANAL+_DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1994
+#EXTINF:-1,FR_CANAL_J_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1460
+#EXTINF:-1,FR_Cine_Premier_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3327
+#EXTINF:-1,Fr_Cine_Frisson_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3328
+#EXTINF:-1,FR_Cine_Famiz_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3330
+#EXTINF:-1,FR_Cine_Emotion_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/84
+#EXTINF:-1,FR_Cine_Classic_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/82
+#EXTINF:-1,FR_Cine_POLAR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/128
+#EXTINF:-1,FR_Passion_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52053
+#EXTINF:-1,FR_TF1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3316
+#EXTINF:-1,FR_TF1_HD_+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51664
+#EXTINF:-1,FR_TF1_SERIES_FILMS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3224
+#EXTINF:-1,FR_M6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2664
+#EXTINF:-1,FR_RTL9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/375
+#EXTINF:-1,FR_13eme_Rue_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3346
+#EXTINF:-1,FR_W9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3221
+#EXTINF:-1,FR_ACTION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/126
+#EXTINF:-1,FR_Syfy_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3220
+#EXTINF:-1,FR_C_Star_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/103
+#EXTINF:-1,FR_C8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/102
+#EXTINF:-1,FR_TREK_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3678
+#EXTINF:-1,FR_TFX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/376
+#EXTINF:-1,FR_TCM_Cinema_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1696
+#EXTINF:-1,FR_SERIE_CLUB_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3222
+#EXTINF:-1,FR_6ter_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2499
+#EXTINF:-1,FR_TEVA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2501
+#EXTINF:-1,FR_Crime_District_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51046
+#EXTINF:-1,FR_Tvm3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2660
+#EXTINF:-1,FR_TMC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3223
+#EXTINF:-1,FR_AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1694
+#EXTINF:-1,FR_Arte_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/373
+#EXTINF:-1,FR_Chasse_et_Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/116
+#EXTINF:-1,FR_NATIONAL_GEO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/113
+#EXTINF:-1,FR_PARAMOUNT_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2291
+#EXTINF:-1,FR_PARAMOUNT_CHANNEL_DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51173
+#EXTINF:-1,FR_NATIONAL_GEO_WILD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3397
+#EXTINF:-1,FR_Science_et_Vie_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2662
+#EXTINF:-1,FR_NRJ_12_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1456
+#EXTINF:-1,FR_PARIS_PREMIERE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/119
+#EXTINF:-1,FR_AB_MOTEURS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1792
+#EXTINF:-1,FR_AB1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/123
+#EXTINF:-1,FR_TVBREIZH_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1562
+#EXTINF:-1,FR_COMEDIE+_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1458
+#EXTINF:-1,FR_ELLE_GIRL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3184
+#EXTINF:-1,FR_Cherie_25_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1459
+#EXTINF:-1,FR_ANIMAUX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/114
+#EXTINF:-1,FR_IL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1685
+#EXTINF:-1,FR_Alsace_20_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1683
+#EXTINF:-1,FR_Toute_l'Histoire_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4496
+#EXTINF:-1,FR_Ushuaia_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/112
+#EXTINF:-1,FR_Discovery_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/109
+#EXTINF:-1,FR_Discovery_Science_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/110
+#EXTINF:-1,FR_I24_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1644
+#EXTINF:-1,FR_Voyage_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/124
+#EXTINF:-1,FR_PLANETE_A&E_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4495
+#EXTINF:-1,FR_PLANETE+_CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2058
+#EXTINF:-1,FR_PLANETE+_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4494
+#EXTINF:-1,FR_BFM_Business_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/379
+#EXTINF:-1,FR_BFM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/378
+#EXTINF:-1,FR_SEASON_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2892
+#EXTINF:-1,FR_M6_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/97
+#EXTINF:-1,FR_MTV_Base_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1667
+#EXTINF:-1,FR_MTV_MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1668
+#EXTINF:-1,FR_NRJ_hit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1455
+#EXTINF:-1,FR_France_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/101
+#EXTINF:-1,FR_LA_CHAINE_NORMANDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1686
+#EXTINF:-1,FR_TV5_MONDE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49608
+#EXTINF:-1,FR_OCS_GEANT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/90
+#EXTINF:-1,FR_OCS_CHOC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/89
+#EXTINF:-1,FR_OCS_City_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/88
+#EXTINF:-1,FR_OCS_Max_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/87
+#EXTINF:-1,FR_Gulli_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/117
+#EXTINF:-1,FR_Nickelodeon_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3843
+#EXTINF:-1,FR_Mangas_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/122
+#EXTINF:-1,FR_Nickelodeon_4_Teens_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4727
+#EXTINF:-1,FR_Piwi_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/374
+#EXTINF:-1,FR_TELETOON+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/94
+#EXTINF:-1,FR_TIJI_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2102
+#EXTINF:-1,FR_DISNEY_JUNIOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48619
+#EXTINF:-1,FR_DISNEY_CHANNEL_+1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3174
+#EXTINF:-1,FR_Disney_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/120
+#EXTINF:-1,FR_Disney_XD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3251
+#EXTINF:-1,FR_BOING_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1457
+#EXTINF:-1,FR_J-ONE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48781
+#EXTINF:-1,FR_TOONAMI_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50800
+#EXTINF:-1,FR_Cartoon_Network_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50953
+#EXTINF:-1,FR_Disney_Cinema_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50936
+#EXTINF:-1,FR_NICKELODEON_JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51662
+#EXTINF:-1,FR_GAME_ONE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2105
+#EXTINF:-1,FR_Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1461
+#EXTINF:-1,FR_Equidia_Live_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2897
+#EXTINF:-1,FR_INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/91
+#EXTINF:-1,FR_GOLF+_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2452
+#EXTINF:-1,FR_Golf_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49862
+#EXTINF:-1,FR_Foot+ 24/24_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51646
+#EXTINF:-1,FR_BeIN_SPORTS_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3682
+#EXTINF:-1,FR_BeIN_SPORTS_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47302
+#EXTINF:-1,FR_BeIN_SPORTS_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3680
+#EXTINF:-1,FR_RMC_Sport_03_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46712
+#EXTINF:-1,FR_EUROSPORT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51512
+#EXTINF:-1,FR_EUROSPORT_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51513
+#EXTINF:-1,FR_RMC_Sport_01_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3720
+#EXTINF:-1,FR_BFM_PARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48846
+#EXTINF:-1,FR_RMC_SPORT_NEWS_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50920
+#EXTINF:-1,FR_RMC_Sport_01_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2252
+#EXTINF:-1,FR_RMC_SPORT_03_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2279
+#EXTINF:-1,FR_RMC_Sport_04_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50383
+#EXTINF:-1,FR_RMC_SPORT_04_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50384
+#EXTINF:-1,FR_RMC_SPORT_LIVE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51276
+#EXTINF:-1,FR_RMC_SPORT_LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51275
+#EXTINF:-1,FR_RMC_SPORT_LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51274
+#EXTINF:-1,FR_RMC_SPORT_LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51273
+#EXTINF:-1,FR_RMC_SPORT_LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51272
+#EXTINF:-1,FR_RMC_SPORT_LIVE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51271
+#EXTINF:-1,FR_RMC_SPORT_LIVE 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51270
+#EXTINF:-1,FR_RMC_SPORT_LIVE 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51269
+#EXTINF:-1,FR_RMC_ACCESS_SPORT_02_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51268
+#EXTINF:-1,FR_RMC_ACCESS_SPORT_01_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51267
+#EXTINF:-1,FR_RMC_Sport_02_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46711
+#EXTINF:-1,FR_BeIN_SPORTS_3_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52172
+#EXTINF:-1,BE: Q2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2348
+#EXTINF:-1,BE: VTMKazoom/Kanaal Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2339
+#EXTINF:-1,BE: VTM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1453
+#EXTINF:-1,BE: Vitaya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1449
+#EXTINF:-1,BE: VIJF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1451
+#EXTINF:-1,BE: VIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1450
+#EXTINF:-1,BE: TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/457
+#EXTINF:-1,BE: RTL TVI FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/716
+#EXTINF:-1,BE: PLUG RTL FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/709
+#EXTINF:-1,BE: LA UNE HD FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/705
+#EXTINF:-1,BE: LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/707
+#EXTINF:-1,BE: LA DEUX FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/706
+#EXTINF:-1,BE: KetOp12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2340
+#EXTINF:-1,BE: een HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/712
+#EXTINF:-1,BE: CLUB RTL FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/710
+#EXTINF:-1,BE: Canvas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/713
+#EXTINF:-1,BE: ATV Antwerpen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46687
+#EXTINF:-1,BE: BEL RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46688
+#EXTINF:-1,BE: BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46690
+#EXTINF:-1,BE: BXL1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49405
+#EXTINF:-1,BE: CAZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46698
+#EXTINF:-1,BE: CINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46678
+#EXTINF:-1,BE: CINEMA 1 FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46677
+#EXTINF:-1,BE: CINEMA 2 FR-BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46676
+#EXTINF:-1,BE: CANAL ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49610
+#EXTINF:-1,BE: MY COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50140
+#EXTINF:-1,BE: KADET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46697
+#EXTINF:-1,BE: KETNET Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46695
+#EXTINF:-1,BE: RTL LUXENBURG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46692
+#EXTINF:-1,BE: ZES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/46700
+#EXTINF:-1,BE: VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48847
+#EXTINF:-1,BE: Voo Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48848
+#EXTINF:-1,BE: Voo Sport World 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49487
+#EXTINF:-1,BE: Voo Sport World 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49486
+#EXTINF:-1,BE: Voo Sport World 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49485
+#EXTINF:-1,BE: DOBBIT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50935
+#EXTINF:-1,FR_Luxe_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48560
+#EXTINF:-1,FR_POLAR_+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48558
+#EXTINF:-1,FR_BBLACK_AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48783
+#EXTINF:-1,FR_BBLACK_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48784
+#EXTINF:-1,FR_Clubbing_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48786
+#EXTINF:-1,FR_ALTICE_STUDIO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50067
+#EXTINF:-1,FR_ALTICE_STUDIO_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48559
+#EXTINF:-1,FR_VICELAND_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4773
+#EXTINF:-1,FR_WARNER_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49198
+#EXTINF:-1,FR_MY_CUISINE_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49200
+#EXTINF:-1,FR_DISCOVERY_FAMILY_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49202
+#EXTINF:-1,FR_OL_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50064
+#EXTINF:-1,FR_OL_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4729
+#EXTINF:-1,FR_AB_EXPLORE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50934
+#EXTINF:-1,FR_MOTORSPORT_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48785
+#EXTINF:-1,FR_MOTORSPORT_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51663
+#EXTINF:-1,FR_NOVELAS_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51168
+#EXTINF:-1,FR_TF1_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/95
+#EXTINF:-1,FR_TF1_SERIES_FILMS_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50139
+#EXTINF:-1,FR_France_02_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/98
+#EXTINF:-1,FR_France_03_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/99
+#EXTINF:-1,FR_France_04_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/100
+#EXTINF:-1,FR_FRANCE_5_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/1695
+#EXTINF:-1,FR_FRANCE_O_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51043
+#EXTINF:-1,FR_M6_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/96
+#EXTINF:-1,FR_W9_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/107
+#EXTINF:-1,FR_13eme_Rue_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/104
+#EXTINF:-1,FR_RTL9_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3676
+#EXTINF:-1,FR_TEVA_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/108
+#EXTINF:-1,FR_TREK_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49466
+#EXTINF:-1,FR_Syfy_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/106
+#EXTINF:-1,FR_Action_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4555
+#EXTINF:-1,FR_6ter_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/372
+#EXTINF:-1,FR_C8_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4501
+#EXTINF:-1,FR_CSTAR_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4500
+#EXTINF:-1,FR_CANAL+_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/76
+#EXTINF:-1,FR_Canal+_Sports_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49208
+#EXTINF:-1,FR_CANAL+_CINEMA_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/78
+#EXTINF:-1,FR_CANAL+_DECALE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/77
+#EXTINF:-1,FR_Canal+_Family_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49209
+#EXTINF:-1,FR_CANAL+_SERIES_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/79
+#EXTINF:-1,FR_Cine_Premier_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/85
+#EXTINF:-1,FR_Cine_POLAR_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4548
+#EXTINF:-1,Fr_Cine_Frisson_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/86
+#EXTINF:-1,FR_Cine_Famiz_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/83
+#EXTINF:-1,FR_Cine_Emotion_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3332
+#EXTINF:-1,FR_Cine_Club_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2292
+#EXTINF:-1,FR_Cine_Classic_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48671
+#EXTINF:-1,FR_OCS_Max_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47774
+#EXTINF:-1,FR_OCS_GEANT_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47776
+#EXTINF:-1,FR_OCS_City_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47777
+#EXTINF:-1,FR_OCS_CHOC_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47779
+#EXTINF:-1,FR_AB1_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48676
+#EXTINF:-1,FR_AB3_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48677
+#EXTINF:-1,FR_Arte_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48669
+#EXTINF:-1,FR_MTV_France_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48675
+#EXTINF:-1,FR_Disney_XD_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2451
+#EXTINF:-1,FR_CANAL_J_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47805
+#EXTINF:-1,FR_Boing_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48626
+#EXTINF:-1,FR_One_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48682
+#EXTINF:-1,FR_Comedie_+_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48674
+#EXTINF:-1,FR_Bet_Etoile_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48678
+#EXTINF:-1,FR_DISNEY_JUNIOR_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2298
+#EXTINF:-1,FR_Ushuaia_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48680
+#EXTINF:-1,FR_Disney_Channel_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48622
+#EXTINF:-1,FR_Crime_District_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48673
+#EXTINF:-1,FR_Voyage_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47759
+#EXTINF:-1,FR_TMC_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/371
+#EXTINF:-1,FR_TCM_Cinema_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4547
+#EXTINF:-1,FR_SERIE_CLUB_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/105
+#EXTINF:-1,FR_TIJI_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47798
+#EXTINF:-1,FR_Piwi_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47793
+#EXTINF:-1,FR_Manga_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47803
+#EXTINF:-1,FR_Nickelodeon_4Teen_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50485
+#EXTINF:-1,FR_GAME_ONE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47801
+#EXTINF:-1,FR_TOONAMI_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48782
+#EXTINF:-1,FR_Gulli_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47800
+#EXTINF:-1,FR_Cartoon_Network_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50952
+#EXTINF:-1,FR_Disney_Cinema_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50937
+#EXTINF:-1,FR_Boomerang_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48565
+#EXTINF:-1,FR_J-ONE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49859
+#EXTINF:-1,FR_ELLE_GIRL_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47753
+#EXTINF:-1,FR_Cherie_25_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/3314
+#EXTINF:-1,FR_ANIMAUX_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47758
+#EXTINF:-1,FR_NATIONAL_GEO_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4502
+#EXTINF:-1,FR_NATIONAL_GEO_WILD_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/48679
+#EXTINF:-1,FR_PARAMOUNT_CHANNEL_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51174
+#EXTINF:-1,FR_PARAMOUNT_CHANNEL_DECALE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51164
+#EXTINF:-1,FR_TVBREIZH_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4556
+#EXTINF:-1,FR_Planete_+_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/111
+#EXTINF:-1,FR_PLANETE+_CI_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50482
+#EXTINF:-1,FR_PLANETE_+_A&E_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2059
+#EXTINF:-1,FR_DISCOVERY_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49688
+#EXTINF:-1,FR_DISCOVERY_INVESTIGATION_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49211
+#EXTINF:-1,FR_Discovery_Science_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49860
+#EXTINF:-1,FR_SEASON_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50915
+#EXTINF:-1,FR_TV5_MONDE_INFO_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49607
+#EXTINF:-1,FR_FOOT+ 24/24 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47781
+#EXTINF:-1,FR_PARIS_PREMIERE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50440
+#EXTINF:-1,FR_BFM_Business_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47785
+#EXTINF:-1,FR_Science_et_Vie_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50438
+#EXTINF:-1,FR_GOLF+_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49122
+#EXTINF:-1,FR_Golf_Channel_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2896
+#EXTINF:-1,FR_EQUIDIA_LIVE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49748
+#EXTINF:-1,FR_C_NEWS_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50857
+#EXTINF:-1,FR_TFX_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4546
+#EXTINF:-1,FR_NRJ_12_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49609
+#EXTINF:-1,FR_MEZZO_LIVE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49684
+#EXTINF:-1,FR_Foot+ 24/24_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51647
+#EXTINF:-1,FR_RMC_Decouvert_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/4553
+#EXTINF:-1,FR_RMC_Story_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/47752
+#EXTINF:-1,FR_RMC_Sport_02_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/2103
+#EXTINF:-1,FR_BEIN_SPORT_MAX_04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49620
+#EXTINF:-1,FR_BEIN_SPORT_MAX_05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49619
+#EXTINF:-1,FR_BEIN_SPORT_MAX_06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49618
+#EXTINF:-1,FR_BEIN_SPORT_MAX_07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49617
+#EXTINF:-1,FR_BEIN_SPORT_MAX_08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49616
+#EXTINF:-1,FR_BEIN_SPORT_MAX_09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49615
+#EXTINF:-1,FR_BEIN_SPORT_MAX_10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49614
+#EXTINF:-1,FR_INFOSPORT_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50296
+#EXTINF:-1,FR_EUROSPORT_1_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51644
+#EXTINF:-1,FR_EUROSPORT_2_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51645
+#EXTINF:-1,FR_BFM_PARIS_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52223
+#EXTINF:-1,FR_Weo_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49158
+#EXTINF:-1,FR_E!_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52238
+#EXTINF:-1,FR_Investigation_Discovery_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/52257
+#EXTINF:-1,FR_BRAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49271
+#EXTINF:-1,FR_FASHION_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49265
+#EXTINF:-1,FR_FASHION_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49707
+#EXTINF:-1,FR_E!_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49266
+#EXTINF:-1,FR_HIT_TV_MUSIC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49258
+#EXTINF:-1,FR_KTO_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49257
+#EXTINF:-1,FR_LCP_ASSEMBLEE_NATIONALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49254
+#EXTINF:-1,FR_LUCKY_JACK_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49255
+#EXTINF:-1,FR_AUTOMOTO_LA_CHAINE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49262
+#EXTINF:-1,FR_VOSGES_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49261
+#EXTINF:-1,FR_PITCHOUN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49270
+#EXTINF:-1,FR_OUATCH_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49705
+#EXTINF:-1,FR_LEMAN_BLEU_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/49752
+#EXTINF:-1,FR_SUNDANCE_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50059
+#EXTINF:-1,FR_FIGHT_SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50062
+#EXTINF:-1,FR_LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50065
+#EXTINF:-1,FR_C_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50066
+#EXTINF:-1,FR_ROUGE_TV_FullHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50163
+#EXTINF:-1,FR_TV7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/50165
+#EXTINF:-1,FR_TV8_MONT_BLANC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51613
+#EXTINF:-1,FR_LA_TELE_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fungoldiptv.ddns.me:25461/bagio19821/5NkVOMys2i/51608

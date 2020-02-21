@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
+#EXTINF:-1,EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
+#EXTINF:-1,|FR| TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
+#EXTINF:-1,TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
+#EXTINF:-1,TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
 #EXTINF:-1,|FR| FRANCE 3 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
 #EXTINF:-1,M6 SD
@@ -15,20 +29,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.pr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/11.m3u8
 #EXTINF:-1,W9 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/12.m3u8
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
-#EXTINF:-1,EQUIPE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
-#EXTINF:-1,|FR| TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
-#EXTINF:-1,|FR| FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
-#EXTINF:-1,|FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
-#EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
-#EXTINF:-1,TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
 
 #EXTINF:-1,FR:W9
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/894.m3u8
@@ -86,145 +86,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universe
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/876.m3u8
 #EXTINF:-1,FR:Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/890.m3u8
-
-#EXTINF:-1,FR: TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/333.m3u8
-#EXTINF:-1,FR: TF1 +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/334.m3u8
-#EXTINF:-1,FR: TF1 Séries Films
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/335.m3u8
-#EXTINF:-1,FR: France 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/336.m3u8
-#EXTINF:-1,FR: France 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/337.m3u8
-#EXTINF:-1,FR: France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/338.m3u8
-#EXTINF:-1,FR: France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/339.m3u8
-#EXTINF:-1,FR: France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/340.m3u8
-#EXTINF:-1,FR: France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/341.m3u8
-#EXTINF:-1,FR: LCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/342.m3u8
-#EXTINF:-1,FR: RTS Un
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/343.m3u8
-#EXTINF:-1,FR: RTS Deux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/344.m3u8
-#EXTINF:-1,FR: M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/345.m3u8
-#EXTINF:-1,FR: M6 Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/346.m3u8
-#EXTINF:-1,FR: W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/347.m3u8
-#EXTINF:-1,FR: NRJ 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/348.m3u8
-#EXTINF:-1,FR: Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/349.m3u8
-#EXTINF:-1,FR: TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/350.m3u8
-#EXTINF:-1,FR: Piwi +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/351.m3u8
-#EXTINF:-1,FR: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/352.m3u8
-#EXTINF:-1,FR: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/353.m3u8
-#EXTINF:-1,FR: Nickelodeon 4Teen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/354.m3u8
-#EXTINF:-1,FR: Comedie+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/355.m3u8
-#EXTINF:-1,FR: Cine+ Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/356.m3u8
-#EXTINF:-1,FR: Cine+ Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/357.m3u8
-#EXTINF:-1,FR: Cine+ Famiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/358.m3u8
-#EXTINF:-1,FR: Cine+ Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/359.m3u8
-#EXTINF:-1,FR: Cine+ Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/360.m3u8
-#EXTINF:-1,FR: Canal+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/361.m3u8
-#EXTINF:-1,FR: Canal+ Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/362.m3u8
-#EXTINF:-1,FR: Canal+ Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/363.m3u8
-#EXTINF:-1,FR: Canal+ Séries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/364.m3u8
-#EXTINF:-1,FR: Canal+ Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/365.m3u8
-#EXTINF:-1,FR: Golf+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/366.m3u8
-#EXTINF:-1,FR: RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/367.m3u8
-#EXTINF:-1,FR: beIN Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/368.m3u8
-#EXTINF:-1,FR: beIN Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/369.m3u8
-#EXTINF:-1,FR: beIN Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/370.m3u8
-#EXTINF:-1,FR: RMC Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/371.m3u8
-#EXTINF:-1,FR: RMC Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/372.m3u8
-#EXTINF:-1,FR: RMC Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/373.m3u8
-#EXTINF:-1,FR: RMC Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/374.m3u8
-#EXTINF:-1,FR: CStar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/375.m3u8
-#EXTINF:-1,FR: BFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/376.m3u8
-#EXTINF:-1,FR: Numéro 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/377.m3u8
-#EXTINF:-1,FR: Trek
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/378.m3u8
-#EXTINF:-1,FR: OCS City
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/379.m3u8
-#EXTINF:-1,FR: OCS Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/380.m3u8
-#EXTINF:-1,FR: OCS Geants
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/381.m3u8
-#EXTINF:-1,FR: Chérie 25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/382.m3u8
-#EXTINF:-1,FR: Ciné Polar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/383.m3u8
-#EXTINF:-1,FR: Canal 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/384.m3u8
-#EXTINF:-1,FR: Canal J
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/385.m3u8
-#EXTINF:-1,FR: TFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/386.m3u8
-#EXTINF:-1,FR: TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/387.m3u8
-#EXTINF:-1,FR: E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/388.m3u8
-#EXTINF:-1,FR: Planète+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/389.m3u8
-#EXTINF:-1,FR: Planète+ CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/390.m3u8
-#EXTINF:-1,FR: Planète+ A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/391.m3u8
-#EXTINF:-1,FR: ELLE Girl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/392.m3u8
-#EXTINF:-1,FR: Téva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/393.m3u8
-#EXTINF:-1,FR: Ushuaia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/394.m3u8
-#EXTINF:-1,FR: Science & Vie TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/395.m3u8
-#EXTINF:-1,FR: Voyage
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/396.m3u8
-#EXTINF:-1,FR: Crime District
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/397.m3u8
-#EXTINF:-1,FR: Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/398.m3u8
-#EXTINF:-1,FR: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/399.m3u8
-#EXTINF:-1,FR: Nat. Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/400.m3u8
-#EXTINF:-1,FR: Nat. Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://my.iptvtuga.com:8080/live/Davidfrance/AU0ZCa1fQR/401.m3u8
 
 #EXTINF:-1,RMC SPORTS 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58

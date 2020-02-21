@@ -1,175 +1,203 @@
 #EXTM3U
-#EXTINF:-1,FR| TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/12071
-#EXTINF:-1,FR| TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1
-#EXTINF:-1,FR| TF1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34979
-#EXTINF:-1,FR| TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1149
-#EXTINF:-1,FR| TF1 4K |EVENTS|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/20277
-#EXTINF:-1,FR| TF1 +1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18251
-#EXTINF:-1,FR| TF1 +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/15504
-#EXTINF:-1,FR| TF1 +1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/4381
-#EXTINF:-1,FR| FRANCE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/22559
-#EXTINF:-1,FR| FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2
-#EXTINF:-1,FR| FRANCE 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34980
-#EXTINF:-1,FR| FRANCE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1150
-#EXTINF:-1,FR| FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18284
-#EXTINF:-1,FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/3
-#EXTINF:-1,FR| FRANCE 3 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34981
-#EXTINF:-1,FR| FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1151
-#EXTINF:-1,FR| FRANCE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18283
-#EXTINF:-1,FR| FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/4
-#EXTINF:-1,FR| FRANCE 4 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34982
-#EXTINF:-1,FR| FRANCE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1152
-#EXTINF:-1,FR| FRANCE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18282
-#EXTINF:-1,FR| FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/5
-#EXTINF:-1,FR| FRANCE 5 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34983
-#EXTINF:-1,FR| FRANCE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1153
-#EXTINF:-1,FR| M6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/12072
-#EXTINF:-1,FR| M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/6
-#EXTINF:-1,FR| M6 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34984
-#EXTINF:-1,FR| M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1154
-#EXTINF:-1,FR| FRANCE INFO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18281
-#EXTINF:-1,FR| FRANCE INFO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/5206
-#EXTINF:-1,FR| FRANCE INFO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1102
-#EXTINF:-1,FR| DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/22584
-#EXTINF:-1,FR| DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/48
-#EXTINF:-1,FR| DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1708
-#EXTINF:-1,FR| DISCOVERY SCIENCE SD (DOUBLE AUDIO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18292
-#EXTINF:-1,FR| DISCOVERY SCIENCE HD (DOUBLE AUDIO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/259
-#EXTINF:-1,FR| DISCOVERY SCIENCE FHD (DOUBLE AUDIO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1709
-#EXTINF:-1,FR| DISCOVERY INVESTIGATIONS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/32483
-#EXTINF:-1,FR| DISCOVERY INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1134
-#EXTINF:-1,FR| DISCOVERY INVESTIGATION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1841
-#EXTINF:-1,FR| DISCOVERY FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18294
-#EXTINF:-1,FR| DISCOVERY FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1531
-#EXTINF:-1,FR| DISCOVERY FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1530
-#EXTINF:-1,FR| MTV FRANCE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/22578
-#EXTINF:-1,FR| MTV FRANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/298
-#EXTINF:-1,FR| MTV FRANCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2760
-#EXTINF:-1,FR| MTV DANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/23146
-#EXTINF:-1,FR| MTV HITS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/22577
-#EXTINF:-1,FR| MTV HITS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/677
-#EXTINF:-1,FR| MTV ROCK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/678
-#EXTINF:-1,FR| DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18288
-#EXTINF:-1,FR| DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/120
-#EXTINF:-1,FR| DISNEY XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2233
-#EXTINF:-1,FR| DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18289
-#EXTINF:-1,FR| DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/278
-#EXTINF:-1,FR| DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2234
-#EXTINF:-1,FR| DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18291
-#EXTINF:-1,FR| DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/276
-#EXTINF:-1,FR| DISNEY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2231
-#EXTINF:-1,FR| DISNEY CHANNEL+1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/929
-#EXTINF:-1,FR| NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18271
-#EXTINF:-1,FR| NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/533
-#EXTINF:-1,FR| NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2034
-#EXTINF:-1,FR| NICKELODEON +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1854
-#EXTINF:-1,FR| NICKELODEON +1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/6045
-#EXTINF:-1,FR| NICKELODEON 4 TEEN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/22576
-#EXTINF:-1,FR| NICKELODEON 4 TEEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/704
-#EXTINF:-1,FR| NICKELODEON 4 TEEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2587
-#EXTINF:-1,FR| NICKELODEON JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/18270
-#EXTINF:-1,FR| NICKELODEON JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/705
-#EXTINF:-1,FR| NICKELODEON JUNIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/2588
-#EXTINF:-1,FR| BEIN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/11675
-#EXTINF:-1,FR| BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34
-#EXTINF:-1,FR| BEIN SPORTS 1 HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/7187
-#EXTINF:-1,FR| BEIN SPORTS 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34988
-#EXTINF:-1,FR| BEIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/855
-#EXTINF:-1,FR| BEIN SPORTS 1 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1287
-#EXTINF:-1,FR| BEIN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/11674
-#EXTINF:-1,FR| BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/35
-#EXTINF:-1,FR| BEIN SPORTS 2 HD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/7186
-#EXTINF:-1,FR| BEIN SPORTS 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/34989
-#EXTINF:-1,FR| BEIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/856
-#EXTINF:-1,FR| BEIN SPORTS 2 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1286
-#EXTINF:-1,FR| BEIN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/11673
-#EXTINF:-1,FR| BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/184
-#EXTINF:-1,FR| BEIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/857
-#EXTINF:-1,FR| BEIN SPORTS 3 FHD BKP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/15808/15808/1285
+#EXTINF:-1,|FR| FRANCE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
+#EXTINF:-1,M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/5.m3u8
+#EXTINF:-1,M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/6.m3u8
+#EXTINF:-1,M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
+#EXTINF:-1,TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/8.m3u8
+#EXTINF:-1,TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
+#EXTINF:-1,W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/11.m3u8
+#EXTINF:-1,W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/12.m3u8
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
+#EXTINF:-1,EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
+#EXTINF:-1,|FR| TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
+#EXTINF:-1,TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
+#EXTINF:-1,TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
+
+#EXTINF:-1,RMC SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+#EXTINF:-1,RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
+#EXTINF:-1,RMC SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
+
+#EXTINF:-1,RMC SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/61.m3u8
+#EXTINF:-1,RMC SPORT 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
+
+#EXTINF:-1,FR:CINE  CLUBsu@29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3997.m3u8
+#EXTINF:-1,FR:WARNERsu@30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3998.m3u8
+#EXTINF:-1,FR:ALTICE STUDIOsu@31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3999.m3u8
+#EXTINF:-1,FR:LEQUIPE 21su@20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4000.m3u8
+#EXTINF:-1,FR:EUROSPORT 2su@21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4001.m3u8
+#EXTINF:-1,FR:CINE  PREMIER HDsu@22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4002.m3u8
+#EXTINF:-1,FR:CINE  FRISSON HDsu@23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4003.m3u8
+#EXTINF:-1,FR:CANAL SERIES HDsu@24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4004.m3u8
+#EXTINF:-1,FR:OCS CHOC HDsu@25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4005.m3u8
+#EXTINF:-1,FR:OCS MAXsu@26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4006.m3u8
+#EXTINF:-1,FR:TOUTE L HISTOIRE HDsu@40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3983.m3u8
+#EXTINF:-1,FR:PLANETE  CIsu@41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3984.m3u8
+#EXTINF:-1,FR:ANIMAUX HDsu@42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3985.m3u8
+#EXTINF:-1,FR:EQUIDIA LIFEsu@43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3986.m3u8
+#EXTINF:-1,FR:DISNEY CINEMA HDsu@28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3996.m3u8
+#EXTINF:-1,FR:OCS GEANTsu@27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3995.m3u8
+#EXTINF:-1,FR:GAME ONE +1 HDsu@52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3994.m3u8
+#EXTINF:-1,FR:TIJI HDsu@51
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3993.m3u8
+#EXTINF:-1,FR:CANAL Jsu@50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3992.m3u8
+#EXTINF:-1,FR:GULLIsu@49
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3991.m3u8
+#EXTINF:-1,FR:MANGASsu@4748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3990.m3u8
+#EXTINF:-1,FR:DISNEY CHANNELsu@46
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3989.m3u8
+#EXTINF:-1,FR: DISNEY Xd HDsu@45
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3988.m3u8
+#EXTINF:-1,FR:PARAMOUNT CHANNEL HDsu@44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3987.m3u8
+#EXTINF:-1,FR: CINE +  EMOTION HD@39
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3982.m3u8
+#EXTINF:-1,FR:CINE + CLUBsu@38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3981.m3u8
+#EXTINF:-1,FR:CANAL +su@37
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3980.m3u8
+#EXTINF:-1,FR:RTS KIDSsu@36
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3979.m3u8
+#EXTINF:-1,FR:BOINGsu@35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3978.m3u8
+#EXTINF:-1,FR:RMC DECOUVERTE HDsu@34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3977.m3u8
+#EXTINF:-1,FR:SEASONsu@33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3976.m3u8
+#EXTINF:-1,FR:COMEDIE +su@32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3975.m3u8
+#EXTINF:-1,FR: INFOSPORTsu@19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3974.m3u8
+#EXTINF:-1,FR: RMC SPORT 4su@18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3973.m3u8
+#EXTINF:-1,FR: RMC SPORT 3su@17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3972.m3u8
+#EXTINF:-1,FR: RMC SPORT 2su@16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3971.m3u8
+#EXTINF:-1,FR: RMC SPORT 1su@15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3970.m3u8
+#EXTINF:-1,FR: ARTEsu@13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3968.m3u8
+#EXTINF:-1,FR: Ushuaia TV HDsu@14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3969.m3u8
+#EXTINF:-1,FR: RMC STORYsu@12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3967.m3u8
+#EXTINF:-1,FR: BFM TVsu@11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3966.m3u8
+#EXTINF:-1,FR: EQUIDIA LIFEsu@10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3965.m3u8
+#EXTINF:-1,FR: HD1su@9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3964.m3u8
+#EXTINF:-1,FR: RTL9su@8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3963.m3u8
+#EXTINF:-1,FR: C8 HDsu@7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3962.m3u8
+#EXTINF:-1,FR: FRANCE Osu@6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3961.m3u8
+#EXTINF:-1,FR: FRANCE 5su@5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3960.m3u8
+#EXTINF:-1,FR: FRANCE 4su@4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3959.m3u8
+#EXTINF:-1,FR. FRANCE 3su@3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3958.m3u8
+#EXTINF:-1,FR: FRANCE 2su@2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3957.m3u8
+#EXTINF:-1,FR: TF1 HD su@1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3956.m3u8
+
+#EXTINF:-1,FR:W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/894.m3u8
+#EXTINF:-1,FR:Ushuaia_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/895.m3u8
+#EXTINF:-1,FR:Tout_LHistoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/884.m3u8
+#EXTINF:-1,FR:TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/888.m3u8
+#EXTINF:-1,FR:TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/887.m3u8
+#EXTINF:-1,FR:Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/889.m3u8
+#EXTINF:-1,FR:RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/885.m3u8
+#EXTINF:-1,FR:Planete
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/883.m3u8
+#EXTINF:-1,FR:PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/891.m3u8
+#EXTINF:-1,FR:NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/882.m3u8
+#EXTINF:-1,FR:Nat_Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/881.m3u8
+#EXTINF:-1,FR:M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/880.m3u8
+#EXTINF:-1,FR:Infosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/879.m3u8
+#EXTINF:-1,FR:GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/893.m3u8
+#EXTINF:-1,FR:France_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/845.m3u8
+#EXTINF:-1,FR:France_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/842.m3u8
+#EXTINF:-1,FR:Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/878.m3u8
+#EXTINF:-1,FR:CINE_POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/847.m3u8
+#EXTINF:-1,FR:CINE_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/848.m3u8
+#EXTINF:-1,FR:CINE_FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/851.m3u8
+#EXTINF:-1,FR:Chasse_Et_Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/857.m3u8
+#EXTINF:-1,FR:Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/877.m3u8
+#EXTINF:-1,FR:Canal_J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/892.m3u8
+#EXTINF:-1,FR:CANAL_SPORT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/853.m3u8
+#EXTINF:-1,FR:CANAL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/854.m3u8
+#EXTINF:-1,FR:CANAL_DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/855.m3u8
+#EXTINF:-1,FR:Animaux_hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/876.m3u8
+#EXTINF:-1,FR:Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/890.m3u8
