@@ -1,61 +1,87 @@
 #EXTM3U
-#EXTINF:0,Bein Sport 1 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/13.ts
-#EXTINF:0,Bein Sport 2 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/14.ts
-#EXTINF:0,Bein Sport 3 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/15.ts
-#EXTINF:0,Bein Sport 4 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/16.ts
-#EXTINF:0,Bein Sport 5 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/17.ts
-#EXTINF:0,Bein Sport 6 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/18.ts
-#EXTINF:0,Bein Sport 7 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/19.ts
-#EXTINF:0,Bein Sport 8 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/20.ts
-#EXTINF:0,Bein Sport 9 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/21.ts
-#EXTINF:0,Bein Sport 10 SD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/22.ts
-#EXTINF:0,Bein Sport 1 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/3.ts
-#EXTINF:0,Bein Sport 2 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/4.ts
-#EXTINF:0,Bein Sport 3 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/5.ts
-#EXTINF:0,Bein Sport 4 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/6.ts
-#EXTINF:0,Bein Sport 5 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/7.ts
-#EXTINF:0,Bein Sport 6 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/8.ts
-#EXTINF:0,Bein Sport 7 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/9.ts
-#EXTINF:0,Bein Sport 8 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/10.ts
-#EXTINF:0,Bein Sport 9 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/11.ts
-#EXTINF:0,Bein Sport 10 HD
-#EXTVLCOPT:http-user-agent=raeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/12.ts
+#EXTINF:0,MOVISTAR LA LIGA FULLHD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/15916
+#EXTINF:0,MOVISTAR LA LIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/245
+#EXTINF:0,MOVISTAR LA LIGA 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5500
+#EXTINF:0,MOVISTAR  LA LIGA 2_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/246
+#EXTINF:0,MOVISTAR LA LIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5501
+#EXTINF:0,MOVISTAR  LA LIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/247
+#EXTINF:0,MOVISTAR LA LIGA 4_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/248
+#EXTINF:0,MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/249
+#EXTINF:0,MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/251
+#EXTINF:0,MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1309
+#EXTINF:0,MOVISTAR LIGA CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/256
+#EXTINF:0,MOVISTAR LIGA CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1303
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/252
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/267
+#EXTINF:0,MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/253
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5499
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/254
+#EXTINF:0,MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/255
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/257
+#EXTINF:0,MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/258
+#EXTINF:0,MOVISTAR DEPORTE_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/77
+#EXTINF:0,MOVISTAR DEPORTE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1177
+#EXTINF:0,MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/2911
+#EXTINF:0,MOVISTAR DEPORTE 1 _ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/262
+#EXTINF:0,MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/263
+#EXTINF:0,MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/264
+#EXTINF:0,MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/265
+#EXTINF:0,MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/266
+#EXTINF:0,EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/83
+#EXTINF:0,EUROSPORT FULL HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/936
+#EXTINF:0,Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/47
+#EXTINF:0,MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/53
+#EXTINF:0,MOVISTAR F1 FULLHD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/630
+#EXTINF:0,MOVISTAR GOLF PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9092
+#EXTINF:0,MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/16
+#EXTINF:0,MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1176
+#EXTINF:0,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/25
+#EXTINF:0,REAL MADRID TV_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/545
+#EXTINF:0,MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18895
+#EXTINF:0,MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18896
+#EXTINF:0,MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18897
+#EXTINF:0,MOVISTAR DEPORTE 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18899
+#EXTINF:0,MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18900

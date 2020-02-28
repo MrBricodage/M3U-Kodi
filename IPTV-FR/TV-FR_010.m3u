@@ -1,23 +1,41 @@
 #EXTM3U
-#EXTINF:-1,TF 1 (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/5921
-#EXTINF:-1,TF 1 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/5973
-#EXTINF:-1,FRANCE O (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6131
-#EXTINF:-1,FRANCE 2 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6143
-#EXTINF:-1,FRANCE 3 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6144
-#EXTINF:-1,FRANCE 4 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6157
-#EXTINF:-1,FRANCE 5 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6145
-#EXTINF:-1,FRANCE 24 (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/7797
-#EXTINF:-1,NAT GEO WILD HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6158
-#EXTINF:-1,RTL 9 (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6161
-#EXTINF:-1,W9 HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mototeamtv.tk:8000/luci/luci12345/6162
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21815
+#EXTINF:-1,FR: FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21816
+#EXTINF:-1,FR: FRANCE 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21817
+#EXTINF:-1,FR: FRANCE 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21818
+#EXTINF:-1,FR: FRANCE 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21819
+#EXTINF:-1,FR: M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21820
+#EXTINF:-1,FR: FRANCEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21821
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21843
+#EXTINF:-1,FR: DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21844
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21845
+#EXTINF:-1,FR: DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21846
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21858
+#EXTINF:-1,FR: BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21859
+#EXTINF:-1,FR: BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21860
+#EXTINF:-1,FR: NATIONAL-GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21914
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21915
+#EXTINF:-1,FR: DISCOVERY-FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21916
+#EXTINF:-1,FR: DISCOVERY-INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21917
+#EXTINF:-1,FR: MCM Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21933
+#EXTINF:-1,FR: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21934

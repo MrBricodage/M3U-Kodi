@@ -1,35 +1,91 @@
 #EXTM3U
-#EXTINF:0,BandSports_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37125
-#EXTINF:0,BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36989
-#EXTINF:0,FoxSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37099
-#EXTINF:0,FoxSports 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37098
-#EXTINF:0,FoxSports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38398
-#EXTINF:0,FoxSports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36971
-#EXTINF:0,FoxSports HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36970
-#EXTINF:0,SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37256
-#EXTINF:0,SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37044
-#EXTINF:0,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38395
-#EXTINF:0,SporTV 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36943
-#EXTINF:0,SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37006
-#EXTINF:0,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38394
-#EXTINF:0,SporTV 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/36942
-#EXTINF:0,SporTV [4K]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/40785
-#EXTINF:0,SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/38419
-#EXTINF:0,SporTV HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/22032/22032/37255
+#EXTINF:0,beIN:Sports.News_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/306
+#EXTINF:0,beIN:Sport.Global
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1524
+#EXTINF:0,beIN:Sport.SD1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/327
+#EXTINF:0,beIN:Sport.SD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/328
+#EXTINF:0,beIN:Sport.SD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/329
+#EXTINF:0,beIN:Sport.SD4_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/330
+#EXTINF:0,beIN:Sport.SD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/331
+#EXTINF:0,beIN:Sport.SD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/332
+#EXTINF:0,beIN:Sport.SD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/333
+#EXTINF:0,beIN:Sport.SD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/334
+#EXTINF:0,beIN:Sport.SD9_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/335
+#EXTINF:0,beIN:Sport.SD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/336
+#EXTINF:0,beIN:Sport.HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1075
+#EXTINF:0,beIN:Sport.HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1076
+#EXTINF:0,beIN:Sport.HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1077
+#EXTINF:0,beIN:Sport.HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1078
+#EXTINF:0,beIN:Sport.HD5_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1079
+#EXTINF:0,beIN:Sport.HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1080
+#EXTINF:0,beIN:Sport.HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1081
+#EXTINF:0,beIN:Sport.HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1082
+#EXTINF:0,beIN:Sport.HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1083
+#EXTINF:0,beIN:Sport.HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1084
+#EXTINF:0,beIN:Sport.HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/478
+#EXTINF:0,beIN:Sport.HD12_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/472
+#EXTINF:0,beIN:Sport.NBA.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/6118
+#EXTINF:0,beIN:Sport.Full.HD1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/317
+#EXTINF:0,beIN:Sport.Full.HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/318
+#EXTINF:0,beIN:Sport.Full.HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/319
+#EXTINF:0,beIN:Sport.Full.HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/320
+#EXTINF:0,beIN:Sport.Full.HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/321
+#EXTINF:0,beIN:Sport.Full.HD6_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/322
+#EXTINF:0,beIN:Sport.Full.HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/323
+#EXTINF:0,beIN:Sport.Full.HD8_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/324
+#EXTINF:0,beIN:Sport.Full.HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/325
+#EXTINF:0,beIN:Sport.Full.HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/326
+#EXTINF:0,beIN:Sport.hevc1_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1388
+#EXTINF:0,beIN:Sport.hevc2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1389
+#EXTINF:0,beIN:Sport.hevc3_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1390
+#EXTINF:0,beIN:Sport.hevc4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1391
+#EXTINF:0,beIN:Sport.hevc5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1392
+#EXTINF:0,beIN:Sport.hevc6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1393
+#EXTINF:0,beIN:Sport.hevc7_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1394
+#EXTINF:0,beIN:Sport.hevc8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1395
+#EXTINF:0,beIN:Sport.hevc9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1396
+#EXTINF:0,beIN:Sport.hevc10V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.82.77.21:8000/2792664683889/1245955624617/1397

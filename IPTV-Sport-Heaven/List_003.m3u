@@ -1,23 +1,107 @@
 #EXTM3U
-#EXTINF:-1,Polsat Sport HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21161/udp/172r
-#EXTINF:-1,Eurosport 2 HD Poland_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21151/udp/192c
-#EXTINF:-1,Viasat Sport _Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/035l
-#EXTINF:-1,Barca _Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2030/udp/028i
-#EXTINF:-1,????! ?????? 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2025
-#EXTINF:-1,????! ?????? 3 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2012
-#EXTINF:-1,????! ?????? 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2026
-#EXTINF:-1,????! ?????? 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:2027
-#EXTINF:-1,Supertennis HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/029e
-#EXTINF:-1,????! ?????? 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/017u
-#EXTINF:-1,????! ?????? 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.14:21011/udp/013y
+#EXTINF:0,beIN SPORTS 1 FHD TR (HVEC 265 50 FPS)_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/32293
+#EXTINF:0,beIN SPORTS 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/7706
+#EXTINF:0,beIN SPORTS 1 HD TR (OZEL)_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/62535
+#EXTINF:0,BeIN SPORTS 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/446
+#EXTINF:0,beIN SPORTS 1 SD TR (TTNET-OZEL)_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/37847
+#EXTINF:0,beIN SPORTS 1 SD TR. (VODAFONE-TURKCELL-TURKIYE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/403
+#EXTINF:0,beIN SPORTS 2 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/7707
+#EXTINF:0,beIN SPORTS 2 HD TR (OZEL)_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/62536
+#EXTINF:0,BeIN SPORTS 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/112
+#EXTINF:0,beIN SPORTS 2 SD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/23688
+#EXTINF:0,beIN SPORTS 2 SD TR._ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/404
+#EXTINF:0,beIN SPORTS 3 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/7708
+#EXTINF:0,beIN SPORTS 3 HD TR (OZEL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/62537
+#EXTINF:0,BeIN SPORTS 3 HD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/205
+#EXTINF:0,beIN SPORTS 3 SD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/23689
+#EXTINF:0,beIN SPORTS 3 SD TR._ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/405
+#EXTINF:0,beIN SPORTS 4 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/8046
+#EXTINF:0,beIN SPORTS 4 HD TR (OZEL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/62538
+#EXTINF:0,BeIN SPORTS 4 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/206
+#EXTINF:0,beIN SPORTS 4 SD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/23690
+#EXTINF:0,beIN SPORTS 4 SD TR._ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/406
+#EXTINF:0,beIN SPORTS MAX 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/23691
+#EXTINF:0,beIN SPORTS MAX 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1730
+#EXTINF:0,beIN SPORTS MAX 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/23692
+#EXTINF:0,beIN SPORTS MAX 2 FHD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/7514
+#EXTINF:0,beIN SPORTS HABER FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/26886
+#EXTINF:0,TiviBu Spor 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/22
+#EXTINF:0,Tivibu Spor 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1734
+#EXTINF:0,TiviBu Spor 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/367
+#EXTINF:0,Tivibu Spor 2 SD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1733
+#EXTINF:0,TiviBu Spor 3 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1273
+#EXTINF:0,Tivibu Spor 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1735
+#EXTINF:0,SMART SPOR  1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/7486
+#EXTINF:0,Eurosport 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1245
+#EXTINF:0,Eurosport 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/1246
+#EXTINF:0,A SPOR FHD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/8100
+#EXTINF:0,A SPOR HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/17433
+#EXTINF:0,A SPOR SD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/196
+#EXTINF:0,TRT SPOR FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/8101
+#EXTINF:0,TRT SPOR HD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/46
+#EXTINF:0,S SPORT HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/385
+#EXTINF:0,S SPORT FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50826
+#EXTINF:0,S Sports 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/34663
+#EXTINF:0,FB TV HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/156
+#EXTINF:0,GS TV HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/232
+#EXTINF:0,SPORTS TV HD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/60
+#EXTINF:0,NBA TV FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50824
+#EXTINF:0,NBA TV HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/4535
+#EXTINF:0,SPOR SMART FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50827
+#EXTINF:0,FOX SPORTS FHD TR_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50808
+#EXTINF:0,FIGHTBOX FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50804
+#EXTINF:0,EUROSPORT 2 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50801
+#EXTINF:0,EUROSPORT 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Huseyin/asdfghj/50800

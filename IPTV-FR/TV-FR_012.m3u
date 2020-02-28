@@ -1,53 +1,77 @@
 #EXTM3U
-#EXTINF:-1,M6 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch9004?code=170132716026200
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch207?code=170132716026200
-#EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch208?code=170132716026200
-#EXTINF:-1,6 Ter HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch262?code=170132716026200
-#EXTINF:-1,France 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch209?code=170132716026200
-#EXTINF:-1,France 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch210?code=170132716026200
-#EXTINF:-1,France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch219?code=170132716026200
-#EXTINF:-1,France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch211?code=170132716026200
-#EXTINF:-1,France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch212?code=170132716026200
-#EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch220?code=170132716026200
-#EXTINF:-1,Discovery Family HD Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch379?code=170132716026200
-#EXTINF:-1,Discovery Science HD Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch229?code=170132716026200
-#EXTINF:-1,Discovery Show Case Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch241?code=170132716026200
-#EXTINF:-1,Discovery ID Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch249?code=170132716026200
-#EXTINF:-1,Nickelodeon Jr. FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch1272?code=170132716026200
-#EXTINF:-1,Nickelodeon FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch1271?code=170132716026200
-#EXTINF:-1,BeInSport 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch119?code=170132716026200
-#EXTINF:-1,BeInSport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch120?code=170132716026200
-#EXTINF:-1,BeInSport 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch206?code=170132716026200
-#EXTINF:-1,BeInSport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch340?code=170132716026200
-#EXTINF:-1,BeInSport Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch341?code=170132716026200
-#EXTINF:-1,BeInSport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch342?code=170132716026200
-#EXTINF:-1,BeInSport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch343?code=170132716026200
-#EXTINF:-1,BeInSport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch344?code=170132716026200
-#EXTINF:-1,BeInSport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch345?code=170132716026200
-#EXTINF:-1,BeInSport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdng.pubcdn.tn/iptv/ch346?code=170132716026200
+#EXTINF:-1,FR: TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75340
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75341
+#EXTINF:-1,FR: FRANCE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75342
+#EXTINF:-1,FR: FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75343
+#EXTINF:-1,FR: FRANCE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75344
+#EXTINF:-1,FR: FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75345
+#EXTINF:-1,FR: FRANCE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75350
+#EXTINF:-1,FR: FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75351
+#EXTINF:-1,FR: FRANCE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75362
+#EXTINF:-1,FR: FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75363
+#EXTINF:-1,FR: BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75385
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75386
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75387
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75388
+#EXTINF:-1,FR: BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75389
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75390
+#EXTINF:-1,FR: BEIN SPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75391
+#EXTINF:-1,FR: BEIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75392
+#EXTINF:-1,FR: BEIN SPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75393
+#EXTINF:-1,FR: BEIN SPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75394
+#EXTINF:-1,FR: BEIN SPORTS MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75395
+#EXTINF:-1,FR: BEIN SPORTS MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75396
+#EXTINF:-1,FR: BEIN SPORTS MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75397
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75474
+#EXTINF:-1,FR: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75476
+#EXTINF:-1,FR: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75477
+#EXTINF:-1,FR: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75478
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75479
+#EXTINF:-1,FR: NICKELODEON TEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75480
+#EXTINF:-1,FR: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75507
+#EXTINF:-1,FR: DISCOVERY SCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75508
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75509
+#EXTINF:-1,FR: DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75510
+#EXTINF:-1,FR: MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75528
+#EXTINF:-1,FR: MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75529
+#EXTINF:-1,FR: EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75560
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75561
+#EXTINF:-1,FR: FRANCE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bdmsat.com:25461/murat34/murat34/75562

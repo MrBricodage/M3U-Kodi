@@ -1,31 +1,51 @@
 #EXTM3U
-#EXTINF:-1,FR:W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/894
-#EXTINF:-1,FR:Ushuaia_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/895
-#EXTINF:-1,FR:Tout_LHistoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/884
-#EXTINF:-1,FR:TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/888
-#EXTINF:-1,FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/887
-#EXTINF:-1,FR:Disney_Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/889
-#EXTINF:-1,FR:RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/885
-#EXTINF:-1,FR:NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/882
-#EXTINF:-1,FR:Nat_Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/881
-#EXTINF:-1,FR:M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/880
-#EXTINF:-1,FR:Infosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/879
-#EXTINF:-1,FR:GULLI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/893
-#EXTINF:-1,FR:France_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/845
-#EXTINF:-1,FR:France_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/842
-#EXTINF:-1,FR:Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/878
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/529
+#EXTINF:-1,FR: France O  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/532
+#EXTINF:-1,FR: France 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/531
+#EXTINF:-1,FR: France 4  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/530
+#EXTINF:-1,FR: FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/528
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1551
+#EXTINF:-1,FR: France 02 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/8341
+#EXTINF:-1,FR: France 03 HD (1080P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/8340
+#EXTINF:-1,FR: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1528
+#EXTINF:-1,FR:  Disney Jr Fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1546
+#EXTINF:-1,FR:  Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1535
+#EXTINF:-1,FR:  Nat Geo Wild  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1534
+#EXTINF:-1,FR: Bein Sport Max 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5622
+#EXTINF:-1,FR: Bein Sport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5621
+#EXTINF:-1,FR: Bein Sport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5620
+#EXTINF:-1,FR: Bein Sport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5619
+#EXTINF:-1,FR: Bein Sport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5618
+#EXTINF:-1,FR: Bein Sport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/5623
+#EXTINF:-1,FR: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1553
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1544
+#EXTINF:-1,FR: National geo wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/3727
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/1533
+#EXTINF:-1,FR: beINS PORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/445
+#EXTINF:-1,FR: beIN SPORTS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/444
+#EXTINF:-1,FR: beIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://miptvservices.dynu.net:7899/euPFReK9n/36Vj9Ired5/446

@@ -1,49 +1,45 @@
 #EXTM3U
-##EXTINF:-1,FR : W 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6009
-#EXTINF:-1,FR : NICKELODEON JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6057
-#EXTINF:-1,FR : NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6058
-#EXTINF:-1,FR : NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6059
-#EXTINF:-1,FR : NATIONAL GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6060
-#EXTINF:-1,FR : MTV FRANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6061
-#EXTINF:-1,FR : MEZZO LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6062
-#EXTINF:-1,FR : FRANCE4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6088
-#EXTINF:-1,FR : FRANCE O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6089
-#EXTINF:-1,FR : FRANCE INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6090
-#EXTINF:-1,FR : FRANCE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6091
-#EXTINF:-1,FR : FRANCE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6092
-#EXTINF:-1,FR : FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6093
-#EXTINF:-1,FR : FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6094
-#EXTINF:-1,FR : FOOT   24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6095
-#EXTINF:-1,FR : DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6103
-#EXTINF:-1,FR : DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6104
-#EXTINF:-1,FR : Disney Cinemagic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6105
-#EXTINF:-1,FR : DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6107
-#EXTINF:-1,FR : DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6108
-#EXTINF:-1,FR : Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6110
-#EXTINF:-1,FR : BEIN SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6167
-#EXTINF:-1,FR : BEIN SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6168
-#EXTINF:-1,FR : BEIN SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k-sat.com:8000/2004/2004/6169
+#EXTINF:-1,FR:France_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2934
+#EXTINF:-1,FR:_TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2921
+#EXTINF:-1,FR:_France_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2933
+#EXTINF:-1,FR:_France_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2932
+#EXTINF:-1,FR:_France_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2931
+#EXTINF:-1,FR:_France_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2930
+#EXTINF:-1,FR:_France_O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2929
+#EXTINF:-1,FR:_National_Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4881
+#EXTINF:-1,FR:_Nat.geo.wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2489
+#EXTINF:-1,FR:_Disney_Cinema_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/3903
+#EXTINF:-1,FR:_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2938
+#EXTINF:-1,FR:_Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2939
+#EXTINF:-1,FR:_BeIN_SPORTS_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/669
+#EXTINF:-1,FR:_BeIN_SPORTS_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/670
+#EXTINF:-1,FR:_BeIN_SPORTS_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/671
+#EXTINF:-1,FR:_BeIN_SPORT_MAX4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4695
+#EXTINF:-1,FR:_BeIN_SPORT_Max5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4694
+#EXTINF:-1,FR:_BeIN_SPORT_Max6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4693
+#EXTINF:-1,FR:_BeIN_SPORT_Max7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4692
+#EXTINF:-1,FR:_BeIN_SPORT_Max8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4691
+#EXTINF:-1,FR:_BeIN_SPORT_Max9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4690
+#EXTINF:-1,FR:_BeIN_SPORT_Max10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4689
