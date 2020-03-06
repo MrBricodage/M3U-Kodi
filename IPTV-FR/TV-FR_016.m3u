@@ -1,97 +1,39 @@
 #EXTM3U
-#EXTINF:-1,TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/80982
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/58
-#EXTINF:-1,FRANCE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/80983
-#EXTINF:-1,FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/137
-#EXTINF:-1,FRANCE 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23760
-#EXTINF:-1,FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/80984
-#EXTINF:-1,FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/61
-#EXTINF:-1,FRANCE 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23759
-#EXTINF:-1,FRANCE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/80985
-#EXTINF:-1,FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/60
-#EXTINF:-1,FRANCE 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23758
-#EXTINF:-1,FRANCE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/80986
-#EXTINF:-1,FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/59
-#EXTINF:-1,FRANCE 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23757
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81032
-#EXTINF:-1,NATIONAL GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/139
-#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23733
-#EXTINF:-1,NATIONAL GEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81033
-#EXTINF:-1,NATIONAL GEO WILD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/2559
-#EXTINF:-1,NATIONAL GEO WILD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23732
-#EXTINF:-1,DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81034
-#EXTINF:-1,DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/63
-#EXTINF:-1,DISCOVERY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23730
-#EXTINF:-1,DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81035
-#EXTINF:-1,DISCOVERY SCIENCE FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/62
-#EXTINF:-1,DISCOVERY SCIENCE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23729
-#EXTINF:-1,DISCOVERY FAMILLY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81036
-#EXTINF:-1,DISCOVERY INVESTIGATION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81037
-#EXTINF:-1,DISCOVERY INVESTIGATION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23727
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/3370
-#EXTINF:-1,BEIN SPORTS 1 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23807
-#EXTINF:-1,BEIN SPORTS 2 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/3369
-#EXTINF:-1,BEIN SPORTS 2 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23806
-#EXTINF:-1,BEIN SPORTS 3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/3368
-#EXTINF:-1,BEIN SPORTS 3 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23805
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/46207
-#EXTINF:-1,MTV HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/46208
-#EXTINF:-1,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/376
-#EXTINF:-1,DISNEY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23711
-#EXTINF:-1,DISNEY CHANNEL 1 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23710
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81070
-#EXTINF:-1,DISNEY XD fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/2635
-#EXTINF:-1,DISNEY XD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23707
-#EXTINF:-1,DISNEY CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/2634
-#EXTINF:-1,DISNEY CINEMA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23709
-#EXTINF:-1,DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/81069
-#EXTINF:-1,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/472
-#EXTINF:-1,DISNEY JUNIOR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tt.rip:8000/41681718250358/41211303/23708
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/209.png",France 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch209?code=103131497823984&key=20353
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/210.png",France 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch210?code=103131497823984&key=60535
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/219.png",France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch219?code=103131497823984&key=58291
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/211.png",France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch211?code=103131497823984&key=42766
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/9006.png",TF1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch9006?code=103131497823984&key=58492
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/379.png",Discovery Family HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch379?code=103131497823984&key=41745
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/229.png",Discovery Science HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch229?code=103131497823984&key=20167
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/241.png",Discovery Show Case Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch241?code=103131497823984&key=35668
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/249.png",Discovery ID Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch249?code=103131497823984&key=10522
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch119?code=103131497823984&key=50356
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch120?code=103131497823984&key=51185
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch206?code=103131497823984&key=11755
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch340?code=103131497823984&key=15510
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch341?code=103131497823984&key=32482
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch342?code=103131497823984&key=51381
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch343?code=103131497823984&key=12846
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch344?code=103131497823984&key=22677
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch345?code=103131497823984&key=11427
+#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch346?code=103131497823984&key=53115

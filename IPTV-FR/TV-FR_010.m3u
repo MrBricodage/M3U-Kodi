@@ -1,41 +1,156 @@
-#EXTM3U
-#EXTINF:-1,FR: TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21815
-#EXTINF:-1,FR: FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21816
-#EXTINF:-1,FR: FRANCE 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21817
-#EXTINF:-1,FR: FRANCE 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21818
-#EXTINF:-1,FR: FRANCE 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21819
-#EXTINF:-1,FR: M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21820
-#EXTINF:-1,FR: FRANCEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21821
-#EXTINF:-1,FR: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21843
-#EXTINF:-1,FR: DISNEY CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21844
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21845
-#EXTINF:-1,FR: DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21846
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21858
-#EXTINF:-1,FR: BEINSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21859
-#EXTINF:-1,FR: BEINSPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21860
-#EXTINF:-1,FR: NATIONAL-GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21914
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21915
-#EXTINF:-1,FR: DISCOVERY-FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21916
-#EXTINF:-1,FR: DISCOVERY-INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21917
-#EXTINF:-1,FR: MCM Top
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21933
-#EXTINF:-1,FR: MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.36.193.122:8080/4UeNnwHFtd/NkgxZtXaJw/21934
+#EXTINF:-1,FR: 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5755
+#EXTINF:-1,FR: AB MOTEURS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5753
+#EXTINF:-1,FR: AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5754
+#EXTINF:-1,FR: ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5752
+#EXTINF:-1,FR: CANAL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5748
+#EXTINF:-1,FR: CINE FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5751
+#EXTINF:-1,FR: CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5750
+#EXTINF:-1,FR: CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5749
+#EXTINF:-1,FR: FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5743
+#EXTINF:-1,FR: FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5747
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5742
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5746
+#EXTINF:-1,FR: FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5745
+#EXTINF:-1,FR: FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5744
+#EXTINF:-1,FR: I24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5731
+#EXTINF:-1,FR: L EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5740
+#EXTINF:-1,FR: M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5739
+#EXTINF:-1,FR: NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5738
+#EXTINF:-1,FR: NT1 (TFX)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5737
+#EXTINF:-1,FR: RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5736
+#EXTINF:-1,FR: TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5735
+#EXTINF:-1,FR: TF1 SERIES FILMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5741
+#EXTINF:-1,FR: TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5734
+#EXTINF:-1,FR: TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5732
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5733
+#EXTINF:-1,(FR) France 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49933
+#EXTINF:-1,(FR) France 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49934
+#EXTINF:-1,(FR) France 4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49935
+#EXTINF:-1,(FR) France 5 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49936
+#EXTINF:-1,(FR) M6 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49937
+#EXTINF:-1,(FR) Arte H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49938
+#EXTINF:-1,(FR) W9 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49939
+#EXTINF:-1,(FR) Tmc H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49951
+#EXTINF:-1,(FR) Lci H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49943
+#EXTINF:-1,(FR) Gulli H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49946
+#EXTINF:-1,(FR) France O H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49945
+#EXTINF:-1,(FR) 6ter H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49952
+#EXTINF:-1,(FR) Rmc Decouvrrte H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49955
+#EXTINF:-1,(FR) Rmc Story H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49954
+#EXTINF:-1,(FR) C8 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49940
+#EXTINF:-1,(FR) Rtl9 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49953
+#EXTINF:-1,(FR) Cstar H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49942
+#EXTINF:-1,(FR) Teva H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49962
+#EXTINF:-1,(FR) Bfmtv H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49944
+#EXTINF:-1,(FR) Cnews H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49941
+#EXTINF:-1,(FR) Ushuaia H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49974
+#EXTINF:-1,(FR) Disney Channel H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49965
+#EXTINF:-1,(FR) Disney Junior H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49966
+#EXTINF:-1,(FR) Cartoon N H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49959
+#EXTINF:-1,(FR) Boomerang H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49961
+#EXTINF:-1,(FR) M6 Music H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49958
+#EXTINF:-1,(FR) Nickelodeon H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49984
+#EXTINF:-1,(FR) Nickelodeon 4Teen H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49983
+#EXTINF:-1,(FR) Nick Junior H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49982
+#EXTINF:-1,(FR) Nrj12 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49949
+#EXTINF:-1,(FR) National Geo Channel H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49964
+#EXTINF:-1,(FR) Nat Geo Wild H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49957
+#EXTINF:-1,(FR) Animaux H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49956
+#EXTINF:-1,(FR) Planete + Ci H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49976
+#EXTINF:-1,(FR) Planete H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49969
+#EXTINF:-1,(FR) Bfm Paris H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49985
+#EXTINF:-1,(FR) Discovery Family H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49971
+#EXTINF:-1,(FR) Discovery H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49970
+#EXTINF:-1,(FR) Discovery Inves H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49973
+#EXTINF:-1,(FR) Discovery Science H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49972
+#EXTINF:-1,(FR) Planete + A&E H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49975
+#EXTINF:-1,(FR) Sciences & Vie H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49978
+#EXTINF:-1,(FR) Altice Studio H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49979
+#EXTINF:-1,(FR) Chasse & Peche H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49977
+#EXTINF:-1,(FR) Cine Frisson H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49960
+#EXTINF:-1,(FR) Equidia H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49968
+#EXTINF:-1,(FR) L'EQUIPE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49947
+#EXTINF:-1,(FR) Mcm Top H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49967
+#EXTINF:-1,(FR) My Cuisine H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49963
+#EXTINF:-1,(FR) Non Stop People H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49981
+#EXTINF:-1,(FR) Tfx H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49950
+#EXTINF:-1,(FR) Toute L Histoire H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49948
+#EXTINF:-1,(FR) Warner TV H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.darktv.nl:25461/bFAPCumVuq/0xc5rYTuxu/49980

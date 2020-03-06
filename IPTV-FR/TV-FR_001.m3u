@@ -1,45 +1,23 @@
 #EXTM3U
-#EXTINF:-1,FR:France_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2934
-#EXTINF:-1,FR:_TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2921
-#EXTINF:-1,FR:_France_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2933
-#EXTINF:-1,FR:_France_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2932
-#EXTINF:-1,FR:_France_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2931
-#EXTINF:-1,FR:_France_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2930
-#EXTINF:-1,FR:_France_O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2929
-#EXTINF:-1,FR:_National_Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4881
-#EXTINF:-1,FR:_Nat.geo.wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2489
-#EXTINF:-1,FR:_Disney_Cinema_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/3903
-#EXTINF:-1,FR:_Disney_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2938
-#EXTINF:-1,FR:_Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/2939
-#EXTINF:-1,FR:_BeIN_SPORTS_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/669
-#EXTINF:-1,FR:_BeIN_SPORTS_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/670
-#EXTINF:-1,FR:_BeIN_SPORTS_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/671
-#EXTINF:-1,FR:_BeIN_SPORT_MAX4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4695
-#EXTINF:-1,FR:_BeIN_SPORT_Max5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4694
-#EXTINF:-1,FR:_BeIN_SPORT_Max6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4693
-#EXTINF:-1,FR:_BeIN_SPORT_Max7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4692
-#EXTINF:-1,FR:_BeIN_SPORT_Max8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4691
-#EXTINF:-1,FR:_BeIN_SPORT_Max9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4690
-#EXTINF:-1,FR:_BeIN_SPORT_Max10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/eldeeba7/564452002/4689
+#EXTINF:-1,FR: France 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/949
+#EXTINF:-1,FR: France 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/950
+#EXTINF:-1,FR: France 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/951
+#EXTINF:-1,FR: France 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/952
+#EXTINF:-1,FR: Disney Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/1285
+#EXTINF:-1,FR: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/1286
+#EXTINF:-1,FR: National Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/3023
+#EXTINF:-1,FR: National Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/3024
+#EXTINF:-1,FR: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/3025
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/1476
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.xyz:1557/liv3bestonemomy5K4/8e7e58708b504492/1477

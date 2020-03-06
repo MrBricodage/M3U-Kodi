@@ -1,287 +1,293 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1.m3u8
-#EXTINF:-1,TF1 HD -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/12314.m3u8
-#EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3.m3u8
-#EXTINF:-1,M6 HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4.m3u8
-#EXTINF:-1,France 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/5.m3u8
-#EXTINF:-1,France 2 HD -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6468.m3u8
-#EXTINF:-1,France 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/7.m3u8
-#EXTINF:-1,France 3 -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8.m3u8
-#EXTINF:-1,France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/9.m3u8
-#EXTINF:-1,France 4  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/10.m3u8
-#EXTINF:-1,France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/12.m3u8
-#EXTINF:-1,France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/11.m3u8
-#EXTINF:-1,France 5 -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31235.m3u8
-#EXTINF:-1,Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/14.m3u8
-#EXTINF:-1,Arte -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31236.m3u8
-#EXTINF:-1,BFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19.m3u8
-#EXTINF:-1,BFM BUSINESS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8863.m3u8
-#EXTINF:-1,FRANCE 24 NEWS FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/20.m3u8
-#EXTINF:-1,Euronews Fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/77.m3u8
-#EXTINF:-1,C News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/84.m3u8
-#EXTINF:-1,LCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/823.m3u8
-#EXTINF:-1,France Info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19740.m3u8
-#EXTINF:-1,I24 news HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/20171.m3u8
-#EXTINF:-1,TV5 Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/13.m3u8
-#EXTINF:-1,Canal + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/28.m3u8
-#EXTINF:-1,Canal +  Decale HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/29.m3u8
-#EXTINF:-1,Canal + Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/30.m3u8
-#EXTINF:-1,Canal+ Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31.m3u8
-#EXTINF:-1,Canal+ serie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/32.m3u8
-#EXTINF:-1,Cine+  Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/34.m3u8
-#EXTINF:-1,Cine+  Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/35.m3u8
-#EXTINF:-1,Cine+ emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/38.m3u8
-#EXTINF:-1,Cine+ Famiz HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/37.m3u8
-#EXTINF:-1,Cine+ Classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/36.m3u8
-#EXTINF:-1,Cine Club HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8873.m3u8
-#EXTINF:-1,OCS City HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/81.m3u8
-#EXTINF:-1,OCS Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/70.m3u8
-#EXTINF:-1,OCS CHOC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/85.m3u8
-#EXTINF:-1,OCS Geant HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/82.m3u8
-#EXTINF:-1,Cine Polar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/25.m3u8
-#EXTINF:-1,Cine FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/78.m3u8
-#EXTINF:-1,Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/24.m3u8
-#EXTINF:-1,TFX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/821.m3u8
-#EXTINF:-1,TCM Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/62.m3u8
-#EXTINF:-1,E! Entertainment HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/60.m3u8
-#EXTINF:-1,AB 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19723.m3u8
-#EXTINF:-1,AB Xplore HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19722.m3u8
-#EXTINF:-1,Polar + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19746.m3u8
-#EXTINF:-1,Sundance TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19724.m3u8
-#EXTINF:-1,Comedy Central FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19725.m3u8
-#EXTINF:-1,Nrj Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19741.m3u8
-#EXTINF:-1,Trace Tropical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19742.m3u8
-#EXTINF:-1,ELLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8869.m3u8
-#EXTINF:-1,Bet France HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8870.m3u8
-#EXTINF:-1,MTV France HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8871.m3u8
-#EXTINF:-1,MTV HITS FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8865.m3u8
-#EXTINF:-1,Trace Urban HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8868.m3u8
-#EXTINF:-1,MCM France HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8867.m3u8
-#EXTINF:-1,MCM Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8866.m3u8
-#EXTINF:-1,RFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8872.m3u8
-#EXTINF:-1,ONE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8874.m3u8
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/824.m3u8
-#EXTINF:-1,6TER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/817.m3u8
-#EXTINF:-1,My cuisine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18927.m3u8
-#EXTINF:-1,Ushuaia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/51.m3u8
-#EXTINF:-1,Season HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1281.m3u8
-#EXTINF:-1,Trek HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4546.m3u8
-#EXTINF:-1,Animaux HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/54.m3u8
-#EXTINF:-1,RMC Story HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18928.m3u8
-#EXTINF:-1,RMC Decouverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1282.m3u8
-#EXTINF:-1,Chasse et peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3202.m3u8
-#EXTINF:-1,National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/48.m3u8
-#EXTINF:-1,National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/86.m3u8
-#EXTINF:-1,Discovery channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/806.m3u8
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/50.m3u8
-#EXTINF:-1,Discovery Family FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/17124.m3u8
-#EXTINF:-1,Crime District HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8864.m3u8
-#EXTINF:-1,Discovery Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6122.m3u8
-#EXTINF:-1,Planet + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4306.m3u8
-#EXTINF:-1,Planete+ CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/58.m3u8
-#EXTINF:-1,Planet + A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/807.m3u8
-#EXTINF:-1,Toute l histoire 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/52.m3u8
-#EXTINF:-1,Histoire HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/56.m3u8
-#EXTINF:-1,Science & Vie TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/53.m3u8
-#EXTINF:-1,Voyage HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/809.m3u8
-#EXTINF:-1,Teva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/523.m3u8
-#EXTINF:-1,13eme Rue HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8890.m3u8
-#EXTINF:-1,TV Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6061.m3u8
-#EXTINF:-1,Serie Club HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/66.m3u8
-#EXTINF:-1,C Star HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/17.m3u8
-#EXTINF:-1,C Star HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6535.m3u8
-#EXTINF:-1,C 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/21.m3u8
-#EXTINF:-1,C 8 HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6534.m3u8
-#EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/22.m3u8
-#EXTINF:-1,W9 HD  -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6532.m3u8
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/55.m3u8
-#EXTINF:-1,Altice Studio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18926.m3u8
-#EXTINF:-1,RTL 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/27.m3u8
-#EXTINF:-1,AB1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/15.m3u8
-#EXTINF:-1,Paris Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/61.m3u8
-#EXTINF:-1,Comedie + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3220.m3u8
-#EXTINF:-1,HD1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/80.m3u8
-#EXTINF:-1,Cherie 25 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/79.m3u8
-#EXTINF:-1,Cherie 25 HD  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6536.m3u8
-#EXTINF:-1,NRJ 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18.m3u8
-#EXTINF:-1,NRJ 12 HD  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6533.m3u8
-#EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/16.m3u8
-#EXTINF:-1,RMC Story
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/23.m3u8
-#EXTINF:-1,RMC story   -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6537.m3u8
-#EXTINF:-1,RTS Un HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/825.m3u8
-#EXTINF:-1,RTS Deux HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/826.m3u8
-#EXTINF:-1,A la carte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/810.m3u8
-#EXTINF:-1,A la carte 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/811.m3u8
-#EXTINF:-1,A la carte 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/812.m3u8
-#EXTINF:-1,Canal +  Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/33.m3u8
-#EXTINF:-1,Trace Sport Stars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19745.m3u8
-#EXTINF:-1,RMC Sport news
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19744.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19134.m3u8
-#EXTINF:-1,RMC Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19135.m3u8
-#EXTINF:-1,RMC Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19136.m3u8
-#EXTINF:-1,RMC Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/814.m3u8
-#EXTINF:-1,RMC sport 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/2739.m3u8
-#EXTINF:-1,RMC sport 6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3969.m3u8
-#EXTINF:-1,RMC sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/429.m3u8
-#EXTINF:-1,BeIN Sport 1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3971.m3u8
-#EXTINF:-1,BeIN Sports 2 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/360.m3u8
-#EXTINF:-1,BeIN Sports 3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3403.m3u8
-#EXTINF:-1,Bein Sport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19681.m3u8
-#EXTINF:-1,BeIN sport MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/491.m3u8
-#EXTINF:-1,Bein Sport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19717.m3u8
-#EXTINF:-1,BeiN sport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19718.m3u8
-#EXTINF:-1,BeiN sport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19719.m3u8
-#EXTINF:-1,BeiN sport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19720.m3u8
-#EXTINF:-1,BeiN sport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19721.m3u8
-#EXTINF:-1,Eurosport 1 Fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/829.m3u8
-#EXTINF:-1,Eurosport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3402.m3u8
-#EXTINF:-1,InfoSport +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/63.m3u8
-#EXTINF:-1,L'équipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8889.m3u8
-#EXTINF:-1,Foot+ 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/431.m3u8
-#EXTINF:-1,OL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/436.m3u8
-#EXTINF:-1,Equidia Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/437.m3u8
-#EXTINF:-1,Golf + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/438.m3u8
-#EXTINF:-1,AB Moteur HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/435.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/9006.png",TF1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch9006?code=135114454296143&key=58492
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/9004.png",M6 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch9004?code=135114454296143&key=56830
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/207.png",TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch207?code=135114454296143&key=45102
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/208.png",M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch208?code=135114454296143&key=23990
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/258.png",TF1 Serie Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch258?code=135114454296143&key=12268
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/262.png",6 Ter HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch262?code=135114454296143&key=32674
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/209.png",France 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch209?code=135114454296143&key=20353
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/210.png",France 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch210?code=135114454296143&key=60535
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/219.png",France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch219?code=135114454296143&key=58291
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/211.png",France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch211?code=135114454296143&key=42766
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/212.png",France O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch212?code=135114454296143&key=32228
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/220.png",W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch220?code=135114454296143&key=21477
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/374.png",Altice Studio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch374?code=135114454296143&key=52894
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/392.png",E. Fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch392?code=135114454296143&key=38059
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1647.png",ELLE Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1647?code=135114454296143&key=27112
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/272.png",Non Stop People Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch272?code=135114454296143&key=53587
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/226.png",OCS Choc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch226?code=135114454296143&key=25495
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/259.png",OCS City HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch259?code=135114454296143&key=20587
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/394.png",OCS Geant HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch394?code=135114454296143&key=15177
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/393.png",OCS Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch393?code=135114454296143&key=38384
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/741.png",Cine + Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch741?code=135114454296143&key=60141
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/270.png",Cine Frisson HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch270?code=135114454296143&key=30674
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/288.png",Cine Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch288?code=135114454296143&key=11999
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/275.png",Cine Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch275?code=135114454296143&key=27122
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/200.png",Canal+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch200?code=135114454296143&key=33167
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/201.png",Canal+ Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch201?code=135114454296143&key=26546
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/204.png",Canal+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch204?code=135114454296143&key=31829
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch202?code=135114454296143&key=50378
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/203.png",Canal+ Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch203?code=135114454296143&key=15169
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/205.png",Canal+ series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch205?code=135114454296143&key=55084
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1113.png",TCM FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1113?code=135114454296143&key=40210
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/271.png",Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch271?code=135114454296143&key=44502
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1108.png",Paramount ch. FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1108?code=135114454296143&key=54561
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/286.png",Polar Plus FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch286?code=135114454296143&key=22427
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/285.png",Warner TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch285?code=135114454296143&key=13637
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/233.png",Serie Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch233?code=135114454296143&key=16734
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/256.png",13 eme Rue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch256?code=135114454296143&key=39383
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/251.png",Tv Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch251?code=135114454296143&key=42587
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/4207.png",TF1 HD +4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch4207?code=135114454296143&key=38307
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/4209.png",France 2 HD +4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch4209?code=135114454296143&key=46814
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/4208.png",M6 HD +4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch4208?code=135114454296143&key=54872
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/4220.png",W9 HD +4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch4220?code=135114454296143&key=59169
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/282.png",RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch282?code=135114454296143&key=59365
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/284.png",AB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch284?code=135114454296143&key=64307
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1652.png",AB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1652?code=135114454296143&key=22563
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/230.png",TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch230?code=135114454296143&key=16524
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1297.png",Viceland Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1297?code=135114454296143&key=48410
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1298.png",Season Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1298?code=135114454296143&key=52112
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/390.png",Crime District Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch390?code=135114454296143&key=25447
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/380.png",My Cuisine TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch380?code=135114454296143&key=49503
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/242.png",Ushuaia TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch242?code=135114454296143&key=36384
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/235.png",NAT GEO HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch235?code=135114454296143&key=43018
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/238.png",NATGEO WILD HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch238?code=135114454296143&key=62508
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/234.png",Planet Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch234?code=135114454296143&key=50453
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/225.png",Planet Plus AE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch225?code=135114454296143&key=60294
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/287.png",Planet Plus CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch287?code=135114454296143&key=47790
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/236.png",Voyage Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch236?code=135114454296143&key=21377
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/379.png",Discovery Family HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch379?code=135114454296143&key=41745
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/229.png",Discovery Science HD Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch229?code=135114454296143&key=20167
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/241.png",Discovery Show Case Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch241?code=135114454296143&key=35668
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/249.png",Discovery ID Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch249?code=135114454296143&key=10522
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/739.png",RMC Decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch739?code=135114454296143&key=27783
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/280.png",Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch280?code=135114454296143&key=40864
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/247.png",RMC Story
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch247?code=135114454296143&key=47827
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/283.png",Chasse et Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch283?code=135114454296143&key=48044
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/279.png",Trek
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch279?code=135114454296143&key=36050
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/278.png",Sciences et vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch278?code=135114454296143&key=43428
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/277.png",Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch277?code=135114454296143&key=57569
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/264.png",Comedie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch264?code=135114454296143&key=52716
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/223.png",C-8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch223?code=135114454296143&key=44139
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/214.png",NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch214?code=135114454296143&key=52449
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/228.png",C-Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch228?code=135114454296143&key=55566
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/267.png",Equipe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch267?code=135114454296143&key=46605
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/248.png",Cherie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch248?code=135114454296143&key=52840
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/237.png",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch237?code=135114454296143&key=25897
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/213.png",NT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch213?code=135114454296143&key=35452
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/217.png",TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch217?code=135114454296143&key=56078
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/274.png",Paris Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch274?code=135114454296143&key=63907
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/216.png",ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch216?code=135114454296143&key=25727
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/292.png",France Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch292?code=135114454296143&key=47429
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/299.png",C-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch299?code=135114454296143&key=51996
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1646.png",I24 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1646?code=135114454296143&key=50932
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/298.png",LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch298?code=135114454296143&key=47725
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/218.png",BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch218?code=135114454296143&key=24717
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/375.png",BFM Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch375?code=135114454296143&key=39076
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/263.png",BFM Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch263?code=135114454296143&key=28548
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/245.png",LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch245?code=135114454296143&key=37623
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1653.png",Mezzo Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1653?code=135114454296143&key=50710
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1650.png",RFM Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1650?code=135114454296143&key=41223
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1107.png",MCM Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1107?code=135114454296143&key=57385
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/293.png",Melody Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch293?code=135114454296143&key=59804
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/224.png",MTV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch224?code=135114454296143&key=27696
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/246.png",MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch246?code=135114454296143&key=44739
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/395.png",Piwi Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch395?code=135114454296143&key=14814
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/391.png",Toonami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch391?code=135114454296143&key=14399
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1106.png",Game one
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1106?code=135114454296143&key=55476
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/273.png",Boomerang FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch273?code=135114454296143&key=48335
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1645.png",Boing FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1645?code=135114454296143&key=64289
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/289.png",Tiji FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch289?code=135114454296143&key=15120
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/260.png",Canal J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch260?code=135114454296143&key=62150
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/281.png",Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch281?code=135114454296143&key=62534
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/240.png",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch240?code=135114454296143&key=64610
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/222.png",Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch222?code=135114454296143&key=39668
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/276.png",Teletoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch276?code=135114454296143&key=21153
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/265.png",Disney Ch. FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch265?code=135114454296143&key=61763
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1270.png",Disney Cinemagic FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1270?code=135114454296143&key=26991
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/257.png",Disney Junior FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch257?code=135114454296143&key=19725
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/239.png",Disney XD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch239?code=135114454296143&key=18648
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1272.png",Nickelodeon Jr. FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1272?code=135114454296143&key=21910
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1271.png",Nickelodeon FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1271?code=135114454296143&key=39795
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1654.png",Bet Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1654?code=135114454296143&key=64704
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/269.png",Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch269?code=135114454296143&key=37279
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/268.png",AB Moteur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch268?code=135114454296143&key=21856
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1299.png",Golf Plus FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1299?code=135114454296143&key=29177
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/290.png",Golf Channel FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch290?code=135114454296143&key=52094
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/743.png",EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch743?code=135114454296143&key=53367
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/744.png",EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch744?code=135114454296143&key=52326
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/266.png",Foot Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch266?code=135114454296143&key=45238
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/250.png",Infosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch250?code=135114454296143&key=55906
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/244.png",BFM Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch244?code=135114454296143&key=23526
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1648.png",Eleven Sport 1 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1648?code=135114454296143&key=22646
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1649?code=135114454296143&key=54990
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch255?code=135114454296143&key=23296
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch253?code=135114454296143&key=54264
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch254?code=135114454296143&key=31480
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch243?code=135114454296143&key=15110
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch119?code=135114454296143&key=50356
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch120?code=135114454296143&key=51185
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch206?code=135114454296143&key=11755
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch340?code=135114454296143&key=15510
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch341?code=135114454296143&key=32482
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch342?code=135114454296143&key=51381
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch343?code=135114454296143&key=12846
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch344?code=135114454296143&key=22677
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch345?code=135114454296143&key=11427
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch346?code=135114454296143&key=53115
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/300.png",A LA Carte 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch300?code=135114454296143&key=15080
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/301.png",A LA Carte 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch301?code=135114454296143&key=44930
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/302.png",A LA Carte 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch302?code=135114454296143&key=18944
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/303.png",A LA Carte 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch303?code=135114454296143&key=49632
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/304.png",A LA Carte 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch304?code=135114454296143&key=27939
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/305.png",A LA Carte 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch305?code=135114454296143&key=45527
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/306.png",A LA Carte 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch306?code=135114454296143&key=50185
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/307.png",A LA Carte 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch307?code=135114454296143&key=33489
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/308.png",A LA Carte 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch308?code=135114454296143&key=41851
+#EXTINF:0 group-title="Canal sat"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/309.png",A LA Carte 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch309?code=135114454296143&key=16856

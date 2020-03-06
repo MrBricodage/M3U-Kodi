@@ -1,287 +1,649 @@
 #EXTM3U
 #EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1.m3u8
-#EXTINF:-1,TF1 HD -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/12314.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19375.m3u8
+#EXTINF:-1,TF1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19376.m3u8
 #EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3.m3u8
-#EXTINF:-1,M6 HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4.m3u8
-#EXTINF:-1,France 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/5.m3u8
-#EXTINF:-1,France 2 HD -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6468.m3u8
-#EXTINF:-1,France 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/7.m3u8
-#EXTINF:-1,France 3 -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8.m3u8
-#EXTINF:-1,France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/9.m3u8
-#EXTINF:-1,France 4  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/10.m3u8
-#EXTINF:-1,France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/12.m3u8
-#EXTINF:-1,France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/11.m3u8
-#EXTINF:-1,France 5 -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31235.m3u8
-#EXTINF:-1,Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/14.m3u8
-#EXTINF:-1,Arte -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31236.m3u8
-#EXTINF:-1,BFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19.m3u8
-#EXTINF:-1,BFM BUSINESS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8863.m3u8
-#EXTINF:-1,FRANCE 24 NEWS FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/20.m3u8
-#EXTINF:-1,Euronews Fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/77.m3u8
-#EXTINF:-1,C News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/84.m3u8
-#EXTINF:-1,LCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/823.m3u8
-#EXTINF:-1,France Info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19740.m3u8
-#EXTINF:-1,I24 news HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/20171.m3u8
-#EXTINF:-1,TV5 Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/13.m3u8
-#EXTINF:-1,Canal + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/28.m3u8
-#EXTINF:-1,Canal +  Decale HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/29.m3u8
-#EXTINF:-1,Canal + Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/30.m3u8
-#EXTINF:-1,Canal+ Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/31.m3u8
-#EXTINF:-1,Canal+ serie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/32.m3u8
-#EXTINF:-1,Cine+  Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/34.m3u8
-#EXTINF:-1,Cine+  Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/35.m3u8
-#EXTINF:-1,Cine+ emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/38.m3u8
-#EXTINF:-1,Cine+ Famiz HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/37.m3u8
-#EXTINF:-1,Cine+ Classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/36.m3u8
-#EXTINF:-1,Cine Club HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8873.m3u8
-#EXTINF:-1,OCS City HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/81.m3u8
-#EXTINF:-1,OCS Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/70.m3u8
-#EXTINF:-1,OCS CHOC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/85.m3u8
-#EXTINF:-1,OCS Geant HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/82.m3u8
-#EXTINF:-1,Cine Polar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/25.m3u8
-#EXTINF:-1,Cine FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/78.m3u8
-#EXTINF:-1,Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/24.m3u8
-#EXTINF:-1,TFX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/821.m3u8
-#EXTINF:-1,TCM Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/62.m3u8
-#EXTINF:-1,E! Entertainment HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/60.m3u8
-#EXTINF:-1,AB 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19723.m3u8
-#EXTINF:-1,AB Xplore HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19722.m3u8
-#EXTINF:-1,Polar + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19746.m3u8
-#EXTINF:-1,Sundance TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19724.m3u8
-#EXTINF:-1,Comedy Central FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19725.m3u8
-#EXTINF:-1,Nrj Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19741.m3u8
-#EXTINF:-1,Trace Tropical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19742.m3u8
-#EXTINF:-1,ELLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8869.m3u8
-#EXTINF:-1,Bet France HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8870.m3u8
-#EXTINF:-1,MTV France HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8871.m3u8
-#EXTINF:-1,MTV HITS FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8865.m3u8
-#EXTINF:-1,Trace Urban HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8868.m3u8
-#EXTINF:-1,MCM France HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8867.m3u8
-#EXTINF:-1,MCM Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8866.m3u8
-#EXTINF:-1,RFM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8872.m3u8
-#EXTINF:-1,ONE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8874.m3u8
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/824.m3u8
-#EXTINF:-1,6TER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/817.m3u8
-#EXTINF:-1,My cuisine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18927.m3u8
-#EXTINF:-1,Ushuaia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/51.m3u8
-#EXTINF:-1,Season HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1281.m3u8
-#EXTINF:-1,Trek HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4546.m3u8
-#EXTINF:-1,Animaux HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/54.m3u8
-#EXTINF:-1,RMC Story HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18928.m3u8
-#EXTINF:-1,RMC Decouverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/1282.m3u8
-#EXTINF:-1,Chasse et peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3202.m3u8
-#EXTINF:-1,National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/48.m3u8
-#EXTINF:-1,National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/86.m3u8
-#EXTINF:-1,Discovery channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/806.m3u8
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/50.m3u8
-#EXTINF:-1,Discovery Family FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/17124.m3u8
-#EXTINF:-1,Crime District HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8864.m3u8
-#EXTINF:-1,Discovery Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6122.m3u8
-#EXTINF:-1,Planet + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/4306.m3u8
-#EXTINF:-1,Planete+ CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/58.m3u8
-#EXTINF:-1,Planet + A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/807.m3u8
-#EXTINF:-1,Toute l histoire 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/52.m3u8
-#EXTINF:-1,Histoire HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/56.m3u8
-#EXTINF:-1,Science & Vie TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/53.m3u8
-#EXTINF:-1,Voyage HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/809.m3u8
-#EXTINF:-1,Teva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/523.m3u8
-#EXTINF:-1,13eme Rue HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8890.m3u8
-#EXTINF:-1,TV Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6061.m3u8
-#EXTINF:-1,Serie Club HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/66.m3u8
-#EXTINF:-1,C Star HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/17.m3u8
-#EXTINF:-1,C Star HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6535.m3u8
-#EXTINF:-1,C 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/21.m3u8
-#EXTINF:-1,C 8 HD -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6534.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19377.m3u8
+#EXTINF:-1,M6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19378.m3u8
+#EXTINF:-1,FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19379.m3u8
+#EXTINF:-1,FRANCE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19380.m3u8
+#EXTINF:-1,FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19381.m3u8
+#EXTINF:-1,FRANCE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19382.m3u8
+#EXTINF:-1,FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19383.m3u8
+#EXTINF:-1,FRANCE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19384.m3u8
+#EXTINF:-1,FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19385.m3u8
+#EXTINF:-1,FRANCE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19386.m3u8
+#EXTINF:-1,FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19387.m3u8
+#EXTINF:-1,FRANCE O SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19388.m3u8
 #EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/22.m3u8
-#EXTINF:-1,W9 HD  -6h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6532.m3u8
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/55.m3u8
-#EXTINF:-1,Altice Studio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18926.m3u8
-#EXTINF:-1,RTL 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/27.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19389.m3u8
+#EXTINF:-1,W9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19390.m3u8
+#EXTINF:-1,C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19391.m3u8
+#EXTINF:-1,C8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19392.m3u8
+#EXTINF:-1,CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19393.m3u8
+#EXTINF:-1,CSTAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19394.m3u8
+#EXTINF:-1,6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19395.m3u8
+#EXTINF:-1,6TER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19396.m3u8
+#EXTINF:-1,TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19397.m3u8
+#EXTINF:-1,TV BREIZH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19398.m3u8
+#EXTINF:-1,TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19399.m3u8
+#EXTINF:-1,TV5 MONDE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19400.m3u8
+#EXTINF:-1,TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19402.m3u8
+#EXTINF:-1,TFX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19403.m3u8
 #EXTINF:-1,AB1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/15.m3u8
-#EXTINF:-1,Paris Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/61.m3u8
-#EXTINF:-1,Comedie + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3220.m3u8
-#EXTINF:-1,HD1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/80.m3u8
-#EXTINF:-1,Cherie 25 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/79.m3u8
-#EXTINF:-1,Cherie 25 HD  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6536.m3u8
-#EXTINF:-1,NRJ 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/18.m3u8
-#EXTINF:-1,NRJ 12 HD  -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6533.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19404.m3u8
+#EXTINF:-1,AB1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19405.m3u8
+#EXTINF:-1,RTL 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19406.m3u8
+#EXTINF:-1,RTL 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19407.m3u8
 #EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/16.m3u8
-#EXTINF:-1,RMC Story
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/23.m3u8
-#EXTINF:-1,RMC story   -6H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/6537.m3u8
-#EXTINF:-1,RTS Un HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/825.m3u8
-#EXTINF:-1,RTS Deux HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/826.m3u8
-#EXTINF:-1,A la carte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/810.m3u8
-#EXTINF:-1,A la carte 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/811.m3u8
-#EXTINF:-1,A la carte 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/812.m3u8
-#EXTINF:-1,Canal +  Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/33.m3u8
-#EXTINF:-1,Trace Sport Stars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19745.m3u8
-#EXTINF:-1,RMC Sport news
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19744.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19134.m3u8
-#EXTINF:-1,RMC Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19135.m3u8
-#EXTINF:-1,RMC Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19136.m3u8
-#EXTINF:-1,RMC Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/814.m3u8
-#EXTINF:-1,RMC sport 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/2739.m3u8
-#EXTINF:-1,RMC sport 6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3969.m3u8
-#EXTINF:-1,RMC sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/429.m3u8
-#EXTINF:-1,BeIN Sport 1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3971.m3u8
-#EXTINF:-1,BeIN Sports 2 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/360.m3u8
-#EXTINF:-1,BeIN Sports 3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3403.m3u8
-#EXTINF:-1,Bein Sport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19681.m3u8
-#EXTINF:-1,BeIN sport MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/491.m3u8
-#EXTINF:-1,Bein Sport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19717.m3u8
-#EXTINF:-1,BeiN sport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19718.m3u8
-#EXTINF:-1,BeiN sport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19719.m3u8
-#EXTINF:-1,BeiN sport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19720.m3u8
-#EXTINF:-1,BeiN sport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/19721.m3u8
-#EXTINF:-1,Eurosport 1 Fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/829.m3u8
-#EXTINF:-1,Eurosport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/3402.m3u8
-#EXTINF:-1,InfoSport +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/63.m3u8
-#EXTINF:-1,L'équipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/8889.m3u8
-#EXTINF:-1,Foot+ 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/431.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19408.m3u8
+#EXTINF:-1,TMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19409.m3u8
+#EXTINF:-1,CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19410.m3u8
+#EXTINF:-1,CHERIE 25 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19411.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19412.m3u8
+#EXTINF:-1,PARIS-PREMIERE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19413.m3u8
+#EXTINF:-1,TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19414.m3u8
+#EXTINF:-1,TEVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19415.m3u8
+#EXTINF:-1,ELLE GIRL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19416.m3u8
+#EXTINF:-1,++++CANAL PLUS++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19417.m3u8
+#EXTINF:-1,CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19418.m3u8
+#EXTINF:-1,CANAL+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19419.m3u8
+#EXTINF:-1,CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19420.m3u8
+#EXTINF:-1,CANAL+ SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19421.m3u8
+#EXTINF:-1,CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19422.m3u8
+#EXTINF:-1,CANAL+ DECALE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19423.m3u8
+#EXTINF:-1,CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19424.m3u8
+#EXTINF:-1,CANAL+ CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19425.m3u8
+#EXTINF:-1,CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19426.m3u8
+#EXTINF:-1,CANAL+ FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19427.m3u8
+#EXTINF:-1,CINE PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19428.m3u8
+#EXTINF:-1,CINE PREMIER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19429.m3u8
+#EXTINF:-1,CINE FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19430.m3u8
+#EXTINF:-1,CINE FRISSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19431.m3u8
+#EXTINF:-1,CINE FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19432.m3u8
+#EXTINF:-1,CINE FAMIZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19433.m3u8
+#EXTINF:-1,CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19434.m3u8
+#EXTINF:-1,CINE EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19435.m3u8
+#EXTINF:-1,CINE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19436.m3u8
+#EXTINF:-1,CINE CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19437.m3u8
+#EXTINF:-1,CINE CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19438.m3u8
+#EXTINF:-1,CINE CLASSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19439.m3u8
+#EXTINF:-1,++++FILMS ET DRAMAS++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19440.m3u8
+#EXTINF:-1,TF1 SERIES FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19441.m3u8
+#EXTINF:-1,TF1 SERIE FILM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19442.m3u8
+#EXTINF:-1,TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19443.m3u8
+#EXTINF:-1,TCM CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19444.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19445.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19446.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19447.m3u8
+#EXTINF:-1,POLAR  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19450.m3u8
+#EXTINF:-1,POLAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19451.m3u8
+#EXTINF:-1,OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19452.m3u8
+#EXTINF:-1,OCS MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19453.m3u8
+#EXTINF:-1,OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19454.m3u8
+#EXTINF:-1,OCS GEANTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19455.m3u8
+#EXTINF:-1,OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19456.m3u8
+#EXTINF:-1,OCS CITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19457.m3u8
+#EXTINF:-1,OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19458.m3u8
+#EXTINF:-1,OCS CHOC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19459.m3u8
+#EXTINF:-1,COMEDIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19460.m3u8
+#EXTINF:-1,COMEDIE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19461.m3u8
+#EXTINF:-1,ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19462.m3u8
+#EXTINF:-1,ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19463.m3u8
+#EXTINF:-1,SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19464.m3u8
+#EXTINF:-1,SERIE CLUB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19465.m3u8
+#EXTINF:-1,13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19466.m3u8
+#EXTINF:-1,13EME RUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19467.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19468.m3u8
+#EXTINF:-1,CRIME DISTRICT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19469.m3u8
+#EXTINF:-1,E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19470.m3u8
+#EXTINF:-1,E! ENTERTAINMENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19471.m3u8
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19472.m3u8
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19473.m3u8
+#EXTINF:-1,NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19474.m3u8
+#EXTINF:-1,NRJ 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19475.m3u8
+#EXTINF:-1,AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19476.m3u8
+#EXTINF:-1,AB3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19477.m3u8
+#EXTINF:-1,FR:Canalplay1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19478.m3u8
+#EXTINF:-1,FR:Canalplay2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19479.m3u8
+#EXTINF:-1,FR:Canalplay3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19480.m3u8
+#EXTINF:-1,FR:Canalplay4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19481.m3u8
+#EXTINF:-1,FR:Canalplay5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19482.m3u8
+#EXTINF:-1,FR:Canalplay6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19483.m3u8
+#EXTINF:-1,FR:Canalplay7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19484.m3u8
+#EXTINF:-1,FR:Canalplay8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19485.m3u8
+#EXTINF:-1,FR:Canalplay9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19486.m3u8
+#EXTINF:-1,FR:Canalplay10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19487.m3u8
+#EXTINF:-1,++++DECOUVERTE++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19488.m3u8
+#EXTINF:-1,PLANETE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19489.m3u8
+#EXTINF:-1,PLANETE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19490.m3u8
+#EXTINF:-1,PLANETE CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19491.m3u8
+#EXTINF:-1,PLANETE CI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19492.m3u8
+#EXTINF:-1,PLANETE AE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19493.m3u8
+#EXTINF:-1,PLANETE AE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19494.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19495.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19496.m3u8
+#EXTINF:-1,SEASON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19497.m3u8
+#EXTINF:-1,SEASON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19498.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19499.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19500.m3u8
+#EXTINF:-1,USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19501.m3u8
+#EXTINF:-1,USHUAIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19502.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19503.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19504.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19505.m3u8
+#EXTINF:-1,DISCOVERY-INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19506.m3u8
+#EXTINF:-1,DISCOVERY HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19507.m3u8
+#EXTINF:-1,DISCOVERY SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19508.m3u8
+#EXTINF:-1,DISCOVERY FAMILLY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19509.m3u8
+#EXTINF:-1,DISCOVERY FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19510.m3u8
+#EXTINF:-1,SCIENCES & VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19511.m3u8
+#EXTINF:-1,SCIENCES & VIE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19512.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19513.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19514.m3u8
+#EXTINF:-1,HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19515.m3u8
+#EXTINF:-1,HISTOIRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19516.m3u8
+#EXTINF:-1,AB Xplore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19517.m3u8
+#EXTINF:-1,AB EXPLORE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19518.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19519.m3u8
+#EXTINF:-1,RMC DECOUVERTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19520.m3u8
+#EXTINF:-1,RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19521.m3u8
+#EXTINF:-1,RMC STORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19522.m3u8
+#EXTINF:-1,CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19523.m3u8
+#EXTINF:-1,CHASSE ET PECHE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19524.m3u8
+#EXTINF:-1,ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19525.m3u8
+#EXTINF:-1,ARTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19526.m3u8
+#EXTINF:-1,ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19527.m3u8
+#EXTINF:-1,ANIMAUX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19528.m3u8
+#EXTINF:-1,VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19529.m3u8
+#EXTINF:-1,VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19530.m3u8
+#EXTINF:-1,VOYAGE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19531.m3u8
+#EXTINF:-1,MY CUISINE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19532.m3u8
+#EXTINF:-1,MY CUISINE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19533.m3u8
+#EXTINF:-1,NOVELAS TV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19534.m3u8
+#EXTINF:-1,BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19536.m3u8
+#EXTINF:-1,BFM TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19537.m3u8
+#EXTINF:-1,BFM PARIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19538.m3u8
+#EXTINF:-1,BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19539.m3u8
+#EXTINF:-1,BFM BUSINESS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19540.m3u8
+#EXTINF:-1,LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19541.m3u8
+#EXTINF:-1,LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19542.m3u8
+#EXTINF:-1,LCI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19543.m3u8
+#EXTINF:-1,PUBLIC-SENAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19544.m3u8
+#EXTINF:-1,FRANCE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19545.m3u8
+#EXTINF:-1,FRANCE 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19546.m3u8
+#EXTINF:-1,FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19547.m3u8
+#EXTINF:-1,FRANCE INFO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19548.m3u8
+#EXTINF:-1,EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19549.m3u8
+#EXTINF:-1,EURONEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19550.m3u8
+#EXTINF:-1,I24 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19551.m3u8
+#EXTINF:-1,I24 NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19552.m3u8
+#EXTINF:-1,CANAL NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19553.m3u8
+#EXTINF:-1,CANAL NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19554.m3u8
+#EXTINF:-1,++++SPORT++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19555.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19556.m3u8
+#EXTINF:-1,CANAL+ SPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19557.m3u8
+#EXTINF:-1,BEINSPORT 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19558.m3u8
+#EXTINF:-1,BEINSPORT 1 SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19559.m3u8
+#EXTINF:-1,BEINSPORT 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19560.m3u8
+#EXTINF:-1,BEINSPORT 2 SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19561.m3u8
+#EXTINF:-1,BEINSPORT 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19562.m3u8
+#EXTINF:-1,BEINSPORT 3 SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19563.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19564.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19565.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19566.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19567.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19568.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19569.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19570.m3u8
+#EXTINF:-1,TELECLUB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19571.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19572.m3u8
+#EXTINF:-1,RMC SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19573.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19574.m3u8
+#EXTINF:-1,RMC SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19575.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19576.m3u8
+#EXTINF:-1,RMC SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19577.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19578.m3u8
+#EXTINF:-1,RMC SPORT 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19579.m3u8
+#EXTINF:-1,RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19580.m3u8
+#EXTINF:-1,RMC Sport News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19581.m3u8
+#EXTINF:-1,RMC Sport Access 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19582.m3u8
+#EXTINF:-1,RMC Sport Access 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19583.m3u8
+#EXTINF:-1,RMC Sport Access 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19584.m3u8
+#EXTINF:-1,RMC Sport Access 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19585.m3u8
+#EXTINF:-1,RMC Sport Access 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19586.m3u8
+#EXTINF:-1,RMC Sport Access 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19587.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19588.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19589.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19590.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19591.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19592.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19593.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19594.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19595.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19596.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19597.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19598.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19599.m3u8
+#EXTINF:-1,FOOT 24/24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19600.m3u8
+#EXTINF:-1,FOOT 24/24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19601.m3u8
+#EXTINF:-1,EUROSPORT 1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19602.m3u8
+#EXTINF:-1,EUROSPORT 1 SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19603.m3u8
+#EXTINF:-1,EUROSPORT 2 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19604.m3u8
+#EXTINF:-1,EUROSPORT 2 SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19605.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19606.m3u8
+#EXTINF:-1,L'EQUIPE 21 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19607.m3u8
+#EXTINF:-1,INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19608.m3u8
+#EXTINF:-1,INFOSPORT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19609.m3u8
+#EXTINF:-1,BFM SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19610.m3u8
 #EXTINF:-1,OL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/436.m3u8
-#EXTINF:-1,Equidia Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/437.m3u8
-#EXTINF:-1,Golf + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/438.m3u8
-#EXTINF:-1,AB Moteur HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/fouad01/fouad01/435.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19611.m3u8
+#EXTINF:-1,OL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19612.m3u8
+#EXTINF:-1,MOTORVISION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19613.m3u8
+#EXTINF:-1,AB MOTEUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19615.m3u8
+#EXTINF:-1,KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19616.m3u8
+#EXTINF:-1,GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19617.m3u8
+#EXTINF:-1,GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19618.m3u8
+#EXTINF:-1,GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19620.m3u8
+#EXTINF:-1,GOLF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19621.m3u8
+#EXTINF:-1,EQUIDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19622.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19623.m3u8
+#EXTINF:-1,EQUIDIA LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19624.m3u8
+#EXTINF:-1,BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19626.m3u8
+#EXTINF:-1,BET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19627.m3u8
+#EXTINF:-1,++++ENFANTS++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19628.m3u8
+#EXTINF:-1,TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19629.m3u8
+#EXTINF:-1,TOONAMI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19630.m3u8
+#EXTINF:-1,CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19631.m3u8
+#EXTINF:-1,CANAL J SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19632.m3u8
+#EXTINF:-1,PARAMOUNT DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19633.m3u8
+#EXTINF:-1,NICKELODEON HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19634.m3u8
+#EXTINF:-1,NICKELODEON SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19635.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19636.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19637.m3u8
+#EXTINF:-1,NICKELODEON TEEN HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19638.m3u8
+#EXTINF:-1,NICKELODEON TEEN SD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19639.m3u8
+#EXTINF:-1,MANGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19640.m3u8
+#EXTINF:-1,MANGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19641.m3u8
+#EXTINF:-1,GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19643.m3u8
+#EXTINF:-1,GULLI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19644.m3u8
+#EXTINF:-1,GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19645.m3u8
+#EXTINF:-1,GAME ONE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19646.m3u8
+#EXTINF:-1,TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19647.m3u8
+#EXTINF:-1,TIJI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19648.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19649.m3u8
+#EXTINF:-1,DISNEY-JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19650.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19651.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19652.m3u8
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19653.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19654.m3u8
+#EXTINF:-1,DISNEY CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19655.m3u8
+#EXTINF:-1,PIWI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19656.m3u8
+#EXTINF:-1,PIWI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19657.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19658.m3u8
+#EXTINF:-1,CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19659.m3u8
+#EXTINF:-1,CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19660.m3u8
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19661.m3u8
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19662.m3u8
+#EXTINF:-1,J-ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19663.m3u8
+#EXTINF:-1,TELETOON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19664.m3u8
+#EXTINF:-1,TELETOON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19665.m3u8
+#EXTINF:-1,BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19666.m3u8
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19667.m3u8
+#EXTINF:-1,++++MUSIQUE++++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19668.m3u8
+#EXTINF:-1,NRJ HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19670.m3u8
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19671.m3u8
+#EXTINF:-1,MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19672.m3u8
+#EXTINF:-1,M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19673.m3u8
+#EXTINF:-1,TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19675.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19676.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19677.m3u8
+#EXTINF:-1,MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19680.m3u8
+#EXTINF:-1,NRJ-HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19681.m3u8
+#EXTINF:-1,TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19682.m3u8
+#EXTINF:-1,MTV ROCK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19683.m3u8
+#EXTINF:-1,MTV FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19684.m3u8
+#EXTINF:-1,MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19685.m3u8
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19686.m3u8
+#EXTINF:-1,MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19687.m3u8
+#EXTINF:-1,MCM POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19688.m3u8
+#EXTINF:-1,MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19689.m3u8
+#EXTINF:-1,M6 MUSIC HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19690.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19691.m3u8
+#EXTINF:-1,ALTICE STUDIO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19692.m3u8
+#EXTINF:-1,RFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19693.m3u8
+#EXTINF:-1,NRJ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19694.m3u8
+#EXTINF:-1,VH1 CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19695.m3u8
+#EXTINF:-1,MTV DANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19696.m3u8
+#EXTINF:-1,MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19697.m3u8
+#EXTINF:-1,LFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19698.m3u8
+#EXTINF:-1,ONE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19699.m3u8
+#EXTINF:-1,TVM3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19700.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19701.m3u8
+#EXTINF:-1,RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19702.m3u8
+#EXTINF:-1,RTS DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19703.m3u8
+#EXTINF:-1,ROUGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19704.m3u8
+#EXTINF:-1,ES1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19705.m3u8
+#EXTINF:-1,TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19706.m3u8
+#EXTINF:-1,NEUTICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19707.m3u8
+#EXTINF:-1,EXTREME SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19708.m3u8
+#EXTINF:-1,MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19709.m3u8
+#EXTINF:-1,TV8 MONT-BLANC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hostiptv.com:8089/live/roch/roch123/19710.m3u8

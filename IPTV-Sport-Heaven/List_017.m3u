@@ -1,13 +1,27 @@
 #EXTM3U
-#EXTINF:-1 ,Abu Dhabi Sports_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 ,Abu Dhabi Sports 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 ,Abu Dhabi Sports 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 ,Abu Dhabi Sports 4_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 ,Abu Dhabi Sports 5_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1 ,Abu Dhabi Sports 6_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:0,BR: FOX SPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/87
+#EXTINF:0,BR: FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/88
+#EXTINF:0,BR: FOX SPORTS HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/89
+#EXTINF:0,BR: FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/90
+#EXTINF:0,BR: SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/226
+#EXTINF:0,BR: SPORTV 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/227
+#EXTINF:0,BR: SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/228
+#EXTINF:0,BR: SPORTV 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/229
+#EXTINF:0,BR: SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/230
+#EXTINF:0,BR: SPORTV SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/231
+#EXTINF:0,BR:SPORT  2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/301
+#EXTINF:0,BR:SPORT TV 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/302
+#EXTINF:0,BR:SPORTV  FULL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/303

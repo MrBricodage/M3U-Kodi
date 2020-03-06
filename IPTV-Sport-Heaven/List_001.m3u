@@ -1,11 +1,25 @@
 #EXTM3U
-#EXTINF:-1,AR: BeIN SPORTS 1 | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip1.iptv.bingo/live/11019?u=1708061&s=0d31684af3cdd13fb3b3b87ced1bf557718b960f66b857c062178181de8f69dc
-#EXTINF:-1,AR: BeIN SPORTS 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip1.iptv.bingo/live/11021?u=1708061&s=0d31684af3cdd13fb3b3b87ced1bf557718b960f66b857c062178181de8f69dc
-#EXTINF:-1,AR: BeIN SPORTS 3 | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip1.iptv.bingo/live/11023?u=1708061&s=0d31684af3cdd13fb3b3b87ced1bf557718b960f66b857c062178181de8f69dc
-#EXTINF:-1,AR: BeIN SPORTS 4 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip1.iptv.bingo/live/11024?u=1708061&s=0d31684af3cdd13fb3b3b87ced1bf557718b960f66b857c062178181de8f69dc
-#EXTINF:-1,AR: BeIN SPORTS 5 | HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip1.iptv.bingo/live/11030?u=1708061&s=0d31684af3cdd13fb3b3b87ced1bf557718b960f66b857c062178181de8f69dc
+#EXTINF:0,Bein Sports News_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
+#EXTINF:0,Bein Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
+#EXTINF:0,BeInSport 1 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
+#EXTINF:0,BeInSport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+#EXTINF:0,BeInSport 2 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#EXTINF:0,BeInSport 2 SD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
+#EXTINF:0,BeInSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
+#EXTINF:0,BeInSport 3 SD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+#EXTINF:0,BeInSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+#EXTINF:0,BeInSport 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
+#EXTINF:0,BeInSport 5 HD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+#EXTINF:0,BeInSport 5 SD_ By : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8115?code=103131497823984&key=26611

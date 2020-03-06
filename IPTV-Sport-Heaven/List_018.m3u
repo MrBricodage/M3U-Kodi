@@ -1,41 +1,9 @@
 #EXTM3U
-#EXTINF:0,NL: Fox Sports 1_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123690
-#EXTINF:0,NL: FOX Sports 1 FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123694
-#EXTINF:0,NL: Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123689
-#EXTINF:0,NL: FOX Sports 2 HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123695
-#EXTINF:0,NL: Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123688
-#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123702
-#EXTINF:0,NL: Fox Sports 4_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123687
-#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123700
-#EXTINF:0,NL: Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123686
-#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123701
-#EXTINF:0,NL: Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123685
-#EXTINF:0,NL: Motors TV_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123764
-#EXTINF:0,NL: Sport 1 Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123676
-#EXTINF:0,NL: Ziggo Sport Extra1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123708
-#EXTINF:0,NL: Ziggo Sport Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123705
-#EXTINF:0,NL: Ziggo Sport Select FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123674
-#EXTINF:0,NL: Ziggo Sport Select HD_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/123704
-#EXTINF:0,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/122127
-#EXTINF:0,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/122128
-#EXTINF:0,VIP ES: Bein Sports HD ( 1080P )_ By : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hudsmart.xyz:8080/gokturk1/gokturk1/122134
+#EXTINF:-1,Arena Sport 1 HR HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3 HR HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test

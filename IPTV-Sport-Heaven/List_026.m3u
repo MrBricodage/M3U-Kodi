@@ -1,31 +1,395 @@
 #EXTM3U
-#EXTINF:-1,Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eleven1HD
-#EXTINF:-1,Eleven Sports 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpor2HD
-#EXTINF:-1,Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpo3
-#EXTINF:-1,Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Elevsrts4
-#EXTINF:-1,Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/EleSports5
-#EXTINF:-1,Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/ElevenSpo6
-#EXTINF:-1,Eurosport 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eur1
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eusport1HD
-#EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/Eurosp2
-#EXTINF:-1,SPORT TV 1_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTTV1
-#EXTINF:-1,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTV1HD
-#EXTINF:-1,SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:-1,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT2HD
-#EXTINF:-1,SPORT TV 3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT3
-#EXTINF:-1,SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.203.143.51:9981/play/SPORT3HD
+#EXTINF:0,SPORTV FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5047
+#EXTINF:0,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5012
+#EXTINF:0,SPORTV HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21130
+#EXTINF:0,SPORTV SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5017
+#EXTINF:0,SPORTV SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21129
+#EXTINF:0,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5042
+#EXTINF:0,SPORTV 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5015
+#EXTINF:0,SPORTV 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21128
+#EXTINF:0,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5016
+#EXTINF:0,SPORTV 2 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21127
+#EXTINF:0,SPORTV 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5041
+#EXTINF:0,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5013
+#EXTINF:0,SPORTV 3 HD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21126
+#EXTINF:0,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5014
+#EXTINF:0,SPORTV 3 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21125
+#EXTINF:0,FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5048
+#EXTINF:0,FOX SPORTS HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5022
+#EXTINF:0,FOX SPORTS HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21132
+#EXTINF:0,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5023
+#EXTINF:0,FOX SPORTS SD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21131
+#EXTINF:0,FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5043
+#EXTINF:0,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5020
+#EXTINF:0,FOX SPORTS 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21134
+#EXTINF:0,FOX SPORTS 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5021
+#EXTINF:0,FOX SPORTS 2 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21133
+#EXTINF:0,ESPN BRASIL FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5049
+#EXTINF:0,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5033
+#EXTINF:0,ESPN BRASIL HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21143
+#EXTINF:0,ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5034
+#EXTINF:0,ESPN BRASIL SD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21142
+#EXTINF:0,ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/64454
+#EXTINF:0,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5030
+#EXTINF:0,ESPN HD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21145
+#EXTINF:0,ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/22827
+#EXTINF:0,ESPN SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21144
+#EXTINF:0,ESPN 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/22641
+#EXTINF:0,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5035
+#EXTINF:0,ESPN 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/25573
+#EXTINF:0,ESPN 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5036
+#EXTINF:0,ESPN 2 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/25572
+#EXTINF:0,ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5039
+#EXTINF:0,ESPN EXTRA HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5031
+#EXTINF:0,ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5032
+#EXTINF:0,EI PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/53165
+#EXTINF:0,EI PLUS HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/55453
+#EXTINF:0,EI PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/54026
+#EXTINF:0,EI PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162042
+#EXTINF:0,EI PLUS 2 HD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/56976
+#EXTINF:0,EI PLUS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162043
+#EXTINF:0,EI PLUS 3 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/56975
+#EXTINF:0,EI PLUS 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162044
+#EXTINF:0,EI PLUS 4 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/164455
+#EXTINF:0,EI PLUS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162045
+#EXTINF:0,EI PLUS 5 HD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/164456
+#EXTINF:0,EI PLUS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162046
+#EXTINF:0,EI PLUS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162047
+#EXTINF:0,BAND SPORTS FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/22652
+#EXTINF:0,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5037
+#EXTINF:0,BAND SPORTS HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21149
+#EXTINF:0,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/5038
+#EXTINF:0,BAND SPORTS SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/21148
+#EXTINF:0,ARG: FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/66013
+#EXTINF:0,ARG: FOX SPORTS 1 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/66012
+#EXTINF:0,ARG: FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/66011
+#EXTINF:0,ARG: FOX SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/66010
+#EXTINF:0,ARG: FOX SPORTS PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/65988
+#EXTINF:0,ARG: FOX SPORTS PREMIUM SD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/66026
+#EXTINF:0,PT : ELEVEN SPORTS 1 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160971
+#EXTINF:0,PT : ELEVEN SPORTS 1 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160972
+#EXTINF:0,PT : ELEVEN SPORTS 1 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160973
+#EXTINF:0,PT : ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160974
+#EXTINF:0,PT : ELEVEN SPORTS 1 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160975
+#EXTINF:0,PT : ELEVEN SPORTS 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160976
+#EXTINF:0,PT : ELEVEN SPORTS 1 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160977
+#EXTINF:0,PT : ELEVEN SPORTS 2 SD (LOW) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160978
+#EXTINF:0,PT : ELEVEN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160979
+#EXTINF:0,PT : ELEVEN SPORTS 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160980
+#EXTINF:0,PT : ELEVEN SPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160981
+#EXTINF:0,PT : ELEVEN SPORTS 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160982
+#EXTINF:0,PT : ELEVEN SPORTS 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160983
+#EXTINF:0,PT : ELEVEN SPORTS 2 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160984
+#EXTINF:0,PT : ELEVEN SPORTS 3 SD (LOW) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160985
+#EXTINF:0,PT : ELEVEN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160986
+#EXTINF:0,PT : ELEVEN SPORTS 3 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160987
+#EXTINF:0,PT : ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160988
+#EXTINF:0,PT : ELEVEN SPORTS 3 HD ²_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160989
+#EXTINF:0,PT : ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160990
+#EXTINF:0,PT : ELEVEN SPORTS 3 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160991
+#EXTINF:0,PT : ELEVEN SPORTS 4 SD (LOW) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160992
+#EXTINF:0,PT : ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160993
+#EXTINF:0,PT : ELEVEN SPORTS 4 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160994
+#EXTINF:0,PT : ELEVEN SPORTS 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160995
+#EXTINF:0,PT : ELEVEN SPORTS 4 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160996
+#EXTINF:0,PT : ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160997
+#EXTINF:0,PT : ELEVEN SPORTS 4 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160998
+#EXTINF:0,PT : ELEVEN SPORTS 5 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/160999
+#EXTINF:0,PT : ELEVEN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161000
+#EXTINF:0,PT : ELEVEN SPORTS 5 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161001
+#EXTINF:0,PT : ELEVEN SPORTS 5 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161002
+#EXTINF:0,PT : ELEVEN SPORTS 5 SD _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161003
+#EXTINF:0,PT : ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161004
+#EXTINF:0,PT : ELEVEN SPORTS 6 SD (LOW) _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161005
+#EXTINF:0,PT : ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161006
+#EXTINF:0,PT : ELEVEN SPORTS 6  SD² _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161007
+#EXTINF:0,PT : ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161008
+#EXTINF:0,PT : ELEVEN SPORTS 6 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161009
+#EXTINF:0,PT : ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161010
+#EXTINF:0,PT : EUROSPORT 1 SD (LOW)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161015
+#EXTINF:0,PT : EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161016
+#EXTINF:0,PT : EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161017
+#EXTINF:0,PT : EUROSPORT 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161018
+#EXTINF:0,PT : EUROSPORT 2 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161019
+#EXTINF:0,PT : EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161020
+#EXTINF:0,PT : EUROSPORT 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161021
+#EXTINF:0,PT : SPORT TV + SD (LOW)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161195
+#EXTINF:0,PT : SPORT TV + SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161196
+#EXTINF:0,PT : SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161197
+#EXTINF:0,PT : SPORT TV + FHD ² _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161198
+#EXTINF:0,PT : SPORT TV SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161199
+#EXTINF:0,PT : SPORT TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161200
+#EXTINF:0,PT : SPORT TV  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161201
+#EXTINF:0,PT : SPORT TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161202
+#EXTINF:0,PT : SPORT TV HD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161203
+#EXTINF:0,PT : SPORT TV HD ³ _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161204
+#EXTINF:0,PT : SPORT TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161205
+#EXTINF:0,PT : SPORT TV FHD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161206
+#EXTINF:0,PT : SPORT TV 2 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161207
+#EXTINF:0,PT : SPORT TV 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161208
+#EXTINF:0,PT : SPORT TV 2  SD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161209
+#EXTINF:0,PT : SPORT TV 2 HD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161210
+#EXTINF:0,PT : SPORT TV 2 HD ³  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161211
+#EXTINF:0,PT : SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161212
+#EXTINF:0,PT : SPORT TV 2 HD _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161213
+#EXTINF:0,PT : SPORT TV 3 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161214
+#EXTINF:0,PT : SPORT TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161215
+#EXTINF:0,PT : SPORT TV 3  SD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161216
+#EXTINF:0,PT : SPORT TV 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161217
+#EXTINF:0,PT : SPORT TV 3 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161218
+#EXTINF:0,PT : SPORT TV 3 FHD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161219
+#EXTINF:0,PT : SPORT TV 4 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161220
+#EXTINF:0,PT : SPORT TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161221
+#EXTINF:0,PT : SPORT TV 4  SD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161222
+#EXTINF:0,PT : SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161223
+#EXTINF:0,PT : SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161224
+#EXTINF:0,PT : SPORT TV 4 FHD ² _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161225
+#EXTINF:0,PT : SPORT TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161226
+#EXTINF:0,PT : SPORT TV 5 SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161227
+#EXTINF:0,PT : SPORT TV 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161228
+#EXTINF:0,PT : SPORT TV 5  SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161229
+#EXTINF:0,PT : SPORT TV 5 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161230
+#EXTINF:0,PT : SPORT TV 5 HD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161231
+#EXTINF:0,PT : SPORT TV 5 HD FHD ² 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161232
+#EXTINF:0,PT : SPORT TV NBA SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161233
+#EXTINF:0,PT : SPORT TV NBA SD _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161234
+#EXTINF:0,PT : SPORT TV NBA HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161235
+#EXTINF:0,PT : SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161236
+#EXTINF:0,PT : SPORTING TV SD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161237
+#EXTINF:0,PT : SPORTING TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161238
+#EXTINF:0,PT : SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161239
+#EXTINF:0,PT : SPORTING TV HD _Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/161240
+#EXTINF:0,CA: BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162942
+#EXTINF:0,CA: NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162943
+#EXTINF:0,CA: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162944
+#EXTINF:0,CA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162945
+#EXTINF:0,CA: GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162946
+#EXTINF:0,CA: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162947
+#EXTINF:0,CA: FOX SPORTS RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162948
+#EXTINF:0,CA: TSN 1_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162949
+#EXTINF:0,CA: TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162950
+#EXTINF:0,CA: TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162951
+#EXTINF:0,CA: TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162952
+#EXTINF:0,CA: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162953
+#EXTINF:0,CA: SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162954
+#EXTINF:0,CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162955
+#EXTINF:0,CA: SPORTSNET ONTARIO_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162956
+#EXTINF:0,CA: SPORTSNET ONTARIO ?²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162957
+#EXTINF:0,CA: SPORTSNET ONTARIO ?³_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162958
+#EXTINF:0,CA: SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162959
+#EXTINF:0,CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162960
+#EXTINF:0,CA: SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162961
+#EXTINF:0,CA: SPORTSNET PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162962
+#EXTINF:0,CA: TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162963
+#EXTINF:0,CA: TVA SPORTS 2_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162964
+#EXTINF:0,CA: SUPER SPORTS CH 484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162965
+#EXTINF:0,CA: SUPER SPORTS CH 483
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162966
+#EXTINF:0,CA: SUPER SPORTS CH 482
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162967
+#EXTINF:0,CA: SUPER SPORTS CH 481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162968
+#EXTINF:0,CA: SUPER SPORTS CH 480_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162969
+#EXTINF:0,CA: SUPER SPORTS CH 479
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162970
+#EXTINF:0,CA: SUPER SPORTS CH 478
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162971
+#EXTINF:0,CA: SUPER SPORTS CH 477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162972
+#EXTINF:0,CA: SUPER SPORTS CH 476
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162973
+#EXTINF:0,CA: SUPER SPORTS CH 475_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162974
+#EXTINF:0,CA: SUPER SPORTS CH 368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162975
+#EXTINF:0,CA: SUPER SPORTS CH 432
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162976
+#EXTINF:0,CA: SUPER SPORTS CH 436_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162977
+#EXTINF:0,CA: SUPER SPORTS CH 436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bldtv.vip:80/epg/ptk85ba4/162978
