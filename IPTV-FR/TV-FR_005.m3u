@@ -1,43 +1,303 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
-#EXTINF:-1,EQUIPE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
-#EXTINF:-1,|FR| TF1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/1.m3u8
-#EXTINF:-1,|FR| FRANCE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/2.m3u8
-#EXTINF:-1,|FR| FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/3.m3u8
-#EXTINF:-1,TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/9.m3u8
-#EXTINF:-1,TF1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
-#EXTINF:-1,|FR| FRANCE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
-#EXTINF:-1,M6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/5.m3u8
-#EXTINF:-1,M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/6.m3u8
-#EXTINF:-1,M6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
-#EXTINF:-1,TMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/8.m3u8
-#EXTINF:-1,TMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
-#EXTINF:-1,W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/11.m3u8
-#EXTINF:-1,W9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/12.m3u8
-
-#EXTINF:-1,RMC SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
-#EXTINF:-1,RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
-#EXTINF:-1,RMC SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
-
-#EXTINF:-1,RMC SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/61.m3u8
-#EXTINF:-1,RMC SPORT 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
+#EXTINF:-1,FR: 13 EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376279.m3u8
+#EXTINF:-1,FR: 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376280.m3u8
+#EXTINF:-1,FR: A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376392.m3u8
+#EXTINF:-1,FR: A LA CARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376281.m3u8
+#EXTINF:-1,FR: A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376390.m3u8
+#EXTINF:-1,FR: A La Carte 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/256807.m3u8
+#EXTINF:-1,FR: A la Carte 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376391.m3u8
+#EXTINF:-1,FR: A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376282.m3u8
+#EXTINF:-1,FR: A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376283.m3u8
+#EXTINF:-1,FR: A LA CARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376284.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376393.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376394.m3u8
+#EXTINF:-1,FR: AB Moteur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376285.m3u8
+#EXTINF:-1,FR: AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376286.m3u8
+#EXTINF:-1,FR: AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376287.m3u8
+#EXTINF:-1,FR: ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376288.m3u8
+#EXTINF:-1,FR: ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376289.m3u8
+#EXTINF:-1,FR: ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376290.m3u8
+#EXTINF:-1,FR: ARTE HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376400.m3u8
+#EXTINF:-1,FR: Bein max 4(1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376265.m3u8
+#EXTINF:-1,FR: Bein Sp0rt Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/195544.m3u8
+#EXTINF:-1,FR: Bein Sp0rt Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/195546.m3u8
+#EXTINF:-1,FR: Bein Sport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376296.m3u8
+#EXTINF:-1,FR: Bein Sport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376295.m3u8
+#EXTINF:-1,FR: Bein Sport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376294.m3u8
+#EXTINF:-1,FR: Bein Sport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376293.m3u8
+#EXTINF:-1,FR: Bein Sport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376292.m3u8
+#EXTINF:-1,FR: Bein Sport Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376291.m3u8
+#EXTINF:-1,FR: Bein Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/348427.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376378.m3u8
+#EXTINF:-1,FR: beIN SPORTS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376377.m3u8
+#EXTINF:-1,FR: beINS PORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376376.m3u8
+#EXTINF:-1,FR: BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376329.m3u8
+#EXTINF:-1,FR: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376272.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376271.m3u8
+#EXTINF:-1,FR: BRAVA HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376401.m3u8
+#EXTINF:-1,FR: C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376298.m3u8
+#EXTINF:-1,FR: Canal Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376299.m3u8
+#EXTINF:-1,FR: Canal Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376300.m3u8
+#EXTINF:-1,FR: Canal Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376301.m3u8
+#EXTINF:-1,FR: CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376304.m3u8
+#EXTINF:-1,FR: CANAL PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376305.m3u8
+#EXTINF:-1,FR: CANAL PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376306.m3u8
+#EXTINF:-1,FR: CANAL PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376307.m3u8
+#EXTINF:-1,FR: CANAL PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376308.m3u8
+#EXTINF:-1,FR: CANAL PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376309.m3u8
+#EXTINF:-1,FR: CANAL PLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376310.m3u8
+#EXTINF:-1,FR: CANAL PLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376311.m3u8
+#EXTINF:-1,FR: Canal Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376302.m3u8
+#EXTINF:-1,FR: Canal Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376303.m3u8
+#EXTINF:-1,FR: CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376328.m3u8
+#EXTINF:-1,FR: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376273.m3u8
+#EXTINF:-1,FR: Chasse et Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376312.m3u8
+#EXTINF:-1,FR: CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376313.m3u8
+#EXTINF:-1,FR: CINE CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376314.m3u8
+#EXTINF:-1,FR: CINE CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376315.m3u8
+#EXTINF:-1,FR: CINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376316.m3u8
+#EXTINF:-1,FR: CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376317.m3u8
+#EXTINF:-1,FR: CINE FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376318.m3u8
+#EXTINF:-1,FR: Cine Famiz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376319.m3u8
+#EXTINF:-1,FR: CINE FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376320.m3u8
+#EXTINF:-1,FR: CINE FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376321.m3u8
+#EXTINF:-1,FR: CINE FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376322.m3u8
+#EXTINF:-1,FR: CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376323.m3u8
+#EXTINF:-1,FR: CINE PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376395.m3u8
+#EXTINF:-1,FR: CINE PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376324.m3u8
+#EXTINF:-1,FR: Comedie +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376326.m3u8
+#EXTINF:-1,FR: COMEDIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376325.m3u8
+#EXTINF:-1,FR: CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376327.m3u8
+#EXTINF:-1,FR: D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376297.m3u8
+#EXTINF:-1,FR: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376410.m3u8
+#EXTINF:-1,FR: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376274.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376342.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376403.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376341.m3u8
+#EXTINF:-1,FR: Disney Jr Fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376275.m3u8
+#EXTINF:-1,FR: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376340.m3u8
+#EXTINF:-1,FR: EQUIDIA live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376339.m3u8
+#EXTINF:-1,FR: EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376266.m3u8
+#EXTINF:-1,FR: Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376338.m3u8
+#EXTINF:-1,FR: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376337.m3u8
+#EXTINF:-1,FR: Eurosport 2 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376404.m3u8
+#EXTINF:-1,FR: EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376336.m3u8
+#EXTINF:-1,FR: FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376335.m3u8
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376396.m3u8
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376267.m3u8
+#EXTINF:-1,FR: France 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376334.m3u8
+#EXTINF:-1,FR: France 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376333.m3u8
+#EXTINF:-1,FR: France O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376332.m3u8
+#EXTINF:-1,FR: GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376331.m3u8
+#EXTINF:-1,FR: GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376330.m3u8
+#EXTINF:-1,FR: GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/195509.m3u8
+#EXTINF:-1,FR: HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376343.m3u8
+#EXTINF:-1,FR: i Tele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376344.m3u8
+#EXTINF:-1,FR: INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376345.m3u8
+#EXTINF:-1,FR: La Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376346.m3u8
+#EXTINF:-1,FR: La une BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376347.m3u8
+#EXTINF:-1,FR: LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376348.m3u8
+#EXTINF:-1,FR: M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376349.m3u8
+#EXTINF:-1,FR: Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376350.m3u8
+#EXTINF:-1,FR: Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376276.m3u8
+#EXTINF:-1,FR: Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376277.m3u8
+#EXTINF:-1,FR: National geo wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376351.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376397.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376352.m3u8
+#EXTINF:-1,FR: NRJ Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376353.m3u8
+#EXTINF:-1,FR: NRJ12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376278.m3u8
+#EXTINF:-1,FR: NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376405.m3u8
+#EXTINF:-1,FR: NUMERO 23 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376354.m3u8
+#EXTINF:-1,FR: OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376355.m3u8
+#EXTINF:-1,FR: OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376356.m3u8
+#EXTINF:-1,FR: OCS GEANT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376357.m3u8
+#EXTINF:-1,FR: OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376358.m3u8
+#EXTINF:-1,FR: OLTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376359.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376360.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376361.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376362.m3u8
+#EXTINF:-1,FR: PIWI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376363.m3u8
+#EXTINF:-1,FR: PLANETE A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376365.m3u8
+#EXTINF:-1,FR: PLANETE CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376366.m3u8
+#EXTINF:-1,FR: PLANETE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376364.m3u8
+#EXTINF:-1,FR: rmc decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376368.m3u8
+#EXTINF:-1,FR: RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376268.m3u8
+#EXTINF:-1,FR: RTS Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376370.m3u8
+#EXTINF:-1,FR: RTS Un
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376371.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376372.m3u8
+#EXTINF:-1,FR: SCIENCES & VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376373.m3u8
+#EXTINF:-1,FR: SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376374.m3u8
+#EXTINF:-1,FR: Series Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376375.m3u8
+#EXTINF:-1,FR: SFR sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376398.m3u8
+#EXTINF:-1,FR: SFR: Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376379.m3u8
+#EXTINF:-1,FR: SFR: Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376380.m3u8
+#EXTINF:-1,FR: SFR: Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376381.m3u8
+#EXTINF:-1,FR: Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376382.m3u8
+#EXTINF:-1,FR: TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376406.m3u8
+#EXTINF:-1,FR: TELETOON +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376269.m3u8
+#EXTINF:-1,FR: Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376383.m3u8
+#EXTINF:-1,FR: TEVA/TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376407.m3u8
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376384.m3u8
+#EXTINF:-1,FR: Tiji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376385.m3u8
+#EXTINF:-1,FR: TMC HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376402.m3u8
+#EXTINF:-1,FR: TOUTE L HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376386.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376399.m3u8
+#EXTINF:-1,FR: TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376408.m3u8
+#EXTINF:-1,FR: TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376387.m3u8
+#EXTINF:-1,FR: TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376409.m3u8
+#EXTINF:-1,FR: USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376388.m3u8
+#EXTINF:-1,FR: VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376411.m3u8
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376270.m3u8
+#EXTINF:-1,FR: Zouzou TV LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376389.m3u8
+#EXTINF:-1,FR: CNews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381407.m3u8

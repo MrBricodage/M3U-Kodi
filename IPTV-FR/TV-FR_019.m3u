@@ -1,443 +1,183 @@
 #EXTM3U
-#EXTINF:-1,|FR| TF1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39476.m3u8
-#EXTINF:-1,|FR| TF1  1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39475.m3u8
-#EXTINF:-1,|FR| FRANCE 2 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39474.m3u8
-#EXTINF:-1,|FR| FRANCE 3 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39473.m3u8
-#EXTINF:-1,|FR| FRANCE 4 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39472.m3u8
-#EXTINF:-1,|FR| FRANCE 5 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39471.m3u8
-#EXTINF:-1,|FR| M6 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39470.m3u8
-#EXTINF:-1,|FR| ARTE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39469.m3u8
-#EXTINF:-1,|FR| CANAL +  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39442.m3u8
-#EXTINF:-1,|FR| CANAL  CINEMA (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39441.m3u8
-#EXTINF:-1,|FR| CANAL  SPORT (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39437.m3u8
-#EXTINF:-1,|FR| CANAL  SERIES (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39438.m3u8
-#EXTINF:-1,|FR| CANAL  FAMILY (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39439.m3u8
-#EXTINF:-1,|FR| CANAL  DECALE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39440.m3u8
-#EXTINF:-1,|FR| CINE  PREMIER (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39436.m3u8
-#EXTINF:-1,|FR| CINE  FRISSON (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39433.m3u8
-#EXTINF:-1,|FR| CINE  EMOTION (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39435.m3u8
-#EXTINF:-1,|FR| CINE  FAMIZ (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39434.m3u8
-#EXTINF:-1,|FR| CINE  CLUB (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39432.m3u8
-#EXTINF:-1,|FR| CINE  CLASSIC (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39431.m3u8
-#EXTINF:-1,|FR| OCS MAX (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39422.m3u8
-#EXTINF:-1,|FR| OCS CITY (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39424.m3u8
-#EXTINF:-1,|FR| OCS CHOC (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39423.m3u8
-#EXTINF:-1,|FR| OCS GEANTS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39425.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39524.m3u8
-#EXTINF:-1,|FR| TCM CINEMA (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39428.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39427.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39430.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39536.m3u8
-#EXTINF:-1,|FR| COMEDIE  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39418.m3u8
-#EXTINF:-1,|FR| POLAR  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39421.m3u8
-#EXTINF:-1,|FR| 13EME RUE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39419.m3u8
-#EXTINF:-1,|FR| WARNER TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39429.m3u8
-#EXTINF:-1,|FR| SYFY (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39412.m3u8
-#EXTINF:-1,|FR| SERIE CLUB (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39414.m3u8
-#EXTINF:-1,|FR| ELLE GIRLS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39546.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39543.m3u8
-#EXTINF:-1,|FR| NOVELAS TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39541.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINMENT (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39545.m3u8
-#EXTINF:-1,|FR| GAME ONE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39505.m3u8
-#EXTINF:-1,|FR| J-ONE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39506.m3u8
-#EXTINF:-1,|FR| MANGAS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39507.m3u8
-#EXTINF:-1,|FR| AB1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39411.m3u8
-#EXTINF:-1,|FR| AB3 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39410.m3u8
-#EXTINF:-1,|FR| TV BREIZH (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39548.m3u8
-#EXTINF:-1,|FR| TEVA (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39413.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39416.m3u8
-#EXTINF:-1,|FR| RTL9 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39415.m3u8
-#EXTINF:-1,|FR| BET (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39547.m3u8
-#EXTINF:-1,|FR| C8 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39468.m3u8
-#EXTINF:-1,|FR| W9 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39467.m3u8
-#EXTINF:-1,|FR| TMC (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39466.m3u8
-#EXTINF:-1,|FR| TFX (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39464.m3u8
-#EXTINF:-1,|FR| NRJ 12 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39463.m3u8
-#EXTINF:-1,|FR| CSTAR (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39448.m3u8
-#EXTINF:-1,|FR| TF1 SERIES / FILMS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39449.m3u8
-#EXTINF:-1,|FR| 6TER (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39446.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39444.m3u8
-#EXTINF:-1,|FR| CHERIE 25 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39443.m3u8
-#EXTINF:-1,|FR| MYZEN TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39487.m3u8
-#EXTINF:-1,|FR| PLANETE  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39539.m3u8
-#EXTINF:-1,|FR| PLANETE  CI (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39537.m3u8
-#EXTINF:-1,|FR| PLANETE+  A&E (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39538.m3u8
-#EXTINF:-1,|FR| VICELAND TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39542.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39530.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39529.m3u8
-#EXTINF:-1,|FR| DISCOVERY CHANNEL (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39535.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCES (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39532.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39534.m3u8
-#EXTINF:-1,|FR| MY CUISINE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39540.m3u8
-#EXTINF:-1,|FR| USHUAIA TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39531.m3u8
-#EXTINF:-1,|FR| HISTOIRE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39527.m3u8
-#EXTINF:-1,|FR| SCIENCE & VIE TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39528.m3u8
-#EXTINF:-1,|FR| ANIMAUX (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39526.m3u8
-#EXTINF:-1,|FR| AEROSTAR.TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39488.m3u8
-#EXTINF:-1,|FR| LA CHAINE METEO (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39462.m3u8
-#EXTINF:-1,|FR| CNEWS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39455.m3u8
-#EXTINF:-1,|FR| BFM TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39461.m3u8
-#EXTINF:-1,|FR| LCI (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39458.m3u8
-#EXTINF:-1,|FR| FRANCE INFO (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39457.m3u8
-#EXTINF:-1,|FR| EURONEWS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39456.m3u8
-#EXTINF:-1,|FR| BFM BUSINESS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39459.m3u8
-#EXTINF:-1,|FR| RMC NEWS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39504.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39503.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39502.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39501.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39500.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39499.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2(SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39498.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39497.m3u8
-#EXTINF:-1,|FR| INFOSPORT  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39496.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39494.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39493.m3u8
-#EXTINF:-1,|FR| AUTOMOTO LA CHAINE (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39490.m3u8
-#EXTINF:-1,|FR| EQUIDIA (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39492.m3u8
-#EXTINF:-1,|FR| GOLF  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39489.m3u8
-#EXTINF:-1,|FR| FOOT  24/24 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39491.m3u8
-#EXTINF:-1,|FR| BABY TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39517.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39523.m3u8
-#EXTINF:-1,|FR| PIWI  (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39515.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39519.m3u8
-#EXTINF:-1,|FR| TIJI (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39514.m3u8
-#EXTINF:-1,|FR| BOOMERANG (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39510.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39508.m3u8
-#EXTINF:-1,|FR| NICKELODEON CHANNEL (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39521.m3u8
-#EXTINF:-1,|FR| TELETOON  1 (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39512.m3u8
-#EXTINF:-1,|FR| TELETOON (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39513.m3u8
-#EXTINF:-1,|FR| DISNEY XD (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39522.m3u8
-#EXTINF:-1,|FR| CANAL J (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39518.m3u8
-#EXTINF:-1,|FR| BOING (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39511.m3u8
-#EXTINF:-1,|FR| TOONAMI (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39509.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4 TEEN (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39520.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39525.m3u8
-#EXTINF:-1,|FR| GULLI (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39516.m3u8
-#EXTINF:-1,|FR| OKLM TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39480.m3u8
-#EXTINF:-1,|FR| CLIQUE TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39484.m3u8
-#EXTINF:-1,|FR| CSTAR HITS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39447.m3u8
-#EXTINF:-1,|FR| MTV HITS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39485.m3u8
-#EXTINF:-1,|FR| M6 MUSIC (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39481.m3u8
-#EXTINF:-1,|FR| NRJ HITS TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39479.m3u8
-#EXTINF:-1,|FR| TRACE URBAN (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39482.m3u8
-#EXTINF:-1,|FR| MELODY TV (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39478.m3u8
-#EXTINF:-1,|FR| VIA GRAND PARIS (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39452.m3u8
-#EXTINF:-1,|FR| TRACE TROPICAL (SD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39483.m3u8
-#EXTINF:-1,|FR| FRANKLIN HD (LIVE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35036.m3u8
-#EXTINF:-1,|FR| LA MAISON DE MICKEY (LIVE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/38527.m3u8
-#EXTINF:-1,|FR| CHUCHU TV (LIVE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/64608.m3u8
-#EXTINF:-1,|FR| TF1 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47474.m3u8
-#EXTINF:-1,|FR| FRANCE 2 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47475.m3u8
-#EXTINF:-1,|FR| FRANCE 3 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47476.m3u8
-#EXTINF:-1,|FR| FRANCE4 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47477.m3u8
-#EXTINF:-1,|FR| FRANCE5 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47478.m3u8
-#EXTINF:-1,|FR| FRANCEO |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47487.m3u8
-#EXTINF:-1,|FR| M6 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47479.m3u8
-#EXTINF:-1,|FR| 6TER |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47495.m3u8
-#EXTINF:-1,|FR| W9 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47481.m3u8
-#EXTINF:-1,|FR| NRJ12 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47491.m3u8
-#EXTINF:-1,|FR| TFX |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47492.m3u8
-#EXTINF:-1,|FR| TF1 SERIES FILMS |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47493.m3u8
-#EXTINF:-1,|FR| C8 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47482.m3u8
-#EXTINF:-1,|FR| CSTAR |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47484.m3u8
-#EXTINF:-1,|FR| TMC |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47494.m3u8
-#EXTINF:-1,|FR| ARTE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47480.m3u8
-#EXTINF:-1,|FR| CANAL |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47507.m3u8
-#EXTINF:-1,|FR| CANAL CINEMA |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47506.m3u8
-#EXTINF:-1,|FR| CANAL FAMILY |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47514.m3u8
-#EXTINF:-1,|FR| CANAL DECALE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47515.m3u8
-#EXTINF:-1,|FR| CANAL SERIES |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47508.m3u8
-#EXTINF:-1,|FR| CINE PREMIER |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47520.m3u8
-#EXTINF:-1,|FR| CINE EMOTION |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47519.m3u8
-#EXTINF:-1,|FR| CINE FAMIZ |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47532.m3u8
-#EXTINF:-1,|FR| CINE CLASSIC |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47533.m3u8
-#EXTINF:-1,|FR| CINE FRISSON |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47516.m3u8
-#EXTINF:-1,|FR| OCS MAX |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47528.m3u8
-#EXTINF:-1,|FR| OCS CITY |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47529.m3u8
-#EXTINF:-1,|FR| OCS CHOC |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47531.m3u8
-#EXTINF:-1,|FR| OCS GEANTS |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47530.m3u8
-#EXTINF:-1,|FR| ACTION |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47518.m3u8
-#EXTINF:-1,|FR| WARNER TV |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47546.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47545.m3u8
-#EXTINF:-1,|FR| RTL9 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47496.m3u8
-#EXTINF:-1,|FR| TEVA |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47521.m3u8
-#EXTINF:-1,|FR| MY CUISINE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47522.m3u8
-#EXTINF:-1,|FR| RMC SPORT1 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47502.m3u8
-#EXTINF:-1,|FR| RMC SPORT2 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47503.m3u8
-#EXTINF:-1,|FR| RMC SPORT3 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47504.m3u8
-#EXTINF:-1,|FR| RMC SPORT4 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47505.m3u8
-#EXTINF:-1,|FR| BEIN 1 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47499.m3u8
-#EXTINF:-1,|FR| BEIN 2 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47500.m3u8
-#EXTINF:-1,|FR| BEIN 3 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47501.m3u8
-#EXTINF:-1,|FR| CANAL SPORT |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47509.m3u8
-#EXTINF:-1,|FR| L'EQUIPE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47489.m3u8
-#EXTINF:-1,|FR| EQUIDIA |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47527.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1  |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47548.m3u8
-#EXTINF:-1,|FR| EUROSPORT2 |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47549.m3u8
-#EXTINF:-1,|FR| PLANETE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47534.m3u8
-#EXTINF:-1,|FR| PLANETE+A&E |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47541.m3u8
-#EXTINF:-1,|FR| PLANETE + CI |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47542.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO CHANNEL |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47523.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47511.m3u8
-#EXTINF:-1,|FR| DISCOVERY |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47535.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47536.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47537.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVES |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47538.m3u8
-#EXTINF:-1,|FR| USHUAIA |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47540.m3u8
-#EXTINF:-1,|FR| TOUTE L HISTOIRE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47490.m3u8
-#EXTINF:-1,|FR| SCIENCES&VIE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47544.m3u8
-#EXTINF:-1,|FR| RMC STORY |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47497.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47498.m3u8
-#EXTINF:-1,|FR| ANIMAUX |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47510.m3u8
-#EXTINF:-1,|FR| CHASSE & PECHE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47543.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47524.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47525.m3u8
-#EXTINF:-1,|FR| CANALJ |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47539.m3u8
-#EXTINF:-1,|FR| NICK JUNIOR |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47550.m3u8
-#EXTINF:-1,|FR| BOOMERANG |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47517.m3u8
-#EXTINF:-1,|FR| CARTOON N |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47513.m3u8
-#EXTINF:-1,|FR| GULLI |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47488.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4TEEN |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47551.m3u8
-#EXTINF:-1,|FR| NICKELODEON |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47552.m3u8
-#EXTINF:-1,|FR| GAME ONE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47553.m3u8
-#EXTINF:-1,|FR| BFM PARIS |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47554.m3u8
-#EXTINF:-1,|FR| LCI |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47485.m3u8
-#EXTINF:-1,|FR| CNEWS |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47483.m3u8
-#EXTINF:-1,|FR| LCP |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47473.m3u8
-#EXTINF:-1,|FR| BFMTV |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47486.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47547.m3u8
-#EXTINF:-1,|FR| M6 MUSIC |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47512.m3u8
-#EXTINF:-1,|FR| MCM TOP |HEVC|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47526.m3u8
-#EXTINF:-1,|BE| RTL LUXEMBURG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/28446.m3u8
-#EXTINF:-1,|CH| TELECLUB SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21766.m3u8
-#EXTINF:-1,|CH| MY SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29559.m3u8
-#EXTINF:-1,|CH| MY SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29558.m3u8
-#EXTINF:-1,|CH| MY SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29557.m3u8
-#EXTINF:-1,|CH| MY SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29556.m3u8
-#EXTINF:-1,|CH| MY SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29555.m3u8
-#EXTINF:-1,|CH| MY SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29554.m3u8
-#EXTINF:-1,|CH| MY SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29553.m3u8
-#EXTINF:-1,|CH| MY SPORT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29552.m3u8
-#EXTINF:-1,|CH| MY SPORT 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29551.m3u8
-#EXTINF:-1,|CH| MY SPORT9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29550.m3u8
+#EXTINF:-1,|FR|  TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24033.m3u8
+#EXTINF:-1,|FR|  FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24032.m3u8
+#EXTINF:-1,|FR|  FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24031.m3u8
+#EXTINF:-1,|FR|  FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24030.m3u8
+#EXTINF:-1,FR: FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24029.m3u8
+#EXTINF:-1,|FR|  6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24028.m3u8
+#EXTINF:-1,|FR|  ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24027.m3u8
+#EXTINF:-1,|FR|   INFO SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24022.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24012.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24011.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24010.m3u8
+#EXTINF:-1,|FR|  BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24026.m3u8
+#EXTINF:-1,|FR|  TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24025.m3u8
+#EXTINF:-1,|FR|  TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24024.m3u8
+#EXTINF:-1,|FR|   C STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24023.m3u8
+#EXTINF:-1,|FR|   FRANCE 24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24001.m3u8
+#EXTINF:-1,|FR|   CHERIE 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24021.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24000.m3u8
+#EXTINF:-1,|FR|   SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23999.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23998.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24006.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24005.m3u8
+#EXTINF:-1,|FR|   TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24020.m3u8
+#EXTINF:-1,|FR|   RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24019.m3u8
+#EXTINF:-1,FR: NRJ Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24018.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24017.m3u8
+#EXTINF:-1,|FR|   M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24016.m3u8
+#EXTINF:-1,|FR|   NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24015.m3u8
+#EXTINF:-1,FR: DISNEY XD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23990.m3u8
+#EXTINF:-1,FR: MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24014.m3u8
+#EXTINF:-1,FR: RMC STORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24009.m3u8
+#EXTINF:-1,|FR|   CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24007.m3u8
+#EXTINF:-1,|FR|   DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23997.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23996.m3u8
+#EXTINF:-1,|FR|   LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24004.m3u8
+#EXTINF:-1,|FR|   ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24003.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23994.m3u8
+#EXTINF:-1,|FR|   TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23993.m3u8
+#EXTINF:-1,|FR|   PLANETA + A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/23992.m3u8
+#EXTINF:-1,|FR|  W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/24002.m3u8
+#EXTINF:-1,|FR| RMC Sport Access 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25172.m3u8
+#EXTINF:-1,|FR| RMC Sport Access 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25173.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25174.m3u8
+#EXTINF:-1,|FR| RMC Sport Access 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25175.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25176.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25177.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25178.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25179.m3u8
+#EXTINF:-1,|FR| RMC Sport Live 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25180.m3u8
+#EXTINF:-1,|FR| RMC Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25187.m3u8
+#EXTINF:-1,==== CINEMA =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25190.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25192.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25194.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25197.m3u8
+#EXTINF:-1,IFRI CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25198.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25199.m3u8
+#EXTINF:-1,IFRI CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25200.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25201.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25203.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25205.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25207.m3u8
+#EXTINF:-1,|FR|  SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25208.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25209.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25210.m3u8
+#EXTINF:-1,|FR| OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25211.m3u8
+#EXTINF:-1,|FR| OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25213.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25214.m3u8
+#EXTINF:-1,|FR| OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25215.m3u8
+#EXTINF:-1,|FR| OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25217.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25218.m3u8
+#EXTINF:-1,|FR| TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25219.m3u8
+#EXTINF:-1,|FR|   MY CUISINE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25220.m3u8
+#EXTINF:-1,|FR| 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25221.m3u8
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25222.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25223.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25224.m3u8
+#EXTINF:-1,|FR| SUNDANCE CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25226.m3u8
+#EXTINF:-1,|FR|  CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25228.m3u8
+#EXTINF:-1,|FR| TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25229.m3u8
+#EXTINF:-1,===== DECOUVERTE =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25230.m3u8
+#EXTINF:-1,|FR| COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25232.m3u8
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25233.m3u8
+#EXTINF:-1,|FR| TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25234.m3u8
+#EXTINF:-1,|FR| USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25236.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25237.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25238.m3u8
+#EXTINF:-1,|FR| PLANETE+ AE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25239.m3u8
+#EXTINF:-1,|FR|  E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25240.m3u8
+#EXTINF:-1,|FR| PLANETE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25241.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25242.m3u8
+#EXTINF:-1,|FR| SCIENCE ET VIE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.blackkill.org:5487/live/50845/q8zjzuzylz/25243.m3u8

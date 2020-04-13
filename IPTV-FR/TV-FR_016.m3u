@@ -1,39 +1,319 @@
 #EXTM3U
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/209.png",France 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch209?code=103131497823984&key=20353
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/210.png",France 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch210?code=103131497823984&key=60535
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/219.png",France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch219?code=103131497823984&key=58291
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/211.png",France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch211?code=103131497823984&key=42766
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/9006.png",TF1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch9006?code=103131497823984&key=58492
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/379.png",Discovery Family HD Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch379?code=103131497823984&key=41745
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/229.png",Discovery Science HD Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch229?code=103131497823984&key=20167
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/241.png",Discovery Show Case Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch241?code=103131497823984&key=35668
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/249.png",Discovery ID Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch249?code=103131497823984&key=10522
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch119?code=103131497823984&key=50356
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch120?code=103131497823984&key=51185
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch206?code=103131497823984&key=11755
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch340?code=103131497823984&key=15510
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch341?code=103131497823984&key=32482
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch342?code=103131497823984&key=51381
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch343?code=103131497823984&key=12846
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch344?code=103131497823984&key=22677
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch345?code=103131497823984&key=11427
-#EXTINF:0 group-title="FR"tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nvkdn.redi-vo.com/iptv/ch346?code=103131497823984&key=53115
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TF1 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/185
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",France 2 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/186
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",France 3 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/187
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",France 4 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/188
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",M6 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/189
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",6Ter FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/190
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Animaux HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/191
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",LCI FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/192
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RTL 9 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/193
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TFX FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/194
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",NRJ 12 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/195
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",13 eme Rue FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/196
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Arte HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/197
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Discovery Science FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/198
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TF1 Series Films FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/199
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",AB1 FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/200
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Série Club FHD  FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/201
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",EURONEWS☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/202
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",France 5 FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/203
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",France O FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/204
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Action FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/205
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Discovery HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/206
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Histoire FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/207
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Science Vie FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/208
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Planete FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/209
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Comedie+ HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/210
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",OCS Choc FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/211
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",OCS City FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/212
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",OCS Geants FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/213
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",OCS Max FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/214
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",MTV FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/215
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal+ FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/216
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal Decale HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/217
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal Cinema FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/218
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal+ Family FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/219
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal Series HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/220
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Disney Cinema FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/221
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Disney Channel FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/222
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cine+ Club FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/223
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cine+ Emotion FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/224
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cine+ Famiz FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/225
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cine+ Premier FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/226
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Voyage FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/227
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RMC DECOUVERTE☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/228
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",DISCOVERY INVESTIGATION HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/229
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",CRIME DISTRICT HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/230
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",NATIONAL GEO HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/231
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Toute L Historie HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/232
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Disney Junior FHD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/233
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Disney XD FHD FR ☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/234
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Nickelodeon Junior FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/235
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",CARTOON NETWORK HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/236
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Teletoon+ HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/237
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 1 HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/238
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 2 HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/239
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 3 HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/240
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal+ Sport HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/241
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 1 SD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/242
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 2 SD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/243
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 3 SD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/244
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Equipe FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/245
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 1 HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/246
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 2 HD FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/247
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Infosport+ FR☆
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/serverismail/48htest/252

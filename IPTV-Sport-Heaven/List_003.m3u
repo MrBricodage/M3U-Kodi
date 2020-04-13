@@ -1,47 +1,63 @@
 #EXTM3U
-#EXTINF:0,Band Sports_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/889
-#EXTINF:0,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/888
-#EXTINF:0,Band Sports [PLUS]_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1831
-#EXTINF:0,Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/837
-#EXTINF:0,Fox Sports HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/838
-#EXTINF:0,Fox Sports Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5418
-#EXTINF:0,Fox Sports HD [PLUS]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1844
-#EXTINF:0,Fox Sports 2_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/836
-#EXTINF:0,FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/835
-#EXTINF:0,Fox Sports 2 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5456
-#EXTINF:0,FOX Sports 2 HD [PLUS]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1843
-#EXTINF:0,SporTV_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/748
-#EXTINF:0,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/749
-#EXTINF:0,Sportv Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5438
-#EXTINF:0,SporTV HD [PLUS]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1859
-#EXTINF:0,SporTV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/747
-#EXTINF:0,SporTV2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/751
-#EXTINF:0,Sportv 2 Full HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5439
-#EXTINF:0,SporTV2 HD [PLUS]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1860
-#EXTINF:0,SporTV3_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/745
-#EXTINF:0,SporTV3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/750
-#EXTINF:0,Sportv 3 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/5440
-#EXTINF:0,SporTV3 HD [PLUS]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.miptv.ws:8880/787980/787980/1861
+#EXTINF:-1,beIN SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/16
+#EXTINF:-1,beIN SPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/17
+#EXTINF:-1,beIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/18
+#EXTINF:-1,beIN SPORTS 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/19
+#EXTINF:-1,beIN SPORTS 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/20
+#EXTINF:-1,beIN SPORTS 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/21
+#EXTINF:-1,beIN SPORTS 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/22
+#EXTINF:-1,beIN SPORTS 8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/23
+#EXTINF:-1,beIN SPORTS 9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/24
+#EXTINF:-1,beIN SPORTS 10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/25
+#EXTINF:-1,beIN SPORTS 11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/26
+#EXTINF:-1,beIN SPORTS 12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/27
+#EXTINF:-1,beIN SPORTS 13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/28
+#EXTINF:-1,-- beIN SPORTS FHD --
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/2
+#EXTINF:-1,beIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/5
+#EXTINF:-1,beIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/6
+#EXTINF:-1,beIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/7
+#EXTINF:-1,beIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/8
+#EXTINF:-1,beIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/9
+#EXTINF:-1,beIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/10
+#EXTINF:-1,beIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/11
+#EXTINF:-1,beIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/12
+#EXTINF:-1,beIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/13
+#EXTINF:-1,beIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/14
+#EXTINF:-1,beIN SPORTS 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/29
+#EXTINF:-1,beIN SPORTS 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/30
+#EXTINF:-1,beIN SPORTS 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/31
+#EXTINF:-1,BeIN SPORTS 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/71319
+#EXTINF:-1,BeIN SPORTS 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/71320
+#EXTINF:-1,BeIN SPORTS 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/71321
+#EXTINF:-1,Bein Sports NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/adam2019/adam2020/71322
