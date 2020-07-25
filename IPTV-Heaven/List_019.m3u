@@ -1,0 +1,1193 @@
+#EXTM3U 
+#EXTINF:-1 ,RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 ,HIT Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 ,MM-TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 ,RETRO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,Deejay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 ,OTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 ,?2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,Russian MusicBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 ,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 ,Retro Music Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,California Music Channel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
+#EXTINF:-1 ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 ,Campus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 ,Campus TV Magdeburg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 ,Company TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
+#EXTINF:-1 ,CONTACT music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 ,Czworka(Poland)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
+#EXTINF:-1 ,Dancestar TV HD
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 ,Deejay TV (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 ,Euro Al
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1 ,M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 ,MTV HD Enland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 ,MTV Norway
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,MTV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 ,Music Box (SK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1 ,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1 ,Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
+#EXTINF:-1 ,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 ,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv1.u-net.co:10001/discovery_channel/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 ,Discovery (?????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/discovery.m3u8
+#EXTINF:-1 ,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/discovery-science.m3u8
+#EXTINF:-1 ,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 ,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
+#EXTINF:-1 ,Russian Travel Guide
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Russian Travel Guide 1
+https://plbl.m9.lfstrm.tv/russian_travel_guide/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr2&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Travel HD BG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 ,DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,HD life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.193.6.155:34040/udp/239.1.9.2:1234
+#EXTINF:-1 ,HD life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.193.6.155:34040/udp/239.1.9.2:1234
+#EXTINF:-1 ,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,DocuBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 ,HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 ,????? (??????2)
+https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History HD 2
+https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History HD 3
+https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.29.1.69/live/istoriya/copy/playlist.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.124.182.25:7015/play/a00k
+#EXTINF:-1 ,??????? ? ??????? HD
+https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
+#EXTINF:-1 ,DocuBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 ,HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 ,Travel Guid-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Nano TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 ,Nano TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.46.48.16/NANO/index.m3u8
+#EXTINF:-1 ,TLC Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1113
+#EXTINF:-1 ,Luxury
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,MostVideo TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 ,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ,CGTN ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,HD Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1 ,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ,???????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 ,?????? ?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Travel Guide TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Deejay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 ,? ???? ???????? HD
+https://plbl.m9.lfstrm.tv/animal_family_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ???? HD
+https://plbl.m9.lfstrm.tv/bolshaya_asia_hd/normal/3/index.m3u8?account=e26beeeca5b722cf&client=4eeab7d1d6bb1ef6&env=s&expires=1575381600&mpltlh=auto&origin=m9-tproxy&profile=a8fd0c03f7290a64&provider_id=5c37579b22855081e5d3f787&region=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&token=tulluv3ZIbAb5F2Q1faXeg&user=54432fea6b06b42f&wlid=smotreshka
+#EXTINF:-1 ,??????????? HD
+https://plbl.m9.lfstrm.tv/teletravel_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,H2 HD
+https://plbl.m9.lfstrm.tv/history_h2_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History HD
+https://plbl.m9.lfstrm.tv/history_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,HDL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:-1 ,Discovery channel HD
+https://plbl.m9.lfstrm.tv/discovery_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,O?????? ? ??????? HD
+https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Eureka HD
+https://plbl.m9.lfstrm.tv/eureka_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1582279200&mpltlh=auto&origin=m9-live1&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075&region=ru.north-west.saint_petersburg&token=SzquK77mv-_tlknv3ipb9w&user=f6c78e8b2e17d367&wlid=smotreshka
+#EXTINF:-1 ,Nano TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.46.48.16/NANO/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Outdoor channel HD England
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott.artmott.com/outdoorchannel/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv1.u-net.co:10001/discovery_channel/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+https://plbl.m9.lfstrm.tv/discovery/normal/1/index.m3u8
+#EXTINF:-1 ,DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/36/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/37/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,ID Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1114
+#EXTINF:-1 ,ID Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/88/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Animal Planet 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1 ,Animal Planet 3
+https://plbl.m9.lfstrm.tv/animalplanet/normal/1/index.m3u8
+#EXTINF:-1 ,Animal Planet 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/26/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Animal Planet 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.91/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+https://plbl.m9.lfstrm.tv/nat_geo_wild/normal/1/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/84/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,History
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/189/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ??????? (?????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1 ,Outdoor Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/170/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,TLC
+https://plbl.m9.lfstrm.tv/tlc/normal/1/index.m3u8
+#EXTINF:-1 ,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/38/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/155/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.124.182.25:7009/play/a006_a9
+#EXTINF:-1 ,??????.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.57/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Travel+ Adventure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/155/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,???? ????
+https://plbl.m9.lfstrm.tv/auto_plus/normal/1/index.m3u8
+#EXTINF:-1 ,????24
+https://plbl.m9.lfstrm.tv/auto_24/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-live1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,??????? ? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.124.182.25:7015/play/a00k
+#EXTINF:-1 ,??????? ? ???????
+https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???? ???? HD
+https://plbl.m9.lfstrm.tv/nasha_tema_hd/normal/3/index.m3u8?account=8bd165f20452f082&client=689fed54f633d6a4&env=s&expires=1581847200&mpltlh=auto&origin=m9-tproxy&profile=0aea89a82e3f4e76&provider_id=59db5f83bd10231640a3d9d6&region=&token=8LSzcTU6dg6LEqYlDobSeQ&user=11bbc00527ab51c2&wlid=smotreshka
+#EXTINF:-1 ,????? ? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/69/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,???????? ????????
+https://plbl.m9.lfstrm.tv/domashnie_zhivotnie/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/usadba/playlist.m3u8
+#EXTINF:-1 ,??????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/71/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:-1 ,?????
+https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,?????????? 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/73/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ???????
+https://plbl.m9.lfstrm.tv/russkij_ekstrim/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,????????? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.29.1.69/live/istoriya/copy/playlist.m3u8
+#EXTINF:-1 ,Zoo????
+https://plbl.m9.lfstrm.tv/zoopark/normal/1/index.m3u8
+#EXTINF:-1 ,???????!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1 ,Galaxy-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/62/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/64/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,????? 2.0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.124.182.25:7005/play/a009_a5
+#EXTINF:-1 ,????? 2.0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,????24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8
+#EXTINF:-1 ,???? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8
+#EXTINF:-1 ,???????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 ,?????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pobeda.m3u8
+#EXTINF:-1 ,Sony Turbo (??????1)
+https://plbl.m9.lfstrm.tv/sony_turbo/normal/1/index.m3u8
+#EXTINF:-1 ,???? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 ,????????????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:-1 ,??? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/dom-kino.m3u8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinohit.m3u8
+#EXTINF:-1 ,?????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rodnoje_kino.m3u8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkaja-comedija.m3u8
+#EXTINF:-1 ,??????? ??????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-bestseller.m3u8
+#EXTINF:-1 ,??????? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-detektiv.m3u8
+#EXTINF:-1 ,??????? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-iluzion.m3u8
+#EXTINF:-1 ,??????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/russkij-roman.m3u8
+#EXTINF:-1 ,???????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinokomedia.m3u8
+#EXTINF:-1 ,?????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinopokaz.m3u8
+#EXTINF:-1 ,?????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosemja.m3u8
+#EXTINF:-1 ,????????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosvidanije.m3u8
+#EXTINF:-1 ,???? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
+#EXTINF:-1 ,??????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/lubimoe-kino.m3u8
+#EXTINF:-1 ,???o?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/mnogo-tv.m3u8
+#EXTINF:-1 ,??????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
+#EXTINF:-1 ,???? ????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nashe-novoe-kino.m3u8
+#EXTINF:-1 ,Sony Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-turbo.m3u8
+#EXTINF:-1 ,???. ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sovershenno-sekretno.m3u8
+#EXTINF:-1 ,????????? ???????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/nstv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,??????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/316/video.m3u8
+#EXTINF:-1 ,??? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??? ????
+https://iptvdom.my1.ru/load/0-0-2-264-20
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/85/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 ,??????? ??????????
+https://plbl.m9.lfstrm.tv/russkiy_bestseller/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/107/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ?????
+https://plbl.m9.lfstrm.tv/russkiy_roman/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ????????
+https://plbl.m9.lfstrm.tv/russkiy_detektiv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.194/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??????? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/44/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/214/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,??-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??-3
+https://plbl.m9.lfstrm.tv/tv3/normal/1/index.m3u8
+#EXTINF:-1 ,??-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1 ,C????
+https://plbl.m9.lfstrm.tv/super/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,C????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/230/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY Channel
+https://plbl.m9.lfstrm.tv/set/normal/1/index.m3u8
+#EXTINF:-1 ,SONY Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/22/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Sony Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/23/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Sony Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/186/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Sony Turbo
+https://plbl.m9.lfstrm.tv/sony_turbo/normal/1/index.m3u8
+#EXTINF:-1 ,Fox
+https://plbl.m9.lfstrm.tv/fox/normal/1/index.m3u8
+#EXTINF:-1 ,Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/57/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Fox Life
+https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
+#EXTINF:-1 ,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/14/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,?????? + ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/24/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,?????? + ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.124.182.25:7009/play/a007_a9
+#EXTINF:-1 ,??? ???????
+https://plbl.m9.lfstrm.tv/mir_seriala/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,???? ???????
+https://plbl.m9.lfstrm.tv/love_kino/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,????????
+https://plbl.m9.lfstrm.tv/ntv_plus_kino_plus/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??? ???? ??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,???????? HD
+https://plbl.m9.lfstrm.tv/kinoujas_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,?????? HD
+https://plbl.m9.lfstrm.tv/dorama_hd/normal/3/index.m3u8?seg-user--denms-ru-v1-a1.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.135.71.195:8014
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,??????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,??????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1 ,???????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1 ,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/fox.m3u8
+#EXTINF:-1 ,??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinohit.m3u8
+#EXTINF:-1 ,TV1000 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000.m3u8
+#EXTINF:-1 ,???????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,????????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 ,TLC Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1113
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,????????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 ,??????? 2
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1 ,???????? ???? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,TVM Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,??? ?? International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 ,??????? ?????
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 ,???? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 ,???????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,??????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1 ,???
+https://plbl.m9.lfstrm.tv/nctv/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,???????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,??????? ????????
+https://plbl.m9.lfstrm.tv/russkiy_detektiv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ??????????
+https://plbl.m9.lfstrm.tv/russkiy_bestseller/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ?????
+https://plbl.m9.lfstrm.tv/russkiy_roman/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????? ????
+https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ???? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
+#EXTINF:-1 ,STAR Cinema
+https://plbl.m9.lfstrm.tv/star_cinema_hd/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???? ??
+https://plbl.m9.lfstrm.tv/kino_tv/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://msk3.peers.tv/streaming/kino24/126/copy/playlist.m3u8
+#EXTINF:-1 ,?????? ??
+https://plbl.m9.lfstrm.tv/dorama_hd/normal/1/index.m3u8?account=3f378f7832e53c10&client=fde8157c584911b0&env=s&expires=1578182400&mpltlh=auto&origin=m9-live2&profile=4f57e582b2224994&provider_id=5bbf1e6e7bf7c4facb5e43e8&region=&token=be1rxAwDUvTBqBnJp7OpZw&user=5f60c242d0f8607f
+#EXTINF:-1 ,??? ???????
+https://plbl.m9.lfstrm.tv/mir_seriala/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ???? ??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:12030/udp/160l
+#EXTINF:-1 ,??? ???? [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
+#EXTINF:-1 ,??? ???? 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
+#EXTINF:-1 ,??? ???? 17
+https://iptvdom.my1.ru/load/0-0-1-264-20
+#EXTINF:-1 ,??? ???? ??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:12030/udp/160l
+#EXTINF:-1 ,??????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/316/video.m3u8
+#EXTINF:-1 ,??????? ???? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.11:2022
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.135.71.195:8014
+#EXTINF:-1 ,Amedia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10000/bysid/306
+#EXTINF:-1 ,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,HD ????
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
+#EXTINF:-1 ,???? UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1 ,Kino 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 ,TVM Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1 ,??????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1 ,????????? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:-1 ,????????? 1
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1 ,??????? 1 (????-??)
+https://autopilot.catcast.me/content/37033/index.m3u8
+#EXTINF:-1 ,??????? 2 (pznstreams) 720
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1 ,??????? 3 (pznstreams) 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 ,??????? 4 (ULTO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 ,??????? 5 (STR TV)
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 ,??????? 6 (EVGEN VHS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:-1 ,??????? 7 (Evgen ????)
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1 ,??????? 10 (EVGEN Serial)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/36168/index.m3u8
+#EXTINF:-1 ,??????? 13 (Zzigfreed)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37713/index.m3u8
+#EXTINF:-1 ,????? 1(????????)
+https://5656.ga/ch1.m3u8
+#EXTINF:-1 ,????? 2(??? ? ????????? ????????)
+https://5656.ga/ch2.m3u8
+#EXTINF:-1 ,????? 3(Lexx)
+https://5656.ga/ch3.m3u8
+#EXTINF:-1 ,????? 4(????????? ?????????)
+https://5656.ga/ch4.m3u8
+#EXTINF:-1 ,????? 5(Happy New Year)
+https://5656.ga/ch5.m3u8
+#EXTINF:-1 ,????? 6(????????)
+https://5656.ga/ch6.m3u8
+#EXTINF:-1 ,ULTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 ,????????????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:-1 ,??????? ?????
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 ,??? ???? ??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:12030/udp/160l
+#EXTINF:-1 ,HD ????
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1 ,???????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1 ,???????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 ,???????????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 ,????????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 ,??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 ,???? ?? HD
+https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?origin=m9-dvr2
+#EXTINF:-1 ,????????? ???????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/nstv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,???????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/comedytv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,???? ????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 ,????????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1 ,??????? ????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/316/video.m3u8
+#EXTINF:-1 ,??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.135.71.195:8014
+#EXTINF:-1 ,Amedia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10000/bysid/306
+#EXTINF:-1 ,Amedia Hit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 ,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,HD ????
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
+#EXTINF:-1 ,???? UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1 ,Kino 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 ,Sony Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.165.68.39:7781/udp/239.2.1.68:1234
+#EXTINF:-1 ,StarFamily
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.165.68.39:7781/udp/239.2.1.45:1234
+#EXTINF:-1 ,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1105
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10004/bysid/1108
+#EXTINF:-1 ,Paramount Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 ,???? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 ,???????? ???? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,Linn — Music 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.16.185.174:8003/stream
+#EXTINF:-1 ,Linn — Classical 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.16.185.174:8004/stream
+#EXTINF:-1 ,Linn — Jazz 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.16.185.174:8000/stream
+#EXTINF:-1 ,Hi On Line 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.94.166.107/proxy/hionline?mp=/
+#EXTINF:-1 ,Hi On Line Latin 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaserv33.live-streams.nl:8034/
+#EXTINF:-1 ,Hi On Line Lounge 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaserv33.live-streams.nl:2199/tunein/hionlinelounge.pls
+#EXTINF:-1 ,Hi On Line Classic 320kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.94.166.107/stream/hionlineclassic.pls
+#EXTINF:-1 ,Hi On Line Jazz 256kb/s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.125.15.82:88/broadwavehigh.mp3?src=1
+#EXTINF:-1 ,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,?????????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 ,?????? 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 ,??? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,??? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,??? Love
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://182.73.122.74:10001/bysid/712
+#EXTINF:-1 ,??? International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 ,??-3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/233.170.170.79:58631
+#EXTINF:-1 ,??-3 (?????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spacetv.in/stream/DVB2D6AE8CU/138.m3u8
+#EXTINF:-1 ,??? 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://79.135.71.195:8010
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,??? HD
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/238.2.13.244:1234
+#EXTINF:-1 ,??? HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/229.54.15.106:1234
+#EXTINF:-1 ,??? HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.105:58631
+#EXTINF:-1 ,?????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/zvezda.m3u8
+#EXTINF:-1 ,RTVi 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmitry-tv.my1.ru/his/itv_blrus/CH_RTVi.m3u8
+#EXTINF:-1 ,RTVI 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myott.tv/stream/RTDQV1YG6K/91.m3u8
+#EXTINF:-1 ,RTVI 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/rtvi.m3u8
+#EXTINF:-1 ,RTVi 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rr2.1ott.net/~109f4bfdc9d6686f40d0f1d46bd8f01b00d/124
+#EXTINF:-1 ,???????! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 ,???4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1 ,??????? ????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10007/stolen/127k/parasite.install
+#EXTINF:-1 ,?????? 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 ,????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 ,??? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 ,?????? ?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,???????! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/233.170.170.112:58631
+#EXTINF:-1 ,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,?????
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1 ,?????? 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 ,?????? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:-1 ,?????? HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,?? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 ,??? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,??? Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 ,??? 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,???? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,??????? HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1 ,Accent TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1 ,???????? ?????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 ,?????? 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,??? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 ,??? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Fashion TV (SK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,????????? ?????
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1 ,?????
+https://plbl.m9.lfstrm.tv/dozhd/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,????? 2
+https://tinyurl.com/v7glc8f/dozhd/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,???????! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 ,???4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1 ,?????? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,?????? 24 (1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,?????? 24 HD
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://online.video.rbc.ru/online/rbctv_224p/index.m3u8
+#EXTINF:-1 ,??? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 ,?????? ????? HD
+https://plbl.m9.lfstrm.tv/perviy_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???4 HD
+https://plbl.m9.lfstrm.tv/comedytv_hd_ott/normal/3/index.m3u8?account=4d837b77a2610a6e&client=689fed54f633d6a4&env=s&expires=1581962400&mpltlh=auto&origin=m9-tproxy&profile=3a5c7adecb8ad667&provider_id=5b0fdb8557971859510a2bdb&region=&token=UT65X-9f7pyJQayNzlUfjg&user=c4e905a972589199&wlid=smotreshka
+#EXTINF:-1 ,??????? HD
+https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 ,??? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,?????? 1 HD
+https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1 ,??? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,???????? HD
+https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? HD
+https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??????????? ??????????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/228/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,?????? ????? (??????1)
+https://plbl.m9.lfstrm.tv/perviy/normal/1/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1583834400&mpltlh=auto&origin=m9-live1&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075&region=ru.north-west.saint_petersburg&token=OQtDG9A7UKnaMoGh1SeyWw&user=f6c78e8b2e17d367&wlid=smotreshka
+#EXTINF:-1 ,?????? ????? (??????2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://81.94.196.228:80/hls/first.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??? Exclusiv tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 ,???4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/tnt4_34_35.m3u8
+#EXTINF:-1 ,???4
+https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8
+#EXTINF:-1 ,?????? 1
+https://plbl.m9.lfstrm.tv/rossia1/normal/1/index.m3u8
+#EXTINF:-1 ,?????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://81.94.196.228:80/hls/rus1.m3u8
+#EXTINF:-1 ,?????? 1 +6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 ,?????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
+#EXTINF:-1 ,???????!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/pyatnica/playlist.m3u8
+#EXTINF:-1 ,???????!International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/friday_34_35.m3u8
+#EXTINF:-1 ,??? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 ,??? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.58/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,??? ?? International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 ,??? ???
+https://plbl.m9.lfstrm.tv/ntv_hit/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ??????
+https://plbl.m9.lfstrm.tv/ntv_serial/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1 ,???
+https://plbl.m9.lfstrm.tv/sts/normal/1/index.m3u8
+#EXTINF:-1 ,??? International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.179.78:8081/tv/STS-int/playlist.m3u8
+#EXTINF:-1 ,????? ?????
+https://plbl.m9.lfstrm.tv/5_channel/normal/1/index.m3u8
+#EXTINF:-1 ,????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.206/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 ,????????? 86
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 ,????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 ,?????
+https://plbl.m9.lfstrm.tv/dozhd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,??? ?????.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1, ????? 1.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport1-ua.m3u8
+#EXTINF:-1, ????? 2.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport2-ua.m3u8
+#EXTINF:-1, ?????? 3.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol3-ua.m3u8
+#EXTINF:-1 ,???? ?? HD
+https://video-4-305.rutube.ru/stream/10114442/688f74345bd8fd610e7a762db2416058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,???+ ?????
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://plbl.m9.lfstrm.tv/eurosport/normal/1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/82/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1 (??????4)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://plbl.m9.lfstrm.tv/eurosport_2_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/83/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1 ,????????? ??????
+https://plbl.m9.lfstrm.tv/football/normal/1/index.m3u8
+#EXTINF:-1 ,????????? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/105/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,????????? ?????? HD
+https://plbl.m9.lfstrm.tv/futboll_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Extreme sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.80/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Extreme sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/39/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,?????????.Ru Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????????.??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/220/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Setanta Sports UA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv1.u-net.co:10001/setanta_sports/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??? Kids HD
+https://plbl.m9.lfstrm.tv/sts_kids/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Ani
+https://plbl.m9.lfstrm.tv/ani/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Ani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/102/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 ,JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,JIM JAM
+https://plbl.m9.lfstrm.tv/jimjam/normal/1/index.m3u8
+#EXTINF:-1 ,Cartoon network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,????? Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,????? Disney
+https://plbl.m9.lfstrm.tv/disney/normal/1/index.m3u8
+#EXTINF:-1 ,??????? ???
+https://plbl.m9.lfstrm.tv/detskij_mir/normal/1/index.m3u8?account=dd57d2d586f6664a&client=998c91390835a0ae&env=s&expires=1581278400&mpltlh=auto&origin=m9-live2&profile=a137e30235b7edc0&provider_id=57ea6dbab4819062b8d42945&region=&token=EnFS-T1ruHrw0VOKz5EvFA&user=39fb6805cb546728&wlid=smotreshka
+#EXTINF:-1 ,??????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/153/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+https://plbl.m9.lfstrm.tv/nickelodeon/normal/1/index.m3u8?account=dd57d2d586f6664a&client=998c91390835a0ae&env=s&expires=1581278400&mpltlh=auto&origin=m9-live1&profile=a137e30235b7edc0&provider_id=57ea6dbab4819062b8d42945&region=&token=ygIIflvOE_cNcG2AHUjinA&user=39fb6805cb546728&wlid=smotreshka
+#EXTINF:-1 ,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/43/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Nick.Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.90/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,????????????
+https://plbl.m9.lfstrm.tv/strana/normal/1/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4
+#EXTINF:-1 ,O!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/o_34_35.m3u8
+#EXTINF:-1 ,O!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12/136/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,O!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.217.72.66:80/225.201.2.109/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,2x2 HD
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
+#EXTINF:-1 ,???????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.113.190.12:80/108/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,??????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 ,Da Vinchi Learning
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 ,? ?????? ? ??????
+https://plbl.m9.lfstrm.tv/u_skazki/normal/1/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4
+#EXTINF:-1 ,??????? ???
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,????? ??
+https://plbl.m9.lfstrm.tv/malysh/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,Duck TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/mult.m3u8
+#EXTINF:-1 ,???????????? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://setmedia.ru:8000/high5
+#EXTINF:-1 ,???? ????? - Retro Hit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.26.146.50:8000/retro1.mp3
+#EXTINF:-1 ,?????? ????? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.staroeradio.ru/music128.m3u
+#EXTINF:-1 ,NRJ 80s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://energy80s.ice.infomaniak.ch/energy80s-high.mp3
+#EXTINF:-1 ,RMF 50s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.74.72.10:8000/rmf_50s
+#EXTINF:-1 ,???? ??
+https://plbl.m9.lfstrm.tv/mat_i_ditya/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1 ,Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream3.kuvalda.tv/hls/disney.m3u8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 ,??????? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,O!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 ,??????? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 ,Enki-Benki
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,BBC Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.52.156.22:8888/http/003
+#EXTINF:-1 ,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream3.kuvalda.tv/hls/disney.m3u8
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 ,??????? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 ,Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,?????? ??? ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mds-station.com:8000/mds
+#EXTINF:-1 ,MDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.kazancity.net:8000/27-mds
+#EXTINF:-1 ,?????? ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.staroeradio.ru/ices128.m3u
+#EXTINF:-1 ,1+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.11:11011/a
+#EXTINF:-1 ,???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.189.184.7:8888/KvartalTV/index.m3u8?token=test
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 ,??? (???????)
+https://int10.divan.tv:8081/tv88/preview.mp4
+#EXTINF:-1 ,?1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 ,?1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 ,I????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,M2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,???i?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8
+#EXTINF:-1 ,???? ??
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 ,112 ??????? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 ,?2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 ,?????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,?????
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 ,???
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 ,?1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 ,I????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,112 UA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112.ua/components/flowplayer/html5/master.m3u8
+#EXTINF:-1 ,?????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.tv-project.com:1935/live/live1/playlist.m3u8?|User-agent=mx
+#EXTINF:-1 ,112 UA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 ,3 ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 ,7 ????? HD (??????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,ATR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 ,Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.sweet.tv/stream/5h3gtpgxdrepc9ipv7fcu8534k98yk7gc2xzy8h9pinrg7nb2bkcyb57bc64m4wfrgjd66atg96hfu45ypg6i9vzpa9ra3fdakt22rifckvnxcw8fzv5g89k35iszd3t5yneumjsrg66qcn7taayfgxf.m3u8
+#EXTINF:-1 ,Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 ,TB ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.149.48.21:1234
+#EXTINF:-1 ,TV Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.64.92.118:8000/002
+#EXTINF:-1 ,TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 ,UA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 ,UA:?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1 ,????? ?? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arhat.tv/public/1080p/index.m3u8
+#EXTINF:-1 ,??????
+https://live-k2309-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 ,??? ????(??????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.107.128.8:8552/play/a007
+#EXTINF:-1 ,??? (?????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 ,??? (?????) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 ,???i?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8
+#EXTINF:-1 ,???? ??
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1 ,???????? 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 ,?????? ????????? (??????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 ,?????? ???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,?????? ??? HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,??1
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 ,??i?i?
+https://cdn10.live-tv.od.ua:8083/odtrkks/odtrkks-abr-lq/odtrkks/odtrkks-sub/chunks.m3u8
+#EXTINF:-1 ,?I? (??????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1 ,???
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,????? ??
+https://live-k2310-kbp.1plus1.video/288721/smil:288721.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 ,?? ????
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 ,??? ?????????
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 ,????? ???????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 ,????? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 ,31 ????? (KZ)
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 ,7 ????? (KZ) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,Almaty TV
+https://sc.id-tv.kz/Almaty_38_39.m3u8
+#EXTINF:-1 ,Kazakh TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
+#EXTINF:-1 ,Kazakh TV (RU)
+https://sc.id-tv.kz/KazakhTV_38_39.m3u8
+#EXTINF:-1 ,???????? 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt1.m3u8
+#EXTINF:-1 ,???????? 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt2.m3u8
+#EXTINF:-1 ,???????? 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt3.m3u8
+#EXTINF:-1 ,???????? 4 ?????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt4brest.m3u8
+#EXTINF:-1 ,???????? 4 ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt4gomel.m3u8
+#EXTINF:-1 ,???????? 4 ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt4grodno.m3u8
+#EXTINF:-1 ,???????? 4 ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt4mogilev.m3u8
+#EXTINF:-1 ,???????? 4 ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://noname.do.am/z/low/bt4vitebsk.m3u8
+#EXTINF:-1 ,???????? 4 ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:26258/belarus4
+#EXTINF:-1 ,8 ????? (????????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.215.176.238:8000/8channel
+#EXTINF:-1 ,8 ????? (???????) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:24433/art
+#EXTINF:-1 ,???????? 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://82.209.201.57:7001/play/a008
+#EXTINF:-1 ,???????? 4 ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:26258/belarus4
+#EXTINF:-1 ,???????? 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 ,???????? 24 HD
+https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
+#EXTINF:-1 ,???? ??
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.159.44.252/hls.m3u8
+#EXTINF:-1 ,???? ?? ???????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:26259/nashe
+#EXTINF:-1 ,??? (????????)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://persik.by/stream/8460/291680/10258.m3u8
+#EXTINF:-1 ,??? ????????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 ,Compilation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 ,Cuckold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 ,Cuckold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 ,Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 ,Pornstar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 ,POV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 ,Threesome
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 ,Threesome HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 ,Super One HD (18+)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 ,Private TV HD (18+)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 ,Babestation Xtra
+https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
+#EXTINF:-1 ,Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
+#EXTINF:-1 ,Jasmin TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 ,Jasmin TV HD (18+)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV (18+)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8

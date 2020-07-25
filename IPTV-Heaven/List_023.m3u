@@ -1,0 +1,1261 @@
+#EXTM3U url-tvg="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:-1 group-title="Кино",Рен ТВ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Кино",Рен ТВ International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF: -1group-title="Кино",Кинозал Film TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF: -1group-title="Кино",ULTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF: -1group-title="Кино",ULTRA HD CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF: -1group-title="Кино",2x2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Дом Кино 17
+#EXTGRP:Кино
+https://iptvdom.my1.ru/load/0-0-1-264-20
+#EXTINF:-1,A2
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+#EXTINF:-1,Bollywood HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1,HD life
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.103.248.82:81/play/a00b
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кино
+https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
+#EXTINF:-1,KINO 24
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1,TVM Channel
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,U.HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1,VRT.TV
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+#EXTINF:-1,Shot TV
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://persik.by/stream/0264/420211/10454.m3u8
+#EXTINF:-1 group-title="Кино",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Кино",Звезда (+2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.29.255.170:8005/play/a020
+#EXTINF:-1 group-title="Кино",НСТ
+https://plbl.m9.lfstrm.tv/nctv/normal/1/index.m3u8
+#EXTINF:-1 group-title="Кино",НТВ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Право
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.29.255.170:8005/play/a01y
+#EXTINF:-1 group-title="Кино",НТВ Сериал
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.29.255.170:8005/play/a01z
+#EXTINF:-1 group-title="Кино",НТВ Стиль
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.29.255.170:8005/play/a023
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:-1,Кинозал 2
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37713/index.m3u8
+#EXTINF:-1,КиноМеню HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1,Классика Кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1,СТРК HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF: -1group-title="Кино",A2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Кино",СТРК HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Наш Кинороман
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.only4.tv/0107/video.m3u8
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.only4.tv/0122/video.m3u8
+#EXTINF: -1 group-title="Кино",Кинозал Film TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF: -1 group-title="Кино",ULTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF: -1 group-title="Кино",ULTRA HD CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF: -1 group-title="Кино",VIP Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF: -1 group-title="Кино",VIP Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,Kronehit HD
+#EXTGRP:Кино
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,ATV 2
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1,ATV 4
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 ,ViP Comedy HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1 ,ViP Megahit
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1 ,ViP Premiere
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Comedy HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Megahit
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Premiere
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1,Красная линия
+#EXTGRP:Кино
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,Классика кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,КиноЗаказ 1
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Классика кино HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Фантастика
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:-1 group-title="Кино",Феникс Плюс Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/22.ts
+#EXTINF:-1 group-title="Кино",VIP Megahit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1 group-title="Кино",VIP Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1 group-title="Кино",ViP Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/20.ts
+#EXTINF:-1 group-title="Кино",Кинокомедия HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/28.ts
+#EXTINF:-1 group-title="Кино",КиноМеню HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/27.ts
+#EXTINF:-1 group-title="Кино",Кинопремьера
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/26.ts
+#EXTINF:-1 group-title="Кино",Киносвидание
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/25.ts
+#EXTINF:-1 group-title="Кино",Киноужас
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/128.ts
+#EXTINF:-1 group-title="Кино",Киноужас HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/128.ts
+#EXTINF:-1 group-title="Кино",Классика Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Классика кино HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0 group-title="Кино",Kronehit HD 
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="Кино",Классика Кино 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0 group-title="Кино",Крик ТВ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:0 group-title="Кино",Классика кино HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Классика кино HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,A2_38_39
+#EXTGRP:Кино
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,Классика кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,HD КИНО
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1,ATR
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1,MostVideo TV HD
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,Классика кино
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Кино
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Discovery
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1,Nano TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Travel Guid-TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,Travel HD BG
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,Ocean TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.192.168.242:9091
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1,National Geographik
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1,Outdoor
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.tv.mts.by/outdoor_channel_hd/1/index.m3u8
+#EXTINF:-1,Travel Channel
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
+#EXTINF:-1,Travel Channel HD
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:-1,Travel Guide TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1,Дикая Рыбалка HD
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1,Поехали!
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:-1,365 Дней
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://86.57.225.245:7015/play/a002
+#EXTINF:-1,H2
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/H2_38_39.m3u8
+#EXTINF:-1,HDL HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1,NASA TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1,Здоровье ТВ
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,История
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.29.1.69/live/istoriya/copy/playlist.m3u8
+#EXTINF:-1,Мособр TV
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1,Мособр TV HD
+#EXTGRP:Познавательные
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Общие",Россия 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Общие",Сарафан
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.163.32.6:81/udp/234.0.0.246:2000
+#EXTINF:-1 group-title="Общие",НТВ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1,СТС+
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1,СТС International
+#EXTGRP:Общие
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,ТДК
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.106.234.5:80/TDK-42_34_35.m3u8
+#EXTINF:-1,Ю
+#EXTGRP:Общие
+https://video-4-206.rutube.ru/stream/194.190.76.10/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Че
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF: -1group-title="Общие",Супер
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
+#EXTINF:-1, Русский роман
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10007/stolen/127k/parasite.install
+#EXTINF:-1,Рен ТВ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие",РТР Планета
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Общие",РТР Россия
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Общие",Дождь
+https://plbl.m9.lfstrm.tv/dozhd/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 group-title="Общие",Дождь 2
+https://tinyurl.com/v7glc8f/dozhd/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 group-title="Общие",ТНТ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0 group-title="Общие",ТНТ HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/229.54.15.106:1234
+#EXTINF:0 group-title="Общие",ТНТ 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/238.2.50.6:1234.1.3
+#EXTINF:0 group-title="Общие",ТНТ 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream3.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:0 group-title="Общие",ТНТ. 21
+https://plbl.m9.lfstrm.tv/tntmoskva/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:, ТНТ4 (HD)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:, ТНТ4 HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:, СТС Прима
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:, Супер HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:, ПЯТНИЦА! HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:, Пятница! HD (auto)
+#EXTGRP:Общие
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1, Россия 1 HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,СТС International
+#EXTGRP:Общие
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,12 Канал (Омск)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Leomax
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1,Липецкое Время
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,Новое Телевидение
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,СТС International
+#EXTGRP:Общие
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 group-title="Общие",Пятница! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Общие",Супер HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1 group-title="Общие",ТНТ 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.191.208.2:8086/udp/233.170.170.130:58631
+#EXTINF:-1,Вместе РФ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1,Вместе РФ HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,Говорит Москва
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1,Дума ТВ HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/parlament/parlament_stream/playlist.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Оплот HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.114.136.25/oplot-tv
+#EXTINF:-1,Первый Метео
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал "Евразия"
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,РТР Планета
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,РТР Россия
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:-1,Россия 1 (+6)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+#EXTINF:-1,Россия 1 (Вайнах)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
+#EXTINF:-1,Россия 1 (Калуга)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
+#EXTINF:-1,Союз
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Тюменское Время
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,HD Media
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,12 Канал (Омск)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1,24 канал
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1,ACB TV
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1,Luxury HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,M2O TV
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Nano TV
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Ocean TV
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.192.168.242:9091
+#EXTINF:-1,Красная линия ТВ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Липецкое Время
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,Мир 24
+#EXTGRP:Общие
+https://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,KVN-HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1,Просвещение
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,РБК ТВ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,РБК ТВ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1,РБК ТВ (Уфа)
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,Радость Моя
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Рен ТВ
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1,Рен ТВ International
+#EXTGRP:Общие
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,Сочи 24 HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1,Сочи 24 HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochi.camera:8080/cam_128/index.m3u8?token=null
+#EXTINF:-1,Союз
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Univer TV
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1,Univer TV HD
+#EXTGRP:Общие
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Детские",BBC Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Детские",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="Детские",Duck TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 group-title="Детские",Enki-Benki
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Holvoet TV HD (Chille)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="Детские",Kids Click
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:-1 group-title="Детские",Lale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Boomerang
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1,Da Vinci
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
+#EXTINF:-1,Disney
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream3.kuvalda.tv/hls/disney.m3u8
+#EXTINF:-1,Disney Junior
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,Duck TV
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,Gulli Girl
+#EXTGRP:Детские
+https://plbl.m9.lfstrm.tv/gulli/normal/1/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-telik.usite.pro/load/0-0-1-125-20
+#EXTINF:-1,O!
+#EXTGRP:Детские
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1,TiJi
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/TiJi_38_39.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz:80/Karusel_38_39.m3u8
+#EXTINF:-1,Малятко ТВ
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Радость Моя
+#EXTGRP:Детские
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Рыжий
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Сказки Зайки
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Сказки Зайки HD
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/chunks.m3u8
+#EXTINF:-1,Смайлик HD
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 ,СКАЗКИ ЗАЙКИ
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Rik
+https://nn.geo.joj.sk/live/rik-index.m3u8
+#EXTINF:-1 group-title="Детские",TCT Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="Детские",TV TRWAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Детские",WOW!TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 group-title="Детские",WOW!TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,Малятко
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,СКАЗКИ ЗАЙКИ
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Малятко ТВ
+#EXTGRP:Детские
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,MTV HD
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1,Retro Music Tv
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,Первый Музыкальный BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный BY [FHD]
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:2200
+#EXTINF:-1,1Music Channel Hungary
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1music.hu/1music.m3u8
+#EXTINF:-1,1HD Music TV
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,OTV Music
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1,RU TV
+#EXTGRP:Музыка
+https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+#EXTINF:-1,Radio 105 TV
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv07.vintera.tv:8081/restream/radio105/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,SONG TV Armenia
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,SONG TV Russia
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",ACB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музыка",М1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыка",М2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,Первый Музыкальный BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный HD BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:2200
+#EXTINF:-1,Первый Музыкальный RU HD BY
+#EXTGRP:Музыка
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rtmp.one.by:2300
+#EXTINF:-1,Setanta Sports HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,Астрахань.Ru Sport
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,Астрахань.Ru Sport HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1,НТВ+ Спорт
+#EXTGRP:Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,Сетанта Спорт HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
+#EXTINF:-1,BT Sport 1
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1828
+#EXTINF:-1,BT Sport 2
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1829
+#EXTINF:-1,BT Sport 3
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1830
+#EXTINF:-1,BEIN SPORTS
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3529
+#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superuhd.iptvs.news:2019/live/Gurbah1080HD/ztv5DN2sva/109.ts
+#EXTINF:-1,BEIN SPORTS 2 HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superuhd.iptvs.news:2019/live/Gurbah1080HD/ztv5DN2sva/110.ts
+#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superuhd.iptvs.news:2019/live/Gurbah1080HD/ztv5DN2sva/111.ts
+#EXTINF:-1,BEIN SPORTS 4 HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superuhd.iptvs.news:2019/live/Gurbah1080HD/ztv5DN2sva/112.ts
+#EXTINF:-1,BRT Sport
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1,CBC SPORT HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,CCTV 5 Sport HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://111.40.205.107/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1,Fight Box
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1100
+#EXTINF:-1,FOX SPORTS
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.62.92:8080
+#EXTINF:-1,NBA TV HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superuhd.iptvs.news:2019/live/Gurbah1080HD/ztv5DN2sva/117.ts
+#EXTINF:-1,Olympic Channel
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1,Olympic Channel HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,Real Madrid
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,Red Bull TV
+#EXTGRP:Спорт
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Sharjah Sport
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Sky Sports F1
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://app.powerfhd.me/live/sup.php
+#EXTINF:-1,TELE ARENA
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,Yas Sports
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch629
+#EXTINF:-1 group-title="Спорт",Al Kass Спортs 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8
+#EXTINF:-1 group-title="Спорт",Al Kass Спортs 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1 group-title="Спорт",Alsace 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Спорт",CCTV 5 Спорт HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="Спорт",Combat Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",E Спорт 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group-title="Спорт",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="Спорт",Flow Спортs 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW Спортs 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Спорт",FOX СпортS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.62.92:8080
+#EXTINF:-1 group-title="Спорт",Fox Спортs Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="Спорт",Fox Спортs Racing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 group-title="Спорт",NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
+#EXTINF:-1 group-title="Спорт",NBC GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="Спорт",NBS Спортs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1 group-title="Спорт",NBS Спортs HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="Спорт",Olympic Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 group-title="Спорт",Olympic Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="Спорт",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Спорт",TELE MONTE NEVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Turkmen Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+#EXTGRP:Спорт
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-1,WFC TV International HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1,WFC TV International [FHD]
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1,RU TV HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1,HD Media
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Сочи 24 HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1,Сочи 24 HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sochi.camera:8080/cam_128/index.m3u8?token=null
+#EXTINF:-1,Известия ТВ HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,RU TV HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1,Luxury HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Kronehit TV HD
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1,Kronehit TV [FHD]
+#EXTGRP:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Украина",zik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF: -1group-title="Украина",ИНТЕР
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF: -1group-title="Украина",K1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF: -1group-title="Украина",НТН
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Мега
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1 group-title="Украина",К1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина",М1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Украина",М2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Украина",Iнтер
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1,1+1
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
+#EXTINF:-1,1+1 HD
+#EXTGRP:Украина
+https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
+#EXTINF:-1,1+1 Int
+#EXTGRP:Украина
+https://live-k2301-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,2+2
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.179.78:8081/tv/2+2/playlist.m3u8
+#EXTINF:-1,24 Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1,24 Украина HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1,3 Цифровой
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,KRATU
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/kratu/kratu-abr/kratu/kratu/playlist.m3u8
+#EXTINF:-1,Most Video HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,Reporter
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/chunks.m3u8
+#EXTINF:-1,S TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Skrypin UA
+#EXTGRP:Украина
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1,TB Дом
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.149.48.21:1234
+#EXTINF:-1,TBN Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:-1,ZIK
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1,ZTV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,К2
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://188.35.9.18:2050/udp/238.0.2.3:69000
+#EXTINF:-1,Медиа Информ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТIС (Одесса)
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,Трофей HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:-1 ,НТН
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 ,Интер
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,К1
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,Еспресо TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1,К1
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,КРТ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:-1,Київ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,UA TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,Сонце
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,Новини 24
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,4 канал
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,ATR
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,Макси ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,Еко ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1,Еспресо
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,112 Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:-1,112 Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 Украина HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1,112 Украина [FHD]
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1,24 канал
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1,4 канал Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+#EXTINF:-1,ATR
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,ATR
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1,Интер
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,К1
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,НТН
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1,LALE
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,OTV Music
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1,UA TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:-1,UA TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UA TV HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA Крым
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1,UA Культура
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1,UA Перший
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1,Еспресо TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1,Еко TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+#EXTINF:-1,КРТ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:-1,Киев ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+#EXTINF:-1,Макси/НАШ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:-1,Малятко TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1,Прямой
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1,Рада ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+#EXTINF:-1,Прямой
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1,Рада ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+#EXTINF:-1,112 Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:-1,112 Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 Украина [FHD]
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1,4 канал Украина
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+#EXTINF:-1,Hromadske TV (HD)
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?codec=mpeg4
+#EXTINF:-1,LALE
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Leomax
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1,Leomax 24
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1,UA TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:-1,UA TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UA TV HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA Крым
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1,UA Культура
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1,UA Одесса
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+#EXTINF:-1,UA Перший
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1,Киев ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+#EXTINF:-1,Макси/НАШ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:-1,Малятко TV
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1,Правда ТУТ Киев
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Прямой
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1,Прямой
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1,Прямой HD
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Рада ТВ
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+#EXTINF:-1,А1 (Одесса)
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1,А1 (Одесса) [HD]
+#EXTGRP:Украина
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,Almaty TV
+#EXTGRP:Другое
+https://sc.id-tv.kz/Almaty_38_39.m3u8
+#EXTINF:-1,CGTN Русский
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,DW TV English
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,Deejay TV
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,France 24 (ENG)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,ID Fashion (KZ)
+#EXTGRP:Другое
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1,Дисконт
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ел Арна
+#EXTGRP:Другое
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1,КТК
+#EXTGRP:Другое
+https://sc.id-tv.kz/KTK_38_39.m3u8
+#EXTINF:-1,Наше ТВ Витебск [BY]
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:26259/nashe
+#EXTINF:-1,Новое ТВ (KZ)
+#EXTGRP:Другое
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1,Рен ТВ International
+#EXTGRP:Другое
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,СТВ (Беларусь)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,СТВ Казахстан
+#EXTGRP:Другое
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1,Хабар 24
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,Хабар 24
+#EXTGRP:Другое
+https://sc.id-tv.kz/Khabar_24_38_39.m3u8
+#EXTINF:-1,Халык Арна
+#EXTGRP:Другое
+https://sc.id-tv.kz/HalykArna_38_39.m3u8
+#EXTINF:-1,31 канал
+#EXTGRP:Другое
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1,7 канал (KZ)
+#EXTGRP:Другое
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1,8 канал (Беларусь)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.215.176.238:8000/8channel
+#EXTINF:-1,8 канал (Витебск)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:24433/art
+#EXTINF:-1,A2
+#EXTGRP:Другое
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,Almaty TV
+#EXTGRP:Другое
+https://sc.id-tv.kz/Almaty_38_39.m3u8
+#EXTINF:-1,Almaty TV (KZ)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1,Astana TV
+#EXTGRP:Другое
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1,Atameken Business TV
+#EXTGRP:Другое
+https://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1,Atameken Business TV (KZ)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1,HTV KG
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1,TV1 KG
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,TVM Channel
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1,WFC TV
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:-1,WFC TV International
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1,Арис 24
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,Архыз 24 HD
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1,Афонтово (Красноярск)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xstream.afontovo.ru/afontovo_ya.m3u8
+#EXTINF:-1,БелРос
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Другое
+https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1,Беларусь 4 (Витебск)
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.46.208.8:26258/belarus4
+#EXTINF:-1,Варяг ТВ
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://87.252.229.252:8081/varag
+#EXTINF:-1,Дагестан ТВ
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
+#EXTINF:-1,Дагестан ТВ [FHD]
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
+#EXTINF:-1,Дисконт
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Еко TV
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+#EXTINF:-1,Ел Арна
+#EXTGRP:Другое
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1,КТК
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,КТК
+#EXTGRP:Другое
+https://sc.id-tv.kz/KTK_38_39.m3u8
+#EXTINF:-1,Новое ТВ (KZ)
+#EXTGRP:Другое
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1,Новое Телевидение
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+#EXTGRP:Другое
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
