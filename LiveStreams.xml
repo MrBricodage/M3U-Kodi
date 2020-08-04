@@ -50,15 +50,9 @@
 	</regex>
 </item>
 
-<item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1[/B][/COLOR]</title>
-	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-	<link>http://service.ignorehosting.site/live/CH1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer1/</link>
-	<thumbnail></thumbnail>
-</item>
 
 <item>
-	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1 bis[/B][/COLOR]</title>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://www.blacktiesports.net/soccer1/</link>
 	<info>Liste des flux : http://www.blacktiesports.net/</info>
 	<regex>
@@ -68,24 +62,38 @@
 		<referer>http://www.blacktiesports.net/soccer1/</referer>
 	</regex>
 </item>
-
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 2[/B][/COLOR]</title>
-	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-	<link>http://service.ignorehosting.site/live/CH2/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer2/</link>
-	<thumbnail></thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://www.blacktiesports.net/soccer2/</link>
+	<info>Liste des flux : http://www.blacktiesports.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://www.blacktiesports.net/live/soccer2.php</page>
+		<referer>http://www.blacktiesports.net/soccer2/</referer>
+	</regex>
 </item>
 <item>
 	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 3[/B][/COLOR]</title>
-	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-	<link>http://service.ignorehosting.site/live/CH3/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer3/</link>
-	<thumbnail></thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://www.blacktiesports.net/soccer3/</link>
+	<info>Liste des flux : http://www.blacktiesports.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://www.blacktiesports.net/live/soccer3.php</page>
+		<referer>http://www.blacktiesports.net/soccer3/</referer>
+	</regex>
 </item>
 <item>
-	<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1[/B][/COLOR]</title>
+	<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]lackties Streams F1[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://www.blacktiesports.net/f1/</link>
 	<info>Liste des flux : http://www.blacktiesports.net/</info>
-	<link>http://service.ignorehosting.site/live/F1/index.m3u8|Referer=http://www.blacktiesports.net/soccer1/</link>
-	<thumbnail></thumbnail>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://www.blacktiesports.net/live/f1.php</page>
+		<referer>http://www.blacktiesports.net/f1/</referer>
+	</regex>
 </item>
 
 
