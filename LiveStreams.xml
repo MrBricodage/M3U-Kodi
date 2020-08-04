@@ -19,192 +19,204 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]uffStreams Channel 1[/B][/COLOR]</title>
-<info>Liste des flux : http://buffstreamz.com/nba-streams/</info>
-<link>http://sv.dfsvjhsgdjejehj.xyz/lv1/1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://bfstrms.xyz/embe/nba.php</link>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]uffStreams NBA Channel 1[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://bfstrms.xyz/embe/nba.php</link>
+	<info>Liste des flux : http://buffstreamz.com/nba-streams/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://bfstrms.xyz/embe/nba.php</page>
+		<referer>http://bfstrms.xyz/embe/nba.php</referer>
+	</regex>
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]uffStreams Channel 2[/B][/COLOR]</title>
-<info>Liste des flux : http://buffstreamz.com/nba-streams/</info>
-<link>http://sv.dfsvjhsgdjejehj.xyz/lv2/2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=http://bfstrms.xyz/embe/nba-2.php</link>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]uffStreams NBA Channel 2[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://bfstrms.xyz/embe/nba-2.php</link>
+	<info>Liste des flux : http://buffstreamz.com/nba-streams/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://bfstrms.xyz/embe/nba-2.php</page>
+		<referer>http://bfstrms.xyz/embe/nba-2.php</referer>
+	</regex>
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1[/B][/COLOR]</title>
-<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-<link>http://service.ignorehosting.site/live/CH1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer1/</link>
-<thumbnail></thumbnail>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 1[/B][/COLOR]</title>
+	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
+	<link>http://service.ignorehosting.site/live/CH1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer1/</link>
+	<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 2[/B][/COLOR]</title>
-<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-<link>http://service.ignorehosting.site/live/CH2/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer2/</link>
-<thumbnail></thumbnail>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 2[/B][/COLOR]</title>
+	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
+	<link>http://service.ignorehosting.site/live/CH2/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer2/</link>
+	<thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 3[/B][/COLOR]</title>
-<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-<link>http://service.ignorehosting.site/live/CH3/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer3/</link>
-<thumbnail></thumbnail>
+	<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]lackties Streams Soccer 3[/B][/COLOR]</title>
+	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
+	<link>http://service.ignorehosting.site/live/CH3/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/soccer3/</link>
+	<thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]lackties Streams F1[/B][/COLOR]</title>
-<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
-<link>http://service.ignorehosting.site/live/F1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/f1/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S1[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/abr/abr-S-1/live/S-1_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S2[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/abr/abr-S-2/live/S-2_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S3[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/abr/abr-S-3/live/S-3_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S4[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/abr/abr-S-4/live/S-4_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H1[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H1/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H2[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H2/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H3[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H3/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H4[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H4/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H5[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H5/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H6[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H6/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H7[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H7/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H8[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H8/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H9[/B][/COLOR]</title>
-<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
-<link>http://103.194.171.4/live/H9/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 1 [/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch2.php</link>
-<info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch1.php</page>
-<referer>http://hdstreams.club/page/ch1.php</referer>
-</regex>
+	<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]lackties Streams F1[/B][/COLOR]</title>
+	<info>Liste des flux : http://www.blacktiestreams.xyz/</info>
+	<link>http://service.ignorehosting.site/live/F1/index.m3u8|Referer=http://www.blacktiestreams.xyz/stream/f1/</link>
+	<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 2 [/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch2.php</link>
-<info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch2.php</page>
-<referer>http://hdstreams.club/page/ch2.php</referer>
-</regex>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S1[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/abr/abr-S-1/live/S-1_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S2[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/abr/abr-S-2/live/S-2_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S3[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/abr/abr-S-3/live/S-3_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment S4[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/abr/abr-S-4/live/S-4_source/playlist.m3u8|Referer=http://cyclingentertainment.stream/</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H1[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H1/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H2[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H2/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H3[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H3/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H4[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H4/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H5[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H5/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H6[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H6/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H7[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H7/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H8[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H8/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]yclingEntertainment H9[/B][/COLOR]</title>
+	<info>Liste des flux : http://cyclingentertainment.stream/click-here-for-daily-fixtures/</info>
+	<link>http://103.194.171.4/live/H9/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 1 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch1.php</link>
+	<info>Programme dispo sur : http://hdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch1.php</page>
+		<referer>http://hdstreams.club/page/ch1.php</referer>
+	</regex>
 </item>
 
 <item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 3 [/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch3.php</link>
-<info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch3.php</page>
-<referer>http://hdstreams.club/page/ch3.php</referer>
-</regex>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 2 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch2.php</link>
+	<info>Programme dispo sur : http://hdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch2.php</page>
+		<referer>http://hdstreams.club/page/ch2.php</referer>
+	</regex>
 </item>
 
 <item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 4 [/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch4.php</link>
-<info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch4.php</page>
-<referer>http://hdstreams.club/page/ch4.php</referer>
-</regex>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 3 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch3.php</link>
+	<info>Programme dispo sur : http://hdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch3.php</page>
+		<referer>http://hdstreams.club/page/ch3.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 4 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch4.php</link>
+	<info>Programme dispo sur : http://hdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch4.php</page>
+		<referer>http://hdstreams.club/page/ch4.php</referer>
+	</regex>
 </item>
 <item>
 <title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 5 [/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch5.php</link>
 <info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch5.php</page>
-<referer>http://hdstreams.club/page/ch5.php</referer>
-</regex>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch5.php</page>
+		<referer>http://hdstreams.club/page/ch5.php</referer>
+	</regex>
 </item>
 
 <item>
-<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 6 [/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch6.php</link>
-<info>Programme dispo sur : http://hdstreams.club/</info>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hdstreams.club/page/ch6.php</page>
-<referer>http://hdstreams.club/page/ch6.php</referer>
-</regex>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D Streams.Club Channel 6 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://hdstreams.club/page/ch6.php</link>
+	<info>Programme dispo sur : http://hdstreams.club/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://hdstreams.club/page/ch6.php</page>
+		<referer>http://hdstreams.club/page/ch6.php</referer>
+	</regex>
 </item>
 
 <item>
@@ -453,4 +465,30 @@
 <item>
 	<title>[COLOR lime][B]Y[/B][/COLOR][COLOR white][B]zachu Stream 4 HD[/B][/COLOR]</title>
 	<link>http://hvo1.yzachu.xyz/hls4/live.m3u8</link>
+</item>
+
+<item>
+	<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]eakspellz NBA Streams Channel 1 [/B][/COLOR]</title>
+	<link>http://weakspell.carniferou.club/edge/NBA1/playlist.m3u8|Referer=http://weakspellz.com/nba-streams/brooklyn-nets-vs-washington-wizards/</link>
+	<info>Programme dispo sur : http://weakspellz.com/category/nba-streams/</info>
+</item>
+<item>
+	<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]eakspellz NBA Streams Channel 2 [/B][/COLOR]</title>
+	<link>http://weakspell.carniferou.club/edge/NBA2/playlist.m3u8|Referer=http://weakspellz.com/nba-streams/brooklyn-nets-vs-washington-wizards/</link>
+	<info>Programme dispo sur : http://weakspellz.com/category/nba-streams/</info>
+</item>
+<item>
+	<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]eakspellz NBA Streams Channel 3 [/B][/COLOR]</title>
+	<link>http://weakspell.carniferou.club/edge/NBA3/playlist.m3u8|Referer=http://weakspellz.com/nba-streams/brooklyn-nets-vs-washington-wizards/</link>
+	<info>Programme dispo sur : http://weakspellz.com/category/nba-streams/</info>
+</item>
+<item>
+	<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]eakspellz NBA Streams Channel 4 [/B][/COLOR]</title>
+	<link>http://weakspell.carniferou.club/edge/NBA4/playlist.m3u8|Referer=http://weakspellz.com/nba-streams/brooklyn-nets-vs-washington-wizards/</link>
+	<info>Programme dispo sur : http://weakspellz.com/category/nba-streams/</info>
+</item>
+<item>
+	<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]eakspellz NBA Streams Channel 5 [/B][/COLOR]</title>
+	<link>http://weakspell.carniferou.club/edge/NBA5/playlist.m3u8|Referer=http://weakspellz.com/nba-streams/brooklyn-nets-vs-washington-wizards/</link>
+	<info>Programme dispo sur : http://weakspellz.com/category/nba-streams/</info>
 </item>
