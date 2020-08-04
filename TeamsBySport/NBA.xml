@@ -2,8 +2,21 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layouttype>thumbnail</layouttype>
 
+<item>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]04/08/2020 23:30 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
 <item>
+	<title>=======================================================================[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<!-- <item>
 	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Philadelphia 76ers[/B][/COLOR]</title>
 	<info>Les chaines HD Streams diffusent également la NBA</info>
 	<link>$doregex[get_hanturl]</link>
@@ -487,4 +500,4 @@
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
 	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-</item>
+</item> -->

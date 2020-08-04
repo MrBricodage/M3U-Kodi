@@ -3,6 +3,20 @@
 <layouttype>thumbnail</layouttype>
 
 <item>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]04/08/2020 23:30 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>=======================================================================[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<!-- <item>
 	<title>[COLOR brown][B]NFL [/B][/COLOR] : [COLOR white][B]REDZONE[/B][/COLOR]</title>
 	<link>$doregex[get_hanturl]</link>
 	<regex>
@@ -557,3 +571,4 @@
 	<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 	<fanart>http://images6.fanpop.com/image/photos/32100000/NFL-nfl-32123580-500-500.jpg</fanart>
 </item>
+ -->

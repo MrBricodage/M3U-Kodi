@@ -2,8 +2,22 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layouttype>thumbnail</layouttype>
 
+<item>
+	<title>****[COLOR yellow][B]Dernier MAJ:[/B][/COLOR][COLOR white][B][COLOR white][B][I]04/08/2020 23:30 UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
-<!-- Premiere league -->
+<item>
+	<title>=======================================================================[/B][/COLOR]</title>
+	<link>http://ignore.me</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<!-- 
+
 
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]England[/B][/COLOR] : [COLOR white][B]Arsenal[/B][/COLOR]</title>
@@ -349,7 +363,6 @@
 </item>
 
 
-<!-- Soccer France -->
 
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]France[/B][/COLOR] : [COLOR white][B]Amiens[/B][/COLOR]</title>
@@ -710,8 +723,6 @@
 </item>
 
 
-<!-- Soccer Germany -->
-<!-- Bundesliga -->
 
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Germany[/B][/COLOR] : [COLOR white][B]Augsburg 1907[/B][/COLOR]</title>
@@ -1019,7 +1030,6 @@
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
 </item>
 
-<!-- Soccer Italy -->
 
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Italy[/B][/COLOR] : [COLOR white][B]Atalanta[/B][/COLOR]</title>
@@ -1259,8 +1269,6 @@
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
 </item>
 
-<!-- Soccer Spain -->
-<!-- Liga -->
 
 <item>
 	<title>[COLOR blue][B]Soccer [/B][/COLOR][COLOR gold][B]Spain[/B][/COLOR] : [COLOR white][B]FC Barcelona[/B][/COLOR]</title>
@@ -1515,4 +1523,4 @@
 	</regex>
 	<thumbnail>http://pngimg.com/uploads/football/football_PNG28466.png</thumbnail>
 	<fanart>https://shesheshow.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-10-at-9.42.37-PM.png</fanart>
-</item>
+</item> -->
