@@ -94,33 +94,6 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 
 
 
-<item>
-<title>[COLOR yellow][B]==========  Soccer Streams  ==========[/B][/COLOR]</title>
-<link>http://ignore.me<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-	<item>
-	<title>[COLOR blue][B]Event [/B][/COLOR] : [COLOR white][B]Genoa vs Udinese[/B][/COLOR]</title>
-	<link>$doregex[get_hanturl]</link>
-	<regex>
-	<name>get_hanturl</name>
-	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-	<page>http://60fps.live/genoa-vs-udinese/</page>
-	</regex>
-	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
-	</item>
-
-
-
-
-<item>
-	<title>Chaines [COLOR blue][B]TV247.us[/B][/COLOR]</title>
-	<info>Liste des flux : ???</info>
-	<link>http://Ignoreme</link>
-    <externallink>https://dpaste.com/HTN2PWZVF.txt</externallink>
-</item>
 
 <item>
 <title>[COLOR yellow][B]==========  Football Streams  ==========[/B][/COLOR]</title>
@@ -128,20 +101,6 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-
-
-<item>
-<title>[COLOR blue][B]NFL [/B][/COLOR] : [COLOR white][B]Houston Texans vs Jacksonville Jaguars[/B][/COLOR]</title>
-<link>$doregex[get_hanturl]</link>
-<regex>
-<name>get_hanturl</name>
-<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
-<page>http://60fps.live/houston-texans-vs-jacksonville-jaguars/</page>
-</regex>
-<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
-</item>
-
 
 
 
