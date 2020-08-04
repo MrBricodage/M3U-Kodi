@@ -4,7 +4,7 @@
 
 
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 1[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 1[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/1.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -15,7 +15,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 2[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 2[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/2.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -26,7 +26,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 3[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 3[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/3.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -37,7 +37,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 4[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 4[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/4.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -48,7 +48,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 5[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 5[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/5.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -59,7 +59,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 6[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 6[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/6.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -70,7 +70,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 7[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 7[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/7.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -81,7 +81,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 8[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 8[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/8.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
@@ -92,7 +92,7 @@
 	</regex>
 </item>
 <item>
-	<title>[COLOR lime	][B]S[/B][/COLOR][COLOR white][B]stream-CR7 Channel 9[/B][/COLOR]</title>
+	<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tream-CR7 Channel 9[/B][/COLOR]</title>
 	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/9.php</link>
 	<info>Liste des flux : https://streamcr7.com/</info>
 	<regex>
