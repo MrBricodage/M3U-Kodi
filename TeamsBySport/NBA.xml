@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Philadelphia 76ers[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/philadelphia-76ers-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Portland Trail Blazers[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/portland-trail-blazers-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Chicago Bulls[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/chicago-bulls-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Cleveland Cavaliers[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/cleveland-cavaliers-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Boston Celtics[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/boston-celtics-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Los Angeles Clippers[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/la-clippers-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Memphis Grizzlies[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/memphis-grizzlies-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Atlanta Hawks[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/atlanta-hawks-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Miami Heat[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/miami-heat-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Charlotte Hornets[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/charlotte-hornets-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Utah Jazz[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/utah-jazz-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Sacramento Kings[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/sacramento-kings-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]New York Knicks[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/new-york-knicks-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Los Angeles Lakers[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/los-angeles-lakers-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Dallas Mavericks[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/dallas-mavericks-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Brooklyn Nets[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/brooklyn-nets-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Denver Nuggets[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/denver-nuggets-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]New Orléans Pelicans[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/new-orleans-pelicans-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Detroit Pistons[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/detroit-pistons-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Toronto Raptors[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/toronto-raptors-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Houston Rockets[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/houston-rockets-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]San Antonio Spurs[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/san-antonio-spurs-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Phoenix Suns[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/phoenix-suns-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Minnesota Timberwolves[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/minnesota-timberwolves-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Oklahoma City Thunder[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/oklahoma-city-thunder-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Golden State Warriors[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/golden-state-warriors-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+	<title>[COLOR blue][B]NBA [/B][/COLOR] : [COLOR white][B]Washington Wizards[/B][/COLOR]</title>
+	<info>Les chaines HD Streams diffusent également la NBA</info>
+	<link>$doregex[get_hanturl]</link>
+	<regex>
+	<name>get_hanturl</name>
+	<expres>hanturl=.*[",'](.*.playlist.*?)[",']</expres>
+	<page>$doregex[get_matchurl]</page>
+	</regex>
+	<regex>
+	<name>get_matchurl</name>
+	<expres>(?:class="title" href=")(.*?)[",']</expres>
+	<page>http://60fps.live/washington-wizards-live-stream/</page>
+	</regex>
+	<thumbnail>http://pngimg.com/uploads/nba/nba_PNG14.png</thumbnail>
+	<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
