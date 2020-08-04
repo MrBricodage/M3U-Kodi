@@ -46,7 +46,7 @@
     <title>Chaines [COLOR blue][B]Stream-CR7[/B][/COLOR]</title>
     <link>http://Ignoreme</link>
 	<info>Programme dispo sur : http://stream-cr7.net/</info>
-	<externallink>http://dpaste.com/3RYFY4B.txt</externallink>
+    <externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/INET-Channels/streamCR7.xml</externallink>
 </item>
 <item>
 	<title>Chaines [COLOR blue][B]Weakspellz[/B][/COLOR]</title>
@@ -103,17 +103,7 @@
 		<referer>http://www.blacktiesports.net/f1/</referer>
 	</regex>
 </item>
-<item>
-	<title>[COLOR orange][B]B[/B][/COLOR][COLOR white][B]lackties Streams F1[/B][/COLOR]</title>
-	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/1.php</link>
-	<info>Liste des flux : http://www.blacktiesports.net/</info>
-	<regex>
-		<name>get_sxstream</name>
-		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://stream-cr7.net/embed/1.php</page>
-		<referer>https://streamcr7.com/Brentford-vs-Fulham/</referer>
-	</regex>
-</item>
+
 
 
 
