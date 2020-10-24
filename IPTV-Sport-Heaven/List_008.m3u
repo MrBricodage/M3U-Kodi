@@ -1,106 +1,49 @@
 #EXTM3U
-#EXTINF:0,restreaml Bein HD1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/1
-#EXTINF:0,restreaml Bein HD2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/2
-#EXTINF:0,restreaml Bein HD3
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/3
-#EXTINF:0,restreaml Bein HD4
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/4
-#EXTINF:0,RESTREAML BEIN HD5
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/5
-#EXTINF:0,RESTREAML BEIN HD6
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/6
-#EXTINF:0,Restreaml Bein SD1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/7
-#EXTINF:0,Restreaml Bein SD2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/8
-#EXTINF:0,Restreaml Bein SD3
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/9
-#EXTINF:0,Restreaml Bein SD4
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/10
-#EXTINF:0,RESTREAML BEIN SD5
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/11
-#EXTINF:0,RESTREAML BEIN SD6
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/12
-#EXTINF:0,Bein Sport News
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/13
-#EXTINF:0,bein low-1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/14
-#EXTINF:0,bein low-2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/15
-#EXTINF:0,bein low-3
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/16
-#EXTINF:0,bein low-4
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/17
-#EXTINF:0,bein low-5
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/18
-#EXTINF:0,bein low-6
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/19
-#EXTINF:0,bein low-7
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/20
-#EXTINF:0,bein low-8
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/21
-#EXTINF:0,bein low-9
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/22
-#EXTINF:0,on sport
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/67
-#EXTINF:0,ad sport 1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/81
-#EXTINF:0,KSA Sport 1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/86
-#EXTINF:0,KSA Sport 2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/87
-#EXTINF:0,FR: RMC Sport 1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/127
-#EXTINF:0,FR: RMC Sport 2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/128
-#EXTINF:0,FR: RMC Sport 3
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/129
-#EXTINF:0,FR: RMC Sport 4
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/130
-#EXTINF:0,Bein FR1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/131
-#EXTINF:0,Bein FR 3
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/132
-#EXTINF:0,Bein FR 2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/133
-#EXTINF:0,euro sport 1
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/174
-#EXTINF:0,euro sport 2
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.181.164:7777/newyacinetv022/newyacinetv022/175
+#EXTINF:0,SPORTV FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/4797
+#EXTINF:0,SPORTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17335
+#EXTINF:0,SPORTV HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/177
+#EXTINF:0,SPORTV HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/16847
+#EXTINF:0,SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/176
+#EXTINF:0,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/5940
+#EXTINF:0,SPORTV 2 FHD H265_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17337
+#EXTINF:0,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/172
+#EXTINF:0,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/171
+#EXTINF:0,SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/6554
+#EXTINF:0,SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17336
+#EXTINF:0,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/167
+#EXTINF:0,SPORTV 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/166
+#EXTINF:0,FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/5775
+#EXTINF:0,FOX SPORTS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/6288
+#EXTINF:0,FOX SPORTS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17300
+#EXTINF:0,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/164
+#EXTINF:0,FOX SPORTS HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/2835
+#EXTINF:0,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/163
+#EXTINF:0,FOX SPORTS 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/2976
+#EXTINF:0,FOX SPORTS 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17301
+#EXTINF:0,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/161
+#EXTINF:0,FOX SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17143
+#EXTINF:0,FOX SPORTS 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/160
