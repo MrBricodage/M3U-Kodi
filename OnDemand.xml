@@ -106,6 +106,30 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
 <fanart></fanart>
 </item>
 
+<item>
+	<title>[COLOR lime][B]CLM[/B][/COLOR]-[COLOR blue][B]Test[/B][/COLOR]:[COLOR white][B]telefoot[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://streaming-sport.tv/chaine/c31/</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+	<page>http://streaming-sport.tv/chaine/c31/</page>
+	<referer>http://streaming-sport.tv/chaine/c31/</referer>
+	</regex>
+</item>
+
+
+<item>
+	<title>[COLOR lime][B]CLM[/B][/COLOR]-[COLOR blue][B]Test[/B][/COLOR]:[COLOR white][B]telefoot[/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://streaming-sport.tv/chaine/c31/</link>
+	<regex>
+	<name>get_sxstream</name>
+	<expres>url:.*[",'](.*m3u8.*?)[",']</expres>
+	<page>http://csport.xyz/t/1/51.php</page>
+	<referer>https://telerium.live/embed/63700.html</referer>
+	</regex>
+</item>
+
+
 
 
 <item>
