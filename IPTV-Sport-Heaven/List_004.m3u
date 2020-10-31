@@ -1,143 +1,109 @@
 #EXTM3U
-#EXTINF:0,SKY&DAZN1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/64347
-#EXTINF:0,SKY&DAZN1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/64348
-#EXTINF:0,SKY&DAZN1 SD (NUOVO SKY)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/27077
-#EXTINF:0,SKY SPORT 24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/187
-#EXTINF:0,SKY SPORT 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/17
-#EXTINF:0,SKY SPORT 24 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65167
-#EXTINF:0,SKY SPORT UNO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/184
-#EXTINF:0,SKY SPORT UNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/12
-#EXTINF:0,SKY SPORT UNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65166
-#EXTINF:0,SKY SPORT FOOTBALL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/182
-#EXTINF:0,SKY SPORT FOOTBALL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/63894
-#EXTINF:0,SKY SPORT FOOTBALL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65164
-#EXTINF:0,SKY SPORT ARENA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/183
-#EXTINF:0,SKY SPORT ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/16
-#EXTINF:0,SKY SPORT ARENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65165
-#EXTINF:0,SKY SPORT COLLECTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/180
-#EXTINF:0,SKY SPORT COLLECTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/179
-#EXTINF:0,SKY SPORT NBA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/146
-#EXTINF:0,SKY SPORT NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/13
-#EXTINF:0,SKY SPORT NBA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65160
-#EXTINF:0,PESCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/63892
-#EXTINF:0,PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65185
-#EXTINF:0,CACCIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/60
-#EXTINF:0,CACCIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65187
-#EXTINF:0,CACCIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65188
-#EXTINF:0,ITALIAN FISHING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65189
-#EXTINF:0,SUPER TENNIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65153
-#EXTINF:0,SUPERTENNIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/213
-#EXTINF:0,SUPER TENNIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65154
-#EXTINF:0,BIKE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/63
-#EXTINF:0,BIKE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65162
-#EXTINF:0,UNIRESAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/88
-#EXTINF:0,HORSE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/72
-#EXTINF:0,HORSE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/71
-#EXTINF:0,AUTOMOTO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65152
-#EXTINF:0,RALLY SHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/81401
-#EXTINF:0,MOTORTREND FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/228
-#EXTINF:0,MOTORTREND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65239
-#EXTINF:0,EUROSPORT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/69
-#EXTINF:0,EUROSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/68
-#EXTINF:0,EUROSPORT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65157
-#EXTINF:0,EUROSPORT 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65156
-#EXTINF:0,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/79
-#EXTINF:0,EUROSPORT 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65155
-#EXTINF:0,RAI SPORT + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/218
-#EXTINF:0,SPORTITALIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/215
-#EXTINF:0,SPORT ITALIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1040
-#EXTINF:0,SPORT ITALIA LIVE24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1039
-#EXTINF:0,SPORT ITALIA SOLOCALCIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1038
-#EXTINF:0,SPORT ITALIA MOTORI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1037
-#EXTINF:0,WWE WRESTLING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65151
-#EXTINF:0,FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/65150
-#EXTINF:0,DAZN SPORT 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1579
-#EXTINF:0,DAZN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1578
-#EXTINF:0,DAZN SPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/63940
-#EXTINF:0,DAZN SPORT 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1577
-#EXTINF:0,DAZN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1576
-#EXTINF:0,DAZN SPORT 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1575
-#EXTINF:0,DAZN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1574
-#EXTINF:0,DAZN SPORT 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1573
-#EXTINF:0,DAZN SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1572
-#EXTINF:0,DAZN SPORT 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1571
-#EXTINF:0,DAZN SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1570
-#EXTINF:0,DAZN SPORT 6 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1569
-#EXTINF:0,DAZN SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1568
-#EXTINF:0,DAZN SPORT 7 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1567
-#EXTINF:0,DAZN SPORT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1566
-#EXTINF:0,DAZN SPORT 8 HDV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1564
-#EXTINF:0,DAZN SPORT 8 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1565
-#EXTINF:0,DAZN SPORT 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1562
-#EXTINF:0,DAZN SPORT 9 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytelevisions.com:80/gia/gia/1563
+#EXTINF:0,AYM SPORT_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/412
+#EXTINF:0,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/429
+#EXTINF:0,BEIN SPORTS LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/2902
+#EXTINF:0,BEIN SPORTS ? HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/469
+#EXTINF:0,CLARO SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/460
+#EXTINF:0,CLARO SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/414
+#EXTINF:0,DIRECTV PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/433
+#EXTINF:0,DIRECTV PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/475
+#EXTINF:0,DIRECTV SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/432
+#EXTINF:0,DIRECTV SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/434
+#EXTINF:0,DIRECTV SPORTS 2 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/477
+#EXTINF:0,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/487
+#EXTINF:0,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/435
+#EXTINF:0,FORMULA 1  HD MOVISTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/778
+#EXTINF:0,FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/484
+#EXTINF:0,FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/485
+#EXTINF:0,FOX SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/486
+#EXTINF:0,GOL TV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/437
+#EXTINF:0,GOL TV ECUADOR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/438
+#EXTINF:0,GOL TV ECUADOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/491
+#EXTINF:0,GOL TV ESPA?A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/439
+#EXTINF:0,GOL TV INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/440
+#EXTINF:0,GOL TV INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/492
+#EXTINF:0,GOL TV PERU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/441
+#EXTINF:0,GOL TV USA HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/494
+#EXTINF:0,GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/436
+#EXTINF:0,LA LIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/490
+#EXTINF:0,LA LIGA TV HD BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/502
+#EXTINF:0,MOVISTAR DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/503
+#EXTINF:0,MOVISTAR FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/497
+#EXTINF:0,MOVISTAR LA LIGA DE CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/495
+#EXTINF:0,MOVISTAR LIGA  BAR_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/501
+#EXTINF:0,PPV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/516
+#EXTINF:0,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/444
+#EXTINF:0,TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/496
+#EXTINF:0,TIGO SPORTS 1 HD (BOLIVIA)_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/505
+#EXTINF:0,TIGO SPORTS 1 SD (BOLIVIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/447
+#EXTINF:0,TIGO SPORTS 2 HD (BOLIVIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/506
+#EXTINF:0,TIGO SPORTS 2 PARAGUAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/507
+#EXTINF:0,TIGO SPORTS 2 SD (BOLIVIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/448
+#EXTINF:0,TIGO SPORTS 3 SD (BOLIVIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/449
+#EXTINF:0,TVCD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/427
+#EXTINF:0,Univision TDN HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/467
+#EXTINF:0,VTV HD URUGUAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/508
+#EXTINF:0,WIN SPORTS COLOMBIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/451
+#EXTINF:0,UFC Fight Pass
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/24942
+#EXTINF:0,NBA TV HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/510
+#EXTINF:0,NFL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/513
+#EXTINF:0,TENNIS CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/514
+#EXTINF:0,UFC LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/515
+#EXTINF:0,COMBATE HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/811
+#EXTINF:0,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/814
+#EXTINF:0,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/815
+#EXTINF:0,ESPN BRASIL HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Gisela/Gisela2020/812

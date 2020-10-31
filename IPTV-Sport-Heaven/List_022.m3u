@@ -1,39 +1,69 @@
 #EXTM3U
-#EXTINF:0,AYM SPORT_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/412
-#EXTINF:0,BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/429
-#EXTINF:0,BEIN SPORTS LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/2902
-#EXTINF:0,BEIN SPORTS ? HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/469
-#EXTINF:0,CDF BASICO CHILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/430
-#EXTINF:0,CDF PREMIUM CHILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/431
-#EXTINF:0,CLARO SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/460
-#EXTINF:0,CLARO SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/414
-#EXTINF:0,DIRECTV PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/433
-#EXTINF:0,DIRECTV PLUS HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/475
-#EXTINF:0,DIRECTV SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/432
-#EXTINF:0,DIRECTV SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/434
-#EXTINF:0,DIRECTV SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/477
-#EXTINF:0,EUROSPORT 1 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/487
-#EXTINF:0,EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/435
-#EXTINF:0,FORMULA 1  HD MOVISTAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/778
-#EXTINF:0,FOX SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/484
-#EXTINF:0,FOX SPORT 2 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/485
-#EXTINF:0,FOX SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/Valeria/Valeria2020/486
+#EXTINF:-1,SPORT| SUPERSPORT  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86795
+#EXTINF:-1,SPORT| SUPERSPORT  2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86794
+#EXTINF:-1,SPORT| SUPERSPORT  3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86793
+#EXTINF:-1,SPORT| SUPERSPORT  4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86792
+#EXTINF:-1,SPORT| SUPERSPORT  5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86791
+#EXTINF:-1,SPORT| SUPERSPORT  6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86790
+#EXTINF:-1,SPORT| SUPERSPORT  7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86789
+#EXTINF:-1,SPORT| SUPERSPORT  8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86788
+#EXTINF:-1,SPORT| SUPERSPORT  10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86787
+#EXTINF:-1,SPORT| SUPERSPORT  11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86786
+#EXTINF:-1,SPORT| SUPERSPORT  12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86785
+#EXTINF:-1,SPORT| SUPERSPORT  13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86784
+#EXTINF:-1,SPORT| SUPERSPORT  15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86783
+#EXTINF:-1,SPORT| SUPERSPORT  EVENTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86782
+#EXTINF:-1,SPORT| SUPERSPORT  BLITZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86781
+#EXTINF:-1,SPORT| SUPERSPORT  MAXIMO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86780
+#EXTINF:-1,SPORT| SUPERSPORT  PLAY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/86779
+#EXTINF:-1,SPORT| SUPERSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85169
+#EXTINF:-1,SPORT| SUPERSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85168
+#EXTINF:-1,SPORT| SUPERSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85167
+#EXTINF:-1,SPORT| SUPERSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85166
+#EXTINF:-1,SPORT| SUPERSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85165
+#EXTINF:-1,SPORT| SUPERSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85164
+#EXTINF:-1,SPORT| SUPERSPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85163
+#EXTINF:-1,SPORT| SUPERSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85162
+#EXTINF:-1,SPORT| SUPERSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85161
+#EXTINF:-1,SPORT| SUPERSPORT 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85160
+#EXTINF:-1,SPORT| SUPERSPORT 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85159
+#EXTINF:-1,SPORT| SUPERSPORT 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85158
+#EXTINF:-1,SPORT| SUPERSPORT 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85157
+#EXTINF:-1,SPORT| SUPERSPORT EVENTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85156
+#EXTINF:-1,SPORT| SUPERSPORT BLITZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85155
+#EXTINF:-1,SPORT| SUPERSPORT MAXIMO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85154
+#EXTINF:-1,SPORT| SUPERSPORT PLAY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/85153

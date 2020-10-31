@@ -1,49 +1,31 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
-#EXTINF:-1,BEIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1,BEIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
-#EXTINF:-1,BEIN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
-#EXTINF:-1,BEIN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1,BEIN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
-#EXTINF:-1,BEIN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
-#EXTINF:-1,BEIN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
-#EXTINF:-1,BEIN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
-#EXTINF:-1,BEIN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
-#EXTINF:-1,BEIN SERIES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2309.ts
-#EXTINF:-1,BEIN SERIES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/2310.ts
-#EXTINF:-1,BEIN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
-#EXTINF:-1,BEIN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
-#EXTINF:-1,BEIN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
-#EXTINF:-1,BEIN SPORTS 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
-#EXTINF:-1,BEIN SPORTS 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
-#EXTINF:-1,BEIN SPORTS 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
-#EXTINF:-1,BEIN SPORTS 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
-#EXTINF:-1,BEIN SPORTS 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
-#EXTINF:-1,BEIN SPORTS 9 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
-#EXTINF:-1,BEIN SPORTS 10 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
-#EXTINF:-1,MBC PLUS DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/1409.ts
-#EXTINF:-1,WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
+#EXTINF:0,GR NOVA SPORTS 1 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/47442
+#EXTINF:0,GR NOVA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/47443
+#EXTINF:0,GR NOVA SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/190151
+#EXTINF:0,GR Nova Sports 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/194369
+#EXTINF:0,GR: NOVA SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/12844
+#EXTINF:0,GR: NOVA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/12845
+#EXTINF:0,GR: NOVA SPORTS 3 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/12846
+#EXTINF:0,GR: Nova Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/146391
+#EXTINF:0,GR: COSMOTE SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/124
+#EXTINF:0,GR: COSMOTE SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/4268
+#EXTINF:0,GR: COSMOTE SPORT 4 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/125
+#EXTINF:0,GR: COSMOTE SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/4271
+#EXTINF:0,GR: COSMOTE SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/4272
+#EXTINF:0,GR: COSMOTE SPORT 7 HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/126
+#EXTINF:0,GR: COSMOTE SPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://103.136.43.169:8080/GKESIOS/749cd2af/127

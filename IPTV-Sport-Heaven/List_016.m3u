@@ -1,61 +1,231 @@
 #EXTM3U
-#EXTINF:0,SKY SPORT 24 HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10409
-#EXTINF:0,SKY SPORT 24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10410
-#EXTINF:0,SKY SPORT UNO HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10384
-#EXTINF:0,SKY SPORT UNO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10385
-#EXTINF:0,SKY SPORT SERIE A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10387
-#EXTINF:0,SKY SPORT SERIE A FULL HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10388
-#EXTINF:0,SKY SPORT FOOTBALL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10399
-#EXTINF:0,SKY SPORT FOOTBALL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10400
-#EXTINF:0,SKY SPORT ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10406
-#EXTINF:0,SKY SPORT ARENA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10407
-#EXTINF:0,SKY SPORT NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10390
-#EXTINF:0,SKY SPORT NBA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10391
-#EXTINF:0,SKY SPORT F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10402
-#EXTINF:0,SKY SPORT F1 FULL HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10403
-#EXTINF:0,SKY SPORT MOTOGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10393
-#EXTINF:0,SKY SPORT MOTOGP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10394
-#EXTINF:0,SKY SPORT GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10396
-#EXTINF:0,SKY SPORT GOLF FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10397
-#EXTINF:0,SKY SPORT DELAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10404
-#EXTINF:0,EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10678
-#EXTINF:0,EUROSPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10677
-#EXTINF:0,ROMA Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10411
-#EXTINF:0,BIKE CHANNEL HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10564
-#EXTINF:0,BIKE CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10565
-#EXTINF:0,GINX ESPORT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10460
-#EXTINF:0,HORSE TV FULL HD_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10457
-#EXTINF:0,MILAN TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10448
-#EXTINF:0,INTER Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10456
-#EXTINF:0,LAZIO Style Channel_Website : dailyfreeiptv.blogspot.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10453
-#EXTINF:0,TORINO Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/parigi/parigi/10378
+#EXTINF:0,|AR| BEIN  SPORT HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78620
+#EXTINF:0,|AR| BEIN SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78583
+#EXTINF:0,|AR| BEIN SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78618
+#EXTINF:0,|AR| BEIN SPORTS NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78582
+#EXTINF:0,|AR| BEIN SPORTS 1 HDV_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78617
+#EXTINF:0,|AR| BEIN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78580
+#EXTINF:0,|AR| BEIN SPORTS 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78600
+#EXTINF:0,|AR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78616
+#EXTINF:0,|AR| BEIN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78579
+#EXTINF:0,|AR| BEIN SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78599
+#EXTINF:0,|AR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78615
+#EXTINF:0,|AR| BEIN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78578
+#EXTINF:0,|AR| BEIN SPORTS 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78598
+#EXTINF:0,|AR| BEIN SPORTS 4 HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78614
+#EXTINF:0,|AR| BEIN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78577
+#EXTINF:0,|AR| BEIN SPORTS 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78597
+#EXTINF:0,|AR| BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78613
+#EXTINF:0,|AR| BEIN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78576
+#EXTINF:0,|AR| BEIN SPORTS 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78596
+#EXTINF:0,|AR| BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78612
+#EXTINF:0,|AR| BEIN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78575
+#EXTINF:0,|AR| BEIN SPORTS 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78595
+#EXTINF:0,|AR| BEIN SPORTS 7 HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78611
+#EXTINF:0,|AR| BEIN SPORTS 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78574
+#EXTINF:0,|AR| BEIN SPORTS 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78594
+#EXTINF:0,|AR| BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78610
+#EXTINF:0,|AR| BEIN SPORTS 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78573
+#EXTINF:0,|AR| BEIN SPORTS 8 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78593
+#EXTINF:0,|AR| BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78609
+#EXTINF:0,|AR| BEIN SPORTS 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78572
+#EXTINF:0,|AR| BEIN SPORTS 9 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78592
+#EXTINF:0,|AR| BEIN SPORTS 10 HD OLYMPIC_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78608
+#EXTINF:0,|AR| BEIN SPORTS 10 SD OLYMPIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78571
+#EXTINF:0,|AR| BEIN SPORTS 10 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78591
+#EXTINF:0,|AR| BEIN SPORTS 11 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78607
+#EXTINF:0,|AR| BEIN SPORTS 11 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78570
+#EXTINF:0,|AR| BEIN SPORTS 11 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78590
+#EXTINF:0,|AR| BEIN SPORTS 12 HD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78606
+#EXTINF:0,|AR| BEIN SPORTS 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78569
+#EXTINF:0,|AR| BEIN SPORTS 12 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78589
+#EXTINF:0,|AR| BEIN SPORTS 13 HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78605
+#EXTINF:0,|AR| BEIN SPORTS 13 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78568
+#EXTINF:0,|AR| BEIN SPORTS 13 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78588
+#EXTINF:0,|AR| BEIN SPORTS 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78604
+#EXTINF:0,|AR| BEIN SPORTS 14 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78567
+#EXTINF:0,|AR| BEIN SPORTS 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78603
+#EXTINF:0,|AR| BEIN SPORTS 15 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78566
+#EXTINF:0,|AR| BEIN SPORTS 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78602
+#EXTINF:0,|AR| BEIN SPORTS 16 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78565
+#EXTINF:0,|AR| BEIN SPORTS NBA HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78619
+#EXTINF:0,|AR| BEIN SPORTS NBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78581
+#EXTINF:0,|AR|4K| BEIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78563
+#EXTINF:0,|AR| BEIN SPORTS 1 UHD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78637
+#EXTINF:0,|AR|4K| BEIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78562
+#EXTINF:0,|AR| BEIN SPORTS 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78636
+#EXTINF:0,|AR|4K| BEIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78561
+#EXTINF:0,|AR| BEIN SPORTS 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78635
+#EXTINF:0,|AR|4K| BEIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78560
+#EXTINF:0,|AR| BEIN SPORTS 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78634
+#EXTINF:0,|AR|4K| BEIN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78559
+#EXTINF:0,|AR| BEIN SPORTS 5 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78633
+#EXTINF:0,|AR|4K| BEIN SPORTS 6_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78558
+#EXTINF:0,|AR| BEIN SPORTS 6 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78632
+#EXTINF:0,|AR|4K| BEIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78557
+#EXTINF:0,|AR| BEIN SPORTS 7 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78631
+#EXTINF:0,|AR|4K| BEIN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78556
+#EXTINF:0,|AR| BEIN SPORTS 8 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78630
+#EXTINF:0,|AR|4K| BEIN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78555
+#EXTINF:0,|AR| BEIN SPORTS 9 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78629
+#EXTINF:0,|AR|4K| BEIN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78554
+#EXTINF:0,|AR| BEIN SPORTS 10 UHD OLYMPIC_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78628
+#EXTINF:0,|AR|4K| BEIN SPORTS 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78553
+#EXTINF:0,|AR| BEIN SPORTS 11 UHD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78627
+#EXTINF:0,|AR|4K| BEIN SPORTS 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78552
+#EXTINF:0,|AR| BEIN SPORTS 12 UHD EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78626
+#EXTINF:0,|AR|4K| BEIN SPORTS 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78551
+#EXTINF:0,|AR| BEIN SPORTS 13 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78625
+#EXTINF:0,|AR|4K| BEIN SPORTS 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78550
+#EXTINF:0,|AR|4K| BEIN SPORTS 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78549
+#EXTINF:0,|AR|4K| BEIN SPORTS 16_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/78548
+#EXTINF:0,|FR|SD| TELEFOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79045
+#EXTINF:0,|FR|SD| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79044
+#EXTINF:0,|FR|SD| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79043
+#EXTINF:0,|FR|SD| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79042
+#EXTINF:0,|FR|SD| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79041
+#EXTINF:0,|FR|SD| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79040
+#EXTINF:0,|FR|SD| RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79039
+#EXTINF:0,|FR|SD| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79038
+#EXTINF:0,|FR|SD| RMC SPORT 2 HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79037
+#EXTINF:0,|FR|SD| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79036
+#EXTINF:0,|FR|SD| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79035
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79034
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79033
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79032
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79031
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79030
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79029
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79028
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 12 HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79027
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79026
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79025
+#EXTINF:0,|FR|SD| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79024
+#EXTINF:0,|FR|SD| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79023
+#EXTINF:0,|FR|SD| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79022
+#EXTINF:0,|FR|SD| MULTIS PORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79021
+#EXTINF:0,|FR|SD| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79020
+#EXTINF:0,|FR|SD| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79019
+#EXTINF:0,|FR|SD| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79018
+#EXTINF:0,|FR|SD| BFM TV HD_ CREATED BY  : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79017
+#EXTINF:0,|FR|SD| FOOT+ 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79016
+#EXTINF:0,|FR|SD| INFO SPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79015
+#EXTINF:0,|FR|SD| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79014
+#EXTINF:0,|FR|SD| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79013
+#EXTINF:0,|FR|SD| MOTORSPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79012
+#EXTINF:0,|FR|SD| AUTO MOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/307210016401/307210016401/79011

@@ -1,39 +1,49 @@
 #EXTM3U
-#EXTINF:0,AR: BEIN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-#EXTINF:0,AR: BEIN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-#EXTINF:0,AR: BEIN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-#EXTINF:0,AR: BEIN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-#EXTINF:0,AR: BEIN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-#EXTINF:0,AR: BEIN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-#EXTINF:0,AR: BEIN SPORTS 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-#EXTINF:0,AR: BEIN SPORTS 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-#EXTINF:0,AR: BEIN SPORTS 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-#EXTINF:0,AR: BEIN SPORTS 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-#EXTINF:0,AR: BEIN SPORTS 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-#EXTINF:0,AR: BEIN SPORTS 12 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6859
-#EXTINF:0,AR: BEIN SPORTS 1 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6855
-#EXTINF:0,AR: BEIN SPORTS 2 HD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6861
-#EXTINF:0,SPORT: Super sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/229
-#EXTINF:0,SPORT: Super sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/230
-#EXTINF:0,SPORT: Super sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/231
-#EXTINF:0,SPORT: Super sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/232
-#EXTINF:0,SPORT: Super sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/228
+#EXTINF:0,SPORTV FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/4797
+#EXTINF:0,SPORTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17335
+#EXTINF:0,SPORTV HD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/177
+#EXTINF:0,SPORTV HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/16847
+#EXTINF:0,SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/176
+#EXTINF:0,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/5940
+#EXTINF:0,SPORTV 2 FHD H265_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17337
+#EXTINF:0,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/172
+#EXTINF:0,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/171
+#EXTINF:0,SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/6554
+#EXTINF:0,SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17336
+#EXTINF:0,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/167
+#EXTINF:0,SPORTV 3 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/166
+#EXTINF:0,FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/5775
+#EXTINF:0,FOX SPORTS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/6288
+#EXTINF:0,FOX SPORTS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17300
+#EXTINF:0,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/164
+#EXTINF:0,FOX SPORTS HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/2835
+#EXTINF:0,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/163
+#EXTINF:0,FOX SPORTS 2 FHD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/2976
+#EXTINF:0,FOX SPORTS 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17301
+#EXTINF:0,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/161
+#EXTINF:0,FOX SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/17143
+#EXTINF:0,FOX SPORTS 2 SD_Website : dailyfreeiptv.blogspot.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eitv.cc:80/jayson/YBX7dXEBt7/160
