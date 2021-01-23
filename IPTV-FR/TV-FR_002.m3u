@@ -1,41 +1,69 @@
 #EXTM3U
-#EXTINF:-1,FR | BeIN SPORTS 1 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332740
-#EXTINF:-1,FR | BeIN SPORTS 2 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332741
-#EXTINF:-1,FR | BeIN SPORTS 3 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332742
-#EXTINF:-1,FR | Discovery Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332783
-#EXTINF:-1,FR | Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332784
-#EXTINF:-1,FR | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332785
-#EXTINF:-1,FR | Disney Jr Fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332787
-#EXTINF:-1,FR | Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332788
-#EXTINF:-1,FR | France 02 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332797
-#EXTINF:-1,FR | France 03 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332798
-#EXTINF:-1,FR | FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332799
-#EXTINF:-1,FR | FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332800
-#EXTINF:-1,FR | FRANCE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332801
-#EXTINF:-1,FR | France 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332802
-#EXTINF:-1,FR | France 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332803
-#EXTINF:-1,FR | France O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332804
-#EXTINF:-1,FR | Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332820
-#EXTINF:-1,FR | Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332821
-#EXTINF:-1,FR | National geo wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332822
-#EXTINF:-1,FR | NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ux.mytvxweb.me:25461/Jorge5/tcK36gpAGu/332824
+#EXTINF:-1,TF1 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12857
+#EXTINF:-1,TF1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5610
+#EXTINF:-1,TF +1 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/678943
+#EXTINF:-1,France 2 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5669
+#EXTINF:-1,France 3 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12858
+#EXTINF:-1,France 3 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5668
+#EXTINF:-1,France 4 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5667
+#EXTINF:-1,France 5 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5666
+#EXTINF:-1,France O HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5664
+#EXTINF:-1,M6 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5653
+#EXTINF:-1,M6 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/683182
+#EXTINF:-1,6Ter FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/13004
+#EXTINF:-1,C8 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/13006
+#EXTINF:-1,Cherie 25 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5693
+#EXTINF:-1,TV 5 Monde FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5604
+#EXTINF:-1,TV 5 Monde FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/8631
+#EXTINF:-1,RTS Un HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5619
+#EXTINF:-1,RTS Deux FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5618
+#EXTINF:-1,Elle Girl FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12856
+#EXTINF:-1,6Ter HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5716
+#EXTINF:-1,Alsace 20 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12941
+#EXTINF:-1,C8 HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5703
+#EXTINF:-1,LCP FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5655
+#EXTINF:-1,La Une HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5657
+#EXTINF:-1,RTL9 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/7945
+#EXTINF:-1,Teva FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/13002
+#EXTINF:-1,Téva HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12949
+#EXTINF:-1,Teva FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5611
+#EXTINF:-1,Vosges Télévision HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/12932
+#EXTINF:-1,OL TV HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/16900
+#EXTINF:-1,OLTV FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5633
+#EXTINF:-1,Weo HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5600
+#EXTINF:-1,RTL 9 FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/5620
+#EXTINF:-1,TFX FHD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fo.trillada.com:8080/mb9sj3lvtq/h0yog706q8/50868
