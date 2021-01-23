@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D 4KStreams Channel 1 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://4kstreams.net/embed/soccer1t.php</link>
+	<info>Programme dispo sur : http://4kstreams.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://4kstreams.net/embed/soccer1t.php</page>
+		<referer>http://4kstreams.net/embed/soccer1t.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D 4KStreams Channel 2 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://4kstreams.net/embed/soccer2t.php</link>
+	<info>Programme dispo sur : http://4kstreams.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://4kstreams.net/embed/soccer2t.php</page>
+		<referer>http://4kstreams.net/embed/soccer2t.php</referer>
+	</regex>
+</item>
+
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D 4KStreams Channel 3 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://4kstreams.net/embed/soccer1t.php</link>
+	<info>Programme dispo sur : http://4kstreams.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://4kstreams.net/embed/soccer3t.php</page>
+		<referer>http://4kstreams.net/embed/soccer3t.php</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR lime][B]H[/B][/COLOR][COLOR white][B]D 4KStreams Channel 4 [/B][/COLOR]</title>
+	<link>$doregex[get_sxstream]|Referer=http://4kstreams.net/embed/soccer4t.php</link>
+	<info>Programme dispo sur : http://4kstreams.net/</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://4kstreams.net/embed/soccer4t.php</page>
+		<referer>http://4kstreams.net/embed/soccer4t.php</referer>
+	</regex>
+</item>
