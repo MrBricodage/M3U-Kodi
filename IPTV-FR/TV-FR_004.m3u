@@ -1,237 +1,335 @@
 #EXTM3U
-#EXTINF:-1,FR| TF1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/595
-#EXTINF:-1,FR| France 2 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/598
-#EXTINF:-1,FR| France 3 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/600
-#EXTINF:-1,FR| France 4 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/602
-#EXTINF:-1,FR| France 5 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/606
-#EXTINF:-1,FR| Arte 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/612
-#EXTINF:-1,FR| W9 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/613
-#EXTINF:-1,FR| TMC 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/616
-#EXTINF:-1,FR| TFX 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/618
-#EXTINF:-1,FR| LCI 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/619
-#EXTINF:-1,FR| LCP 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/620
-#EXTINF:-1,FR| Gulli 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/621
-#EXTINF:-1,FR| France O 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/627
-#EXTINF:-1,FR| TF1 Series & Films 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/630
-#EXTINF:-1,FR| AB1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/632
-#EXTINF:-1,FR| 6ter 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/634
-#EXTINF:-1,FR| RMC Decouverte 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/637
-#EXTINF:-1,FR| Cherie 25 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/640
-#EXTINF:-1,FR| Tiji 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/642
-#EXTINF:-1,FR| TV Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/643
-#EXTINF:-1,FR| C8 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/644
-#EXTINF:-1,FR| RTL 9 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/645
-#EXTINF:-1,FR| C Star 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/646
-#EXTINF:-1,FR| Teva 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/647
-#EXTINF:-1,FR| BFM TV 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/648
-#EXTINF:-1,FR| C News 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/649
-#EXTINF:-1,FR| Comedie+ 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/650
-#EXTINF:-1,FR| KTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/651
-#EXTINF:-1,FR| RTS Une 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/652
-#EXTINF:-1,FR| RTS Deux 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/654
-#EXTINF:-1,FR| Ciné FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/656
-#EXTINF:-1,FR| Ciné Polar 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/659
-#EXTINF:-1,FR| Voyage 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/662
-#EXTINF:-1,FR| Teletoon+ 1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/665
-#EXTINF:-1,FR| France Info 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/667
-#EXTINF:-1,FR| Nickelodeon 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/671
-#EXTINF:-1,FR| Disney+ HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/680
-#EXTINF:-1,FR| Disney Junior 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/683
-#EXTINF:-1,FR| Piwi 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/686
-#EXTINF:-1,FR| Ushuaia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/688
-#EXTINF:-1,FR| Paris Premiere 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/690
-#EXTINF:-1,FR| TV5 Monde 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/693
-#EXTINF:-1,FR| RTL TVI 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/696
-#EXTINF:-1,FR| Plug RTL 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/699
-#EXTINF:-1,FR| AB3 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/708
-#EXTINF:-1,FR| Euronews 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/711
-#EXTINF:-1,FR| France 24 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/713
-#EXTINF:-1,FR| Disney Channel 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/716
-#EXTINF:-1,FR| Disney XD 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/718
-#EXTINF:-1,FR| Mangas 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/719
-#EXTINF:-1,FR| Cartoon Network 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/720
-#EXTINF:-1,FR| Trek
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/722
-#EXTINF:-1,FR| Viceland 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/723
-#EXTINF:-1,FR| Boomerang 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/724
-#EXTINF:-1,FR| M6 Music 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/725
-#EXTINF:-1,FR| MTV 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/726
-#EXTINF:-1,FR| MTV Hits 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/727
-#EXTINF:-1,FR| NRJ12 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/728
-#EXTINF:-1,FR| E! 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/729
-#EXTINF:-1,FR| Discovery 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/730
-#EXTINF:-1,FR| Discovery Science 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/731
-#EXTINF:-1,FR| Nat Geo 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/732
-#EXTINF:-1,FR| Nat Geo Wild 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/733
-#EXTINF:-1,FR| Planete+ 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/734
-#EXTINF:-1,FR| Planete+Ci 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/735
-#EXTINF:-1,FR| Planete A&E 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/736
-#EXTINF:-1,FR| Toute L.history 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/737
-#EXTINF:-1,FR| AB Explore 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/741
-#EXTINF:-1,FR| Crime District 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/743
-#EXTINF:-1,FR| Animaux 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/745
-#EXTINF:-1,FR| Gong 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/747
-#EXTINF:-1,FR| Chasse & Peche 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/749
-#EXTINF:-1,FR| Science & Vie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/750
-#EXTINF:-1,FR| M6 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/609
-#EXTINF:-1,FR| Game One 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/623
-#EXTINF:-1,FR| OCS Choc 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/779
-#EXTINF:-1,FR| OCS City 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/780
-#EXTINF:-1,FR| OCS Géants 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/781
-#EXTINF:-1,FR| OCS Max 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/782
-#EXTINF:-1,FR| 13éme Rue 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/783
-#EXTINF:-1,FR| SyFy 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/784
-#EXTINF:-1,FR| Serie Club 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/785
-#EXTINF:-1,FR| Action 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/786
-#EXTINF:-1,FR| Equidia Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/787
-#EXTINF:-1,FR| Téléfoot Stadium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/788
-#EXTINF:-1,FR| Téléfoot Stadium 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/789
-#EXTINF:-1,FR| Téléfoot Stadium 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/794
-#EXTINF:-1,FR| Téléfoot Stadium 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/796
-#EXTINF:-1,FR| Téléfoot Stadium 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/799
-#EXTINF:-1,FR| Téléfoot Stadium 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/801
-#EXTINF:-1,FR| Téléfoot Stadium 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/802
-#EXTINF:-1,FR| Téléfoot Stadium 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/803
-#EXTINF:-1,FR| Téléfoot Stadium 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/804
-#EXTINF:-1,FR| beIN Sports 1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/805
-#EXTINF:-1,FR| beIN Sports 2 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/806
-#EXTINF:-1,FR| beIN Sports 3 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/807
-#EXTINF:-1,FR| beIN Sport Max 4 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/809
-#EXTINF:-1,FR| beIN Sport Max 5 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/811
-#EXTINF:-1,FR| beIN Sport Max 6 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/814
-#EXTINF:-1,FR| beIN Sport Max 7 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/816
-#EXTINF:-1,FR| beIN Sport Max 8 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/819
-#EXTINF:-1,FR| Bein Sports Max 9 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/822
-#EXTINF:-1,FR| Bein Sports Max 10 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/824
-#EXTINF:-1,FR| BFM Business 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/827
-#EXTINF:-1,FR| Boing 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/828
-#EXTINF:-1,FR| Eurosport 1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/831
-#EXTINF:-1,FR| Automoto 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/829
-#EXTINF:-1,FR| Eurosport 2 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/832
-#EXTINF:-1,FR| Golf+ 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/835
-#EXTINF:-1,FR| L Equipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/836
-#EXTINF:-1,FR| Equidia 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/837
-#EXTINF:-1,FR| Rmc Story 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/838
-#EXTINF:-1,FR| RMC Sport 1 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/839
-#EXTINF:-1,FR| RMC Sport 2 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/840
-#EXTINF:-1,FR| RMC Sport 3 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/841
-#EXTINF:-1,FR| Rmc Sport 4 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/842
-#EXTINF:-1,FR| El Heddaf TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/14223
-#EXTINF:-1,FR| France 24 Arabic 4K+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/14229
+#EXTINF:-1,FR: W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/103
+#EXTINF:-1,FR: VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/104
+#EXTINF:-1,FR: VH1 CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/105
+#EXTINF:-1,FR: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/106
+#EXTINF:-1,FR: MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/107
+#EXTINF:-1,FR: USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/108
+#EXTINF:-1,FR: TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/109
+#EXTINF:-1,FR: TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/110
+#EXTINF:-1,FR: TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/111
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/112
+#EXTINF:-1,FR: TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/113
+#EXTINF:-1,FR: TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/114
+#EXTINF:-1,FR: TIJI  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/115
+#EXTINF:-1,FR: TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/116
+#EXTINF:-1,FR: TF1 SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/117
+#EXTINF:-1,FR: TF1 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/118
+#EXTINF:-1,FR: TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/119
+#EXTINF:-1,FR: TELLETON+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/120
+#EXTINF:-1,FR: TCM CINIMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/121
+#EXTINF:-1,FR: SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/122
+#EXTINF:-1,FR: SEASON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/123
+#EXTINF:-1,FR: SCIENCE VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/124
+#EXTINF:-1,FR: RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/125
+#EXTINF:-1,FR: RTS DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/126
+#EXTINF:-1,FR: RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/127
+#EXTINF:-1,FR: RMC Sport Live 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/128
+#EXTINF:-1,FR: RMC Sport Live 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/129
+#EXTINF:-1,FR: RMC Sport Live 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/130
+#EXTINF:-1,FR: RMC Sport Live 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/131
+#EXTINF:-1,FR: RMC Sport Live 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/132
+#EXTINF:-1,FR: RMC Sport Live 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/133
+#EXTINF:-1,FR: RMC Sport Live 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/134
+#EXTINF:-1,FR: RMC Sport Live 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/135
+#EXTINF:-1,FR: RMC Sport Live 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/136
+#EXTINF:-1,FR: RMC Sport Live 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/137
+#EXTINF:-1,FR: RMC SPORT ACCESS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/138
+#EXTINF:-1,FR: RMC SPORT ACCESS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/139
+#EXTINF:-1,FR: RMC SPORT ACCESS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/140
+#EXTINF:-1,FR: RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/141
+#EXTINF:-1,FR: RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/142
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/143
+#EXTINF:-1,FR: beIN SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/220
+#EXTINF:-1,FR: beIN SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/221
+#EXTINF:-1,FR: beIN SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/222
+#EXTINF:-1,FR: BeIN Sports MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/223
+#EXTINF:-1,FR: BeIN Sports MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/224
+#EXTINF:-1,FR: BeIN Sports MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/225
+#EXTINF:-1,FR: BeIN Sports MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/226
+#EXTINF:-1,FR: BeIN Sports MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/227
+#EXTINF:-1,FR: BeIN Sports MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/228
+#EXTINF:-1,FR: BeIN Sports MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/229
+#EXTINF:-1,FR: RFM TV MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/144
+#EXTINF:-1,FR: PLANETTE CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/145
+#EXTINF:-1,FR: PLANETE  A E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/146
+#EXTINF:-1,FR: PIWI   HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/147
+#EXTINF:-1,FR: PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/148
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/149
+#EXTINF:-1,FR: OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/150
+#EXTINF:-1,FR: OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/151
+#EXTINF:-1,FR: OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/152
+#EXTINF:-1,FR: OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/153
+#EXTINF:-1,FR: NICKELODEON JUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/154
+#EXTINF:-1,FR: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/155
+#EXTINF:-1,FR: NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/156
+#EXTINF:-1,FR: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/157
+#EXTINF:-1,FR: MY CUISINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/158
+#EXTINF:-1,FR: MOTORSPORT.TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/159
+#EXTINF:-1,FR: MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/160
+#EXTINF:-1,FR: MEZZO FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/161
+#EXTINF:-1,FR: MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/162
+#EXTINF:-1,FR: MCM  TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/163
+#EXTINF:-1,FR: MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/164
+#EXTINF:-1,FR: M6 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/165
+#EXTINF:-1,FR: LCP 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/166
+#EXTINF:-1,FR: LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/167
+#EXTINF:-1,FR: L'EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/168
+#EXTINF:-1,FR: HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/169
+#EXTINF:-1,FR: GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/170
+#EXTINF:-1,FR: GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/171
+#EXTINF:-1,FR: GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/172
+#EXTINF:-1,FR: GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/173
+#EXTINF:-1,FR: FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/174
+#EXTINF:-1,FR: FRANCE 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/175
+#EXTINF:-1,FR: FRANCE 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/176
+#EXTINF:-1,FR: FRANCE 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/177
+#EXTINF:-1,FR: FRANCE 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/178
+#EXTINF:-1,FR: FRANCE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/179
+#EXTINF:-1,FR: EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/180
+#EXTINF:-1,FR: E ENTERTAINEMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/181
+#EXTINF:-1,FR: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/182
+#EXTINF:-1,FR: BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/183
+#EXTINF:-1,FR: DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/184
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/185
+#EXTINF:-1,FR: DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/186
+#EXTINF:-1,FR: DISCOVERY SCi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/188
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/189
+#EXTINF:-1,FR: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/190
+#EXTINF:-1,FR: DISCOVERY FAMLIY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/191
+#EXTINF:-1,FR: CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/192
+#EXTINF:-1,FR:  COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/193
+#EXTINF:-1,FR: CINE+ CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/194
+#EXTINF:-1,FR: CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/195
+#EXTINF:-1,FR: CINE+ POLAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/196
+#EXTINF:-1,FR: CINE+ FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/197
+#EXTINF:-1,FR: CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/198
+#EXTINF:-1,FR: CINE+ FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/199
+#EXTINF:-1,FR: CINE+ EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/200
+#EXTINF:-1,FR: CINE+ CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/201
+#EXTINF:-1,FR: CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/202
+#EXTINF:-1,FR: CHASSE PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/203
+#EXTINF:-1,FR: CARTON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/204
+#EXTINF:-1,FR: CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/205
+#EXTINF:-1,FR: CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/206
+#EXTINF:-1,FR: CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/207
+#EXTINF:-1,FR: CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/208
+#EXTINF:-1,FR: CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/209
+#EXTINF:-1,FR: CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/210
+#EXTINF:-1,FR: CANAL J 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/211
+#EXTINF:-1,FR: C STAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/213
+#EXTINF:-1,FR: C NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/214
+#EXTINF:-1,FR: BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/215
+#EXTINF:-1,FR: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/216
+#EXTINF:-1,FR: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/217
+#EXTINF:-1,FR: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/218
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/219
+#EXTINF:-1,FR: ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/230
+#EXTINF:-1,FR: ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/231
+#EXTINF:-1,FR: ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/232
+#EXTINF:-1,FR: AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/233
+#EXTINF:-1,FR: 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/234
+#EXTINF:-1,FR: 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/235
+#EXTINF:-1,FR:  NRJ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/236
+#EXTINF:-1,FR: M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/237
+#EXTINF:-1,FR: FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/238
+#EXTINF:-1,FR: Francophonie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/239
+#EXTINF:-1,FR: TRACE MZIKI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/242
+#EXTINF:-1,FR: TVPI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/243
+#EXTINF:-1,FR: TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/244
+#EXTINF:-1,FR: BOSS MOVIES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3760
+#EXTINF:-1,FR: BOSS MOVIES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3761
+#EXTINF:-1,FR: BOSS MOVIES 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3762
+#EXTINF:-1,FR: BOSS MOVIES 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3763
+#EXTINF:-1,FR: BOSS MOVIES 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3764
+#EXTINF:-1,FR: BOSS MOVIES 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3765
+#EXTINF:-1,FR: BOSS MOVIES 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3766
+#EXTINF:-1,FR: BOSS MOVIES 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3767
+#EXTINF:-1,FR: BOSS MOVIES 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3768
+#EXTINF:-1,FR: BOX OFFICE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3769
+#EXTINF:-1,FR: BOX OFFICE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3770
+#EXTINF:-1,FR: BOX OFFICE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3771
+#EXTINF:-1,FR: BOX OFFICE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3772
+#EXTINF:-1,FR: BOX OFFICE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3773
+#EXTINF:-1,FR: BOX OFFICE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3774
+#EXTINF:-1,FR: BOX OFFICE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3775
+#EXTINF:-1,FR: BOX OFFICE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3776
+#EXTINF:-1,FR: BOX OFFICE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3777
+#EXTINF:-1,FR: BOX OFFICE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3778
+#EXTINF:-1,FR: BOX OFFICE 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3779
+#EXTINF:-1,FR: BOX OFFICE 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3780
+#EXTINF:-1,FR: BOX OFFICE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3781
+#EXTINF:-1,FR: BOX OFFICE 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3782
+#EXTINF:-1,FR: BOX OFFICE 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3783
+#EXTINF:-1,FR: BOX OFFICE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3784
+#EXTINF:-1,FR: BOX OFFICE ANIMATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3785
+#EXTINF:-1,FR: BOX OFFICE CRIME-DRAME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3787
+#EXTINF:-1,FR: BOX OFFICE HORREUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3788
+#EXTINF:-1,FR: BOX OFFICE ROMANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://epiciptvrestreamer.com:8000/tonio/tonio/3789
