@@ -1,45 +1,49 @@
 #EXTM3U
-#EXTINF:-1,SPORTS : SPORTS 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66772.ts
-#EXTINF:-1,SPORTS : SPORTS 10 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66781.ts
-#EXTINF:-1,SPORTS : SPORTS 11 (ENG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66782.ts
-#EXTINF:-1,SPORTS : SPORTS 12 (ENG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66783.ts
-#EXTINF:-1,SPORTS : SPORTS 13 (ENG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66784.ts
-#EXTINF:-1,SPORTS : SPORTS 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66773.ts
-#EXTINF:-1,SPORTS : SPORTS 3 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66774.ts
-#EXTINF:-1,SPORTS : SPORTS 4 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66775.ts
-#EXTINF:-1,SPORTS : SPORTS 5 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66776.ts
-#EXTINF:-1,SPORTS : SPORTS 6 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66777.ts
-#EXTINF:-1,SPORTS : SPORTS 7 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66778.ts
-#EXTINF:-1,SPORTS : SPORTS 8 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66779.ts
-#EXTINF:-1,SPORTS : SPORTS 9 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66780.ts
-#EXTINF:-1,SPORTS : SPORTS USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/66771.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99459.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99460.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99461.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99462.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99463.ts
-#EXTINF:-1,SPORTS : SPORT KLUB 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99464.ts
-#EXTINF:-1,SPORTS : TIVIBU SPOR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99802.ts
-#EXTINF:-1,SPORTS : TIVIBU SPOR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mags.vip:2086/live/miriam/miriam123/99803.ts
+#EXTINF:-1,UK: BT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049556
+#EXTINF:-1,UK: BT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049555
+#EXTINF:-1,UK: PREMIER SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049554
+#EXTINF:-1,UK: SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049553
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049552
+#EXTINF:-1,DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049574
+#EXTINF:-1,DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049573
+#EXTINF:-1,DE: SKY SPORT BUDESLIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10049572
+#EXTINF:-1,PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052995
+#EXTINF:-1,PT: SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052994
+#EXTINF:-1,PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052993
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052992
+#EXTINF:-1,PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052991
+#EXTINF:-1,PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052990
+#EXTINF:-1,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052989
+#EXTINF:-1,PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052988
+#EXTINF:-1,PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052987
+#EXTINF:-1,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052986
+#EXTINF:-1,PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052985
+#EXTINF:-1,PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052984
+#EXTINF:-1,PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052983
+#EXTINF:-1,PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052982
+#EXTINF:-1,PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052981
+#EXTINF:-1,PT: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.181.162.109:80/netocsc/at6XdGsRok/10052980

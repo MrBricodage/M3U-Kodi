@@ -1,21 +1,69 @@
 #EXTM3U
-#EXTINF:-1,SPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5658
-#EXTINF:-1,SPORT 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/37619
-#EXTINF:-1,SPORT 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5656
-#EXTINF:-1,SPORT 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5655
-#EXTINF:-1,SPORT 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5654
-#EXTINF:-1,SPORT 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5653
-#EXTINF:-1,SPORT 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5652
-#EXTINF:-1,SPORT 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5651
-#EXTINF:-1,SPORT 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5650
-#EXTINF:-1,SPORT 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dimapro.cz:8080/D4:CF:F9:09:23:78/GtvsuptvO00aetorando/5649
+#EXTINF:-1,SuperSport Variety 1 HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678020
+#EXTINF:-1,SuperSport Variety 2 HD AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678021
+#EXTINF:-1,SuperSport Variety 3 HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678022
+#EXTINF:-1,SuperSport Variety 4 HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678023
+#EXTINF:-1,SuperSport Football HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678024
+#EXTINF:-1,SuperSport Action FHD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683568
+#EXTINF:-1,SuperSport Motorsport HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678025
+#EXTINF:-1,SuperSport Rugby HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678026
+#EXTINF:-1,SuperSport Tennis HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678027
+#EXTINF:-1,SuperSport Golf HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678028
+#EXTINF:-1,SuperSport Premier League HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678029
+#EXTINF:-1,SuperSport La Liga HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683001
+#EXTINF:-1,SuperSport PSL HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678030
+#EXTINF:-1,SuperSport Grandstand HD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678031
+#EXTINF:-1,SuperSport Maximo HD AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682919
+#EXTINF:-1,SuperSport Blitz FHD VIP AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682921
+#EXTINF:-1,TRT Spor 1 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683139
+#EXTINF:-1,TRT Spor 2 FHD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683140
+#EXTINF:-1,Tivibuspor 2 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678942
+#EXTINF:-1,Tivibuspor 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5439
+#EXTINF:-1,Tivibuspor 3 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682980
+#EXTINF:-1,Smart Sport 1 HD TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5446
+#EXTINF:-1,Real Madrid TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5402
+#EXTINF:-1,Digi Sport 1 FHD RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5454
+#EXTINF:-1,Digi Sport 2 HD RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5453
+#EXTINF:-1,Digi Sport 3 HD RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5452
+#EXTINF:-1,Digi Sport 4 HD RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682989
+#EXTINF:-1,Sport Klub HD 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/625227
+#EXTINF:-1,Sport Klub HD 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/7088
+#EXTINF:-1, Sport Klub HD 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/7087
+#EXTINF:-1,Sport Klub FHD 1 RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/53164
+#EXTINF:-1,Sport Klub FHD 2 RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5444
+#EXTINF:-1,Sport Klub HD 3 RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5443
+#EXTINF:-1,Ziggo Sport Votball HD NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5392
