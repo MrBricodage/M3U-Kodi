@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1,Star TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Showmax 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1,TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT AVAZ
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1,EUROSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1,ON4 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1,TRT HABER alt2
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Akit TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,TRT TÜRK
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Haber 61 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:-1,Tele 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+#EXTINF:-1,KRT (FHD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1,Ulusal Kanal (720)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
+#EXTINF:-1,ON Medya Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
+#EXTINF:-1,ON4 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
+#EXTINF:-1,REHBER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
+#EXTINF:-1,Finanstürk TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1,KUDÜS TV
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1,AA Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:-1,GS TV Galatasaray
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,Briç ve Satranç TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1,KRAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,KRAL POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,POWER TV alt2
+https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1,POWERTÜRK TV alt2
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1,Number 1 Türk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1,Number 1 Damar
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1,Number 1 Aşk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1,Number 1 Dance
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1,Radyo Kulüp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1,Damar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1,LALEGÜL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1,Mesaj TV
+https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+#EXTINF:-1,Çiftçi TV
+https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:-1,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+#EXTINF:-1,TLC Türkiye
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.ltur.m3u8
+#EXTINF:-1,TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Brüksel Türk TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
+#EXTINF:-1,Elit TV İsviçre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:-1,BLUTV Aksiyon
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1,BLUTV KOMEDI
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1,Güneş TV Kibris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+#EXTINF:-1,NHT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
+#EXTINF:-1,BRT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1,BRT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:-1,Kanal T FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:-1,Kibris TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1,Kibris TV
+https://play.kibrisfm.com/hls/canli1.m3u8
+#EXTINF:-1,Genç TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1,TV 2020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+#EXTINF:-1,Sim TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:-1,Ada TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1,AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:-1,ALANYA ATV
+https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
+#EXTINF:-1,Alanya Posta TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:-1,Berat TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1,Beşiktaş Belediyesi Web TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1,Bizim Atürk TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:-1,Bodrum Belediyesi Web TV
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+#EXTINF:-1,Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:-1,ÇANAKKALE TON TV
+https://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:-1,ÇAY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream2.taksimbilisim.com:1935/caytv/smil:caytv.smil/iptvdelisi.m3u8
+#EXTINF:-1,Deniz Haber TV
+https://s01.vpis.io/denizhaber/denizhaber.m3u8
+#EXTINF:-1,Dersim 62 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1,DIM TV Alanya
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1,Doğuş TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/dogustv/dogustv.m3u8
+#EXTINF:-1,DRT DENIZLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/iptvdelisi.m3u8
+#EXTINF:-1,Ege TV
+https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1,ERT Şah TV Erzincan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+#EXTINF:-1,Finest TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1,FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,KANAL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
+#EXTINF:-1,KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+#EXTINF:-1,KANAL 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1,KANAL 33 alt.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
+#EXTINF:-1,KANAL 34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1,KANAL 34 alt.
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1,KANAL 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1,KANAL 101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/kanal101/kanal101.m3u8
+#EXTINF:-1,Kanal Artvin
+https://5be5d840359c6.streamlock.net/kanalartvin/kanalartvin/chunklist.m3u8
+#EXTINF:-1,KANAL B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1,KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1,KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+#EXTINF:-1,Kardelen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1,LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1,MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1,OGÜN TV
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1,ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1,Royal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1,Sakarya TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/sakaryatelevizyonu/sakaryatelevizyonu.m3u8
+#EXTINF:-1,Sariyer TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1,Sinop Yildiz TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1,TRT Eba TV İlkokul
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Eba TV Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Eba TV Lise
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT KURDI
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TV A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://broadcasttr.com:1935/tva/bant1/iptvdelisi.m3u8
+#EXTINF:-1,TV 41
+https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+#EXTINF:-1,TV 52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:-1,TV 52 alt2
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1,TV DEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1,Uçankuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,Üniversite TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1,ÜÜ TV Üsküdar Üniversitesi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
+#EXTINF:-1,VIZYON 58 TV
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1,Yeşilyurt TV
+https://waw1.artiyerelmedya.net/yesilyurttv/bant1/playlist.m3u8

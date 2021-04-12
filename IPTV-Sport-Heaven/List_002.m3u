@@ -1,15 +1,267 @@
 #EXTM3U
-#EXTINF:-1,Super sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/149
-#EXTINF:-1,Super sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/5
-#EXTINF:-1,Super sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/6
-#EXTINF:-1,Tring sport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/78
-#EXTINF:-1,Sport klub 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/88
-#EXTINF:-1,Sport klub 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/107
-#EXTINF:-1,Arena sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.158.144.144:25461/Smartiptvmettvifalas/1NLvChM12b/108
+#EXTINF:-1,AU: FOX SPORTS 501 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167740.m3u8
+#EXTINF:-1,AU: FOX SPORTS 502 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167741.m3u8
+#EXTINF:-1,AU: FOX SPORTS 503 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167742.m3u8
+#EXTINF:-1,AU: FOX SPORTS 504 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167743.m3u8
+#EXTINF:-1,AU: FOX SPORTS 505 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167744.m3u8
+#EXTINF:-1,AU: FOX SPORTS 506 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167745.m3u8
+#EXTINF:-1,AU: FOX SPORTS News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167746.m3u8
+#EXTINF:-1,AU: ORF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167747.m3u8
+#EXTINF:-1,AU: ORF 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167748.m3u8
+#EXTINF:-1,AU: ORF 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167749.m3u8
+#EXTINF:-1,AU: ORF Sport +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167750.m3u8
+#EXTINF:-1,AU: Racing.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167751.m3u8
+#EXTINF:-1,AU: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167752.m3u8
+#EXTINF:-1,PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167763.m3u8
+#EXTINF:-1,PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167764.m3u8
+#EXTINF:-1,PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167765.m3u8
+#EXTINF:-1,PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167766.m3u8
+#EXTINF:-1,PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167767.m3u8
+#EXTINF:-1,PT: SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167768.m3u8
+#EXTINF:-1,EX-YU: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167769.m3u8
+#EXTINF:-1,EX-YU: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167770.m3u8
+#EXTINF:-1,EX-YU: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167771.m3u8
+#EXTINF:-1,RMC_Sport_01_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167772.m3u8
+#EXTINF:-1,RMC_Sport_02_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167773.m3u8
+#EXTINF:-1,RMC_Sport_03_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167774.m3u8
+#EXTINF:-1,RMC_SPORT_04_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167775.m3u8
+#EXTINF:-1,RMC_SPORT_LIVE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167776.m3u8
+#EXTINF:-1,RMC_SPORT_LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167777.m3u8
+#EXTINF:-1,RMC_SPORT_LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167778.m3u8
+#EXTINF:-1,DIGI Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167779.m3u8
+#EXTINF:-1,DIGI Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167780.m3u8
+#EXTINF:-1,DIGI Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167781.m3u8
+#EXTINF:-1,DIGI Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167782.m3u8
+#EXTINF:-1,SPARK 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167783.m3u8
+#EXTINF:-1,SPARK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167784.m3u8
+#EXTINF:-1,SPARK 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167785.m3u8
+#EXTINF:-1,SPARK 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167786.m3u8
+#EXTINF:-1,SPARK 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167787.m3u8
+#EXTINF:-1,SPARK 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167788.m3u8
+#EXTINF:-1,SPARK 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167789.m3u8
+#EXTINF:-1,SPARK 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167790.m3u8
+#EXTINF:-1,SPARK 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167791.m3u8
+#EXTINF:-1,SPARK 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167792.m3u8
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167793.m3u8
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167794.m3u8
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167795.m3u8
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167796.m3u8
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167797.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167798.m3u8
+#EXTINF:-1,Sportsnet East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167799.m3u8
+#EXTINF:-1,Sportsnet ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167800.m3u8
+#EXTINF:-1,Sportsnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167801.m3u8
+#EXTINF:-1,Sportsnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167802.m3u8
+#EXTINF:-1,Sportsnet West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167803.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167804.m3u8
+#EXTINF:-1,SPORTSNET NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167805.m3u8
+#EXTINF:-1,NBCSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167806.m3u8
+#EXTINF:-1,OTE Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167807.m3u8
+#EXTINF:-1,OTE Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167808.m3u8
+#EXTINF:-1,OTE  Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167809.m3u8
+#EXTINF:-1,OTE  Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167810.m3u8
+#EXTINF:-1,OTE  Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167811.m3u8
+#EXTINF:-1,OTE  Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167812.m3u8
+#EXTINF:-1,OTE  Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167813.m3u8
+#EXTINF:-1,OTE  Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167814.m3u8
+#EXTINF:-1,OTE  Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167815.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167816.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167817.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167818.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167819.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167820.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167821.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167822.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167823.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167824.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167825.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167840.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167841.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 3 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167842.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 4 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167843.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 5 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167844.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 6 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167845.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 7 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167846.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 8 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167847.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 9 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167848.m3u8
+#EXTINF:-1,Germany- Sky Sport Bundesliga 10 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167849.m3u8
+#EXTINF:-1,USA: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167856.m3u8
+#EXTINF:-1,NEW USA: ESPN FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167857.m3u8
+#EXTINF:-1,NEW USA: ESPN 2 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167858.m3u8
+#EXTINF:-1,NEW USA: ESPN NEWS FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167859.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167860.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167861.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167862.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167863.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167867.m3u8
+#EXTINF:-1,SPORT KLUB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167868.m3u8
+#EXTINF:-1,SPORT KLUB 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167869.m3u8
+#EXTINF:-1,SPORT KLUB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167870.m3u8
+#EXTINF:-1,SPORT KLUB 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167871.m3u8
+#EXTINF:-1,SPORT KLUB 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167872.m3u8
+#EXTINF:-1,SPORT KLUB 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167873.m3u8
+#EXTINF:-1,IN: TEN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167876.m3u8
+#EXTINF:-1,IN: TEN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167877.m3u8
+#EXTINF:-1,IN: TEN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167878.m3u8
+#EXTINF:-1,IN: TEN CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167879.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167880.m3u8
+#EXTINF:-1,IN: STAR SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167881.m3u8
+#EXTINF:-1,IN: STAR SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167882.m3u8
+#EXTINF:-1,IN: STAR SPORTS Select 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167883.m3u8
+#EXTINF:-1,IN: STAR SPORTS Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167884.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167885.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167886.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167887.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167888.m3u8
+#EXTINF:-1,Betfred TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172304.m3u8
+#EXTINF:-1,Coral TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172305.m3u8
+#EXTINF:-1,Coral TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172306.m3u8
+#EXTINF:-1,Ladbrokes TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172307.m3u8
+#EXTINF:-1,Ladbrokes TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172308.m3u8
+#EXTINF:-1,Ladbrokes TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172309.m3u8
+#EXTINF:-1,Paddy Power TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172310.m3u8
+#EXTINF:-1,Paddy Power TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172311.m3u8
+#EXTINF:-1,Paddy Power TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172312.m3u8
+#EXTINF:-1,Racing.Com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172313.m3u8
+#EXTINF:-1,SIS One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172314.m3u8
+#EXTINF:-1,SIS Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172315.m3u8
+#EXTINF:-1,SIS Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172316.m3u8
+#EXTINF:-1,William Hill TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172317.m3u8
+#EXTINF:-1,William Hill TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172318.m3u8
+#EXTINF:-1,William Hill BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/172319.m3u8

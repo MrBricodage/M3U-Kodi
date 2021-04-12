@@ -1,49 +1,177 @@
 #EXTM3U
-#EXTINF:-1,AF | SUPERSPORT 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189587
-#EXTINF:-1,AF | SUPERSPORT 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189588
-#EXTINF:-1,AF | SUPERSPORT 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189589
-#EXTINF:-1,AF | SUPERSPORT 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189590
-#EXTINF:-1,AF | SUPERSPORT 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189591
-#EXTINF:-1,AF | SUPERSPORT 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189592
-#EXTINF:-1,AF | SUPERSPORT 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189593
-#EXTINF:-1,AF | SUPERSPORT 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189594
-#EXTINF:-1,AF | SUPERSPORT 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189595
-#EXTINF:-1,AF | SUPERSPORT 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189596
-#EXTINF:-1,AF | SUPERSPORT 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189597
-#EXTINF:-1,AF | SUPERSPORT 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189598
-#EXTINF:-1,AF | SUPERSPORT ACTION |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189599
-#EXTINF:-1,AF | SUPERSPORT BLITZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189600
-#EXTINF:-1,AF | SUPERSPORT CRICKET |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189601
-#EXTINF:-1,AF | SUPERSPORT FOOTBALL |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189602
-#EXTINF:-1,AF | SUPERSPORT GRANDSTAND |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189603
-#EXTINF:-1,AF | SUPERSPORT LA LIGA |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189604
-#EXTINF:-1,AF | SUPERSPORT PREMIER LEAGUE |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189605
-#EXTINF:-1,AF | SUPERSPORT PSL |
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189606
-#EXTINF:-1,AF | SUPERSPORT RUGBY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189607
-#EXTINF:-1,AF | SUPERSPORT VARIETY 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189608
-#EXTINF:-1,AF | SUPERSPORT VARIETY 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189609
-#EXTINF:-1,AF | SUPERSPORT VARIETY 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ajstreamz.xyz:8080/Constance/constance/189610
+#EXTINF:-1,DIGI Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167779.ts
+#EXTINF:-1,DIGI Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167780.ts
+#EXTINF:-1,DIGI Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167781.ts
+#EXTINF:-1,DIGI Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167782.ts
+#EXTINF:-1,SPARK 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167783.ts
+#EXTINF:-1,SPARK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167784.ts
+#EXTINF:-1,SPARK 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167785.ts
+#EXTINF:-1,SPARK 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167786.ts
+#EXTINF:-1,SPARK 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167787.ts
+#EXTINF:-1,SPARK 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167788.ts
+#EXTINF:-1,SPARK 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167789.ts
+#EXTINF:-1,SPARK 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167790.ts
+#EXTINF:-1,SPARK 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167791.ts
+#EXTINF:-1,SPARK 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167792.ts
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167793.ts
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167794.ts
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167795.ts
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167796.ts
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167797.ts
+#EXTINF:-1,Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167798.ts
+#EXTINF:-1,Sportsnet East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167799.ts
+#EXTINF:-1,Sportsnet ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167800.ts
+#EXTINF:-1,Sportsnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167801.ts
+#EXTINF:-1,Sportsnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167802.ts
+#EXTINF:-1,Sportsnet West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167803.ts
+#EXTINF:-1,SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167804.ts
+#EXTINF:-1,SPORTSNET NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167805.ts
+#EXTINF:-1,NBCSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167806.ts
+#EXTINF:-1,OTE Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167807.ts
+#EXTINF:-1,OTE Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167808.ts
+#EXTINF:-1,OTE  Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167809.ts
+#EXTINF:-1,OTE  Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167810.ts
+#EXTINF:-1,OTE  Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167811.ts
+#EXTINF:-1,OTE  Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167812.ts
+#EXTINF:-1,OTE  Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167813.ts
+#EXTINF:-1,OTE  Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167814.ts
+#EXTINF:-1,OTE  Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167815.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167816.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167817.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167818.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167819.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167820.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167821.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167822.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167823.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167824.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167825.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167840.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167841.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 3 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167842.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 4 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167843.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 5 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167844.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 6 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167845.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 7 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167846.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 8 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167847.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 9 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167848.ts
+#EXTINF:-1,Germany- Sky Sport Bundesliga 10 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167849.ts
+#EXTINF:-1,USA: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167856.ts
+#EXTINF:-1,NEW USA: ESPN FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167857.ts
+#EXTINF:-1,NEW USA: ESPN 2 FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167858.ts
+#EXTINF:-1,NEW USA: ESPN NEWS FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167859.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167860.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167861.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167862.ts
+#EXTINF:-1,MY: ASTRO SUPERSPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167863.ts
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167864.ts
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167865.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167866.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167867.ts
+#EXTINF:-1,SPORT KLUB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167868.ts
+#EXTINF:-1,SPORT KLUB 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167869.ts
+#EXTINF:-1,SPORT KLUB 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167870.ts
+#EXTINF:-1,SPORT KLUB 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167871.ts
+#EXTINF:-1,SPORT KLUB 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167872.ts
+#EXTINF:-1,SPORT KLUB 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167873.ts
+#EXTINF:-1,IN: TEN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167876.ts
+#EXTINF:-1,IN: TEN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167877.ts
+#EXTINF:-1,IN: TEN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167878.ts
+#EXTINF:-1,IN: TEN CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167879.ts
+#EXTINF:-1,IN: STAR SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167880.ts
+#EXTINF:-1,IN: STAR SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167881.ts
+#EXTINF:-1,IN: STAR SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167882.ts
+#EXTINF:-1,IN: STAR SPORTS Select 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167883.ts
+#EXTINF:-1,IN: STAR SPORTS Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167884.ts
+#EXTINF:-1,RO: TELEKOM SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167885.ts
+#EXTINF:-1,RO: TELEKOM SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167886.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167887.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/trevor/trevor/167888.ts

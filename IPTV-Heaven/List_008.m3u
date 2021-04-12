@@ -1,423 +1,391 @@
 #EXTM3U
-#EXTINF:-1,US: 5 STARMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/35375
-#EXTINF:-1,US: ACTIONMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22475
-#EXTINF:-1,US: CINEMAX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22476
-#EXTINF:-1,US: CINEMAX WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22477
-#EXTINF:-1,US: OUTERMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22479
-#EXTINF:-1,US: MOREMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22478
-#EXTINF:-1,US: THRILLERMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22480
-#EXTINF:-1,US: EPIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22512
-#EXTINF:-1,US: EPIX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45181
-#EXTINF:-1,US: EPIX DRIVE-IN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22513
-#EXTINF:-1,US: EPIX HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22514
-#EXTINF:-1,US: HBO EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22539
-#EXTINF:-1,US: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/29149
-#EXTINF:-1,US: HBO COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22538
-#EXTINF:-1,US: HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22540
-#EXTINF:-1,US: HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22541
-#EXTINF:-1,US: HBO MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704873
-#EXTINF:-1,US: HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/36172
-#EXTINF:-1,US: HBO WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22542
-#EXTINF:-1,US: HBO ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22543
-#EXTINF:-1,US: HDNET MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22544
-#EXTINF:-1,US: MOVIE-PLEX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45184
-#EXTINF:-1,US: INDIE PLEX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45183
-#EXTINF:-1,US: RETRO PLEX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/24449
-#EXTINF:-1,US: SHOWTIME EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22599
-#EXTINF:-1,US: SHOWTIME WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22600
-#EXTINF:-1,US: SHOWTIME SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22601
-#EXTINF:-1,US: SHOWTIME EXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22602
-#EXTINF:-1,US: SHOWTIME FAMILY ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22603
-#EXTINF:-1,US: SHOWTIME NEXT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22604
-#EXTINF:-1,US: SHOWTIME WOMEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22606
-#EXTINF:-1,US: STARZ EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22611
-#EXTINF:-1,US: STARZ WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22612
-#EXTINF:-1,US: STARZ COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22613
-#EXTINF:-1,US: STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22614
-#EXTINF:-1,US: STARZENCORE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/708191
-#EXTINF:-1,US: Starz Encore West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/708192
-#EXTINF:-1,US: STARZENCORE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22618
-#EXTINF:-1,US: STARZ ENCORE CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22619
-#EXTINF:-1,US: STARZ ENCORE FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22620
-#EXTINF:-1,US: STARZENCORE SUSPENSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22621
-#EXTINF:-1,US: STARZENCORE WESTERNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22622
-#EXTINF:-1,US: STARZ IN BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22615
-#EXTINF:-1,US: STARZ KIDS & FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/35376
-#EXTINF:-1,US: SHOWTIME BET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/34755
-#EXTINF:-1,US: SHOWTIME 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/37037
-#EXTINF:-1,US: THE MOVIE CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/41777
-#EXTINF:-1,US: BABY FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22453
-#EXTINF:-1,US: CARTOON NETWORK EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22466
-#EXTINF:-1,US: CARTOON NETWORK WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22467
-#EXTINF:-1,US: DISNEY CHANNEL EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22502
-#EXTINF:-1,US: DISNEY CHANNEL WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22503
-#EXTINF:-1,US: DISNEY JR EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22504
-#EXTINF:-1,US: DISNEY JR WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22505
-#EXTINF:-1,US: DISNEY XD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22506
-#EXTINF:-1,US: DISNEY XD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22507
-#EXTINF:-1,US: NICK JR EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22579
-#EXTINF:-1,US: NICKELODEON EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22580
-#EXTINF:-1,US: NICK JR WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22582
-#EXTINF:-1,US: NICK MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22583
-#EXTINF:-1,US: NICKTOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22584
-#EXTINF:-1,US: PBS KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22592
-#EXTINF:-1,US: TEENNICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22630
-#EXTINF:-1,US: Nickelodeon West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45393
-#EXTINF:-1,US: WPIX PIX11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/705122
-#EXTINF:-1,US: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22440
-#EXTINF:-1,US: ABC 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22444
-#EXTINF:-1,US: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22445
-#EXTINF:-1,US: AMC PRESENTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/709666
-#EXTINF:-1,US: AMERICAN HEROES CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22446
-#EXTINF:-1,US: ANIMAL PLANET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22447
-#EXTINF:-1,US: ANTENNA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22449
-#EXTINF:-1,US: ASPIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22450
-#EXTINF:-1,US: AWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22451
-#EXTINF:-1,US: AXS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22452
-#EXTINF:-1,US: BET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22455
-#EXTINF:-1,US: BET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22456
-#EXTINF:-1,US: BET HER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22457
-#EXTINF:-1,US: BET JAMS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22458
-#EXTINF:-1,US: BET SOUL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22459
-#EXTINF:-1,US: BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22461
-#EXTINF:-1,US: BOUNCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22462
-#EXTINF:-1,US: BRAVO 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22463
-#EXTINF:-1,US: CHEDDAR BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22472
-#EXTINF:-1,US: CHEDDAR NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22473
-#EXTINF:-1,US: CMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22482
-#EXTINF:-1,US: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22483
-#EXTINF:-1,US: CNBC WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22484
-#EXTINF:-1,US: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22486
-#EXTINF:-1,US: COMET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22487
-#EXTINF:-1,US: COOKING CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22488
-#EXTINF:-1,US: COURT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45171
-#EXTINF:-1,US: COZI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22489
-#EXTINF:-1,US: CRIME AND INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/43055
-#EXTINF:-1,US: CW 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22490
-#EXTINF:-1,US: DECADES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/688734
-#EXTINF:-1,US: DESTINATION AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22495
-#EXTINF:-1,US: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22496
-#EXTINF:-1,US: DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22498
-#EXTINF:-1,US: DISCOVERY LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33379
-#EXTINF:-1,US: DISCOVERY ID 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22499
-#EXTINF:-1,US: DISCOVERY LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22501
-#EXTINF:-1,US: DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22508
-#EXTINF:-1,US: DISCOVERY VELOCITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/30361
-#EXTINF:-1,US: E! ENTERTAINMENT EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22509
-#EXTINF:-1,US: E! ENTERTAINMENT WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22510
-#EXTINF:-1,US: FOOD NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22516
-#EXTINF:-1,US: FOX BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22518
-#EXTINF:-1,US: FREEFORM 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22524
-#EXTINF:-1,US: FUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22525
-#EXTINF:-1,US: FUSION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22526
-#EXTINF:-1,US: FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22527
-#EXTINF:-1,US: FXM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22529
-#EXTINF:-1,US: FXX 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22530
-#EXTINF:-1,US: FYI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22532
-#EXTINF:-1,US: GetTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45395
-#EXTINF:-1,US: GREAT AMERICAN COUNTRY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/46947
-#EXTINF:-1,US: GRIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22533
-#EXTINF:-1,US: GSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22534
-#EXTINF:-1,US: HALLMARK DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22535
-#EXTINF:-1,US: HALLMARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22536
-#EXTINF:-1,US: HALLMARK MOVIES AND MYSTERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22537
-#EXTINF:-1,US: HEROS AND ICONS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/688325
-#EXTINF:-1,US: HGTV EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22545
-#EXTINF:-1,US: HGTV WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22546
-#EXTINF:-1,US: HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22547
-#EXTINF:-1,US: HLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22548
-#EXTINF:-1,US: HSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22549
-#EXTINF:-1,US: IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22550
-#EXTINF:-1,US: INSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/673670
-#EXTINF:-1,US: ION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45097
-#EXTINF:-1,US: INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/16800
-#EXTINF:-1,US: LAFF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/688824
-#EXTINF:-1,US: Lifetime Real Woman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/688776
-#EXTINF:-1,US: LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22554
-#EXTINF:-1,US: LOGO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/689332
-#EXTINF:-1,US: LMN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22555
-#EXTINF:-1,US: METV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22557
-#EXTINF:-1,US: MOTORTREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22558
-#EXTINF:-1,US: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22561
-#EXTINF:-1,US: MTV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22563
-#EXTINF:-1,US: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22569
-#EXTINF:-1,US: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22570
-#EXTINF:-1,US: NAUTICAL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/707618
-#EXTINF:-1,US: NASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/63368
-#EXTINF:-1,US: OUTDOOR CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22586
-#EXTINF:-1,US: OUTSIDE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22587
-#EXTINF:-1,US: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22588
-#EXTINF:-1,US: OXYGEN 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22590
-#EXTINF:-1,US: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22591
-#EXTINF:-1,US: PBS US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/46245
-#EXTINF:-1,US: POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22594
-#EXTINF:-1,US: PURSUIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22595
-#EXTINF:-1,US: REELZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22596
-#EXTINF:-1,US: REVOLT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45099
-#EXTINF:-1,US: SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22598
-#EXTINF:-1,US: SMITHSONIAN 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22607
-#EXTINF:-1,US: SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22623
-#EXTINF:-1,US: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22624
-#EXTINF:-1,US: TBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22627
-#EXTINF:-1,US: TBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22628
-#EXTINF:-1,US: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22629
-#EXTINF:-1,US: TLC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22631
-#EXTINF:-1,US: TLC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22632
-#EXTINF:-1,US: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22633
-#EXTINF:-1,US: TNT WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/41697
-#EXTINF:-1,US: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22636
-#EXTINF:-1,US: TRUTV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22637
-#EXTINF:-1,US: TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/37038
-#EXTINF:-1,US: TV ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22641
-#EXTINF:-1,US: Up TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/93286
-#EXTINF:-1,US: USA NETWORK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22643
-#EXTINF:-1,US: USA NETWORK WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22644
-#EXTINF:-1,US: VH1 EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22645
-#EXTINF:-1,US: VH1 WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22646
-#EXTINF:-1,US: VH1 CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/45647
-#EXTINF:-1,US: WE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22647
-#EXTINF:-1,US: WWE NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22650
-#EXTINF:-1,US: WGN AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22649
-#EXTINF:-1,US: WEATHER CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22648
-#EXTINF:-1,US: VICELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/30360
-#EXTINF:-1,US: RFD-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/689497
-#EXTINF:-1,US: CHARGE!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693793
-#EXTINF:-1,US: CONTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693794
-#EXTINF:-1,US: BUZZR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693795
-#EXTINF:-1,US: CMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693812
-#EXTINF:-1,US: AMG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693834
-#EXTINF:-1,US: DABL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/693843
-#EXTINF:-1,US: NEWSMAX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/710216
-#EXTINF:-1,US: NFL REDZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/687270
-#EXTINF:-1,US: NFL Network (NFLPASS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/695974
-#EXTINF:-1,US: ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/17211
-#EXTINF:-1,US: ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/17204
-#EXTINF:-1,US: CBS Sports HQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/710056
-#EXTINF:-1,US: MY9 - WWOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/687692
-#EXTINF:-1,US: Channel 10/55 New York - WLNY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/688981
-#EXTINF:-1,US: TELEMUNDO New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/690155
-#EXTINF:-1,US: ABC News Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33978
-#EXTINF:-1,US: BBC AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22454
-#EXTINF:-1,US: BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22460
-#EXTINF:-1,US: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33990
-#EXTINF:-1,US: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22485
-#EXTINF:-1,US: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22523
-#EXTINF:-1,US: HEADLINE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33991
-#EXTINF:-1,US: ONE AMERICA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22585
-#EXTINF:-1,US: INFO WARS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22551
-#EXTINF:-1,US: News 12 Brooklyn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33984
-#EXTINF:-1,US: News 12 Hudson Valley
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/33986
-#EXTINF:-1,US: MSNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22559
-#EXTINF:-1,US: C-SPAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/15565
-#EXTINF:-1,US: C-SPAN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.streamhubtv.xyz:8080/HOME1/HOME1/15567
+#EXTINF:-1,Trt 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/700.ts
+#EXTINF:-1,Trt 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/798.ts
+#EXTINF:-1,Trt 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/787.ts
+#EXTINF:-1,Trt 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/21769.ts
+#EXTINF:-1,TRT Kurdi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/694.ts
+#EXTINF:-1,Trt Diyanet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/12772.ts
+#EXTINF:-1,Trt Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/12774.ts
+#EXTINF:-1,Trt World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/12775.ts
+#EXTINF:-1,Atv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/703.ts
+#EXTINF:-1,Atv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/793.ts
+#EXTINF:-1,Atv Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4939.ts
+#EXTINF:-1,Kanal D FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/714.ts
+#EXTINF:-1,Kanal D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/791.ts
+#EXTINF:-1,Kanal D Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4940.ts
+#EXTINF:-1,A2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/726.ts
+#EXTINF:-1,Fox Tv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/709.ts
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/794.ts
+#EXTINF:-1,Star TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/724.ts
+#EXTINF:-1,Star TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/796.ts
+#EXTINF:-1,Star Tv Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4942.ts
+#EXTINF:-1,Show TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/719.ts
+#EXTINF:-1,Show TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/795.ts
+#EXTINF:-1,Show Tv Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4941.ts
+#EXTINF:-1,Tv8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/790.ts
+#EXTINF:-1,TV8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/799.ts
+#EXTINF:-1,Tv8.5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/789.ts
+#EXTINF:-1,Teve 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/669.ts
+#EXTINF:-1,Beyaz TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/693.ts
+#EXTINF:-1,Kanal 68 Aksaray
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/55085.ts
+#EXTINF:-1,Kent Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/55086.ts
+#EXTINF:-1,Edessa Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/55088.ts
+#EXTINF:-1,Semerkand Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126809.ts
+#EXTINF:-1,Akit Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126810.ts
+#EXTINF:-1,Vatan Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126811.ts
+#EXTINF:-1,Kanal 7 Avrupa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126860.ts
+#EXTINF:-1,Showmax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126861.ts
+#EXTINF:-1,TV8 Int
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/150005.ts
+#EXTINF:-1,Habitat TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/150007.ts
+#EXTINF:-1,Güneydoğu TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/150008.ts
+#EXTINF:-1,Es TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/150009.ts
+#EXTINF:-1,Çiftçi Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/151240.ts
+#EXTINF:-1,Mavi Karadeniz Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/56085.ts
+#EXTINF:-1,Tv8.5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163412.ts
+#EXTINF:-1,TV 264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163414.ts
+#EXTINF:-1,MILYON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163415.ts
+#EXTINF:-1,TBM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163416.ts
+#EXTINF:-1,ORDU ALTAS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163417.ts
+#EXTINF:-1,KANAL 68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163418.ts
+#EXTINF:-1,PAMUKKALE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163419.ts
+#EXTINF:-1,ER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163420.ts
+#EXTINF:-1,TV35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163421.ts
+#EXTINF:-1,DEHA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163422.ts
+#EXTINF:-1,TV KAYSERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163423.ts
+#EXTINF:-1,KANAL FIRAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163424.ts
+#EXTINF:-1,EGE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163425.ts
+#EXTINF:-1,YENİ KOCAELİ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163426.ts
+#EXTINF:-1,MESAJ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163427.ts
+#EXTINF:-1,KOZA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163428.ts
+#EXTINF:-1,KANAL AVRUPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163429.ts
+#EXTINF:-1,DRT DENIZLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163430.ts
+#EXTINF:-1,TEMPO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163431.ts
+#EXTINF:-1,AV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163432.ts
+#EXTINF:-1,TV 52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163433.ts
+#EXTINF:-1,KANAL URFA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163434.ts
+#EXTINF:-1,BİZİMEV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163435.ts
+#EXTINF:-1,LINE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163436.ts
+#EXTINF:-1,KANAL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163437.ts
+#EXTINF:-1,KOY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163438.ts
+#EXTINF:-1,ARB Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163441.ts
+#EXTINF:-1,Kanal V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/55090.ts
+#EXTINF:-1,On 4 Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88391.ts
+#EXTINF:-1,Kanal 42 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88501.ts
+#EXTINF:-1,Ulusal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/20927.ts
+#EXTINF:-1,Ulke TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/676.ts
+#EXTINF:-1,Halk TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/772.ts
+#EXTINF:-1,Tele 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/13268.ts
+#EXTINF:-1,Tv 100 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35531.ts
+#EXTINF:-1,TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35594.ts
+#EXTINF:-1,Trt Eba Tv ilkokul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88680.ts
+#EXTINF:-1,Trt Eba Tv Ortokul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88681.ts
+#EXTINF:-1,Trt Eba Tv Lise
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88682.ts
+#EXTINF:-1,Halk Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88872.ts
+#EXTINF:-1,Ulusal Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88873.ts
+#EXTINF:-1,Star Tv 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92336.ts
+#EXTINF:-1,Show Tv 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92337.ts
+#EXTINF:-1,Fox Tv 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92338.ts
+#EXTINF:-1,Atv 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92339.ts
+#EXTINF:-1,Kanal D 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92340.ts
+#EXTINF:-1,Tv8 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/92341.ts
+#EXTINF:-1,Trt 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/118631.ts
+#EXTINF:-1,Kanal 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/674.ts
+#EXTINF:-1,Cay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/801.ts
+#EXTINF:-1,Kon Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4938.ts
+#EXTINF:-1,Vizyon 58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163141.ts
+#EXTINF:-1,Sivas Srt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/163142.ts
+#EXTINF:-1,Ekotürk Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/691.ts
+#EXTINF:-1,Trt Arabi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175886.ts
+#EXTINF:-1,363 Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175887.ts
+#EXTINF:-1,4 Eylül Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175888.ts
+#EXTINF:-1,A Vuslat Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175889.ts
+#EXTINF:-1,Aksu Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175890.ts
+#EXTINF:-1,Beykent Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175891.ts
+#EXTINF:-1,Bitlis Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175892.ts
+#EXTINF:-1,Ekintürk Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175893.ts
+#EXTINF:-1,Güneş Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175894.ts
+#EXTINF:-1,Kadırga Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175895.ts
+#EXTINF:-1,Kanal 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175896.ts
+#EXTINF:-1,Kanal 15 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175897.ts
+#EXTINF:-1,Kanal 32 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175898.ts
+#EXTINF:-1,Kanal 33 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175899.ts
+#EXTINF:-1,Karadeniz Türk SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175900.ts
+#EXTINF:-1,Mercan Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175902.ts
+#EXTINF:-1,Meltem tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175990.ts
+#EXTINF:-1,Manisa Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175901.ts
+#EXTINF:-1,Park Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175903.ts
+#EXTINF:-1,Plus Music SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175904.ts
+#EXTINF:-1,Rehber Tv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175905.ts
+#EXTINF:-1,Tarım Türk SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/175906.ts
+#EXTINF:-1,Cem TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/731.ts
+#EXTINF:-1,Haber 61
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35330.ts
+#EXTINF:-1,Krt Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/38461.ts
+#EXTINF:-1,Dost Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35326.ts
+#EXTINF:-1,Kudus Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35328.ts
+#EXTINF:-1,Lalegül Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/35325.ts
+#EXTINF:-1,------| Müşteri Bilgilendirme |------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/1889.ts
+#EXTINF:-1,Bein Sports Hd 1 (60 Fps)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/826.ts
+#EXTINF:-1,Bein Sports Hd 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/66217.ts
+#EXTINF:-1,Bein Sports 1 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4740.ts
+#EXTINF:-1,Bein Sports 1 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4521.ts
+#EXTINF:-1,Bein Sports 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4738.ts
+#EXTINF:-1,Bein Sports Hd 1 (H265 Hevc)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/66219.ts
+#EXTINF:-1,Bein Sports 1 UHD (H265 Hevc)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/66218.ts
+#EXTINF:-1,Bein Sports 4K & Bein iztv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126863.ts
+#EXTINF:-1,Bein Sports 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/824.ts
+#EXTINF:-1,Bein Sports 2 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/9368.ts
+#EXTINF:-1,Bein Sports 3 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/823.ts
+#EXTINF:-1,Bein Sports 3 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/9369.ts
+#EXTINF:-1,Bein Sports 4 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/822.ts
+#EXTINF:-1,Bein Sports 4 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/20835.ts
+#EXTINF:-1,Bein Sports Max 1 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/820.ts
+#EXTINF:-1,Bein Sports Max 1 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/20837.ts
+#EXTINF:-1,Bein Sports Max 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/821.ts
+#EXTINF:-1,Bein Sports Max 2 Sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/20836.ts
+#EXTINF:-1,Bein Sports Haber Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/4743.ts
+#EXTINF:-1,beIN CONNECT HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/180904.ts
+#EXTINF:-1,beIN CONNECT HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/180905.ts
+#EXTINF:-1,beIN CONNECT HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/180906.ts
+#EXTINF:-1,beIN CONNECT HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/180907.ts
+#EXTINF:-1,beIN CONNECT HD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/180908.ts
+#EXTINF:-1,S Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/807.ts
+#EXTINF:-1,S Sport SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/38381.ts
+#EXTINF:-1,S Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/31421.ts
+#EXTINF:-1,D-Smart Spor 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/808.ts
+#EXTINF:-1,D-Smart Spor 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/38382.ts
+#EXTINF:-1,D-Smart EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/806.ts
+#EXTINF:-1,D-Smart EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/805.ts
+#EXTINF:-1,Tivibu Spor 1 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/812.ts
+#EXTINF:-1,Tivibu Spor 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/811.ts
+#EXTINF:-1,Tivibu Spor 3 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/810.ts
+#EXTINF:-1,Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/686.ts
+#EXTINF:-1,A Spor UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/697.ts
+#EXTINF:-1,Trt Spor 2 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/52906.ts
+#EXTINF:-1,Nba Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/817.ts
+#EXTINF:-1,Gs Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/818.ts
+#EXTINF:-1,Fb Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/687.ts
+#EXTINF:-1,Trt Spor UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/690.ts
+#EXTINF:-1,Tay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/695.ts
+#EXTINF:-1,Fast Funbox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88773.ts
+#EXTINF:-1,Fightbox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88774.ts
+#EXTINF:-1,D-Smart Spor 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126808.ts
+#EXTINF:-1,Tivibu Spor 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/126812.ts
+#EXTINF:-1,A Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/151238.ts
+#EXTINF:-1,Trt Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/151239.ts
+#EXTINF:-1,------| Haber |------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/1890.ts
+#EXTINF:-1,Trt Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/668.ts
+#EXTINF:-1,A Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/696.ts
+#EXTINF:-1,Ntv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/776.ts
+#EXTINF:-1,A Haber SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88867.ts
+#EXTINF:-1,Cnn Turk SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88868.ts
+#EXTINF:-1,Ntv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88869.ts
+#EXTINF:-1,Haberturk SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88870.ts
+#EXTINF:-1,Trt Haber SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88871.ts
+#EXTINF:-1,Haber Global SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/88874.ts
+#EXTINF:-1,TH Türk Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/128474.ts
+#EXTINF:-1,A News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/142904.ts
+#EXTINF:-1,Haber Global HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/26605.ts
+#EXTINF:-1,Cnn Turk Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/680.ts
+#EXTINF:-1,Haberturk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/683.ts
+#EXTINF:-1,Benguturk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/802.ts
+#EXTINF:-1,A Para Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/55087.ts
+#EXTINF:-1,Bloomberg HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/678.ts
+#EXTINF:-1,Haber 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/9449.ts
+#EXTINF:-1,360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/7107.ts
+#EXTINF:-1,Tgrt Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/10425.ts
+#EXTINF:-1,Uzay Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plustlc.com:8080/live/gokhan/30.03.2021/804.ts

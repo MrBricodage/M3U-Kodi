@@ -1,69 +1,365 @@
 #EXTM3U
-#EXTINF:-1,SuperSport Variety 1 HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678020
-#EXTINF:-1,SuperSport Variety 2 HD AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678021
-#EXTINF:-1,SuperSport Variety 3 HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678022
-#EXTINF:-1,SuperSport Variety 4 HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678023
-#EXTINF:-1,SuperSport Football HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678024
-#EXTINF:-1,SuperSport Action FHD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683568
-#EXTINF:-1,SuperSport Motorsport HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678025
-#EXTINF:-1,SuperSport Rugby HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678026
-#EXTINF:-1,SuperSport Tennis HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678027
-#EXTINF:-1,SuperSport Golf HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678028
-#EXTINF:-1,SuperSport Premier League HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678029
-#EXTINF:-1,SuperSport La Liga HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683001
-#EXTINF:-1,SuperSport PSL HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678030
-#EXTINF:-1,SuperSport Grandstand HD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678031
-#EXTINF:-1,SuperSport Maximo HD AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682919
-#EXTINF:-1,SuperSport Blitz FHD VIP AF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682921
-#EXTINF:-1,TRT Spor 1 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683139
-#EXTINF:-1,TRT Spor 2 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/683140
-#EXTINF:-1,Tivibuspor 2 HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/678942
-#EXTINF:-1,Tivibuspor 1 HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5439
-#EXTINF:-1,Tivibuspor 3 HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682980
-#EXTINF:-1,Smart Sport 1 HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5446
-#EXTINF:-1,Real Madrid TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5402
-#EXTINF:-1,Digi Sport 1 FHD RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5454
-#EXTINF:-1,Digi Sport 2 HD RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5453
-#EXTINF:-1,Digi Sport 3 HD RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5452
-#EXTINF:-1,Digi Sport 4 HD RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/682989
-#EXTINF:-1,Sport Klub HD 1 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/625227
-#EXTINF:-1,Sport Klub HD 2 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/7088
-#EXTINF:-1, Sport Klub HD 3 HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/7087
-#EXTINF:-1,Sport Klub FHD 1 RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/53164
-#EXTINF:-1,Sport Klub FHD 2 RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5444
-#EXTINF:-1,Sport Klub HD 3 RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5443
-#EXTINF:-1,Ziggo Sport Votball HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iprandom.com:8080/Alex/welcome3/5392
+#EXTINF:-1,ASTRO SuperSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/103185
+#EXTINF:-1,EPL: Astro SuperSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/76104
+#EXTINF:-1,ASTRO SuperSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/103186
+#EXTINF:-1,EPL: Astro SuperSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/76105
+#EXTINF:-1,ASTRO SuperSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/103187
+#EXTINF:-1,EPL: Astro SuperSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/76106
+#EXTINF:-1,ASTRO SuperSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/103188
+#EXTINF:-1,EPL: Astro SuperSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/76107
+#EXTINF:-1,Celtic TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85008
+#EXTINF:-1,ST MIRREN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85010
+#EXTINF:-1,MOTHERWELL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85011
+#EXTINF:-1,KILMARNOCK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85013
+#EXTINF:-1,HEARTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85015
+#EXTINF:-1,FALKIRK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85017
+#EXTINF:-1,DUNDEE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85022
+#EXTINF:-1,ST JOHNSTONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85026
+#EXTINF:-1,Rangers TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85032
+#EXTINF:-1,ROSS COUNTY FC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85036
+#EXTINF:-1,LIVINGSTON FC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85039
+#EXTINF:-1,DUNDEE UTD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85041
+#EXTINF:-1,ABERDEEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85042
+#EXTINF:-1,HIBS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85044
+#EXTINF:-1,ST MIRREN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85045
+#EXTINF:-1,HAMILTON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85047
+#EXTINF:-1,SuperSport Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85815
+#EXTINF:-1,SuperSport Premier League HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100049
+#EXTINF:-1,SuperSport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100044
+#EXTINF:-1,SuperSport Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85818
+#EXTINF:-1,SuperSport Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100045
+#EXTINF:-1,SuperSport Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85816
+#EXTINF:-1,SuperSport Blitz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100053
+#EXTINF:-1,SuperSport Blitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85814
+#EXTINF:-1,SuperSport Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100040
+#EXTINF:-1,SuperSport Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85817
+#EXTINF:-1,SuperSport Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100043
+#EXTINF:-1,SuperSport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85819
+#EXTINF:-1,SuperSport Granstand HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100048
+#EXTINF:-1,SuperSport Granstand
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85820
+#EXTINF:-1,SuperSport La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100051
+#EXTINF:-1,SuperSport La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85821
+#EXTINF:-1,SuperSport Maximo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100052
+#EXTINF:-1,SuperSport Maximo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85822
+#EXTINF:-1,SuperSport Motorsport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100056
+#EXTINF:-1,SuperSport Motorsport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85823
+#EXTINF:-1,SuperSport Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85824
+#EXTINF:-1,SuperSport Play HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100057
+#EXTINF:-1,SuperSport PSL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100050
+#EXTINF:-1,SuperSport PSL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85825
+#EXTINF:-1,SuperSport Rugby HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100041
+#EXTINF:-1,SuperSport Rugby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85826
+#EXTINF:-1,SuperSport Tennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100042
+#EXTINF:-1,SuperSport Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85827
+#EXTINF:-1,SuperSport WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85828
+#EXTINF:-1,SuperSport Variety 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100046
+#EXTINF:-1,SuperSport Variety 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85831
+#EXTINF:-1,SuperSport Variety 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100047
+#EXTINF:-1,SuperSport Variety 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85832
+#EXTINF:-1,SuperSport Variety 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/111442
+#EXTINF:-1,SuperSport Variety 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/85833
+#EXTINF:-1,SuperSport Events 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100054
+#EXTINF:-1,SuperSport Events 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/100055
+#EXTINF:-1,NBC GOLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124089
+#EXTINF:-1,NBC GOLD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124090
+#EXTINF:-1,NBC GOLD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124091
+#EXTINF:-1,NBC GOLD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124092
+#EXTINF:-1,NBC GOLD 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124093
+#EXTINF:-1,NBC GOLD 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124094
+#EXTINF:-1,NBC GOLD 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124095
+#EXTINF:-1,NBC GOLD 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124096
+#EXTINF:-1,NBC GOLD 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124097
+#EXTINF:-1,NBC GOLD 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124098
+#EXTINF:-1,NBC GOLD 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124099
+#EXTINF:-1,NBC GOLD 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124100
+#EXTINF:-1,NBC GOLD 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124101
+#EXTINF:-1,NBC GOLD 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124102
+#EXTINF:-1,NBC GOLD 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124103
+#EXTINF:-1,NBC GOLD 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124104
+#EXTINF:-1,NBC GOLD 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124105
+#EXTINF:-1,NBC GOLD 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124106
+#EXTINF:-1,NBC GOLD 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124107
+#EXTINF:-1,NBC GOLD 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124108
+#EXTINF:-1,NBC GOLD 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124109
+#EXTINF:-1,NBC GOLD 22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124110
+#EXTINF:-1,NBC GOLD 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124111
+#EXTINF:-1,NBC GOLD 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124112
+#EXTINF:-1,NBC GOLD 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124113
+#EXTINF:-1,FLOW SPORTS 24/7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124114
+#EXTINF:-1,FLOW SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124115
+#EXTINF:-1,FLOW SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124116
+#EXTINF:-1,FLOW SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124117
+#EXTINF:-1,FLOW SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124118
+#EXTINF:-1,FLOW SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124119
+#EXTINF:-1,FLOW SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124120
+#EXTINF:-1,FLOW SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124121
+#EXTINF:-1,FLOW SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124122
+#EXTINF:-1,FLOW SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124123
+#EXTINF:-1,FLOW SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124124
+#EXTINF:-1,FLOW SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124125
+#EXTINF:-1,FLOW SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124126
+#EXTINF:-1,FLOW SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124127
+#EXTINF:-1,FLOW SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124128
+#EXTINF:-1,FLOW SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124129
+#EXTINF:-1,FLOW SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124130
+#EXTINF:-1,FLOW SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124131
+#EXTINF:-1,FLOW SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124132
+#EXTINF:-1,FLOW SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124133
+#EXTINF:-1,FLOW SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124134
+#EXTINF:-1,FLOW SPORTS 24/7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124135
+#EXTINF:-1,Rugby Pass 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/190510
+#EXTINF:-1,Rugbypass 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124136
+#EXTINF:-1,Rugbypass 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124137
+#EXTINF:-1,Rugbypass 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124138
+#EXTINF:-1,Rugbypass 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124139
+#EXTINF:-1,Rugbypass 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124140
+#EXTINF:-1,Rugbypass 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124141
+#EXTINF:-1,Rugbypass 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124142
+#EXTINF:-1,Rugbypass 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124143
+#EXTINF:-1,Rugbypass 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124144
+#EXTINF:-1,Rugbypass 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124145
+#EXTINF:-1,Rugbypass 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124146
+#EXTINF:-1,Rugbypass 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124147
+#EXTINF:-1,Rugbypass 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124148
+#EXTINF:-1,Rugbypass 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124149
+#EXTINF:-1,Rugbypass 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/124150
+#EXTINF:-1,|UK| RACING UK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/75132
+#EXTINF:-1,AU Fox Sports 501 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65257
+#EXTINF:-1,AU Fox Sports 502 NRL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65258
+#EXTINF:-1,AU Fox Sports 502 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65259
+#EXTINF:-1,AU Fox Sports 503 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65260
+#EXTINF:-1,AU Fox Sports 504 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65261
+#EXTINF:-1,AU Fox Sports 504 NRL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65262
+#EXTINF:-1,AU Fox Sports 505 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65263
+#EXTINF:-1,AU Fox Sports 506 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65264
+#EXTINF:-1,AU Fox Sports 507 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/65265
+#EXTINF:-1,BT SPORT EXTRA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136348
+#EXTINF:-1,SKY SPORTS NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51071
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51061
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51062
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51063
+#EXTINF:-1,SKY SPORTS CRICKET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51064
+#EXTINF:-1,SKY SPORTS GOLF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51065
+#EXTINF:-1,SKY SPORTS F1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51066
+#EXTINF:-1,SKY SPORTS Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51067
+#EXTINF:-1,SKY SPORTS ARENA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51068
+#EXTINF:-1,SKY SPORTS RACING SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51069
+#EXTINF:-1,SKY SPORTS MIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51070
+#EXTINF:-1,BT SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51072
+#EXTINF:-1,BT SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51073
+#EXTINF:-1,BT SPORT 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51074
+#EXTINF:-1,BT SPORTS ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51075
+#EXTINF:-1,EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/51076
+#EXTINF:-1,EUROSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136358
+#EXTINF:-1,EIR SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136357
+#EXTINF:-1,EIR SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136356
+#EXTINF:-1,PREMIER SPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136359
+#EXTINF:-1,PREMIER SPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/136360
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/141066
+#EXTINF:-1,FA Player 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145515
+#EXTINF:-1,FA Player 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145516
+#EXTINF:-1,FA Player 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145517
+#EXTINF:-1,FA Player 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145518
+#EXTINF:-1,FA Player 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145519
+#EXTINF:-1,FA CUP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145520
+#EXTINF:-1,FA CUP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145521
+#EXTINF:-1,FA CUP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145522
+#EXTINF:-1,FA CUP 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145523
+#EXTINF:-1,FA CUP 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145524
+#EXTINF:-1,FA CUP 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145525
+#EXTINF:-1,FA CUP 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145526
+#EXTINF:-1,FA CUP 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145527
+#EXTINF:-1,FA CUP 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145528
+#EXTINF:-1,FA CUP 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145529
+#EXTINF:-1,FA CUP 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145530
+#EXTINF:-1,FA CUP 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145531
+#EXTINF:-1,FA CUP 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145532
+#EXTINF:-1,FA CUP 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145533
+#EXTINF:-1,FA CUP 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145534
+#EXTINF:-1,FA CUP 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145535
+#EXTINF:-1,FA CUP 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145536
+#EXTINF:-1,FA CUP 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145537
+#EXTINF:-1,FA CUP 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145538
+#EXTINF:-1,FA CUP 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pulsestreamstv.uk:8080/66666/66666/145539
