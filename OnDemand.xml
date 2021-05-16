@@ -151,7 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 </item>
 
 
-  <item>
+<item>
   <title>Daddy Live 24/7</title>
   <link>$doregex[channels]</link>
   <thumbnail>https://daddylive.co/big-daddy-logo.jpg</thumbnail>
@@ -186,74 +186,6 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   </item>
 
 
-<item>
-<title>DaddyLive Today Games</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param1][/COLOR]</title>
-  <link>$doregex[makelist2]</link>
-  <thumbnail>https://www.lf.k12.de.us/wp-content/uploads/2015/03/Sports.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,time
-def GetLSProData(page_data,Cookie_Jar,m):
-  today=time.strftime('%A %d',time.localtime());today=today+'th'
-  list=re.findall('%s(?s)(.*?)<h1'%today,page_data)[0]
-  return re.findall('<h2>.+?">([^<]+)(?s)(.*?)<p>====',list)
-]]></expres>
-<page>https://daddylive.co/index.php</page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-  <title>[COLOR dodgerblue]([makelist2.param1]) [COLOR gold][makelist2.param3][/COLOR] - [makelist2.param2]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>https://www.lf.k12.de.us/wp-content/uploads/2015/03/Sports.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,time
-def GetLSProData(page_data,Cookie_Jar,m):
-  gtime=re.findall('(\d+:\d+)',page_data)
-  for t in gtime:
-    localtime=int(t[:-3])  #  Subtract 6 from GMT +1. My is Eastern Time Zone
-    if localtime > 24:
-      localtime -=24
-    if localtime < 1:
-      localtime +=24
-    lctime=str(localtime)+t[2:]
-    lctime=lctime.zfill(5)
-    page_data=page_data.replace(t,lctime)
-  return re.findall('(\d+:\d+)\s*(.+?)\s*:\s*([^<]+).+?href="([^"]+)',page_data)
-]]></expres>
-<page>[makelist.param2]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-from urlresolver.plugins.lib import jsunpack
-def GetLSProData(page_data,Cookie_Jar,m):
-  link=re.findall('<iframe\s*src="(.*?embed[^"]+)',page_data)[0]
-  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist2.param4]','accept':'*/*'}).content
-  source=jsunpack.unpack(re.findall('(eval.*m3u8.*)',source)[0]).replace('\\', '')
-  return re.findall('Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+link
-]]></expres>
-<page>[makelist2.param4]</page>
-<referer>https://daddylive.co/index.php</referer>
-</regex>
-<thumbnail>https://www.lf.k12.de.us/wp-content/uploads/2015/03/Sports.png</thumbnail>
-</item>
-
-
-
-
-<item>
-    <title>Films [COLOR blue][B]Colossus[/B][/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://colussus.net/document/movies2019.xml</externallink>
-</item>
 
 
 <item>
@@ -262,30 +194,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-	<title>[COLOR lime][B]CLM[/B][/COLOR]-[COLOR blue][B]Test[/B][/COLOR]:[COLOR white][B]telefoot[/B][/COLOR]</title>
-	<link>$doregex[get_sxstream]|Referer=http://streaming-sport.tv/chaine/c31/</link>
-	<regex>
-	<name>get_sxstream</name>
-	<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-	<page>http://streaming-sport.tv/chaine/c31/</page>
-	<referer>http://streaming-sport.tv/chaine/c31/</referer>
-	</regex>
-</item>
-
-
-<item>
-	<title>[COLOR lime][B]CLM[/B][/COLOR]-[COLOR blue][B]Test[/B][/COLOR]:[COLOR white][B]telefoot[/B][/COLOR]</title>
-	<link>$doregex[get_sxstream]|Referer=http://streaming-sport.tv/chaine/c31/</link>
-	<regex>
-	<name>get_sxstream</name>
-	<expres>url:.*[",'](.*m3u8.*?)[",']</expres>
-	<page>http://csport.xyz/t/1/51.php</page>
-	<referer>https://telerium.live/embed/63700.html</referer>
-	</regex>
-</item>
-
 
 
 
