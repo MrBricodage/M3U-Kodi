@@ -93,7 +93,7 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
  -->
 
 <item>
-<title>https://daddylive.live/index.php</title>
+<title>https://daddylive.co/index.php</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   list=re.findall('<h1.+?%s(?s)(.*?)<(?:h1|script)'%today,page_data)[0].replace('&Atilde;','Ã').replace('&atilde;','ã').replace('&Ouml;','Ö').replace('&ouml;','ö').replace('&Euml;','Ë').replace('&euml;','ë').replace('&ntilde;','ñ').replace('&Uacute;','Ú').replace('&uacute;','ú').replace('&Uuml;','Ü').replace('&uuml;','ü').replace('&acute;','\'').replace('&Eacute;','É').replace('&eacute;','é').replace('&Oacute;','Ó').replace('&oacute;','ó')
   return re.findall('<h2><strong><.+?>([^<]+)(?s)(.*?)\W</p',list)
 ]]></expres>
-<page>https://daddylive.live/index.php</page>
+<page>https://daddylive.co/index.php</page>
 </regex>
 <regex>
 <name>makelist2</name>
@@ -146,7 +146,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   return re.findall('Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+link
 ]]></expres>
 <page>[makelist2.param3]</page>
-<referer>https://daddylive.live/index.php</referer>
+<referer>https://daddylive.co/index.php</referer>
 </regex>
 </item>
 
