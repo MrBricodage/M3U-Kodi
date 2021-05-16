@@ -151,6 +151,40 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 </item>
 
 
+  <item>
+  <title>Daddy Live</title>
+  <link>$doregex[channels]</link>
+  <thumbnail>https://daddylive.co/big-daddy-logo.jpg</thumbnail>
+    <regex>
+      <name>channels</name>
+      <listrepeat><![CDATA[
+        <title>[COLOR gold][channels.param3][/COLOR]</title>
+        <link>$doregex[url]|User-Agent=iPad</link>
+        <thumbnail>https://daddylive.co[channels.param2]</thumbnail>
+      ]]></listrepeat>
+      <expres>(?s)class="gallery".+?href="([^"]+).+?src="([^"]+).+?desc".([\w\.\s]*)</expres>
+      <page>https://daddylive.co/24-hours-channels.php</page>
+      <referer>https://daddylive.co/</referer>
+    </regex>
+    <regex>
+      <name>url</name>
+      <expres>source:\s*"([^"]+)</expres>
+      <page>$doregex[unpack]</page>
+    </regex>
+    <regex>
+      <name>unpack</name>
+      <expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
+      <page>$doregex[url2]</page>
+      <referer>https://daddylive.co/</referer>
+    </regex>
+    <regex>
+      <name>url2</name>
+      <expres>iframe\s*src="([^"]+)</expres>
+      <page>https://daddylive.co[channels.param1]</page>
+      <referer>https://daddylive.co/</referer>
+    </regex>
+  </item>
+
 
 <item>
     <title>Films [COLOR blue][B]Colossus[/B][/COLOR]</title>
