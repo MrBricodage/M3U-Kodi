@@ -93,6 +93,19 @@ Uniquement le titre à MAJ chaque jour à partir de http://nbastreams.xyz/, le f
  -->
 
 <item>
+<title>[COLOR white][B]ATP French Open Roland Garros[/B][/COLOR] [COLOR orange][B]Eurosport 1 UK daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium41&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>https://daddylive.co/index.php</title>
 <link>$doregex[makelist]</link>
 <regex>
